@@ -1,4 +1,4 @@
-from fastapi import FastAPI, UploadFile, File
+from fastapi import FastAPI, UploadFile, File, Form
 from fastapi.responses import FileResponse
 from fastapi.middleware.cors import CORSMiddleware
 from knowledge_graph.math.graph import math_test, create_kg_math, driver_math, DATABASE as database_math, TOPIC_IDX
@@ -26,7 +26,12 @@ def startup_event():
     
 
 @app.post("/math")
-async def generate_math(course: int = 2120114, name: str = "Quiz", grade: int = 10, file: UploadFile = File(...)):
+async def generate_math(
+    course: int = Form(2120114),
+    name: str = Form("Quiz"),
+    grade: int = Form(10),
+    file: UploadFile = File(...)
+):
     if not file.filename.endswith(".csv"):
         return {"error": "File must be a CSV"}
     df = pd.read_csv(file.file, encoding="utf-8", on_bad_lines="skip")
