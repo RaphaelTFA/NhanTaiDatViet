@@ -28,7 +28,7 @@ def startup_event():
 @app.post("/math")
 async def generate_math(
     course: int = Form(...),
-    name: str = Form("Test_quiz"...),
+    name: str = Form("Test_quiz"),
     grade: int = Form(...),
     file: UploadFile = File(...)
 ):
