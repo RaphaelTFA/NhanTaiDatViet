@@ -2,5 +2,8 @@ __pycache__/
 config.py
 english/
 technology/
+response.txt
+full_response.txt
+prompt.txt
 sample.csv
 main.py
