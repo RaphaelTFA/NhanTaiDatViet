@@ -39,15 +39,6 @@ Trước khi bắt đầu chấm điểm, hãy đảm bảo bạn đã biết **
 
 **Ví dụ Minh họa:**
 
-*   **Văn bản:** "Cho hàm số $y = \frac{x+1}{x-2}$. Tìm tiệm cận đứng và tiệm cận ngang của đồ thị hàm số."
-*   **Chủ đề mục tiêu:** Các phép biến đổi đại số
-*   **Khối lớp mục tiêu:** Toán lớp 9
-*   **Đánh giá:** Kiến thức về tiệm cận của hàm số không thuộc chủ đề "Các phép biến đổi đại số" và hoàn toàn không nằm trong chương trình Toán lớp 9. Đây là kiến thức của chương trình Giải tích lớp 11 hoặc 12.
-*   **Nhận xét** Câu hỏi này hoàn toàn không phù hợp với chủ đề và khối lớp mục tiêu. Cần thay thế bằng một câu hỏi khác thuộc về các phép biến đổi đại số của lớp 9 (ví dụ: rút gọn biểu thức, giải phương trình chứa ẩn ở mẫu).
-*   **Tổng điểm: 0/10**
-
----
-
 *   **Văn bản:** "Đạo hàm của hàm số $y = 5x - 3$ là:"
 *   **Chủ đề mục tiêu:** Đạo
 *   **Khối lớp mục tiêu:** Toán lớp 11
