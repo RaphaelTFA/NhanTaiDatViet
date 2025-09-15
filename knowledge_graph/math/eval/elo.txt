@@ -48,18 +48,18 @@ Trước khi bắt đầu chấm điểm, hãy đảm bảo bạn đã biết **
 
 ---
 
-*   **Văn bản:** "Giải phương trình: $3x + 5 = 11$."
-*   **Chủ đề mục tiêu:** Phương trình bậc nhất một ẩn
-*   **Khối lớp mục tiêu:** Toán lớp 8
-*   **Đánh giá:** Câu hỏi này trực tiếp yêu cầu giải một phương trình bậc nhất một ẩn cơ bản, hoàn toàn nằm trong chương trình và kiến thức trọng tâm của Toán lớp 8 về chủ đề này.
+*   **Văn bản:** "Đạo hàm của hàm số $y = 5x - 3$ là:"
+*   **Chủ đề mục tiêu:** Đạo
+*   **Khối lớp mục tiêu:** Toán lớp 11
+*   **Đánh giá:** Câu hỏi này trực tiếp yêu cầu tính đạo hàm
 *   **Nhận xét** Câu này quá dễ, học sinh có thể làm trực tiếp
 *   **Tổng điểm: 2/10**
 
 ---
 
-**THÔNG TIN CÂU HỎI CẦN ĐƯỢC CHẤM:**
-*   **Khối học**:
-*   **Chủ đề**:
-*   **Câu hỏi**:
-
----
+*   **Văn bản:** "Cho hàm số $g(x) = \frac{\ln(x^2 + ax + 1)}{x^2 + 1}$ với $a$ là tham số và $x > 0$. Biết rằng $g'(1) = \frac{1}{4}$ và hàm số $h(x) = x^2 + ax + 1$ có giá trị nhỏ nhất bằng $\frac{3}{4}$. Tính tích phân $I = \int_0^2 g(x)dx$ làm tròn đến hàng phần nghìn."
+*   **Chủ đề mục tiêu:** Đạo hàm
+*   **Khối lớp mục tiêu:** Toán lớp 11
+*   **Đánh giá:** Bài toán thuộc phần vận dụng cao, tuy nhiên cũng có thể khó hơn
+*   **Nhận xét** Câu này đủ khó để làm chậm nhịp độ học sinh
+*   **Tổng điểm: 8/10**
