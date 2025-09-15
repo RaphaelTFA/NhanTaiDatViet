@@ -63,7 +63,3 @@ async def generate_math(
         qtifile = math_transfer()
         math_import_qti(qtifile = qtifile, course_id = str(course), name = name, score = sum / cnt, grade = str(grade))
     return FileResponse(txt_filename, media_type='text/plain', filename="response.txt")
-
-# cd code\NhanTaiDatViet
-# uvicorn MCP_server:app --reload --host 127.0.0.1 --port 8000
-# server: 127.0.0.1:8000/docs
