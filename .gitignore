@@ -2,5 +2,5 @@ __pycache__/
 config.py
 english/
 technology/
-sample.py
+sample.csv
 main.py
