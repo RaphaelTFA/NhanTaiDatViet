@@ -42,7 +42,6 @@ async def generate_math(
     with open(txt_filename, "w", encoding="utf-8") as f:
         f.write("")
     sum, cnt = 0, 0
-    print("------------------------------------------------------")
     with open(txt_filename, "a", encoding="utf-8") as f:
         for row in df.itertuples(index=False):  
             try:
@@ -53,8 +52,8 @@ async def generate_math(
                     question=row.question,
                     n=int(row.n)
                 )
-                sum += score
-                cnt += 1
+                sum += score * (row.n)
+                cnt += int(row.n)
             except KeyError as e:
                 return {"error": f"Invalid topic or grade: {e}"}
             except Exception as e:

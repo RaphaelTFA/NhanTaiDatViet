@@ -52,8 +52,8 @@ Trước khi bắt đầu chấm điểm, hãy đảm bảo bạn đã biết **
 *   **Chủ đề mục tiêu:** Phương trình bậc nhất một ẩn
 *   **Khối lớp mục tiêu:** Toán lớp 8
 *   **Đánh giá:** Câu hỏi này trực tiếp yêu cầu giải một phương trình bậc nhất một ẩn cơ bản, hoàn toàn nằm trong chương trình và kiến thức trọng tâm của Toán lớp 8 về chủ đề này.
-*   **Nhận xét** Câu hỏi rất phù hợp, đúng trọng tâm và đúng khối lớp. Rõ ràng và dễ hiểu.
-*   **Tổng điểm: 9.8/10**
+*   **Nhận xét** Câu này quá dễ, học sinh có thể làm trực tiếp
+*   **Tổng điểm: 2/10**
 
 ---
 
