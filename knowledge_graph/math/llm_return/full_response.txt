@@ -1,0 +1,180 @@
+1. Đạo hàm của hàm số $y = f(x)$ tại điểm $x_0$ được định nghĩa bởi công thức nào sau đây?
+... Gợi ý: Sử dụng định nghĩa đạo hàm với giới hạn của tỉ số gia.
++   Phản hồi đúng: Chính xác! Đây là định nghĩa chính thức của đạo hàm tại một điểm, sử dụng giới hạn của tỉ số gia.
+-   Phản hồi sai: Cần nhớ công thức định nghĩa đạo hàm: $f'(x_0) = \lim_{h \to 0} \frac{f(x_0 + h) - f(x_0)}{h}$.
+a) $f'(x_0) = \frac{f(x_0 + h) - f(x_0)}{h}$
+b) $f'(x_0) = \lim_{h \to 0} \frac{f(x_0 + h) + f(x_0)}{h}$
+*c) $f'(x_0) = \lim_{h \to 0} \frac{f(x_0 + h) - f(x_0)}{h}$
+d) $f'(x_0) = f(x_0 + h) - f(x_0)$
+
+2. Đạo hàm của hàm số $y = x^5$ là:
+... Gợi ý: Áp dụng công thức đạo hàm của hàm số lũy thừa $(x^n)' = nx^{n-1}$.
++   Phản hồi đúng: Chính xác! Sử dụng công thức $(x^n)' = nx^{n-1}$ với $n = 5$, ta được $y' = 5x^4$.
+-   Phản hồi sai: Nhớ công thức đạo hàm của lũy thừa: $(x^n)' = nx^{n-1}$.
+a) $y' = x^4$
+*b) $y' = 5x^4$
+c) $y' = 5x^5$
+d) $y' = x^5$
+
+3. Quy tắc tính đạo hàm của tích $(uv)'$ là:
+... Gợi ý: Đây là một trong những quy tắc cơ bản nhất của đạo hàm.
++   Phản hồi đúng: Chính xác! Quy tắc Leibniz cho đạo hàm của tích: $(uv)' = u'v + uv'$.
+-   Phản hồi sai: Cần nhớ quy tắc đạo hàm của tích: $(uv)' = u'v + uv'$.
+a) $(uv)' = u'v'$
+*b) $(uv)' = u'v + uv'$
+c) $(uv)' = u'v - uv'$
+d) $(uv)' = (u' + v')(u + v)$
+
+4. Đạo hàm của hàm số $y = 2x + 5$ là:
+... Gợi ý: Đạo hàm của hàm bậc nhất có dạng $y = ax + b$ là hằng số $a$.
++   Phản hồi đúng: Chính xác! Đạo hàm của hàm bậc nhất $y = ax + b$ là $y' = a$, do đó $y' = 2$.
+-   Phản hồi sai: Đạo hàm của $ax + b$ là $a$, và đạo hàm của hằng số bằng 0.
+*a) $y' = 2$
+b) $y' = 2x$
+c) $y' = 5$
+d) $y' = 2x + 5$
+
+5. Đạo hàm của hàm số hằng $y = 7$ là:
+... Gợi ý: Hàm số hằng có đồ thị là đường thẳng ngang, độ dốc bằng 0.
++   Phản hồi đúng: Chính xác! Đạo hàm của mọi hàm số hằng đều bằng 0.
+-   Phản hồi sai: Đạo hàm của hàm số hằng luôn bằng 0 vì hàm không thay đổi.
+*a) $y' = 0$
+b) $y' = 7$
+c) $y' = 1$
+d) $y' = x$
+
+6. Đạo hàm của hàm số $y = x^3$ tại $x = 2$ bằng:
+... Gợi ý: Tính đạo hàm $y' = 3x^2$ rồi thay $x = 2$.
++   Phản hồi đúng: Chính xác! $y' = 3x^2$, tại $x = 2$ ta có $y'(2) = 3 \cdot 2^2 = 12$.
+-   Phản hồi sai: Cần tính đạo hàm trước: $y' = 3x^2$, sau đó thay $x = 2$.
+a) $8$
+*b) $12$
+c) $6$
+d) $3$
+
+7. Quy tắc tính đạo hàm của tổng $(u + v)'$ là:
+... Gợi ý: Đạo hàm của tổng bằng tổng các đạo hàm.
++   Phản hồi đúng: Chính xác! Đạo hàm của tổng bằng tổng các đạo hàm từng phần.
+-   Phản hồi sai: Quy tắc đạo hàm của tổng: $(u + v)' = u' + v'$.
+*a) $(u + v)' = u' + v'$
+b) $(u + v)' = u'v'$
+c) $(u + v)' = u' - v'$
+d) $(u + v)' = (u' + v')(u + v)$
+
+8. Đạo hàm của hàm số $y = 3x^2 - 2x + 1$ là:
+... Gợi ý: Áp dụng quy tắc đạo hàm của tổng và công thức đạo hàm cơ bản.
++   Phản hồi đúng: Chính xác! Áp dụng quy tắc tổng: $(3x^2)' - (2x)' + (1)' = 6x - 2 + 0 = 6x - 2$.
+-   Phản hồi sai: Tính từng phần: $(3x^2)' = 6x$, $(2x)' = 2$, $(1)' = 0$.
+*a) $y' = 6x - 2$
+b) $y' = 6x + 2$
+c) $y' = 3x - 2$
+d) $y' = 6x^2 - 2x$
+
+9. Đạo hàm của hàm số $y = \sqrt{x}$ là:
+... Gợi ý: Viết $\sqrt{x} = x^{1/2}$ và áp dụng công thức đạo hàm lũy thừa.
++   Phản hồi đúng: Chính xác! $(\sqrt{x})' = (x^{1/2})' = \frac{1}{2}x^{-1/2} = \frac{1}{2\sqrt{x}}$.
+-   Phản hồi sai: Viết $\sqrt{x} = x^{1/2}$ rồi áp dụng $(x^n)' = nx^{n-1}$.
+a) $y' = \frac{1}{\sqrt{x}}$
+*b) $y' = \frac{1}{2\sqrt{x}}$
+c) $y' = 2\sqrt{x}$
+d) $y' = \sqrt{x}$
+
+10. Ý nghĩa hình học của đạo hàm $f'(x_0)$ là:
+... Gợi ý: Đạo hàm tại một điểm liên quan đến độ dốc của tiếp tuyến.
++   Phản hồi đúng: Chính xác! Đạo hàm tại một điểm chính là hệ số góc của tiếp tuyến với đồ thị hàm số tại điểm đó.
+-   Phản hồi sai: Đạo hàm tại một điểm biểu thị độ dốc (hệ số góc) của tiếp tuyến.
+a) Diện tích dưới đồ thị hàm số
+b) Tung độ của điểm trên đồ thị
+*c) Hệ số góc của tiếp tuyến tại điểm đó
+d) Khoảng cách từ điểm đến trục hoành
+
+11. Đạo hàm của hàm số $y = x^2$ là:
+... Gợi ý: Sử dụng công thức $(x^n)' = nx^{n-1}$ với $n = 2$.
++   Phản hồi đúng: Chính xác! Áp dụng công thức đạo hàm lũy thừa: $(x^2)' = 2x^{2-1} = 2x$.
+-   Phản hồi sai: Sử dụng công thức $(x^n)' = nx^{n-1}$ với $n = 2$.
+a) $y' = x$
+*b) $y' = 2x$
+c) $y' = x^2$
+d) $y' = 2x^2$
+
+12. Quy tắc tính đạo hàm của thương $\left(\frac{u}{v}\right)'$ là:
+... Gợi ý: Đây là quy tắc phức tạp nhất trong ba quy tắc cơ bản.
++   Phản hồi đúng: Chính xác! Quy tắc đạo hàm của thương: $\left(\frac{u}{v}\right)' = \frac{u'v - uv'}{v^2}$.
+-   Phản hồi sai: Cần nhớ quy tắc đạo hàm thương: $\left(\frac{u}{v}\right)' = \frac{u'v - uv'}{v^2}$.
+a) $\left(\frac{u}{v}\right)' = \frac{u'}{v'}$
+b) $\left(\frac{u}{v}\right)' = \frac{u'v + uv'}{v^2}$
+*c) $\left(\frac{u}{v}\right)' = \frac{u'v - uv'}{v^2}$
+d) $\left(\frac{u}{v}\right)' = \frac{u' - v'}{v}$
+
+13. Đạo hàm của hàm số $y = 4x^3$ là:
+... Gợi ý: Sử dụng quy tắc nhân với hằng số và công thức đạo hàm lũy thừa.
++   Phản hồi đúng: Chính xác! $(4x^3)' = 4 \cdot (x^3)' = 4 \cdot 3x^2 = 12x^2$.
+-   Phản hồi sai: Đạo hàm của $kf(x)$ là $kf'(x)$, với $(x^3)' = 3x^2$.
+a) $y' = 4x^2$
+*b) $y' = 12x^2$
+c) $y' = 12x^3$
+d) $y' = 3x^2$
+
+14. Đạo hàm của hàm số $y = \frac{1}{x}$ là:
+... Gợi ý: Viết $\frac{1}{x} = x^{-1}$ và áp dụng công thức đạo hàm lũy thừa.
++   Phản hồi đúng: Chính xác! $\left(\frac{1}{x}\right)' = (x^{-1})' = -1 \cdot x^{-2} = -\frac{1}{x^2}$.
+-   Phản hồi sai: Viết $\frac{1}{x} = x^{-1}$ rồi áp dụng $(x^n)' = nx^{n-1}$.
+a) $y' = \frac{1}{x^2}$
+*b) $y' = -\frac{1}{x^2}$
+c) $y' = -\frac{1}{x}$
+d) $y' = x^2$
+
+15. Đạo hàm của hàm số $y = x^4 + 2x$ là:
+... Gợi ý: Áp dụng quy tắc đạo hàm của tổng cho từng số hạng.
++   Phản hồi đúng: Chính xác! $(x^4 + 2x)' = (x^4)' + (2x)' = 4x^3 + 2$.
+-   Phản hồi sai: Tính đạo hàm từng phần: $(x^4)' = 4x^3$ và $(2x)' = 2$.
+*a) $y' = 4x^3 + 2$
+b) $y' = 4x^3 + 2x$
+c) $y' = x^3 + 2$
+d) $y' = 4x^4 + 2x$
+
+16. Nếu hàm số $f(x)$ có đạo hàm tại $x_0$ thì hàm số đó:
+... Gợi ý: Tính khả vi và tính liên tục có mối quan hệ đặc biệt.
++   Phản hồi đúng: Chính xác! Nếu hàm số có đạo hàm tại một điểm thì nó liên tục tại điểm đó.
+-   Phản hồi sai: Đây là định lý quan trọng: khả vi tại một điểm kéo theo liên tục tại điểm đó.
+a) Không liên tục tại $x_0$
+*b) Liên tục tại $x_0$
+c) Có giá trị lớn nhất
+d) Bằng 0 tại $x_0$
+
+17. Đạo hàm của hàm số $y = 5x - 3$ là:
+... Gợi ý: Đây là hàm bậc nhất với hệ số góc là 5.
++   Phản hồi đúng: Chính xác! Đạo hàm của hàm bậc nhất $y = ax + b$ là $y' = a$.
+-   Phản hồi sai: Đạo hàm của $(5x)' = 5$ và đạo hàm của hằng số bằng 0.
+*a) $y' = 5$
+b) $y' = 5x$
+c) $y' = -3$
+d) $y' = 5x - 3$
+
+18. Đạo hàm của hàm số $y = x$ là:
+... Gợi ý: Đây là trường hợp đặc biệt của $(x^n)'$ với $n = 1$.
++   Phản hồi đúng: Chính xác! $(x)' = (x^1)' = 1 \cdot x^{1-1} = 1 \cdot x^0 = 1$.
+-   Phản hồi sai: Sử dụng công thức $(x^n)' = nx^{n-1}$ với $n = 1$.
+a) $y' = 0$
+*b) $y' = 1$
+c) $y' = x$
+d) $y' = 2x$
+
+19. Đạo hàm của hàm số $y = x^2 + 3$ tại $x = 1$ bằng:
+... Gợi ý: Tính đạo hàm $y' = 2x$ rồi thay $x = 1$.
++   Phản hồi đúng: Chính xác! $y' = 2x + 0 = 2x$, tại $x = 1$ ta có $y'(1) = 2 \cdot 1 = 2$.
+-   Phản hồi sai: Tính đạo hàm: $(x^2)' + (3)' = 2x + 0 = 2x$, rồi thay $x = 1$.
+a) $1$
+*b) $2$
+c) $3$
+d) $4$
+
+20. Trong ký hiệu đạo hàm, $f'(x)$ có thể viết dưới dạng nào sau đây?
+... Gợi ý: Có nhiều cách ký hiệu đạo hàm trong toán học.
++   Phản hồi đúng: Chính xác! $\frac{dy}{dx}$ là ký hiệu Leibniz cho đạo hàm, tương đương với $f'(x)$.
+-   Phản hồi sai: Đây là các ký hiệu khác nhau cho đạo hàm: $f'(x)$, $\frac{df}{dx}$, $\frac{dy}{dx}$.
+a) $\frac{dx}{dy}$
+*b) $\frac{dy}{dx}$
+c) $f(x) + dx$
+d) $\Delta y$
+

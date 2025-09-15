@@ -2,6 +2,5 @@ __pycache__/
 config.py
 english/
 technology/
-llm_return/
 sample.csv
 main.py
