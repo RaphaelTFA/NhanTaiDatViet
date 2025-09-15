@@ -13,7 +13,7 @@
 
 **Bước 3:**
 
-*   Chạy *main.py*, sau đó truy cập vào *127.0.0.1:8000/docs* để test query
+*   Chạy *main.py*, sau đó truy cập vào ``127.0.0.1:8000/docs`` để test query
 
 ------------------
 
