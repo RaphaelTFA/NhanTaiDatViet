@@ -1,0 +1,114 @@
+```
+# HƯỚNG DẪN SINH CÂU HỎI VẬN DỤNG CAO
+## Chủ đề: Các số đặc trưng của mẫu số liệu không ghép nhóm - Lớp 10
+
+### I. ĐỊNH NGHĨA VẬN DỤNG CAO CHO CHỦ ĐỀ NÀY
+Câu hỏi Vận dụng cao phải đạt TẤT CẢ các yêu cầu:
+- **Phân tích đa chiều:** Kết hợp ≥4 số đặc trưng để đưa ra nhận định về bản chất phân phối
+- **Tư duy phản biện:** Đánh giá độ tin cậy, phát hiện bất thường, xem xét các yếu tố ảnh hưởng
+- **Dự báo và quyết định:** Sử dụng phân tích để dự đoán xu hướng hoặc đưa ra quyết định trong điều kiện bất định
+- **Tích hợp kiến thức:** Liên kết với xác suất, quy luật phân phối, hoặc ứng dụng thống kê nâng cao
+
+### II. CẤU TRÚC BẮT BUỘC CHO VẬN DỤNG CAO
+
+#### **GIAI ĐOẠN 1: Bối cảnh có tính bất định cao**
+- 2-3 bộ dữ liệu với đặc điểm phân phối khác biệt rõ rệt
+- Mỗi bộ 18-24 số liệu có chứa outliers hoặc pattern đặc biệt
+- Bối cảnh: quyết định trong điều kiện thiếu thông tin hoặc có rủi ro
+
+#### **GIAI ĐOẠN 2: Phân tích sâu (3 tầng)**
+**Tầng 1 - Mô tả:** Tính đầy đủ mean, median, mode, Q1, Q3, std, range
+**Tầng 2 - Phân tích bản chất:** 
+- Đánh giá tính đối xứng và độ lệch của phân phối
+- Phát hiện và giải thích outliers (dùng IQR rule + phân tích nguyên nhân)
+- So sánh mức độ tập trung vs phân tán giữa các nhóm
+**Tầng 3 - Tổng hợp:** Dự đoán xu hướng tương lai hoặc đánh giá độ tin cậy
+
+#### **GIAI ĐOẠN 3: Ra quyết định phức tạp**
+- Cân nhắc ít nhất 2 tiêu chí trái ngược nhau (ví dụ: hiệu quả vs ổn định)
+- Đưa ra ngưỡng/tiêu chuẩn dựa trên phân tích thống kê
+- Ước tính xác suất thành công/thất bại của quyết định
+
+### III. TEMPLATE SINH CÂU HỎI VẬN DỤNG CAO
+
+**Khung bối cảnh bất định:**
+"[Tổ chức] đang phải quyết định trong tình huống [mô tả sự bất định/rủi ro]. Dữ liệu thu thập được từ 3 nguồn/phương án khác nhau, nhưng mỗi nguồn có những hạn chế riêng:
+
+Phương án A: [18-24 số liệu - high variance, có outliers]
+Phương án B: [18-24 số liệu - moderate variance, symmetric]  
+Phương án C: [18-24 số liệu - low variance, skewed]
+
+**Điều kiện đặc biệt:** [Thêm yếu tố bất định như: ngân sách hạn chế, thời gian gấp, hoặc tiêu chí mâu thuẫn]"
+
+**Câu hỏi vận dụng cao:**
+
+**a) Phân tích toàn diện:** (30% điểm)
+- Tính và so sánh đầy đủ các số đặc trưng cho cả 3 phương án
+- Vẽ box-plot hoặc mô tả phân phối của từng nhóm
+- Xác định và giải thích các outliers (nếu có)
+
+**b) Đánh giá chuyên sâu:** (40% điểm)
+- Phân tích độ tin cậy của từng bộ dữ liệu dựa trên CV (coefficient of variation)
+- Đánh giá rủi ro: Tính tỷ lệ số liệu nằm ngoài khoảng [mean ± 2×std]
+- So sánh khả năng dự đoán: Phương án nào có phân phối ổn định nhất?
+
+**c) Quyết định chiến lược:** (30% điểm)
+- Nếu ưu tiên [tiêu chí 1] vs [tiêu chí 2], hãy xếp hạng 3 phương án và giải thích
+- Đề xuất ngưỡng chấp nhận rủi ro dựa trên Q1 hoặc percentile thứ 25
+- Dự đoán: Nếu xu hướng hiện tại tiếp diễn, phương án nào có khả năng đạt mục tiêu [cụ thể] cao nhất?
+
+### IV. CÁC PATTERN DỮ LIỆU CHO VẬN DỤNG CAO
+
+**Pattern A - High Risk-High Return:**
+- Mean cao, std lớn (CV > 20%)
+- 2-3 outliers ở phía trên
+- Right-skewed distribution
+
+**Pattern B - Balanced:**
+- Mean trung bình, std vừa phải (CV = 10-15%)
+- Symmetric hoặc slight skew
+- Ít outliers
+
+**Pattern C - Conservative:**
+- Mean thấp hơn, std nhỏ (CV < 10%)
+- Left-skewed hoặc uniform
+- Không có outliers rõ rệt
+
+### V. TÌNH HUỐNG ỨNG DỤNG VẬN DỤNG CAO
+
+1. **Quản lý đầu tư:** Chọn danh mục trong thị trường biến động, cân nhắc thanh khoản
+2. **Kiểm soát chất lượng:** Quyết định nhà cung cấp khi có sự cố về an toàn
+3. **Nhân sự:** Chọn phương pháp đánh giá hiệu suất trong môi trường đa văn hóa
+4. **Y tế công cộng:** Phân bổ tài nguyên y tế trong tình huống khẩn cấp
+5. **Nông nghiệp:** Lựa chọn giống cây trồng khi biến đổi khí hậu
+
+### VI. TIÊU CHÍ ĐÁNH GIÁ VẬN DỤNG CAO
+
+**✓ Tính phức tạp nhận thức:**
+- [ ] Cần tích hợp ≥3 lớp tư duy (tính toán → phân tích → quyết định)
+- [ ] Có yếu tố bất định hoặc thông tin không hoàn chỉnh  
+- [ ] Yêu cầu cân nhắc trade-off giữa các tiêu chí
+
+**✓ Tính ứng dụng cao:**
+- [ ] Kết nối với tình huống thực tế phức tạp
+- [ ] Quyết định có tác động đa chiều
+- [ ] Cần dự đoán hoặc đánh giá rủi ro
+
+**✓ Độ sâu phân tích:**
+- [ ] Không chỉ tính toán mà phải giải thích ý nghĩa
+- [ ] Phát hiện được các pattern ẩn trong dữ liệu
+- [ ] Đưa ra được khuyến nghị có căn cứ khoa học
+
+### VII. LƯU Ý THIẾT KẾ
+
+**BẮT BUỘC có:**
+- Ít nhất 1 câu yêu cầu đánh giá độ tin cậy/rủi ro
+- Ít nhất 1 câu yêu cầu dự đoán/khuyến nghị
+- Bối cảnh có tính thời sự và thực tế cao
+
+**TUYỆT ĐỐI tránh:**
+- Câu hỏi thuần túy tính toán mà không cần phân tích
+- Các số đặc trưng tách biệt, không phục vụ mục đích chung
+- Quyết định đơn giản chỉ dựa trên 1-2 chỉ số
+- Thiếu yếu tố bất định hoặc tình huống quá lý tưởng
+```

@@ -380,7 +380,7 @@ def math_test(topic: str = "", grade: int = 11, difficulty: str = "Vận dụng"
     evaluate_concept(concept_path, make_tempfile_with(response_text), grade, topic)
     score = evaluate_elo(make_tempfile_with(response_text), grade, topic)
     save_generated_question(grade, topic, difficulty, response_text)
-    with open("knowledge_graph\math\llm_return\response.txt", "w", encoding="utf-8") as f:
+    with open("knowledge_graph/math/llm_return/response.txt", "w", encoding="utf-8") as f:
         f.write(str(response_text))
     return response_text, score
 

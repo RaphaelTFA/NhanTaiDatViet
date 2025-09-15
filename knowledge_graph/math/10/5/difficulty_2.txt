@@ -1,137 +1,170 @@
 ```
-# HƯỚNG DẪN SINH ĐỀ: CÁC SỐ ĐẶC TRƯNG CỦA MẪU SỐ LIỆU KHÔNG GHÉP NHÓM - MỨC THÔNG HIỂU
+# HƯỚNG DẪN SINH CÂU HỎI: CÁC SỐ ĐẶC TRƯNG CỦA MẪU SỐ LIỆU KHÔNG GHÉP NHÓM - MỨC THÔNG HIỂU
 
-## I. KIẾN THỨC CẦN NẮM
+## I. ĐỊNH NGHĨA MỨC ĐỘ THÔNG HIỂU
 
-### Các số đặc trưng cơ bản:
-- **Số trung bình cộng**: $\overline{x} = \frac{x_1 + x_2 + ... + x_n}{n}$
-- **Trung vị (Me)**: Giá trị ở giữa khi sắp xếp theo thứ tự
-- **Mốt (Mo)**: Giá trị xuất hiện nhiều nhất
-- **Khoảng biến thiên**: R = Max - Min
+### Đặc trưng nhận biết mức Thông hiểu:
+- **Hiểu và áp dụng công thức** vào tình huống cụ thể
+- **Thực hiện các bước tính toán** có hệ thống
+- **Chuyển đổi dữ liệu** giữa các dạng biểu diễn
+- **Giải thích ý nghĩa** của kết quả trong ngữ cảnh
 
-## II. NGUYÊN TẮC SINH ĐỀ MỨC THÔNG HIỂU
+### Phân biệt với các mức khác:
+- **Nhận biết**: Chỉ nhớ công thức, định nghĩa
+- **Vận dụng**: So sánh, phân tích mối quan hệ giữa các số đặc trưng
+- **Vận dụng cao**: Tổng hợp, đánh giá, dự đoán xu hướng
 
-### Đặc điểm câu hỏi mức Thông hiểu:
-- **Áp dụng trực tiếp công thức** với dữ liệu đã cho
-- **Tính toán đơn giản**, tối đa 2 bước
-- **Không yêu cầu so sánh phức tạp** hoặc phân tích sâu
-- **Dữ liệu nhỏ, dễ tính** (5-7 giá trị)
+## II. KIẾN THỨC TRỌNG TÂM
 
-### Tránh các yếu tố sau (thuộc mức cao hơn):
-- So sánh nhiều số đặc trưng
-- Phân tích ảnh hưởng khi thay đổi dữ liệu
-- Nhận xét về ý nghĩa thực tế phức tạp
-- Tính phương sai và độ lệch chuẩn
-- Tứ phân vị
+### Các số đặc trưng bắt buộc:
+1. **Số trung bình**: $\overline{x} = \frac{x_1 + x_2 + ... + x_n}{n}$ hoặc $\overline{x} = \frac{\sum_{i=1}^{k} x_i \cdot n_i}{N}$
+2. **Trung vị (Me)**: Giá trị chính giữa khi sắp xếp tăng dần
+3. **Mốt (Mo)**: Giá trị có tần số cao nhất
+4. **Khoảng biến thiên**: R = x_max - x_min
 
-## III. CÁC DẠNG BÀI CHUẨN MỨC THÔNG HIỂU
+### Dạng dữ liệu:
+- Dạng liệt kê: x₁, x₂, ..., xₙ
+- Dạng bảng tần số
+- Dạng biểu đồ đơn giản
 
-### DẠNG 1: TÍNH TOÁN CƠ BẢN
+## III. NGUYÊN TẮC THIẾT KẾ CÂU HỎI
 
-**Cấu trúc:**
-- Cho mẫu 5-6 giá trị số nguyên đơn giản
-- Yêu cầu tính 1 số đặc trưng cụ thể
-- Không có câu hỏi phụ phức tạp
+### Về độ phức tạp:
+- **Dữ liệu**: 5-8 giá trị cho dạng liệt kê, 3-5 nhóm cho bảng tần số
+- **Phạm vi số**: 1-50, ưu tiên số nguyên
+- **Bước tính**: Tối đa 3 bước logic rõ ràng
+- **Kết quả**: Số nguyên hoặc thập phân đến 1 chữ số
 
-**Mẫu:**
-> Điểm kiểm tra của 6 học sinh: 7, 8, 6, 9, 7, 8
-> 
+### Về nội dung:
+- **Một câu hỏi = một mục tiêu**: Tính 1 số đặc trưng hoặc thực hiện 1 thao tác chuyển đổi
+- **Ngữ cảnh thực tế**: Điểm số, tuổi, cân nặng, nhiệt độ, thu nhập, thời gian
+- **Yêu cầu rõ ràng**: Dùng động từ chỉ thị cụ thể
+
+## IV. CÁC DẠNG CÂU HỎI CHUẨN
+
+### DẠNG 1: TÍNH TOÁN TRỰC TIẾP
+**Cấu trúc**: Cho dữ liệu → Tính 1 số đặc trưng cụ thể
+
+**Mẫu câu hỏi**:
+> Điểm kiểm tra Toán của 7 học sinh: 6, 8, 7, 9, 7, 8, 6
 > Tính số trung bình cộng của mẫu số liệu trên.
 
-**Hướng dẫn sinh:**
-- Sử dụng số nguyên từ 1-10
-- Mẫu có 5-6 giá trị
-- Chỉ hỏi 1 số đặc trưng
-- Kết quả tính toán đơn giản
+**Tiêu chí sinh**:
+- Dữ liệu có khoảng 6-7 giá trị
+- Có giá trị lặp lại để tạo mốt rõ ràng
+- Tổng chia hết cho n để có kết quả đẹp
 
-### DẠNG 2: TÌM TRUNG VỊ VÀ MỐT
+### DẠNG 2: CHUYỂN ĐỔI TỪ BẢNG TẦN SỐ
+**Cấu trúc**: Bảng tần số → Tính số đặc trưng → Giải thích ý nghĩa
 
-**Cấu trúc:**
-- Cho dãy số có độ dài lẻ hoặc chẵn
-- Yêu cầu sắp xếp và tìm trung vị
-- Hoặc tìm mốt khi có giá trị lặp lại rõ ràng
-
-**Mẫu:**
-> Số lượng sách đọc trong tháng của 7 bạn: 3, 5, 4, 6, 4, 5, 4
+**Mẫu câu hỏi**:
+> Bảng thống kê số lần vắng mặt trong tháng của các học sinh:
 > 
-> a) Tìm mốt của mẫu số liệu
+> | Số lần vắng | 0 | 1 | 2 | 3 |
+> |-------------|---|---|---|---|
+> | Số học sinh | 12| 8 | 5 | 3 |
 > 
+> Tính số trung bình lần vắng mặt của một học sinh trong tháng.
+
+**Tiêu chí sinh**:
+- Bảng có 3-4 cột giá trị
+- Tổng tần số từ 20-30
+- Dữ liệu phản ánh tình huống thực tế
+
+### DẠNG 3: SẮP XẾP VÀ TÌM VỊ TRÍ
+**Cấu trúc**: Dữ liệu chưa sắp xếp → Sắp xếp → Tìm trung vị/tứ phân vị
+
+**Mẫu câu hỏi**:
+> Chiều cao của 9 học sinh (cm): 165, 170, 162, 168, 169, 171, 166, 167, 170
+> 
+> a) Sắp xếp dữ liệu theo thứ tự tăng dần
 > b) Tìm trung vị của mẫu số liệu
 
-**Hướng dẫn sinh:**
-- Đảm bảo có mốt duy nhất và rõ ràng
-- Với trung vị: dùng số lẻ phần tử để đơn giản
-- Số liệu nhỏ, dễ sắp xếp
+**Tiêu chí sinh**:
+- Dùng số lẻ phần tử để trung vị là 1 giá trị cụ thể
+- Các số gần nhau để việc sắp xếp có ý nghĩa
+- Bao gồm một vài giá trị bằng nhau
 
-### DẠNG 3: CHUYỂN ĐỔI TỪ BẢNG TẦN SỐ
+### DẠNG 4: GIẢI THÍCH Ý NGHĨA
+**Cấu trúc**: Cho kết quả tính toán → Giải thích ý nghĩa trong ngữ cảnh
 
-**Cấu trúc:**
-- Cho bảng tần số đơn giản (3-4 giá trị)
-- Yêu cầu tính trung bình hoặc tìm mốt
-- Tổng tần số nhỏ (8-12)
-
-**Mẫu:**
-> Bảng thống kê số con trong các gia đình:
+**Mẫu câu hỏi**:
+> Thời gian hoàn thành bài tập của 6 học sinh (phút): 15, 20, 18, 22, 19, 20
 > 
-> | Số con | 1 | 2 | 3 |
-> |--------|---|---|---|
-> | Số gia đình | 3 | 5 | 2 |
+> a) Tính thời gian trung bình hoàn thành bài tập
+> b) Giải thích ý nghĩa của kết quả vừa tìm được
+
+**Tiêu chí sinh**:
+- Ngữ cảnh dễ hiểu, gần gũi với học sinh
+- Kết quả có ý nghĩa thực tế rõ ràng
+- Yêu cầu giải thích bằng lời, không tính toán phức tạp
+
+## V. QUY TẮC TẠO ĐÁP ÁN TRẮC NGHIỆM
+
+### Nguyên tắc tạo đáp án đúng:
+- Tính toán chính xác theo công thức
+- Làm tròn hợp lý (đến 1 chữ số thập phân)
+- Kèm đơn vị phù hợp
+
+### Nguyên tắc tạo đáp án nhiễu:
+**Loại 1 - Lỗi quy trình**:
+- Quên chia cho n khi tính trung bình
+- Nhầm công thức (dùng trung vị làm đáp án cho câu hỏi trung bình)
+- Sai bước sắp xếp khi tìm trung vị
+
+**Loại 2 - Lỗi tính toán**:
+- Sai phép cộng (thiếu/thừa 1 số hạng)
+- Sai phép chia (chia cho n-1 thay vì n)
+- Nhầm vị trí trung vị (lấy phần tử thứ n/2 thay vì (n+1)/2)
+
+**Loại 3 - Nhầm lẫn khái niệm**:
+- Dùng mốt làm đáp án cho câu hỏi trung bình
+- Dùng khoảng biến thiên làm nhiễu
+- Dùng giá trị max/min làm nhiễu
+
+**Ví dụ tạo đáp án**:
+> Dữ liệu: 2, 4, 6, 8, 10 → Trung bình = 6
 > 
-> Tính số trung bình con trong mỗi gia đình.
+> A. 5 (thiếu một số hạng: (2+4+6+8)/4)
+> B. 6 (đáp án đúng)
+> C. 6,5 (nhầm trung vị)
+> D. 7,5 (chia cho 4 thay vì 5)
 
-**Hướng dẫn sinh:**
-- Bảng có 3-4 cột
-- Tần số nhỏ, dễ tính
-- Chỉ yêu cầu 1 phép tính
+## VI. TEMPLATE SINH CÂU HỎI
 
-### DẠNG 4: BÀI TOÁN THỰC TẾ ĐỠN GIẢN
+### Dạng tự luận:
+```
+[Ngữ cảnh thực tế] của [n] [đối tượng]: [dữ liệu]
 
-**Cấu trúc:**
-- Bối cảnh quen thuộc (điểm số, cân nặng, nhiệt độ)
-- Dữ liệu thực tế hợp lý
-- Chỉ tính 1 số đặc trưng, không phân tích
+[Yêu cầu cụ thể] [số đặc trưng] của mẫu số liệu trên.
+```
 
-**Mẫu:**
-> Nhiệt độ các ngày trong tuần (°C): 25, 27, 26, 28, 26, 24, 26
-> 
-> Tính nhiệt độ trung bình trong tuần.
+### Dạng trắc nghiệm:
+```
+[Ngữ cảnh] của [n] [đối tượng]: [dữ liệu]
 
-**Hướng dẫn sinh:**
-- Số liệu hợp lý với thực tế
-- Chỉ hỏi phép tính cơ bản
-- Không yêu cầu giải thích ý nghĩa
+[Số đặc trưng cần tìm] của mẫu số liệu này là:
 
-## IV. QUY TẮC SINH ĐỀ CỤ THỂ
+A. [đáp án nhiễu 1]
+B. [đáp án đúng]  
+C. [đáp án nhiễu 2]
+D. [đáp án nhiễu 3]
+```
 
-### Về dữ liệu:
-- **Số lượng**: 5-7 giá trị
-- **Loại số**: Số nguyên dương từ 1-20
-- **Kết quả**: Tránh thập phân phức tạp
+## VII. CHECKLIST KIỂM TRA CHẤT LƯỢNG
 
-### Về câu hỏi:
-- **Mỗi bài chỉ hỏi 1-2 số đặc trưng**
-- **Không so sánh** giữa các số đặc trưng
-- **Không phân tích** sự thay đổi dữ liệu
-- **Không yêu cầu nhận xét** về ý nghĩa
+### Về mức độ nhận thức:
+- ☐ Yêu cầu hiểu và áp dụng công thức (không chỉ nhớ)
+- ☐ Có bước chuyển đổi hoặc xử lý dữ liệu
+- ☐ Không yêu cầu so sánh phức tạp hay phân tích xu hướng
 
-### Về ngôn ngữ:
-- Dùng động từ: "Tính", "Tìm", "Xác định"
-- Tránh: "So sánh", "Phân tích", "Nhận xét", "Giải thích"
+### Về tính khả thi:
+- ☐ Dữ liệu trong tầm tính toán tay
+- ☐ Kết quả là số "đẹp" (nguyên hoặc 1 chữ số thập phân)
+- ☐ Ngữ cảnh phù hợp với học sinh lớp 10
 
-## V. MẪU CÂU HỎI CHUẨN
-
-**Dạng trắc nghiệm:**
-> Cho mẫu số liệu: 2, 4, 3, 5, 4, 6, 4. Trung bình cộng của mẫu số liệu này là:
-> 
-> A. 3,5    B. 4    C. 4,5    D. 5
-
-**Hướng dẫn tạo đáp án nhiễu:**
-- Đáp án sai thường gặp: quên chia cho n, tính sai tổng
-- Dùng các giá trị gần đúng đáp án
-- Bao gồm trung vị hoặc mốt làm nhiễu
-
-**Dạng tự luận:**
-> Cân nặng của 6 học sinh (kg): 40, 42, 41, 43, 41, 44
-> 
-> Tìm mốt và trung vị của mẫu số liệu trên.
+### Về đáp án (nếu trắc nghiệm):
+- ☐ Có đủ 4 đáp án phân biệt rõ ràng
+- ☐ Đáp án nhiễu dựa trên lỗi thực tế
+- ☐ Không có đáp án quá xa hoặc vô lý
 ```

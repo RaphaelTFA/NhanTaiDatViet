@@ -1,100 +1,123 @@
-# HƯỚNG DẪN SINH ĐỀ VẬN DỤNG
+```
+# HƯỚNG DẪN SINH CÂU HỎI VẬN DỤNG
 ## Chủ đề: Các số đặc trưng của mẫu số liệu không ghép nhóm - Lớp 10
 
-### I. KHUNG KIẾN THỨC CẦN VẬN DỤNG
+### I. TIÊU CHÍ MỨC ĐỘ VẬN DỤNG
 
-**Các số đặc trưng cần nắm vững:**
-- Số trung bình cộng (mean)
-- Trung vị (median) 
-- Mốt (mode)
-- Phương sai (variance)
-- Độ lệch chuẩn (standard deviation)
-- Tứ phân vị (quartiles)
-- Khoảng biến thiên (range)
+**Đặc điểm nhận dạng mức Vận dụng:**
+- Sử dụng công thức trong bối cảnh thực tế có nhiều yếu tố
+- Kết hợp tối thiểu 3 số đặc trưng để giải quyết vấn đề
+- Phân tích mối quan hệ giữa các số đặc trưng 
+- Đưa ra nhận định, so sánh hoặc quyết định dựa trên phân tích
+- Giải thích ý nghĩa thống kê trong ngữ cảnh cụ thể
 
-### II. CẤU TRÚC SINH ĐỀ VẬN DỤNG
+### II. CẤU TRÚC CÂU HỎI VẬN DỤNG
 
-#### **Dạng 1: Ứng dụng vào kinh tế - tài chính**
+#### **Khung tổng quát:**
+```
+[Bối cảnh thực tế phức tạp] + [Dữ liệu đa chiều] 
+→ a) Tính toán đa số đặc trưng (3-4 loại)
+→ b) Áp dụng phân tích vào tiêu chuẩn thực tế
+→ c) So sánh/Đánh giá/Ra quyết định + Giải thích
+```
 
-**Mẫu câu hỏi:**
-Một cửa hàng thống kê doanh thu (triệu đồng) trong 15 ngày như sau:
-12, 15, 18, 12, 20, 25, 18, 30, 12, 22, 28, 18, 35, 15, 20
+#### **Dạng 1: Phân tích hiệu quả kinh doanh đa góc độ**
 
-a) Tính các số đặc trưng: trung bình, trung vị, mốt, độ lệch chuẩn
-b) Chủ cửa hàng muốn đặt mục tiêu doanh thu hàng ngày ít nhất bằng trung bình cộng + 0,5 lần độ lệch chuẩn. Hỏi mục tiêu đó là bao nhiêu?
-c) Với mục tiêu trên, có bao nhiêu ngày đạt được mục tiêu?
+**Bối cảnh:** Cửa hàng/Quán/Dịch vụ với 2 giai đoạn hoặc 2 chi nhánh
+**Dữ liệu:** 
+- Mẫu 1: 14-16 số (đại diện giai đoạn/chi nhánh A)
+- Mẫu 2: 14-16 số (đại diện giai đoạn/chi nhánh B)
 
-**Hướng dẫn sinh đề:**
-- Chọn 12-20 số liệu thực tế
-- Đảm bảo có mốt rõ ràng (2-3 giá trị lặp lại)
-- Yêu cầu tính kết hợp 3-4 số đặc trưng
-- Thêm câu hỏi ứng dụng thực tế
+**Cấu trúc câu hỏi:**
+a) Tính x̄, σ, Q₂, Mốt cho cả hai mẫu
+b) Dựa vào tiêu chuẩn [x̄ ± 0,5σ], phân loại từng giai đoạn/chi nhánh
+c) So sánh hiệu quả và độ ổn định, đưa ra khuyến nghị cụ thể
 
-#### **Dạng 2: Ứng dụng vào giáo dục**
+#### **Dạng 2: Đánh giá học tập đa chiều**
 
-**Mẫu câu hỏi:**
-Điểm kiểm tra Toán của một lớp 10A gồm 20 học sinh:
-7, 8, 6, 9, 8, 7, 10, 8, 6, 9, 7, 8, 9, 10, 7, 8, 9, 6, 8, 9
+**Bối cảnh:** Kết quả học tập của 2 lớp hoặc 2 môn học
+**Dữ liệu:** Điểm số thang 10, phân bố gần chuẩn
 
-a) Tính điểm trung bình và độ lệch chuẩn của lớp
-b) Một học sinh được xếp loại "Khá" nếu điểm ≥ điểm trung bình của lớp. Có bao nhiêu học sinh xếp loại "Khá"?
-c) So sánh độ đồng đều về kết quả học tập nếu lớp 10B có cùng điểm trung bình nhưng độ lệch chuẩn là 1,8
+**Cấu trúc câu hỏi:**
+a) Tính x̄, σ, Q₁, Q₃ cho từng nhóm
+b) Áp dụng thang đánh giá: Giỏi (≥Q₃), Khá (Q₂ đến <Q₃), TB (Q₁ đến <Q₂), Yếu (<Q₁)
+c) Đánh giá chất lượng và độ đồng đều, đề xuất biện pháp cải thiện
 
-**Hướng dẫn sinh đề:**
-- Sử dụng thang điểm 10, số liệu từ 5-10
-- Tạo phân phối tương đối đều
-- Kết hợp với việc phân loại học sinh
-- So sánh giữa hai tập dữ liệu
+#### **Dạng 3: Phân tích sức khỏe theo nhóm**
 
-#### **Dạng 3: Ứng dụng vào y tế - sức khỏe**
+**Bối cảnh:** Chỉ số sức khỏe của 2 nhóm tuổi/giới tính khác nhau
+**Dữ liệu:** Chiều cao/Cân nặng/BMI phù hợp thực tế
 
-**Mẫu câu hỏi:**
-Cân nặng (kg) của 18 học sinh nam lớp 10:
-52, 55, 48, 60, 55, 58, 52, 62, 55, 50, 58, 55, 65, 52, 58, 60, 55, 58
+**Cấu trúc câu hỏi:**
+a) Tính x̄, σ, Q₁, Q₂, Q₃ cho từng nhóm
+b) Phân loại theo tiêu chuẩn y tế dựa trên tứ phân vị
+c) So sánh tình trạng sức khỏe và đưa ra nhận xét về phân bố
 
-a) Tính các tứ phân vị Q₁, Q₂, Q₃
-b) Một học sinh có cân nặng thuộc 25% cao nhất nếu cân nặng ≥ Q₃. Có bao nhiêu học sinh thuộc nhóm này?
-c) Khoảng cân nặng từ Q₁ đến Q₃ chiếm bao nhiêu phần trăm học sinh? Nhận xét về ý nghĩa.
+#### **Dạng 4: Tối ưu hóa quy trình**
 
-**Hướng dẫn sinh đề:**
-- Chọn số liệu phù hợp độ tuổi
-- Tập trung vào tứ phân vị
-- Liên kết với thống kê mô tả thực tế
-- Yêu cầu nhận xét, phân tích
+**Bối cảnh:** Thời gian thực hiện công việc với 2 phương pháp
+**Dữ liệu:** Thời gian đo lường (phút) có độ biến thiên khác nhau
 
-#### **Dạng 4: So sánh hai mẫu số liệu**
+**Cấu trúc câu hỏi:**
+a) Tính x̄, σ, hệ số biến thiên CV cho mỗi phương pháp
+b) Xác định tỷ lệ lần thực hiện trong khoảng [x̄-σ, x̄+σ]
+c) Lựa chọn phương pháp tối ưu dựa trên hiệu quả và độ ổn định
 
-**Mẫu câu hỏi:**
-Thời gian hoàn thành bài kiểm tra (phút) của hai nhóm:
-- Nhóm A: 25, 30, 28, 35, 30, 32, 28, 40, 30, 25, 32, 28, 35, 30, 32
-- Nhóm B: 20, 45, 25, 40, 30, 35, 25, 50, 30, 20, 35, 40, 30, 35, 25
+### III. QUY TẮC TẠO DỮ LIỆU NÂNG CAO
 
-a) Tính trung bình và độ lệch chuẩn của mỗi nhóm
-b) Nhóm nào có thời gian làm bài đồng đều hơn? Vì sao?
-c) Nếu quy định thời gian tối đa là trung bình + độ lệch chuẩn của nhóm tốt hơn, thì quy định đó là bao nhiêu?
+**Về cấu trúc dữ liệu:**
+- Luôn có 2 mẫu để so sánh (14-16 số mỗi mẫu)
+- Thiết kế có sự khác biệt rõ ràng về trung bình HOẶC độ phân tán
+- Đảm bảo mốt xuất hiện ít nhất 2-3 lần trong mỗi mẫu
 
-### III. TIÊU CHÍ ĐÁNH GIÁ ĐỀ VẬN DỤNG
+**Về tính toán:**
+- x̄ có tối đa 2 chữ số thập phân
+- σ trong khoảng 1-8 để dễ tính CV
+- Q₁, Q₂, Q₃ là số nguyên hoặc .5
+- CV = (σ/x̄) × 100% trong khoảng 10%-40%
 
-**✓ Về nội dung:**
-- Số liệu thực tế, gần gũi với học sinh
-- Kết hợp 2-3 số đặc trưng trong một câu
-- Có yêu cầu phân tích, so sánh, nhận xét
+**Về bối cảnh:**
+- Doanh thu: 15-45 triệu/ngày (cửa hàng), 2-8 triệu/ngày (quán)
+- Điểm số: 3.5-9.5 với phân bố chuẩn
+- Thời gian: 10-60 phút
+- Chiều cao lớp 10: 150-175cm, Cân nặng: 42-68kg
 
-**✓ Về mức độ:**
-- Cần 2-3 bước tính toán
-- Không chỉ tính mà còn ứng dụng kết quả
-- Kết hợp với kiến thức thực tế
+### IV. ĐỘNG TỪ VÀ CẤU TRÚC CÂU HỎI
 
-**✓ Về kỹ thuật:**
-- 12-20 số liệu cho mỗi mẫu
-- Số liệu có độ phức tạp vừa phải
-- Kết quả tính toán không quá phức tạp
-- Có thể dùng máy tính cầm tay
+**Phần a (25%):** "Tính", "Xác định" - 3-4 số đặc trưng
+**Phần b (40%):** "Dựa vào", "Áp dụng", "Phân loại", "Xác định tỷ lệ"
+**Phần c (35%):** "So sánh và nhận xét", "Đánh giá", "Đưa ra khuyến nghị", "Lựa chọn và giải thích"
 
-### IV. LƯU Ý KHI SINH ĐỀ
+**Từ khóa vận dụng bắt buộc:**
+- "Dựa vào kết quả tính được"
+- "So sánh và đánh giá"
+- "Đưa ra nhận xét/khuyến nghị/quyết định"
+- "Giải thích lý do"
 
-1. **Chọn bối cảnh phù hợp:** Kinh tế, giáo dục, thể thao, y tế
-2. **Cân bằng độ khó:** Không quá dễ nhưng phù hợp với học sinh giỏi
-3. **Tính thực tế:** Số liệu phải hợp lý với bối cảnh
-4. **Đa dạng yêu cầu:** Tính toán + phân tích + ứng dụng
-5. **Kiểm tra đáp án:** Đảm bảo có đáp án chính xác và hợp lý
+### V. KIỂM TRA CHẤT LƯỢNG MỨC VẬN DỤNG
+
+**Checklist bắt buộc:**
+- ✓ Có 2 mẫu dữ liệu để so sánh
+- ✓ Tính ít nhất 4 số đặc trưng khác nhau
+- ✓ Áp dụng tiêu chuẩn dựa trên số đặc trưng đã tính
+- ✓ Yêu cầu so sánh, đánh giá hoặc ra quyết định
+- ✓ Bắt buộc có câu "Giải thích" hoặc "Tại sao"
+- ✓ Bối cảnh thực tế có ý nghĩa với học sinh
+
+**Tránh các lỗi:**
+- ✗ Chỉ có 1 mẫu dữ liệu
+- ✗ Tính dưới 3 số đặc trưng
+- ✗ Không có so sánh giữa các nhóm
+- ✗ Câu hỏi có thể trả lời bằng tính toán đơn thuần
+- ✗ Thiếu yêu cầu giải thích ý nghĩa
+
+### VI. QUY TRÌNH SINH CÂU HỎI
+
+**Bước 1:** Chọn 1 trong 4 dạng và xác định bối cảnh cụ thể
+**Bước 2:** Tạo 2 mẫu dữ liệu có sự khác biệt có ý nghĩa
+**Bước 3:** Thiết kế câu a: yêu cầu tính x̄, σ, Q₁, Q₂, Q₃, Mốt
+**Bước 4:** Thiết kế câu b: áp dụng tiêu chuẩn dựa trên số đặc trưng
+**Bước 5:** Thiết kế câu c: so sánh + nhận xét + giải thích
+**Bước 6:** Kiểm tra tính khả thi của phép tính và ý nghĩa thực tế
+**Bước 7:** Đảm bảo câu hỏi thuộc đúng mức Vận dụng theo checklist
+```

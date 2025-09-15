@@ -9,7 +9,7 @@ API_KEY = CANVAS_API
 
 canvas = Canvas(API_URL, API_KEY)
 
-def import_qti(qtifile, course_id="2120114", score=0, grade=10):
+def import_qti(qtifile, course_id="2120114", name="Quiz", score=0, grade=10):
     course = canvas.get_course(course_id)
     print(f"Uploading {qtifile}...")
 

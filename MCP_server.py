@@ -28,7 +28,7 @@ def startup_event():
 @app.post("/math")
 async def generate_math(
     course: int = Form(2120114),
-    name: str = Form("Quiz"),
+    name: str = Form("Test_quiz"),
     grade: int = Form(10),
     file: UploadFile = File(...)
 ):
@@ -41,25 +41,28 @@ async def generate_math(
     txt_filename = "knowledge_graph/math/llm_return/full_response.txt"
     with open(txt_filename, "w", encoding="utf-8") as f:
         f.write("")
+    sum, cnt = 0, 0
     print("------------------------------------------------------")
     with open(txt_filename, "a", encoding="utf-8") as f:
         for row in df.itertuples(index=False):  
             try:
-                result, grade = math_test(
+                result, score = math_test(
                     topic=row.topic,
                     grade=int(row.grade),
                     difficulty=row.difficulty,
                     question=row.question,
                     n=int(row.n)
                 )
+                sum += score
+                cnt += 1
             except KeyError as e:
                 return {"error": f"Invalid topic or grade: {e}"}
             except Exception as e:
                 return {"error": f"Unexpected error: {str(e)}"}
             f.write(result + "\n\n")
     if not TEST_MODE:
-        math_transfer()
-        math_import_qti(course_id = str(course), name = name, grade = str(grade))
+        qtifile = math_transfer()
+        math_import_qti(qtifile = qtifile, course_id = str(course), name = name, score = sum / cnt, grade = str(grade))
     return FileResponse(txt_filename, media_type='text/plain', filename="response.txt")
 
 # cd code\NhanTaiDatViet
