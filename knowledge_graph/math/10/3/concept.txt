@@ -1,0 +1,73 @@
+# HỆ THỨC LƯỢNG TRONG TAM GIÁC - LỚP 10
+
+## I. ĐỊNH LÝ COSIN
+
+### Định lý:
+Trong tam giác ABC với các cạnh a, b, c đối diện với các góc A, B, C:
+
+**Công thức:**
+- $a^2 = b^2 + c^2 - 2bc\cos A$
+- $b^2 = a^2 + c^2 - 2ac\cos B$  
+- $c^2 = a^2 + b^2 - 2ab\cos C$
+
+**Hệ quả:**
+- $\cos A = \frac{b^2 + c^2 - a^2}{2bc}$
+- $\cos B = \frac{a^2 + c^2 - b^2}{2ac}$
+- $\cos C = \frac{a^2 + b^2 - c^2}{2ab}$
+
+## II. ĐỊNH LÝ SIN
+
+### Định lý:
+Trong tam giác ABC:
+
+$$\frac{a}{\sin A} = \frac{b}{\sin B} = \frac{c}{\sin C} = 2R$$
+
+Trong đó R là bán kính đường tròn ngoại tiếp tam giác.
+
+**Hệ quả:**
+- $a = 2R\sin A$, $b = 2R\sin B$, $c = 2R\sin C$
+- $\sin A = \frac{a}{2R}$, $\sin B = \frac{b}{2R}$, $\sin C = \frac{c}{2R}$
+
+## III. CÔNG THỨC TÍNH DIỆN TÍCH TAM GIÁC
+
+1. **Công thức cơ bản:** $S = \frac{1}{2}ah_a$ (a là cạnh, $h_a$ là đường cao)
+
+2. **Công thức dùng hai cạnh và góc xen giữa:**
+   - $S = \frac{1}{2}bc\sin A$
+   - $S = \frac{1}{2}ac\sin B$  
+   - $S = \frac{1}{2}ab\sin C$
+
+3. **Công thức Heron:** $S = \sqrt{p(p-a)(p-b)(p-c)}$
+   (với $p = \frac{a+b+c}{2}$ là nửa chu vi)
+
+4. **Công thức dùng bán kính:** $S = \frac{abc}{4R}$
+
+## IV. DẠNG BÀI TẬP CHÍNH
+
+### Dạng 1: Tính cạnh, góc trong tam giác
+- **Cho 2 cạnh và góc xen giữa** → Dùng định lý cosin tìm cạnh thứ 3
+- **Cho 3 cạnh** → Dùng định lý cosin tìm góc
+- **Cho 1 cạnh và 2 góc** → Dùng định lý sin
+
+### Dạng 2: Tính diện tích tam giác
+- Áp dụng các công thức diện tích phù hợp với dữ kiện cho trước
+
+### Dạng 3: Chứng minh đẳng thức lượng giác
+- Sử dụng định lý sin, cosin và các công thức diện tích
+
+### Dạng 4: Bài toán thực tế
+- Đo đạc địa hình, tính khoảng cách, độ cao
+- Áp dụng các định lý vào tình huống cụ thể
+
+### Dạng 5: Tìm bán kính đường tròn ngoại tiếp, nội tiếp
+- $R = \frac{abc}{4S}$ (bán kính ngoại tiếp)
+- $r = \frac{S}{p}$ (bán kính nội tiếp)
+
+## V. PHƯƠNG PHÁP GIẢI
+
+1. **Phân tích đề bài:** Xác định dữ kiện và yêu cầu
+2. **Chọn công thức phù hợp:** Dựa vào dữ kiện có
+3. **Thực hiện phép tính:** Cẩn thận với dấu và đơn vị
+4. **Kiểm tra kết quả:** Xem có hợp lý không
+
+**Lưu ý:** Luôn chú ý điều kiện tồn tại tam giác và miền giá trị của các hàm lượng giác.

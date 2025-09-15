@@ -1,0 +1,122 @@
+# HƯỚNG DẪN SINH ĐỀ MỨC VẬN DỤNG
+## Chủ đề: Hàm số lượng giác - Phương trình lượng giác (Lớp 11)
+
+---
+
+## I. KHUNG KIẾN THỨC CẦN VẬN DỤNG
+
+### 1. Hàm số lượng giác cơ bản
+- Hàm sin, cos, tan: Tính chất, đồ thị, chu kỳ
+- Biên độ, tần số, pha ban đầu
+- Tính đơn điệu, cực trị
+
+### 2. Phương trình lượng giác
+- Phương trình cơ bản: sin x = a, cos x = a, tan x = a
+- Phương trình bậc nhất: a.sin x + b.cos x = c
+- Phương trình bậc hai theo sin x hoặc cos x
+
+### 3. Kiến thức liên môn cần kết hợp
+- Hình học: Góc, độ dài cung, diện tích
+- Vật lý: Dao động điều hòa, sóng
+- Thống kê: Biến thiên theo chu kỳ
+
+---
+
+## II. CÁC DẠNG BÀI TẬP VẬN DỤNG
+
+### **Dạng 1: Dao động điều hòa**
+
+**Mẫu đề:**
+Một con lắc lò xo dao động điều hòa theo phương trình: x(t) = 5cos(2πt + π/3) (cm), trong đó t tính bằng giây.
+
+a) Xác định biên độ, chu kỳ và pha ban đầu của dao động.
+b) Tìm thời điểm đầu tiên vật qua vị trí x = 2,5cm theo chiều dương.
+c) Tính quãng đường vật đi được trong 2,5 giây đầu tiên.
+
+**Hướng dẫn sinh đề:**
+- Sử dụng dạng x(t) = A.cos(ωt + φ) hoặc x(t) = A.sin(ωt + φ)
+- Biên độ A từ 3-8 cm
+- Tần số góc ω có dạng 2π, π, 4π để chu kỳ đẹp
+- Pha ban đầu φ: π/6, π/4, π/3, π/2
+- Vị trí cần tìm: A/2, A√2/2, A√3/2
+
+### **Dạng 2: Hiện tượng sóng và ánh sáng**
+
+**Mẫu đề:**
+Độ cao của nước biển tại một cảng được mô tả bởi hàm số:
+h(t) = 3 + 2sin(πt/6) (m), trong đó t là thời gian tính từ 0h sáng.
+
+a) Xác định độ cao lớn nhất và nhỏ nhất của nước biển.
+b) Tìm các thời điểm trong ngày mà độ cao nước biển là 4m.
+c) Một tàu cần độ sâu tối thiểu 2,5m mới có thể vào cảng. Hỏi trong một ngày, tàu có thể vào cảng trong bao nhiêu giờ?
+
+**Hướng dẫn sinh đề:**
+- Dạng h(t) = a + b.sin(ct + d) hoặc h(t) = a + b.cos(ct + d)
+- a: mức trung bình (2-5m)
+- b: biên độ dao động (1-3m)
+- c: thường π/6, π/12 để chu kỳ 12h hoặc 24h
+- Kết hợp với bài toán thực tế: tàu bè, công trình ven biển
+
+### **Dạng 3: Nhiệt độ theo mùa**
+
+**Mẫu đề:**
+Nhiệt độ trung bình hàng tháng tại một thành phố được mô hình hóa bởi:
+T(t) = 20 + 8cos(π(t-7)/6) (°C), trong đó t là tháng (t = 1,2,...,12).
+
+a) Xác định nhiệt độ cao nhất và thấp nhất trong năm, và tháng nào đạt được.
+b) Tìm các tháng có nhiệt độ trên 25°C.
+c) Nếu chi phí điều hòa tỷ lệ thuận với |T-22|, tính tổng chi phí tương đối cả năm.
+
+**Hướng dẫn sinh đề:**
+- Nhiệt độ trung bình: 15-25°C
+- Biên độ: 5-10°C
+- Pha dịch chuyển để tháng lạnh nhất/nóng nhất hợp lý
+- Kết hợp với bài toán kinh tế: chi phí, năng lượng
+
+### **Dạng 4: Hình học ứng dụng**
+
+**Mẫu đề:**
+Một bánh xe có bán kính 60cm quay đều với tốc độ 2 vòng/phút. Điểm A trên vành bánh xe có độ cao so với mặt đất được cho bởi: h(t) = 80 + 60sin(4πt) (cm).
+
+a) Xác định độ cao của tâm bánh xe và bán kính.
+b) Tìm thời điểm điểm A ở độ cao 110cm trong phút đầu tiên.
+c) Tính quãng đường điểm A di chuyển trong 1,5 phút.
+
+**Hướng dẫn sinh đề:**
+- Bán kính từ 30-100cm
+- Tốc độ quay: 1-5 vòng/phút để ω đẹp
+- Độ cao tâm hợp lý với bán kính
+- Có thể thay đổi: Vòng quay, bánh răng, con quay
+
+---
+
+## III. TIÊU CHÍ ĐÁNH GIÁ ĐỀ TỐT
+
+### **Về nội dung:**
+✓ Bối cảnh thực tế, gần gũi với học sinh
+✓ Số liệu hợp lý, không quá phức tạp
+✓ Kết quả tính toán không quá rời rạc
+
+### **Về mức độ:**
+✓ Cần 2-3 bước giải quyết
+✓ Kết hợp nhiều kiến thức trong chương
+✓ Có yếu tố phân tích, không chỉ tính toán máy móc
+
+### **Về kỹ thuật:**
+✓ Ưu tiên góc đặc biệt: 30°, 45°, 60°, 90°
+✓ Chu kỳ đẹp: 12h, 24h, phút, giây
+✓ Kết quả cuối gọn, có ý nghĩa thực tế
+
+---
+
+## IV. MỘT SỐ LƯU Ý KHI SINH ĐỀ
+
+1. **Độ khó tăng dần:** Câu a) nhận biết → b) thông hiểu → c) vận dụng
+2. **Đa dạng bối cảnh:** Vật lý, thiên văn, kinh tế, sinh học
+3. **Cân bằng tính toán:** Không quá phức tạp nhưng đủ thử thách
+4. **Liên kết kiến thức:** Kết hợp với đạo hàm, bất phương trình, hình học
+
+**Ví dụ biến thể nhanh:**
+- Thay đổi hệ số → Bài mới cùng dạng
+- Thay đổi bối cảnh → Dao động → Sóng → Nhiệt độ
+- Thay sin thành cos → Điều chỉnh pha tương ứng

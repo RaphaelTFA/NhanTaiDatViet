@@ -1,0 +1,88 @@
+Dựa trên chương trình SGK Toán lớp 12 (Kết nối tri thức), tôi sẽ tóm tắt các kiến thức chính về "Ứng dụng đạo hàm để khảo sát và vẽ đồ thị hàm số":
+
+## I. TÍNH ĐƠN ĐIỆU CỦA HÀM SỐ
+
+### Định nghĩa:
+- Hàm số **đồng biến** trên khoảng I: ∀x₁, x₂ ∈ I, x₁ < x₂ ⟹ f(x₁) < f(x₂)
+- Hàm số **nghịch biến** trên khoảng I: ∀x₁, x₂ ∈ I, x₁ < x₂ ⟹ f(x₁) > f(x₂)
+
+### Định lý:
+- Nếu f'(x) > 0 trên khoảng I thì f(x) đồng biến trên I
+- Nếu f'(x) < 0 trên khoảng I thì f(x) nghịch biến trên I
+
+## II. CỰC TRỊ CỦA HÀM SỐ
+
+### Định nghĩa:
+- **Cực đại**: f(x₀) là cực đại nếu ∃ δ > 0: ∀x ∈ (x₀-δ, x₀+δ), f(x) ≤ f(x₀)
+- **Cực tiểu**: f(x₀) là cực tiểu nếu ∃ δ > 0: ∀x ∈ (x₀-δ, x₀+δ), f(x) ≥ f(x₀)
+
+### Định lý (điều kiện cần):
+Nếu f(x) có cực trị tại x₀ thì f'(x₀) = 0 hoặc f'(x₀) không tồn tại
+
+### Định lý (điều kiện đủ):
+**Quy tắc 1**: Nếu f'(x) đổi dấu từ (+) sang (-) qua x₀ thì x₀ là điểm cực đại
+Nếu f'(x) đổi dấu từ (-) sang (+) qua x₀ thì x₀ là điểm cực tiểu
+
+**Quy tắc 2**: Nếu f'(x₀) = 0 và f''(x₀) ≠ 0 thì:
+- f''(x₀) < 0: x₀ là điểm cực đại
+- f''(x₀) > 0: x₀ là điểm cực tiểu
+
+## III. GIÁ TRỊ LỚN NHẤT VÀ NHỎ NHẤT
+
+### Phương pháp tìm GTLN, GTNN trên [a,b]:
+1. Tính f'(x)
+2. Tìm nghiệm f'(x) = 0 trong (a,b)
+3. Tính f(a), f(b) và f(x₀) với x₀ là nghiệm f'(x) = 0
+4. So sánh để tìm GTLN, GTNN
+
+## IV. ĐƯỜNG TIỆM CẬN
+
+### Tiệm cận đứng:
+Đường thẳng x = a là TCĐ nếu: lim(x→a⁻) f(x) = ±∞ hoặc lim(x→a⁺) f(x) = ±∞
+
+### Tiệm cận ngang:
+Đường thẳng y = b là TCN nếu: lim(x→+∞) f(x) = b hoặc lim(x→-∞) f(x) = b
+
+### Tiệm cận xiên:
+Đường thẳng y = ax + b là TCX nếu:
+- a = lim(x→±∞) f(x)/x
+- b = lim(x→±∞) [f(x) - ax]
+
+## V. KHẢO SÁT VÀ VẼ ĐỒ THỊ HÀM SỐ
+
+### Sơ đồ khảo sát:
+1. **Tập xác định**
+2. **Sự biến thiên**:
+   - Tính f'(x), tìm nghiệm f'(x) = 0
+   - Xét dấu f'(x), lập bảng biến thiên
+   - Tìm cực trị
+3. **Tiệm cận**
+4. **Điểm đặc biệt**: Giao với trục tọa độ
+5. **Vẽ đồ thị**
+
+## VI. DẠNG BÀI TẬP CHÍNH
+
+### Dạng 1: Xét tính đơn điệu
+- Tính f'(x)
+- Xét dấu f'(x)
+- Kết luận khoảng đồng biến, nghịch biến
+
+### Dạng 2: Tìm cực trị
+- Giải f'(x) = 0
+- Xét dấu f'(x) hoặc dùng đạo hàm cấp 2
+
+### Dạng 3: Tìm GTLN, GTNN
+- Trên đoạn [a,b]: So sánh giá trị tại đầu mút và điểm tới hạn
+- Trên khoảng: Sử dụng bảng biến thiên
+
+### Dạng 4: Tìm tiệm cận
+- Tìm điểm gián đoạn (TCĐ)
+- Tính giới hạn tại vô cực (TCN, TCX)
+
+### Dạng 5: Khảo sát hàm số
+- Thực hiện đầy đủ các bước theo sơ đồ
+
+### Dạng 6: Biện luận số nghiệm phương trình
+- Sử dụng đồ thị để biện luận f(x) = m
+
+Đây là những kiến thức cốt lõi giúp học sinh nắm vững chương "Ứng dụng đạo hàm" trong chương trình Toán 12.

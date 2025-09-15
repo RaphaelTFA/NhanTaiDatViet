@@ -1,0 +1,110 @@
+# HƯỚNG DẪN SINH ĐỀ: CÁC QUY TẮC TÍNH XÁC SUẤT - MỨC VẬN DỤNG CAO
+
+## I. KHUNG KIẾN THỨC CỐT LÕI CẦN VẬN DỤNG
+
+### 1. Kiến thức chủ đạo (Các quy tắc tính xác suất):
+- Quy tắc cộng xác suất
+- Quy tắc nhân xác suất  
+- Xác suất có điều kiện
+- Công thức xác suất đầy đủ
+- Công thức Bayes
+
+### 2. Kiến thức liên quan cần tích hợp:
+- Tổ hợp, chỉnh hợp (Toán 11)
+- Nhị thức Newton (Toán 11)
+- Hình học không gian (Toán 11)
+- Phương trình đường thẳng, đường tròn (Toán 10)
+
+## II. CẤU TRÚC SINH ĐỀ VẬN DỤNG CAO
+
+### Dạng 1: Tích hợp với Tổ hợp - Chỉnh hợp
+
+**Khung bài toán:**
+- Bối cảnh: Chọn nhóm người/vật có điều kiện phức tạp
+- Yêu cầu: Tính xác suất của biến cố phức hợp
+- Kỹ thuật: Kết hợp quy tắc cộng/nhân với công thức tổ hợp
+
+**Ví dụ mẫu:**
+> Một hộp chứa 15 quả bóng gồm 6 quả đỏ được đánh số từ 1 đến 6, 5 quả xanh được đánh số từ 1 đến 5, và 4 quả vàng được đánh số từ 1 đến 4. Lấy ngẫu nhiên 4 quả bóng. Tính xác suất để trong 4 quả bóng lấy được có đủ cả 3 màu và tổng các số ghi trên 4 quả bóng là số chẵn.
+
+### Dạng 2: Tích hợp với Hình học không gian
+
+**Khung bài toán:**
+- Bối cảnh: Hình khối với các điểm/mặt được gán xác suất
+- Yêu cầu: Tính xác suất liên quan đến vị trí tương đối
+- Kỹ thuật: Kết hợp tính thể tích/diện tích với quy tắc xác suất
+
+**Ví dụ mẫu:**
+> Cho hình lập phương ABCD.A'B'C'D' có cạnh bằng 1. Chọn ngẫu nhiên một điểm M trong hình lập phương và một mặt của hình lập phương. Tính xác suất để khoảng cách từ điểm M đến mặt được chọn nhỏ hơn 1/3, biết rằng điểm M thuộc hình chóp A.BCD.
+
+### Dạng 3: Tích hợp với Hình học phẳng
+
+**Khung bài toán:**
+- Bối cảnh: Hình phẳng với các vùng xác suất khác nhau
+- Yêu cầu: Xác suất hình học với điều kiện phức tạp
+- Kỹ thuật: Kết hợp phương trình đường cong với quy tắc xác suất
+
+**Ví dụ mẫu:**
+> Trong mặt phẳng tọa độ, xét hình vuông ABCD có A(0;0), B(2;0), C(2;2), D(0;2). Chọn ngẫu nhiên hai điểm M, N trong hình vuông. Tính xác suất để đường thẳng MN cắt đường tròn (C): (x-1)² + (y-1)² = 1/2.
+
+### Dạng 4: Ứng dụng công thức Bayes phức tạp
+
+**Khung bài toán:**
+- Bối cảnh: Hệ thống phân loại đa tầng
+- Yêu cầu: Tính xác suất ngược với nhiều điều kiện
+- Kỹ thuật: Kết hợp công thức Bayes với quy tắc nhân
+
+**Ví dụ mẫu:**
+> Một nhà máy có 3 dây chuyền sản xuất với tỷ lệ sản phẩm loại A lần lượt là 60%, 30%, 10%. Xác suất sản phẩm đạt chuẩn của mỗi dây chuyền tương ứng với sản phẩm loại A là 0.9, 0.8, 0.7 và với sản phẩm không phải loại A là 0.6, 0.7, 0.8. Lấy ngẫu nhiên một sản phẩm thấy đạt chuẩn, đồng thời kiểm tra thêm một sản phẩm khác từ cùng dây chuyền cũng đạt chuẩn. Tính xác suất sản phẩm đầu tiên là loại A.
+
+## III. NGUYÊN TẮC THIẾT KẾ CÂU HỎI
+
+### 1. Về độ phức tạp:
+- **Bắt buộc:** Ít nhất 3 bước giải chính
+- **Yêu cầu:** Kết hợp tối thiểu 2 quy tắc xác suất
+- **Mở rộng:** Tích hợp 1-2 chủ đề kiến thức khác
+
+### 2. Về tư duy logic:
+- Phân tích biến cố thành các biến cố con
+- Nhận biết mối quan hệ phụ thuộc/độc lập
+- Lựa chọn công thức phù hợp với tình huống
+
+### 3. Về kỹ năng tính toán:
+- Tính toán tổ hợp phức tạp
+- Xử lý phân số/thập phân chính xác
+- Kiểm tra tính hợp lý của kết quả
+
+## IV. TEMPLATE SINH ĐỀ CHUẨN
+
+### Bước 1: Chọn bối cảnh
+- [ ] Trò chơi may rủi
+- [ ] Kiểm tra chất lượng sản phẩm  
+- [ ] Chọn lựa có điều kiện
+- [ ] Hình học ứng dụng
+
+### Bước 2: Thiết lập điều kiện
+- [ ] Ít nhất 3 nhóm đối tượng
+- [ ] Có mối quan hệ phụ thuộc
+- [ ] Điều kiện ràng buộc phức tạp
+
+### Bước 3: Xây dựng câu hỏi
+- [ ] Yêu cầu chính (60% điểm)
+- [ ] Yêu cầu mở rộng (40% điểm)
+- [ ] Kiểm tra tính hợp lý
+
+### Bước 4: Thiết kế lời giải
+- [ ] Phân tích biến cố
+- [ ] Áp dụng quy tắc xác suất
+- [ ] Tính toán và kết luận
+- [ ] Đánh giá kết quả
+
+## V. CHECKLIST CHẤT LƯỢNG ĐỀ
+
+✅ **Kiến thức:** Chủ đề chính chiếm ≥ 70% câu hỏi  
+✅ **Độ khó:** Cần 15-20 phút để giải hoàn chỉnh  
+✅ **Tư duy:** Có ít nhất 2 bước suy luận logic  
+✅ **Tích hợp:** Kết hợp tối thiểu 2 chủ đề kiến thức  
+✅ **Thực tiễn:** Bối cảnh gần gũi, có ý nghĩa  
+✅ **Tính toán:** Số liệu hợp lý, kết quả đẹp  
+
+*Hướng dẫn này đảm bảo tạo ra các câu hỏi vận dụng cao chất lượng, phù hợp với chương trình GDPT 2018 và phát triển năng lực tư duy toán học cho học sinh lớp 11.*

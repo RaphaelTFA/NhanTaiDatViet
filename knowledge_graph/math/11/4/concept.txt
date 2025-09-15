@@ -1,0 +1,47 @@
+Dựa trên chương "Quan hệ song song trong không gian" trong SGK Toán 11 Kết nối tri thức, tôi sẽ tóm tắt các kiến thức chính:
+
+## I. ĐƯỜNG THẲNG SONG SONG VỚI MẶT PHẲNG
+
+### Định nghĩa:
+Đường thẳng d song song với mặt phẳng (P) nếu d không có điểm chung với (P).
+
+### Định lý chính:
+- **Định lý 1:** Nếu đường thẳng d không nằm trong mặt phẳng (P) và d song song với đường thẳng d' nằm trong (P), thì d song song với (P).
+- **Định lý 2:** Nếu đường thẳng d song song với mặt phẳng (P) và d nằm trong mặt phẳng (Q), thì giao tuyến của (P) và (Q) song song với d.
+
+## II. HAI MẶT PHẲNG SONG SONG
+
+### Định nghĩa:
+Hai mặt phẳng song song nếu chúng không có điểm chung.
+
+### Định lý quan trọng:
+- **Định lý 3:** Nếu mặt phẳng (P) chứa hai đường thẳng cắt nhau và cùng song song với mặt phẳng (Q), thì (P) song song với (Q).
+- **Định lý 4:** Nếu hai mặt phẳng song song thì mọi đường thẳng nằm trong mặt phẳng này đều song song với mặt phẳng kia.
+- **Định lý Thales:** Nếu ba mặt phẳng song song cắt hai đường thẳng thì chúng tạo ra các đoạn thẳng tỉ lệ.
+
+## III. DẠNG BÀI TẬP CHÍNH
+
+### Dạng 1: Chứng minh đường thẳng song song với mặt phẳng
+- Chứng minh đường thẳng song song với một đường thẳng nằm trong mặt phẳng
+- Sử dụng tính chất giao tuyến
+
+### Dạng 2: Chứng minh hai mặt phẳng song song
+- Chứng minh mặt phẳng chứa hai đường thẳng cắt nhau song song với mặt phẳng kia
+- Sử dụng tính chất bắc cầu
+
+### Dạng 3: Áp dụng định lý Thales
+- Tính tỉ số độ dài các đoạn thẳng
+- Chứng minh các hệ thức tỉ lệ
+
+### Dạng 4: Tìm giao tuyến và thiết diện
+- Xác định giao tuyến của hai mặt phẳng
+- Tìm thiết diện của hình không gian với mặt phẳng
+
+## IV. PHƯƠNG PHÁP GIẢI
+
+1. **Xác định vị trí tương đối:** Phân tích mối quan hệ giữa các yếu tố hình học
+2. **Sử dụng định lý:** Áp dụng đúng định lý phù hợp với từng trường hợp
+3. **Vẽ hình chính xác:** Biểu diễn đúng quan hệ không gian
+4. **Lập luận logic:** Trình bày chứng minh rõ ràng, có căn cứ
+
+Chương này là nền tảng quan trọng cho hình học không gian, giúp học sinh hiểu được các quan hệ vị trí cơ bản và phát triển tư duy không gian.

@@ -1,0 +1,87 @@
+# TÓM TẮT CHƯƠNG 4: NGUYÊN HÀM VÀ TÍCH PHÂN
+
+## I. NGUYÊN HÀM
+
+### 1. Định nghĩa
+**Nguyên hàm** của hàm số f(x) trên khoảng I là hàm số F(x) thỏa mãn:
+- F'(x) = f(x) với mọi x ∈ I
+
+**Họ nguyên hàm** của f(x) là: F(x) + C (C là hằng số)
+
+### 2. Tính chất cơ bản
+- ∫[f(x) ± g(x)]dx = ∫f(x)dx ± ∫g(x)dx
+- ∫k·f(x)dx = k∫f(x)dx (k là hằng số)
+
+### 3. Bảng nguyên hàm cơ bản
+- ∫dx = x + C
+- ∫x^n dx = (x^(n+1))/(n+1) + C (n ≠ -1)
+- ∫(1/x)dx = ln|x| + C
+- ∫e^x dx = e^x + C
+- ∫a^x dx = (a^x)/ln a + C (a > 0, a ≠ 1)
+- ∫sin x dx = -cos x + C
+- ∫cos x dx = sin x + C
+- ∫(1/cos²x)dx = tan x + C
+- ∫(1/sin²x)dx = -cot x + C
+
+### 4. Phương pháp tính nguyên hàm
+
+#### a) Phương pháp đổi biến số
+- Dạng 1: ∫f(u(x))·u'(x)dx = ∫f(u)du
+- Dạng 2: ∫f(x)dx, đặt x = g(t)
+
+#### b) Phương pháp tích phân từng phần
+∫u dv = uv - ∫v du
+
+## II. TÍCH PHÂN
+
+### 1. Định nghĩa tích phân xác định
+Tích phân xác định của hàm số f(x) từ a đến b:
+∫[a→b] f(x)dx = F(b) - F(a)
+
+### 2. Tính chất tích phân
+- ∫[a→a] f(x)dx = 0
+- ∫[a→b] f(x)dx = -∫[b→a] f(x)dx
+- ∫[a→b] f(x)dx = ∫[a→c] f(x)dx + ∫[c→b] f(x)dx
+- ∫[a→b] [f(x) ± g(x)]dx = ∫[a→b] f(x)dx ± ∫[a→b] g(x)dx
+- ∫[a→b] k·f(x)dx = k∫[a→b] f(x)dx
+
+### 3. Phương pháp tính tích phân
+
+#### a) Phương pháp đổi biến
+∫[a→b] f(x)dx = ∫[α→β] f(g(t))·g'(t)dt
+
+#### b) Tích phân từng phần
+∫[a→b] u dv = [uv][a→b] - ∫[a→b] v du
+
+## III. ỨNG DỤNG TÍCH PHÂN
+
+### 1. Tính diện tích
+- Diện tích hình thang cong: S = ∫[a→b] |f(x)|dx
+- Diện tích giữa hai đường cong: S = ∫[a→b] |f(x) - g(x)|dx
+
+### 2. Tính thể tích
+- Thể tích vật thể tròn xoay quanh Ox: V = π∫[a→b] [f(x)]²dx
+- Thể tích vật thể tròn xoay quanh Oy: V = π∫[c→d] [g(y)]²dy
+
+## IV. DẠNG BÀI TẬP CHÍNH
+
+### 1. Tìm nguyên hàm
+- Sử dụng bảng nguyên hàm cơ bản
+- Áp dụng phương pháp đổi biến số
+- Áp dụng phương pháp tích phân từng phần
+
+### 2. Tính tích phân xác định
+- Tích phân cơ bản
+- Tích phân bằng phương pháp đổi biến
+- Tích phân từng phần
+
+### 3. Ứng dụng hình học
+- Tính diện tích hình phẳng
+- Tính thể tích khối tròn xoay
+
+### 4. Bài toán thực tế
+- Bài toán chuyển động
+- Bài toán tăng trưởng
+- Bài toán kinh tế
+
+**Lưu ý quan trọng**: Khi giải bài tập cần chú ý đến điều kiện xác định của hàm số và chọn phương pháp phù hợp với từng dạng bài cụ thể.

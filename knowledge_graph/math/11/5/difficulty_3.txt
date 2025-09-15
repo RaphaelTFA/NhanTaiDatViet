@@ -1,0 +1,128 @@
+# HƯỚNG DẪN SINH ĐỀ MỨC VẬN DỤNG
+## Chủ đề: Giới hạn - Hàm số liên tục (Lớp 11)
+
+## I. KHUNG KIẾN THỨC CẦN VẬN DỤNG
+
+### 1. Các dạng giới hạn cơ bản:
+- Giới hạn hàm số tại một điểm
+- Giới hạn một bên (trái/phải)
+- Giới hạn tại vô cực
+- Các dạng vô định: 0/0, ∞/∞
+
+### 2. Tính liên tục:
+- Điều kiện liên tục tại một điểm
+- Liên tục trên một khoảng
+- Điểm gián đoạn và phân loại
+
+### 3. Kỹ thuật tính giới hạn:
+- Phân tích nhân tử
+- Nhân liên hợp
+- Sử dụng giới hạn đặc biệt
+
+## II. CÁC DẠNG ĐỀ MỨC VẬN DỤNG
+
+### **DẠNG 1: BÀI TOÁN KINH TẾ - TÀI CHÍNH**
+
+#### Mẫu đề 1: Phân tích chi phí sản xuất
+**Đề bài:** Một công ty sản xuất có hàm chi phí trung bình để sản xuất x sản phẩm là:
+$$C(x) = \frac{2x^2 + 500x + 10000}{x}$$ (đơn vị: nghìn đồng)
+
+a) Tính giới hạn chi phí trung bình khi số lượng sản phẩm tăng rất lớn.
+b) Tại x = 100, hàm chi phí có liên tục không? Giải thích ý nghĩa kinh tế.
+
+**Hướng dẫn sinh đề:**
+- Chọn hàm phân thức có dạng đa thức bậc 2 chia cho x
+- Hệ số tự do trong tử số thể hiện chi phí cố định
+- Yêu cầu tính giới hạn tại vô cực và kiểm tra tính liên tục
+
+#### Mẫu đề 2: Mô hình tăng trưởng dân số
+**Đề bài:** Dân số một thành phố được mô hình hóa bởi hàm:
+$$P(t) = \frac{800000(t+2)}{t+1}$$ (người) với t ≥ 0 (năm)
+
+a) Tìm giới hạn dân số khi thời gian tiến tới vô cực.
+b) Hàm số có liên tục tại t = 5 không? Tính tốc độ thay đổi dân số tại thời điểm đó.
+
+### **DẠNG 2: BÀI TOÁN VẬT LÝ - KỸ THUẬT**
+
+#### Mẫu đề 3: Chuyển động và vận tốc
+**Đề bài:** Một vật chuyển động có phương trình quãng đường:
+$$s(t) = \begin{cases} 
+\frac{t^3-8t}{t-2} & \text{khi } t \neq 2 \\
+12 & \text{khi } t = 2
+\end{cases}$$
+
+a) Tính giới hạn của s(t) khi t → 2.
+b) Hàm s(t) có liên tục tại t = 2 không?
+c) Nếu không liên tục, hãy tìm giá trị để hàm liên tục tại điểm đó.
+
+**Hướng dẫn sinh đề:**
+- Tạo hàm số từng khúc với dạng vô định 0/0
+- Yêu cầu phân tích nhân tử để khử dạng vô định
+- Kiểm tra tính liên tục và điều chỉnh tham số
+
+#### Mẫu đề 4: Nhiệt độ và thời gian
+**Đề bài:** Nhiệt độ của một vật sau khi đặt vào môi trường lạnh được mô tả:
+$$T(t) = 20 + \frac{80}{t+1}$$ (°C) với t ≥ 0 (phút)
+
+a) Tìm nhiệt độ giới hạn của vật khi thời gian rất lớn.
+b) Tại thời điểm nào nhiệt độ xuống còn 30°C?
+c) Chứng minh hàm T(t) liên tục trên [0; +∞).
+
+### **DẠNG 3: BÀI TOÁN HÓA HỌC - SINH HỌC**
+
+#### Mẫu đề 5: Nồng độ phản ứng hóa học
+**Đề bài:** Nồng độ một chất trong phản ứng hóa học theo thời gian:
+$$C(t) = \frac{0.5t^2 + 2t}{t^2 + 4t + 3}$$ (mol/L) với t > 0 (giờ)
+
+a) Tính giới hạn nồng độ khi thời gian phản ứng rất dài.
+b) Tại t = 1 giờ, hàm nồng độ có những tính chất gì?
+c) Phân tích ý nghĩa của kết quả câu a) trong thực tế.
+
+**Hướng dẫn sinh đề:**
+- Dùng hàm phân thức với bậc tử = bậc mẫu
+- Giới hạn tại vô cực là tỉ số hệ số bậc cao nhất
+- Liên kết với ý nghĩa thực tế của phản ứng hóa học
+
+### **DẠNG 4: BÀI TOÁN TỔNG HỢP NÂNG CAO**
+
+#### Mẫu đề 6: Tối ưu hóa và giới hạn
+**Đề bài:** Một hồ cá có diện tích mặt nước S (m²) và lượng oxy hòa tan:
+$$O(S) = \frac{8S - 16}{\sqrt{S} - 2}$$ (mg/L) với S > 4
+
+a) Tính $\lim_{S \to 4^+} O(S)$ và giải thích ý nghĩa.
+b) Tìm giới hạn lượng oxy khi diện tích hồ rất lớn.
+c) Tại S = 9 m², hàm số có liên tục không?
+
+**Hướng dẫn sinh đề:**
+- Sử dụng kỹ thuật nhân liên hợp
+- Tạo dạng vô định với căn thức
+- Yêu cầu phân tích ý nghĩa thực tế
+
+## III. NGUYÊN TẮC SINH ĐỀ
+
+### 1. **Về cấu trúc đề:**
+- Luôn có 3 câu hỏi: tính giới hạn → kiểm tra tính liên tục → ứng dụng/ý nghĩa
+- Kết hợp ít nhất 2 kỹ thuật tính giới hạn khác nhau
+- Có câu hỏi liên quan đến ý nghĩa thực tế
+
+### 2. **Về độ khó:**
+- **Câu a (40%):** Vận dụng trực tiếp công thức, kỹ thuật
+- **Câu b (35%):** Kết hợp kiến thức, cần 2-3 bước tính toán  
+- **Câu c (25%):** Phân tích, giải thích ý nghĩa hoặc tổng hợp
+
+### 3. **Về số liệu:**
+- Sử dụng số nguyên, phân số đơn giản
+- Kết quả cuối cùng là số "đẹp" 
+- Tham số trong thực tế hợp lý
+
+### 4. **Các kỹ thuật bắt buộc:**
+- Khử dạng vô định 0/0 hoặc ∞/∞
+- Kiểm tra tính liên tục tại điểm cụ thể
+- Phân tích ý nghĩa của giới hạn trong bối cảnh bài toán
+
+### 5. **Tiêu chí chấm điểm:**
+- **Kỹ thuật tính toán đúng (50%)**
+- **Trình bày logic, rõ ràng (30%)**  
+- **Giải thích ý nghĩa thực tế (20%)**
+
+Hướng dẫn này giúp tạo ra các đề bài vận dụng chất lượng, phù hợp với học sinh giỏi và đảm bảo tính thực tiễn của toán học.

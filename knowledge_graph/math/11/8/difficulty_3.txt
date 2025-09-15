@@ -1,0 +1,115 @@
+# HƯỚNG DẪN SINH ĐỀ VẬN DỤNG - CÁC QUY TẮC TÍNH XÁC SUẤT LỚP 11
+
+## I. KHUNG LÝ THUYẾT CẦN ÁP DỤNG
+
+### 1. Các quy tắc cơ bản:
+- **Quy tắc cộng:** P(A ∪ B) = P(A) + P(B) - P(A ∩ B)
+- **Quy tắc nhân:** P(A ∩ B) = P(A) × P(B|A) = P(B) × P(A|B)
+- **Xác suất có điều kiện:** P(A|B) = P(A ∩ B) / P(B)
+- **Công thức xác suất toàn phần và Bayes**
+
+### 2. Các chủ đề liên quan có thể kết hợp:
+- Tổ hợp, chỉnh hợp (Đại số 11)
+- Thống kê mô tả cơ bản (Đại số 10)
+- Bất đẳng thức, phương trình (để tính toán)
+
+## II. HƯỚNG DẪN SINH ĐỀ THEO CẤU TRÚC
+
+### **Dạng 1: Ứng dụng trong Y tế - Dịch tễ học**
+
+**Cấu trúc đề:**
+```
+Một loại test nhanh phát hiện bệnh X có:
+- Độ nhạy: 95% (xác suất test dương tính khi có bệnh)
+- Độ đặc hiệu: 92% (xác suất test âm tính khi không có bệnh)
+- Tỷ lệ mắc bệnh trong dân số: 0,8%
+
+Hỏi: Nếu một người test dương tính, xác suất người đó thực sự mắc bệnh là bao nhiêu?
+```
+
+**Yếu tố vận dụng:**
+- Áp dụng công thức Bayes
+- Phân tích mối quan hệ giữa các loại xác suất có điều kiện
+- Sử dụng số liệu y tế thực tế
+- Kết hợp với tư duy logic thực tế
+
+### **Dạng 2: Ứng dụng trong Kinh tế - Quản lý chất lượng**
+
+**Cấu trúc đề:**
+```
+Một công ty sản xuất điện thoại có 3 dây chuyền A, B, C với:
+- Dây chuyền A: 40% sản lượng, tỷ lệ lỗi 2%
+- Dây chuyền B: 35% sản lượng, tỷ lệ lỗi 3%  
+- Dây chuyền C: 25% sản lượng, tỷ lệ lỗi 1,5%
+
+Câu hỏi đa cấp độ:
+a) Tính xác suất một sản phẩm ngẫu nhiên bị lỗi
+b) Nếu kiểm tra 5 sản phẩm ngẫu nhiên, tính xác suất có đúng 1 sản phẩm lỗi
+c) Biết một sản phẩm bị lỗi, xác suất nó từ dây chuyền nào?
+```
+
+**Yếu tố vận dụng:**
+- Kết hợp xác suất toàn phần và Bayes
+- Liên kết với phân phối nhị thức
+- Số liệu thực tế từ sản xuất công nghiệp
+- Phân tích đa chiều
+
+### **Dạng 3: Ứng dụng trong Giáo dục - Đánh giá năng lực**
+
+**Cấu trúc đề:**
+```
+Trong kỳ thi THPT Quốc gia, thống kê cho thấy:
+- 60% học sinh học Lý, trong đó 75% đạt điểm Toán ≥ 8
+- 40% học sinh không học Lý, trong đó 45% đạt điểm Toán ≥ 8
+- Xét riêng nhóm học Lý: 80% có điểm Lý ≥ 7
+
+Phân tích:
+a) Xác suất một học sinh ngẫu nhiên có điểm Toán ≥ 8
+b) Biết một học sinh có điểm Toán ≥ 8, xác suất học sinh đó học Lý
+c) Với học sinh học Lý, tính xác suất có cả điểm Toán ≥ 8 và Lý ≥ 7 (biết hai sự kiện này độc lập trong nhóm học Lý)
+```
+
+### **Dạng 4: Ứng dụng trong Công nghệ - An ninh mạng**
+
+**Cấu trúc đề:**
+```
+Hệ thống bảo mật của một ngân hàng gồm 3 lớp:
+- Lớp 1: Chặn 90% tấn công
+- Lớp 2: Chặn 85% tấn công còn lại
+- Lớp 3: Chặn 80% tấn công còn lại
+
+Thống kê cho thấy có 50 lần tấn công/ngày.
+
+Tính toán:
+a) Xác suất một cuộc tấn công vượt qua cả 3 lớp bảo mật
+b) Số cuộc tấn công thành công dự kiến mỗi ngày
+c) Nếu phát hiện có tấn công thành công, xác suất nó bị chặn ở lớp nào cuối cùng?
+```
+
+## III. TIÊU CHÍ ĐÁNH GIÁ MỨC ĐỘ VẬN DỤNG
+
+### **Về tính thực tế:**
+- ✅ Sử dụng bối cảnh có thật (y tế, giáo dục, sản xuất...)
+- ✅ Số liệu phù hợp với thực tế
+- ✅ Ý nghĩa của kết quả có thể giải thích được
+
+### **Về độ phức tạp:**
+- ✅ Cần 2-3 bước tính toán chính
+- ✅ Kết hợp nhiều quy tắc xác suất
+- ✅ Có yếu tố phân tích, so sánh
+
+### **Về tính liên kết:**
+- ✅ Kết hợp với tổ hợp (tính số cách)
+- ✅ Liên quan đến thống kê cơ bản
+- ✅ Sử dụng tư duy logic toán học
+
+## IV. MẪU RUBRIC CHẤM ĐIỂM
+
+| Tiêu chí | Điểm | Mô tả |
+|----------|------|--------|
+| Xác định đúng các sự kiện | 2đ | Học sinh nhận diện chính xác các biến cố |
+| Áp dụng đúng công thức | 3đ | Sử dụng đúng quy tắc cộng/nhân/Bayes |
+| Tính toán chính xác | 3đ | Thực hiện phép tính không sai sót |
+| Diễn giải kết quả | 2đ | Giải thích ý nghĩa trong bối cảnh thực tế |
+
+**Lưu ý:** Đề vận dụng cần đảm bảo học sinh phải **suy luận** chứ không chỉ áp dụng máy móc công thức.

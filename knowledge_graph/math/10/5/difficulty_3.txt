@@ -1,0 +1,100 @@
+# HƯỚNG DẪN SINH ĐỀ VẬN DỤNG
+## Chủ đề: Các số đặc trưng của mẫu số liệu không ghép nhóm - Lớp 10
+
+### I. KHUNG KIẾN THỨC CẦN VẬN DỤNG
+
+**Các số đặc trưng cần nắm vững:**
+- Số trung bình cộng (mean)
+- Trung vị (median) 
+- Mốt (mode)
+- Phương sai (variance)
+- Độ lệch chuẩn (standard deviation)
+- Tứ phân vị (quartiles)
+- Khoảng biến thiên (range)
+
+### II. CẤU TRÚC SINH ĐỀ VẬN DỤNG
+
+#### **Dạng 1: Ứng dụng vào kinh tế - tài chính**
+
+**Mẫu câu hỏi:**
+Một cửa hàng thống kê doanh thu (triệu đồng) trong 15 ngày như sau:
+12, 15, 18, 12, 20, 25, 18, 30, 12, 22, 28, 18, 35, 15, 20
+
+a) Tính các số đặc trưng: trung bình, trung vị, mốt, độ lệch chuẩn
+b) Chủ cửa hàng muốn đặt mục tiêu doanh thu hàng ngày ít nhất bằng trung bình cộng + 0,5 lần độ lệch chuẩn. Hỏi mục tiêu đó là bao nhiêu?
+c) Với mục tiêu trên, có bao nhiêu ngày đạt được mục tiêu?
+
+**Hướng dẫn sinh đề:**
+- Chọn 12-20 số liệu thực tế
+- Đảm bảo có mốt rõ ràng (2-3 giá trị lặp lại)
+- Yêu cầu tính kết hợp 3-4 số đặc trưng
+- Thêm câu hỏi ứng dụng thực tế
+
+#### **Dạng 2: Ứng dụng vào giáo dục**
+
+**Mẫu câu hỏi:**
+Điểm kiểm tra Toán của một lớp 10A gồm 20 học sinh:
+7, 8, 6, 9, 8, 7, 10, 8, 6, 9, 7, 8, 9, 10, 7, 8, 9, 6, 8, 9
+
+a) Tính điểm trung bình và độ lệch chuẩn của lớp
+b) Một học sinh được xếp loại "Khá" nếu điểm ≥ điểm trung bình của lớp. Có bao nhiêu học sinh xếp loại "Khá"?
+c) So sánh độ đồng đều về kết quả học tập nếu lớp 10B có cùng điểm trung bình nhưng độ lệch chuẩn là 1,8
+
+**Hướng dẫn sinh đề:**
+- Sử dụng thang điểm 10, số liệu từ 5-10
+- Tạo phân phối tương đối đều
+- Kết hợp với việc phân loại học sinh
+- So sánh giữa hai tập dữ liệu
+
+#### **Dạng 3: Ứng dụng vào y tế - sức khỏe**
+
+**Mẫu câu hỏi:**
+Cân nặng (kg) của 18 học sinh nam lớp 10:
+52, 55, 48, 60, 55, 58, 52, 62, 55, 50, 58, 55, 65, 52, 58, 60, 55, 58
+
+a) Tính các tứ phân vị Q₁, Q₂, Q₃
+b) Một học sinh có cân nặng thuộc 25% cao nhất nếu cân nặng ≥ Q₃. Có bao nhiêu học sinh thuộc nhóm này?
+c) Khoảng cân nặng từ Q₁ đến Q₃ chiếm bao nhiêu phần trăm học sinh? Nhận xét về ý nghĩa.
+
+**Hướng dẫn sinh đề:**
+- Chọn số liệu phù hợp độ tuổi
+- Tập trung vào tứ phân vị
+- Liên kết với thống kê mô tả thực tế
+- Yêu cầu nhận xét, phân tích
+
+#### **Dạng 4: So sánh hai mẫu số liệu**
+
+**Mẫu câu hỏi:**
+Thời gian hoàn thành bài kiểm tra (phút) của hai nhóm:
+- Nhóm A: 25, 30, 28, 35, 30, 32, 28, 40, 30, 25, 32, 28, 35, 30, 32
+- Nhóm B: 20, 45, 25, 40, 30, 35, 25, 50, 30, 20, 35, 40, 30, 35, 25
+
+a) Tính trung bình và độ lệch chuẩn của mỗi nhóm
+b) Nhóm nào có thời gian làm bài đồng đều hơn? Vì sao?
+c) Nếu quy định thời gian tối đa là trung bình + độ lệch chuẩn của nhóm tốt hơn, thì quy định đó là bao nhiêu?
+
+### III. TIÊU CHÍ ĐÁNH GIÁ ĐỀ VẬN DỤNG
+
+**✓ Về nội dung:**
+- Số liệu thực tế, gần gũi với học sinh
+- Kết hợp 2-3 số đặc trưng trong một câu
+- Có yêu cầu phân tích, so sánh, nhận xét
+
+**✓ Về mức độ:**
+- Cần 2-3 bước tính toán
+- Không chỉ tính mà còn ứng dụng kết quả
+- Kết hợp với kiến thức thực tế
+
+**✓ Về kỹ thuật:**
+- 12-20 số liệu cho mỗi mẫu
+- Số liệu có độ phức tạp vừa phải
+- Kết quả tính toán không quá phức tạp
+- Có thể dùng máy tính cầm tay
+
+### IV. LƯU Ý KHI SINH ĐỀ
+
+1. **Chọn bối cảnh phù hợp:** Kinh tế, giáo dục, thể thao, y tế
+2. **Cân bằng độ khó:** Không quá dễ nhưng phù hợp với học sinh giỏi
+3. **Tính thực tế:** Số liệu phải hợp lý với bối cảnh
+4. **Đa dạng yêu cầu:** Tính toán + phân tích + ứng dụng
+5. **Kiểm tra đáp án:** Đảm bảo có đáp án chính xác và hợp lý

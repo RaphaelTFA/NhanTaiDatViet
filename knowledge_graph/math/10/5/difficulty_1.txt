@@ -1,0 +1,112 @@
+# HƯỚNG DẪN SINH ĐỀ MỨC NHẬN BIẾT
+## Chủ đề: Các số đặc trưng của mẫu số liệu không ghép nhóm - Lớp 10
+
+## I. KIẾN THỨC CƠ BẢN CẦN KIỂM TRA
+
+### 1. Các khái niệm cần nhận biết:
+- **Số trung bình cộng**: $\bar{x} = \frac{x_1 + x_2 + ... + x_n}{n}$
+- **Trung vị (Median)**: Giá trị đứng giữa khi sắp xếp dữ liệu theo thứ tự tăng dần
+- **Mốt (Mode)**: Giá trị xuất hiện nhiều nhất trong mẫu
+- **Tứ phân vị**: Q₁, Q₂, Q₃
+- **Phương sai**: $s^2 = \frac{1}{n}\sum_{i=1}^{n}(x_i - \bar{x})^2$
+- **Độ lệch chuẩn**: $s = \sqrt{s^2}$
+
+### 2. Tính chất cơ bản:
+- Q₂ = Trung vị
+- Mốt có thể không tồn tại hoặc có nhiều mốt
+- Độ lệch chuẩn luôn không âm
+
+## II. CÁC DẠNG CÂU HỎI MỨC NHẬN BIẾT
+
+### **DẠNG 1: Tính số trung bình cộng**
+
+**Khung câu hỏi:**
+- "Tính số trung bình cộng của mẫu số liệu: [dữ liệu đơn giản]"
+- Cho 5-7 số, yêu cầu tính trực tiếp
+
+**Ví dụ mẫu:**
+*Tính số trung bình cộng của mẫu số liệu: 2, 4, 6, 8, 10*
+A. 5    B. 6    C. 7    D. 8
+
+### **DẠNG 2: Xác định trung vị**
+
+**Khung câu hỏi:**
+- "Tìm trung vị của mẫu số liệu: [dữ liệu đã sắp xếp hoặc dễ sắp xếp]"
+- Cho số lẻ phần tử để dễ xác định
+
+**Ví dụ mẫu:**
+*Trung vị của mẫu số liệu: 1, 3, 5, 7, 9 là:*
+A. 3    B. 5    C. 7    D. 9
+
+### **DẠNG 3: Nhận biết mốt**
+
+**Khung câu hỏi:**
+- "Xác định mốt của mẫu số liệu: [dữ liệu có giá trị lặp rõ ràng]"
+- Thiết kế để có một giá trị xuất hiện nhiều nhất rõ ràng
+
+**Ví dụ mẫu:**
+*Mốt của mẫu số liệu: 2, 3, 3, 4, 5, 3, 6 là:*
+A. 2    B. 3    C. 4    D. 5
+
+### **DẠNG 4: Tính phương sai đơn giản**
+
+**Khung câu hỏi:**
+- "Tính phương sai của mẫu số liệu: [3-4 số đơn giản]"
+- Cho dữ liệu để phép tính không quá phức tạp
+
+**Ví dụ mẫu:**
+*Phương sai của mẫu số liệu: 1, 3, 5 là:*
+A. 2    B. 8/3    C. 3    D. 4
+
+### **DẠNG 5: Nhận biết công thức**
+
+**Khung câu hỏi:**
+- "Công thức tính [số đặc trưng] là gì?"
+- Yêu cầu chọn công thức đúng trong các lựa chọn
+
+**Ví dụ mẫu:**
+*Công thức tính độ lệch chuẩn là:*
+A. $s = \sqrt{\frac{1}{n}\sum(x_i - \bar{x})^2}$
+B. $s = \frac{1}{n}\sum(x_i - \bar{x})^2$
+C. $s = \frac{1}{n}\sum x_i$
+D. $s = \sqrt{\frac{1}{n}\sum x_i}$
+
+## III. NGUYÊN TẮC THIẾT KẾ
+
+### **1. Về dữ liệu:**
+- Sử dụng 3-7 số liệu
+- Các số nguyên dương, đơn giản (1-20)
+- Tránh số thập phân phức tạp
+- Kết quả tính toán là số "đẹp"
+
+### **2. Về độ khó:**
+- Chỉ yêu cầu áp dụng trực tiếp công thức
+- Không cần biến đổi hay tính toán phức tạp
+- Các phép tính cơ bản (cộng, trừ, nhân, chia đơn giản)
+
+### **3. Về đáp án:**
+- 4 lựa chọn rõ ràng, khác biệt
+- Các đáp án sai thường là kết quả tính sai công thức hoặc tính sai số học đơn giản
+- Tránh đáp án quá gần nhau
+
+## IV. MẪU CÂU HỎI HOÀN CHỈNH
+
+**Câu 1:** Cho mẫu số liệu: 2, 4, 6, 8. Số trung bình cộng của mẫu là:
+A. 4    B. 5    C. 6    D. 7
+
+**Câu 2:** Trung vị của mẫu số liệu: 10, 20, 30, 40, 50 là:
+A. 20    B. 30    C. 40    D. 25
+
+**Câu 3:** Cho biết mốt của mẫu số liệu: 1, 2, 2, 3, 4, 2, 5
+A. 1    B. 2    C. 3    D. 5
+
+**Câu 4:** Phương sai của mẫu số liệu: 0, 2, 4 là:
+A. 2    B. 8/3    C. 3    D. 4
+
+**Câu 5:** Độ lệch chuẩn được tính bằng:
+A. Căn bậc hai của phương sai
+B. Bình phương của phương sai  
+C. Hai lần phương sai
+D. Nghịch đảo của phương sai
+
+*Đáp án: 1-B, 2-B, 3-B, 4-B, 5-A*

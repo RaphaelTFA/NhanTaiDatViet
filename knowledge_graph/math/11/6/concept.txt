@@ -1,0 +1,82 @@
+# TÓM TẮT CHƯƠNG VI: HÀM SỐ MŨ VÀ HÀM SỐ LOGARIT (TOÁN 11 - KNTT)
+
+## I. HÀM SỐ MŨ
+
+### 1. Định nghĩa
+- **Hàm số mũ** với cơ số a (a > 0, a ≠ 1) là hàm số có dạng: **y = aˣ**
+- Tập xác định: **D = ℝ**
+- Tập giá trị: **T = (0; +∞)**
+
+### 2. Tính chất
+- Khi **a > 1**: Hàm số đồng biến trên ℝ
+- Khi **0 < a < 1**: Hàm số nghịch biến trên ℝ
+- Đồ thị luôn đi qua điểm (0; 1) và (1; a)
+- Tiệm cận ngang: y = 0
+
+### 3. Công thức cần nhớ
+- aˣ · aʸ = aˣ⁺ʸ
+- aˣ : aʸ = aˣ⁻ʸ
+- (aˣ)ʸ = aˣʸ
+- (ab)ˣ = aˣ · bˣ
+
+## II. HÀM SỐ LOGARIT
+
+### 1. Định nghĩa logarit
+- **log_a b = c** ⟺ **aᶜ = b** (với a > 0, a ≠ 1, b > 0)
+- **Logarit thập phân**: lg x = log₁₀ x
+- **Logarit tự nhiên**: ln x = log_e x (e ≈ 2,718)
+
+### 2. Tính chất của logarit
+- log_a a = 1
+- log_a 1 = 0
+- log_a (M·N) = log_a M + log_a N
+- log_a (M/N) = log_a M - log_a N
+- log_a Mⁿ = n·log_a M
+- **Công thức đổi cơ số**: log_a b = (log_c b)/(log_c a)
+
+### 3. Hàm số logarit
+- **Định nghĩa**: y = log_a x (a > 0, a ≠ 1)
+- **Tập xác định**: D = (0; +∞)
+- **Tập giá trị**: T = ℝ
+- **Tính chất**:
+  - Khi a > 1: Hàm số đồng biến
+  - Khi 0 < a < 1: Hàm số nghịch biến
+  - Đồ thị đi qua (1; 0) và (a; 1)
+  - Tiệm cận đứng: x = 0
+
+## III. PHƯƠNG TRÌNH MŨ VÀ LOGARIT
+
+### 1. Phương trình mũ cơ bản
+- **aˣ = b**:
+  - Nếu b ≤ 0: vô nghiệm
+  - Nếu b > 0: x = log_a b
+
+### 2. Phương trình logarit cơ bản
+- **log_a x = b**: x = aᵇ (x > 0)
+
+### 3. Các dạng phương trình thường gặp
+- aˣ = aʸ ⟺ x = y
+- log_a x = log_a y ⟺ x = y > 0
+- Đặt ẩn phụ: t = aˣ hoặc t = log_a x
+
+## IV. BẤT PHƯƠNG TRÌNH MŨ VÀ LOGARIT
+
+### 1. Bất phương trình mũ
+- Nếu a > 1: aˣ > aʸ ⟺ x > y
+- Nếu 0 < a < 1: aˣ > aʸ ⟺ x < y
+
+### 2. Bất phương trình logarit
+- Nếu a > 1: log_a x > log_a y ⟺ 0 < y < x
+- Nếu 0 < a < 1: log_a x > log_a y ⟺ 0 < x < y
+
+## V. DẠNG BÀI TẬP CHÍNH
+
+1. **Tính giá trị biểu thức** chứa lũy thừa và logarit
+2. **Vẽ đồ thị** hàm số mũ và logarit
+3. **Giải phương trình** mũ và logarit
+4. **Giải bất phương trình** mũ và logarit
+5. **Bài toán thực tế** về tăng trưởng, phân rã phọng xạ
+6. **Tìm tập xác định** của hàm số chứa mũ và logarit
+7. **Chứng minh** các đẳng thức logarit
+
+**Lưu ý**: Luôn chú ý điều kiện xác định khi giải các bài toán về logarit (biểu thức trong logarit phải dương).

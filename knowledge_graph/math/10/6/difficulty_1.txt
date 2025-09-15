@@ -1,0 +1,136 @@
+# HƯỚNG DẪN SINH ĐỀ MỨC NHẬN BIẾT
+## Chủ đề: Hàm số, đồ thị và ứng dụng - Lớp 10
+
+## I. KIẾN THỨC CẦN KIỂM TRA
+
+### 1. Định nghĩa hàm số
+- Khái niệm hàm số
+- Cách cho hàm số (bảng, công thức, đồ thị)
+- Tập xác định, tập giá trị
+
+### 2. Tính chất hàm số
+- Hàm số đồng biến, nghịch biến
+- Hàm số chẵn, lẻ
+- Cực trị của hàm số
+
+### 3. Các hàm số cơ bản
+- Hàm số bậc nhất: y = ax + b
+- Hàm số bậc hai: y = ax² + bx + c
+- Đồ thị và tính chất
+
+## II. CẤU TRÚC SINH ĐỀ
+
+### A. DẠNG TRẮC NGHIỆM (70%)
+
+#### **Dạng 1: Định nghĩa và khái niệm cơ bản**
+
+**Mẫu câu hỏi:**
+- "Cho biết điều kiện để một hàm số được gọi là hàm số chẵn"
+- "Xác định tập xác định của hàm số y = √(x-1)"
+- "Nhận biết đồ thị nào sau đây là đồ thị của hàm số"
+
+**Cách sinh đề:**
+```
+Câu 1: Hàm số y = f(x) được gọi là hàm số lẻ khi:
+A. f(-x) = f(x) với mọi x ∈ D
+B. f(-x) = -f(x) với mọi x ∈ D  ✓
+C. f(x) > 0 với mọi x ∈ D
+D. f(x) < 0 với mọi x ∈ D
+```
+
+#### **Dạng 2: Tập xác định**
+
+**Mẫu câu hỏi:**
+- "Tìm tập xác định của hàm số y = 1/(x-2)"
+- "Xác định tập xác định của hàm số y = √(3-x)"
+
+**Cách sinh đề:**
+```
+Câu 2: Tập xác định của hàm số y = 1/(x-3) là:
+A. ℝ\{3}  ✓
+B. ℝ\{0}
+C. ℝ
+D. (3;+∞)
+```
+
+#### **Dạng 3: Tính chất hàm số bậc nhất**
+
+**Mẫu câu hỏi:**
+- "Cho biết tính đồng biến, nghịch biến của hàm số y = 2x + 1"
+- "Xác định hệ số góc của đường thẳng y = -3x + 5"
+
+**Cách sinh đề:**
+```
+Câu 3: Hàm số y = -2x + 3 có tính chất:
+A. Đồng biến trên ℝ
+B. Nghịch biến trên ℝ  ✓
+C. Không đổi trên ℝ
+D. Vừa đồng biến vừa nghịch biến
+```
+
+#### **Dạng 4: Hàm số bậc hai**
+
+**Mẫu câu hỏi:**
+- "Tìm tọa độ đỉnh của parabol y = x² - 2x + 1"
+- "Cho biết hướng bề lõm của parabol y = -x² + 3x - 2"
+
+**Cách sinh đề:**
+```
+Câu 4: Parabol y = x² - 4x + 3 có đỉnh tại điểm:
+A. (2; -1)  ✓
+B. (-2; 1)
+C. (4; 3)
+D. (0; 3)
+```
+
+### B. DẠNG TỰ LUẬN (30%)
+
+#### **Dạng 1: Tính giá trị hàm số**
+
+**Mẫu câu hỏi:**
+```
+Câu 5: Cho hàm số f(x) = x² + 2x - 1
+a) Tính f(1), f(-2)
+b) Tìm x để f(x) = 2
+```
+
+#### **Dạng 2: Xét tính chất hàm số**
+
+**Mẫu câu hỏi:**
+```
+Câu 6: Cho hàm số y = -3x + 2
+a) Xác định tập xác định của hàm số
+b) Cho biết tính đồng biến hay nghịch biến của hàm số
+```
+
+## III. BẢNG ĐẶC TẢ ĐỀ KIỂM TRA
+
+| **Nội dung** | **Số câu TN** | **Số câu TL** | **Tỷ lệ %** |
+|--------------|---------------|---------------|-------------|
+| Định nghĩa hàm số | 2 | 0 | 20% |
+| Tập xác định | 2 | 1 | 25% |
+| Hàm số bậc nhất | 2 | 1 | 25% |
+| Hàm số bậc hai | 2 | 1 | 25% |
+| Tính chất hàm số | 1 | 0 | 5% |
+
+## IV. GỢI Ý TẠO BIẾN THỂ
+
+### 1. Thay đổi hệ số trong công thức
+- y = 2x + 3 → y = -3x + 5
+- y = x² - 4x + 1 → y = 2x² + 6x - 3
+
+### 2. Thay đổi dạng biểu thức
+- y = 1/(x-2) → y = 1/(2x+1)
+- y = √(x-1) → y = √(3-2x)
+
+### 3. Thay đổi giá trị cụ thể
+- Tính f(1) → Tính f(-2)
+- Tìm x để f(x) = 0 → Tìm x để f(x) = 5
+
+## V. LƯU Ý KHI SINH ĐỀ
+
+1. **Đảm bảo tính đơn giản:** Chỉ yêu cầu áp dụng trực tiếp định nghĩa
+2. **Câu hỏi rõ ràng:** Tránh gây nhầm lẫn cho học sinh
+3. **Đáp án khác biệt:** Các phương án trong trắc nghiệm dễ phân biệt
+4. **Kiểm tra cơ bản:** Tập trung vào kiến thức nền tảng
+5. **Phù hợp thời gian:** Học sinh có thể hoàn thành trong thời gian quy định

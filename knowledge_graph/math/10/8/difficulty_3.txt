@@ -1,0 +1,115 @@
+# HƯỚNG DẪN SINH ĐỀ TOÁN LỚP 10 - ĐẠI SỐ TỔ HỢP (MỨC VẬN DỤNG)
+
+## I. KHUNG CẤU TRÚC ĐỀ
+
+### 1. Phân bố nội dung:
+- **Hoán vị, chỉnh hợp**: 30%
+- **Tổ hợp**: 40%  
+- **Nhị thức Newton**: 20%
+- **Ứng dụng thực tế**: 10%
+
+### 2. Dạng bài tập chính:
+- Bài toán đếm có điều kiện
+- Ứng dụng vào xác suất cơ bản
+- Kết hợp với hình học, số học
+- Tình huống thực tế
+
+## II. CÁC DẠNG CÂU HỎI VẬN DỤNG
+
+### **Dạng 1: Bài toán sắp xếp có điều kiện phức tạp**
+
+**Ví dụ mẫu:**
+Một đội tuyển bóng rổ gồm 12 cầu thủ trong đó có 3 trung phong, 4 hậu vệ và 5 tiền đạo. Huấn luyện viên cần chọn 5 cầu thủ ra sân sao cho có ít nhất 1 trung phong và không quá 2 hậu vệ. Hỏi có bao nhiêu cách chọn?
+
+**Hướng dẫn sinh đề:**
+- Sử dụng tình huống thể thao, học tập
+- Đặt điều kiện "ít nhất", "không quá"
+- Yêu cầu sử dụng phương pháp bù trừ
+- Kết hợp nhiều bước tính toán
+
+### **Dạng 2: Ứng dụng vào xác suất**
+
+**Ví dụ mẫu:**
+Trong một hộp có 15 viên bi gồm 6 viên đỏ, 5 viên xanh và 4 viên vàng. Lấy ngẫu nhiên 4 viên bi. Tính xác suất để trong 4 viên bi được chọn có đủ cả 3 màu và số bi đỏ nhiều nhất.
+
+**Hướng dẫn sinh đề:**
+- Kết hợp tổ hợp với xác suất cơ bản
+- Điều kiện "đủ cả 3 màu" và "nhiều nhất"
+- Yêu cầu phân tích từng trường hợp
+- Số liệu vừa phải, dễ tính toán
+
+### **Dạng 3: Nhị thức Newton ứng dụng**
+
+**Ví dụ mẫu:**
+Một công ty dự định mở rộng 8 chi nhánh mới. Xác suất thành công của mỗi chi nhánh là 0,8. Sử dụng khai triển nhị thức, tính xác suất để có đúng 6 chi nhánh thành công. Biết rằng các chi nhánh hoạt động độc lập.
+
+**Hướng dẫn sinh đề:**
+- Liên kết với phân phối nhị thức
+- Sử dụng tình huống kinh doanh thực tế
+- Xác suất cụ thể, dễ tính toán
+- Kết hợp với số thập phân
+
+### **Dạng 4: Bài toán đếm kết hợp hình học**
+
+**Ví dụ mẫu:**
+Trên mặt phẳng tọa độ, cho 5 điểm A(1;2), B(3;1), C(0;4), D(-1;3), E(2;5). Hỏi có thể tạo ra bao nhiêu tam giác có diện tích khác 0 từ 5 điểm đã cho?
+
+**Hướng dẫn sinh đề:**
+- Kết hợp tổ hợp với hình học tọa độ
+- Kiểm tra điều kiện 3 điểm thẳng hàng
+- Sử dụng định thức tính diện tích
+- Tọa độ đơn giản, dễ tính toán
+
+## III. TIÊU CHÍ ĐÁNH GIÁ MỨC ĐỘ
+
+### **Mức độ Vận dụng đạt yêu cầu khi:**
+
+✅ **Về nội dung:**
+- Có ứng dụng thực tế rõ ràng
+- Đòi hỏi 2-3 bước giải quyết
+- Kết hợp ít nhất 2 khái niệm toán học
+- Phù hợp với học sinh giỏi (8-9 điểm)
+
+✅ **Về kỹ năng:**
+- Phân tích được tình huống
+- Chọn được phương pháp phù hợp
+- Thực hiện đúng các bước tính toán
+- Kiểm tra và đánh giá kết quả
+
+## IV. NGÂN HÀNG TÌNH HUỐNG THỰC TẾ
+
+### 1. **Giáo dục:**
+- Xếp lịch thi, phân lớp
+- Chọn đội tuyển học sinh giỏi
+- Sắp xếp thời khóa biểu
+
+### 2. **Thể thao:**
+- Tổ chức giải đấu
+- Chọn đội hình thi đấu
+- Phân chia bảng đấu
+
+### 3. **Công nghệ:**
+- Mật khẩu và bảo mật
+- Kết nối mạng
+- Thuật toán sắp xếp
+
+### 4. **Kinh doanh:**
+- Kế hoạch kinh doanh
+- Quản lý nhân sự
+- Phân tích thị trường
+
+## V. LƯU Ý KHI SINH ĐỀ
+
+### **Cần tránh:**
+- Số liệu quá lớn, khó tính toán
+- Tình huống quá phức tạp, xa lạ
+- Chỉ thuần túy áp dụng công thức
+- Thiếu tính thực tế
+
+### **Nên làm:**
+- Sử dụng số liệu hợp lý (≤ 20)
+- Tình huống quen thuộc với học sinh
+- Yêu cầu phân tích, so sánh
+- Kiểm tra tính hợp lý của kết quả
+
+**Mục tiêu:** Tạo ra những bài toán vừa sức, có ý nghĩa thực tế, giúp học sinh thấy được ứng dụng của Đại số tổ hợp trong cuộc sống.

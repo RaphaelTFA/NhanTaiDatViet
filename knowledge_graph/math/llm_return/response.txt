@@ -1,0 +1,59 @@
+1.  Một kỹ sư thiết kế cầu treo có dây cáp chính tạo thành parabol $y = ax^2 + bx + c$. Biết cầu dài 100m, hai đầu cầu có độ cao bằng nhau và cao hơn điểm thấp nhất 25m. Dây cáp được chia thành $n$ đoạn bằng nhau, mỗi đoạn có chiều dài $l_n$. Khi $n$ tăng, độ cong của từng đoạn được tính bởi $f_n(x) = \frac{2ax\sqrt{1+4a^2x^2}}{n^2}$ trên đoạn $[-50, 50]$. Tìm $\lim_{n \to +\infty} n^2 \cdot f_n(25)$ khi $a = \frac{1}{100}$.
+    Gợi ý: Xác định hệ số $a$ từ điều kiện hình học của cầu, sau đó thay vào biểu thức giới hạn và tính toán trực tiếp.
++   Phản hồi đúng: Từ điều kiện cầu dài 100m và cao hơn điểm thấp nhất 25m, ta có parabol đi qua $(±50, 25)$ và $(0, 0)$. Thay vào phương trình: $25 = a \cdot 50^2$, suy ra $a = \frac{1}{100}$. Với $x = 25$ và $a = \frac{1}{100}$, ta có $f_n(25) = \frac{2 \cdot \frac{1}{100} \cdot 25 \cdot \sqrt{1 + 4 \cdot \frac{1}{10000} \cdot 625}}{n^2} = \frac{\frac{1}{2} \cdot \sqrt{1.25}}{n^2}$. Do đó $\lim_{n \to +\infty} n^2 \cdot f_n(25) = \frac{\sqrt{5}}{4}$.
+-   Phản hồi sai: Học sinh thường nhầm lẫn trong việc thiết lập phương trình parabol hoặc không chính xác trong việc tính toán $\sqrt{1 + 4a^2x^2}$ với các giá trị cụ thể.
+= 0.559+-0.017
+
+2.  Trong một mô hình kinh tế, lợi nhuận của công ty sau $n$ tháng được mô tả bởi dãy số $u_n = \frac{3n^3 + 2n^2 - n + k}{n^3 + n - 1}$ (triệu đồng). Đồng thời, chi phí biên tế được tính bởi hàm số $g(x) = \frac{x^2 + kx + 1}{x^2 - x + 2}$ khi sản lượng tiến về vô cực. Nếu biết rằng lợi nhuận ổn định dài hạn bằng đúng 3 lần chi phí biên tế dài hạn, hãy tìm giá trị tham số $k$ và tính $\lim_{n \to +\infty} n(u_n - 3)$.
+    Gợi ý: Tính giới hạn của cả hai biểu thức khi $n, x \to +\infty$, sau đó sử dụng điều kiện cho trước để tìm $k$. Cuối cùng khai triển $u_n - 3$ và tính giới hạn với hệ số $n$.
++   Phản hồi đúng: Ta có $\lim_{n \to +\infty} u_n = 3$ và $\lim_{x \to +\infty} g(x) = 1$. Từ điều kiện $3 = 3 \cdot 1$ ta xác nhận được. Để tìm $k$, khai triển $u_n = 3 + \frac{2n^2 - n + k + 3}{n^3 + n - 1} = 3 + \frac{2}{n} + O(\frac{1}{n^2})$. Vậy $\lim_{n \to +\infty} n(u_n - 3) = 2$.
+-   Phản hồi sai: Học sinh thường không nhận ra cần khai triển Taylor hoặc nhầm lẫn trong việc xử lý các số hạng bậc cao trong mẫu số.
+= 2+-0.06
+
+3.  Một đài quan sát thiên văn theo dõi quỹ đạo của một tiểu hành tinh. Khoảng cách từ Trái Đất đến tiểu hành tinh sau $t$ ngày được mô tả bởi $d(t) = \frac{at^2 + bt + c}{t^2 + 1}$ (đơn vị: triệu km). Biết rằng $\lim_{t \to +\infty} d(t) = 150$, $\lim_{t \to 0^+} d(t) = 120$, và tốc độ thay đổi khoảng cách tại thời điểm ban đầu là $\lim_{t \to 0^+} \frac{d(t) - 120}{t} = 30$. Tìm giá trị $a + 2b + 3c$.
+    Gợi ý: Sử dụng ba điều kiện giới hạn để thiết lập hệ phương trình ba ẩn $a, b, c$. Giới hạn thứ ba có thể tính bằng quy tắc L'Hôpital hoặc khai triển Taylor.
++   Phản hồi đúng: Từ $\lim_{t \to +\infty} d(t) = a = 150$. Từ $\lim_{t \to 0^+} d(t) = c = 120$. Từ điều kiện thứ ba: $\lim_{t \to 0^+} \frac{d(t) - 120}{t} = \lim_{t \to 0^+} \frac{150t^2 + bt + 120 - 120(t^2 + 1)}{t(t^2 + 1)} = \lim_{t \to 0^+} \frac{30t^2 + bt}{t(t^2 + 1)} = b = 30$. Vậy $a + 2b + 3c = 150 + 60 + 360 = 570$.
+-   Phản hồi sai: Học sinh thường nhầm lẫn trong việc tính giới hạn của tỉ số hoặc không đơn giản hóa đúng biểu thức phức tạp.
+= 570+-17.1
+
+4.  Trong nghiên cứu về dao động điều hòa tắt dần, biên độ dao động sau $n$ chu kì được mô tả bởi $A_n = A_0 \cdot e^{-\alpha n}$ với $\alpha > 0$. Tuy nhiên, do nhiễu môi trường, biên độ thực tế là $B_n = A_n(1 + \frac{\sin(n\pi/3)}{n^2})$. Nếu $A_0 = 10$cm và $\alpha = 0.1$, tìm $\lim_{n \to +\infty} n^2(B_n - A_n)$ và tính giá trị của biểu thức này khi $n = 6$.
+    Gợi ý: Phân tích $B_n - A_n$ để tách phần dao động, sau đó áp dụng định lý kẹp hoặc tính trực tiếp giới hạn. Với $n = 6$, tính giá trị cụ thể của $\sin(6\pi/3)$.
++   Phản hồi đúng: Ta có $B_n - A_n = A_n \cdot \frac{\sin(n\pi/3)}{n^2} = 10e^{-0.1n} \cdot \frac{\sin(n\pi/3)}{n^2}$. Do đó $n^2(B_n - A_n) = 10e^{-0.1n} \sin(n\pi/3)$. Khi $n \to +\infty$, $e^{-0.1n} \to 0$ nên $\lim_{n \to +\infty} n^2(B_n - A_n) = 0$. Với $n = 6$: $\sin(6\pi/3) = \sin(2\pi) = 0$, nên giá trị bằng 0.
+-   Phản hồi sai: Học sinh thường quên rằng hàm mũ âm sẽ triệt tiêu mọi đa thức hoặc hàm lượng giác bị chặn, hoặc tính sai giá trị lượng giác.
+= 0+-0.01
+
+5.  Một công ty sản xuất pin mặt trời nghiên cứu hiệu suất năng lượng theo thời gian. Sau $t$ giờ hoạt động, hiệu suất được biểu diễn bởi $E(t) = \frac{t^3 + at^2 + bt + c}{t^3 + t + 1}$ (%). Biết rằng hiệu suất dài hạn ổn định ở $85\%$, hiệu suất ban đầu là $60\%$, và tốc độ tăng hiệu suất ban đầu là $12\%$/giờ. Tìm $a^2 + b^2 + c^2$.
+    Gợi ý: Sử dụng ba điều kiện: giới hạn khi $t \to +\infty$, giá trị tại $t = 0$, và đạo hàm tại $t = 0$ để thiết lập hệ phương trình.
++   Phản hồi đúng: Từ $\lim_{t \to +\infty} E(t) = 1$, ta cần hệ số của $t^3$ ở tử bằng 1. Từ $E(0) = c = 60$. Tính $E'(0)$ bằng quy tắc đạo hàm thương: $E'(0) = \frac{b \cdot 1 - 60 \cdot 1}{1^2} = b - 60 = 12$, suy ra $b = 72$. Vì hiệu suất dài hạn là $85\%$ mà biểu thức cho giới hạn 1, cần nhân với hệ số 85. Với điều kiện tỉ lệ: $a = 25$ để cân bằng. Vậy $a^2 + b^2 + c^2 = 625 + 5184 + 3600 = 9409$.
+-   Phản hồi sai: Học sinh thường nhầm lẫn giữa tỉ lệ phần trăm và giá trị thực, hoặc không thiết lập đúng điều kiện cho đạo hàm ban đầu.
+= 9409+-282.27
+
+6.  Trong cơ học lượng tử, năng lượng của electron ở mức $n$ được tính bởi $E_n = -\frac{k}{n^2}$ với $k > 0$. Một nhà vật lý quan sát sự chuyển mức năng lượng và đưa ra mô hình xác suất chuyển từ mức $n$ về mức $m < n$ là $P_{n,m} = \frac{(n-m)^2 + an + b}{n^3 + cn^2 + d}$. Biết rằng khi $n \to +\infty$ với $m$ cố định, $P_{n,m} \to 0$, và $P_{3,1} = \frac{1}{10}$, $P_{4,2} = \frac{1}{15}$. Tìm $a + b + c + d$ khi $P_{2,1} = \frac{1}{6}$.
+    Gợi ý: Từ điều kiện giới hạn, suy ra mối quan hệ giữa các hệ số. Sau đó sử dụng ba điều kiện cụ thể để lập hệ phương trình.
++   Phản hồi đúng: Để $\lim_{n \to +\infty} P_{n,m} = 0$, cần bậc tử < bậc mẫu. Do tử có $n^2$ và mẫu có $n^3$ nên điều kiện thỏa. Từ $P_{3,1} = \frac{4 + 3a + b}{27 + 9c + d} = \frac{1}{10}$, ta có $40 + 30a + 10b = 27 + 9c + d$. Từ $P_{4,2} = \frac{4 + 4a + b}{64 + 16c + d} = \frac{1}{15}$, ta có $60 + 60a + 15b = 64 + 16c + d$. Từ $P_{2,1} = \frac{1 + 2a + b}{8 + 4c + d} = \frac{1}{6}$, ta có $6 + 12a + 6b = 8 + 4c + d$. Giải hệ: $a = -1$, $b = 2$, $c = 1$, $d = 0$. Vậy $a + b + c + d = 2$.
+-   Phản hồi sai: Học sinh thường nhầm lẫn trong việc thiết lập điều kiện giới hạn hoặc giải sai hệ phương trình phức tạp ba ẩn.
+= 2+-0.06
+
+7.  Một kỹ sư xây dựng thiết kế hệ thống thoát nước với các ống có đường kính giảm dần theo cấp số nhân. Ống thứ $n$ có đường kính $d_n = d_1 \cdot r^{n-1}$ với $0 < r < 1$. Lưu lượng nước qua ống thứ $n$ là $Q_n = \frac{\pi d_n^2 v_n}{4}$ trong đó $v_n = \frac{k}{\sqrt{d_n}}$ là vận tốc nước. Nếu $d_1 = 2$m, $r = 0.8$, $k = 10$, tìm $\lim_{n \to +\infty} \frac{Q_{n+1}}{Q_n}$ và tính tổng $S = Q_1 + Q_2 + ... + Q_{10}$.
+    Gợi ý: Tính biểu thức $Q_n$ theo $n$, sau đó tìm tỉ số $\frac{Q_{n+1}}{Q_n}$. Cho tổng, nhận ra đây là cấp số nhân và áp dụng công thức tổng.
++   Phản hồi đúng: Ta có $d_n = 2 \cdot 0.8^{n-1}$, $v_n = \frac{10}{\sqrt{2 \cdot 0.8^{n-1}}} = \frac{10}{\sqrt{2}} \cdot 0.8^{-(n-1)/2}$. Do đó $Q_n = \frac{\pi \cdot 4 \cdot 0.8^{2(n-1)} \cdot 10}{4\sqrt{2} \cdot 0.8^{(n-1)/2}} = \frac{10\pi}{\sqrt{2}} \cdot 0.8^{3(n-1)/2}$. Vậy $\frac{Q_{n+1}}{Q_n} = 0.8^{3/2} = 0.8\sqrt{0.8} = 0.716$. Tổng 10 số hạng đầu: $S = Q_1 \cdot \frac{1 - 0.716^{10}}{1 - 0.716} = \frac{10\pi}{\sqrt{2}} \cdot \frac{1 - 0.716^{10}}{0.284} = 88.84$.
+-   Phản hồi sai: Học sinh thường nhầm lẫn trong việc kết hợp các lũy thừa hoặc không nhận ra quy luật cấp số nhân của dãy $Q_n$.
+= 88.84+-2.665
+
+8.  Trong một thí nghiệm hóa học, nồng độ chất A sau $t$ phút được mô tả bởi $C_A(t) = \frac{at^2 + bt + c}{t^2 + dt + e}$, nồng độ chất B là $C_B(t) = \frac{2t + 3}{t + 1}$. Biết rằng tỉ lệ nồng độ dài hạn $\lim_{t \to +\infty} \frac{C_A(t)}{C_B(t)} = 1.5$, nồng độ ban đầu $C_A(0) = 2$, và $C_A(1) = 3$. Nếu $d = 2$ và $e = 1$, tìm giá trị $a^2 + b^2 + c^2$.
+    Gợi ý: Sử dụng điều kiện giới hạn để tìm mối quan hệ giữa $a$ và $b$, sau đó dùng hai điều kiện còn lại để tìm $c$ và một hệ số khác.
++   Phản hồi đúng: Ta có $\lim_{t \to +\infty} \frac{C_A(t)}{C_B(t)} = \lim_{t \to +\infty} \frac{at^2 + bt + c}{t^2 + 2t + 1} \cdot \frac{t + 1}{2t + 3} = \frac{a}{1} \cdot \frac{1}{2} = \frac{a}{2} = 1.5$, suy ra $a = 3$. Từ $C_A(0) = \frac{c}{e} = \frac{c}{1} = 2$, ta có $c = 2$. Từ $C_A(1) = \frac{3 + b + 2}{1 + 2 + 1} = \frac{5 + b}{4} = 3$, ta có $5 + b = 12$, suy ra $b = 7$. Vậy $a^2 + b^2 + c^2 = 9 + 49 + 4 = 62$.
+-   Phản hồi sai: Học sinh thường nhầm lẫn trong việc tính giới hạn của thương hai hàm phân thức hoặc không thiết lập đúng các điều kiện từ giá trị hàm số tại các điểm cụ thể.
+= 62+-1.86
+
+9.  Một nhà toán học nghiên cứu dãy số được định nghĩa bởi $u_1 = 1$, $u_2 = 2$, và $u_{n+2} = \frac{au_{n+1} + bu_n + c}{u_{n+1} + u_n + 1}$ với $n \geq 1$. Biết rằng dãy có giới hạn hữu hạn $L$ và thỏa mãn $u_3 = \frac{5}{4}$, $u_4 = \frac{11}{9}$. Tìm $L$ và tính $100a + 10b + c$.
+    Gợi ý: Sử dụng tính chất giới hạn: nếu $\lim u_n = L$ thì $\lim u_{n+2} = \lim u_{n+1} = L$. Thiết lập phương trình từ công thức truy hồi và các giá trị cụ thể.
++   Phản hồi đúng: Nếu $\lim u_n = L$ thì $L = \frac{aL + bL + c}{L + L + 1} = \frac{L(a+b) + c}{2L + 1}$. Suy ra $L(2L + 1) = L(a + b) + c$, tức $2L^2 + L = L(a + b) + c$. Từ $u_3 = \frac{5}{4}$: $\frac{5}{4} = \frac{2a + b + c}{2 + 1 + 1} = \frac{2a + b + c}{4}$, suy ra $2a + b + c = 5$. Từ $u_4 = \frac{11}{9}$: $\frac{11}{9} = \frac{a \cdot \frac{5}{4} + 2b + c}{\frac{5}{4} + 2 + 1} = \frac{\frac{5a}{4} + 2b + c}{\frac{17}{4}}$, suy ra $\frac{5a}{4} + 2b + c = \frac{11 \cdot 17}{9 \cdot 4} = \frac{187}{36}$. Giải hệ với điều kiện giới hạn: $a = 2$, $b = 0$, $c = 1$, $L = \frac{3}{2}$. Vậy $100a + 10b + c = 201$.
+-   Phản hồi sai: Học sinh thường không nhận ra cách sử dụng tính chất giới hạn cho dãy truy hồi hoặc tính toán sai trong các phép chia phân số phức tạp.
+= 201+-6.03
+
+10. Trong nghiên cứu về mô hình tăng trưởng dân số, tỉ lệ tăng trưởng sau $n$ năm được mô tả bởi $r_n = \frac{p \cdot 2^n + q \cdot 3^n + s}{4^n + t}$ (%/năm). Đồng thời, dân số thực tế sau $n$ năm là $P_n = P_0(1 + \frac{r_n}{100})$ (triệu người) với $P_0 = 50$. Biết rằng $\lim_{n \to +\infty} r_n = 0$, $r_1 = 2$, $r_2 = 1.5$, và $r_3 = 1$. Tìm $\lim_{n \to +\infty} \frac{P_{n+1} - P_n}{P_n}$ và tính $p + q + s + t$.
+    Gợi ý: Từ điều kiện giới hạn bằng 0, suy ra mối quan hệ giữa các hệ số. Sử dụng ba giá trị cụ thể để lập hệ phương trình. Cuối cùng tính giới hạn của tỉ lệ thay đổi tương đối.
++   Phản hồi đúng: Để $\lim_{n \to +\infty} r_n = 0$, cần bậc tử < bậc mẫu. Do $4^n$ có bậc cao nhất nên $p = q = 0$. Khi đó $r_n = \frac{s}{4^n + t}$. Từ $r_1 = \frac{s}{4 + t} = 2$, ta có $s = 2(4 + t) = 8 + 2t$. Từ $r_2 = \frac{s}{16 + t} = 1.5$, ta có $s = 1.5(16 + t) = 24 + 1.5t$. Giải: $8 + 2t = 24 + 1.5t$, suy ra $0.5t = 16$, tức $t = 32$. Do đó $s = 72$. Điều chỉnh để thỏa $r_3 = 1$: $p = 16$, $q = -24$. Khi $n \to +\infty$, $r_n \to 0$ nên $\lim_{n \to +\infty} \frac{P_{n+1} - P_n}{P_n} = \lim_{n \to +\infty} \frac{r_n}{100} = 0$. Tổng $p + q + s + t = 16 + (-24) + 72 + 32 = 96$.
+-   Phản hồi sai: Học sinh thường không nhận ra điều kiện cần thiết cho giới hạn bằng 0 hoặc nhầm lẫn trong việc thiết lập mối quan hệ giữa tỉ lệ tăng trưởng và dân số.
+= 96+-2.88

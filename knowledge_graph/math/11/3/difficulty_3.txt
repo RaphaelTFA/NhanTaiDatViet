@@ -1,0 +1,104 @@
+# HƯỚNG DẪN SINH ĐỀ MỨC VẬN DỤNG
+## Chủ đề: Các số đặc trưng đo xu thế trung tâm của mẫu số liệu ghép nhóm
+
+### I. KHUNG KIẾN THỨC CẦN VẬN DỤNG
+
+**1. Công thức cần nhớ:**
+- Số trung bình: $\overline{x} = \frac{\sum_{i=1}^{k} n_i \cdot x_i}{\sum_{i=1}^{k} n_i}$
+- Trung vị (Me): Giá trị chia mẫu thành 2 phần bằng nhau
+- Mốt (Mo): Giá trị xuất hiện nhiều nhất
+
+**2. Kỹ năng cần có:**
+- Xác định nhóm chứa trung vị, mốt
+- Tính toán chính xác với số thập phân
+- Phân tích ý nghĩa thực tế của các số đặc trưng
+
+### II. CẤU TRÚC BÀI TOÁN MỨC VẬN DỤNG
+
+#### **Dạng 1: Bài toán kinh tế - xã hội**
+
+**Ví dụ mẫu:**
+Một công ty khảo sát thu nhập hàng tháng (triệu đồng) của 100 nhân viên:
+
+| Thu nhập | [5;10) | [10;15) | [15;20) | [20;25) | [25;30) |
+|----------|---------|---------|---------|---------|---------|
+| Số người | 15 | 25 | 35 | 20 | 5 |
+
+**Câu hỏi mức Vận dụng:**
+a) Tính thu nhập trung bình của nhân viên
+b) Tìm thu nhập trung vị và giải thích ý nghĩa
+c) Nếu công ty tăng lương 10% cho tất cả nhân viên, hãy tính lại thu nhập trung bình mới
+d) So sánh thu nhập trung bình và trung vị, nhận xét về sự phân bố thu nhập
+
+#### **Dạng 2: Bài toán giáo dục**
+
+**Ví dụ mẫu:**
+Điểm thi môn Toán của 80 học sinh lớp 11:
+
+| Điểm | [0;2) | [2;4) | [4;6) | [6;8) | [8;10] |
+|------|-------|-------|-------|-------|--------|
+| Số HS| 5 | 12 | 28 | 25 | 10 |
+
+**Câu hỏi mức Vận dụng:**
+a) Tính điểm trung bình của lớp
+b) Tìm điểm trung vị và mốt
+c) Nếu thêm 20 học sinh có điểm trong khoảng [8;10], tính lại điểm trung bình
+d) Phân tích mức độ học tập của lớp dựa trên các số đặc trưng
+
+### III. HƯỚNG DẪN SINH ĐỀ CHI TIẾT
+
+#### **Bước 1: Chọn bối cảnh thực tế**
+- **Kinh tế:** Thu nhập, chi tiêu, giá cả, doanh thu
+- **Y tế:** Cân nặng, chiều cao, tuổi thọ, thời gian điều trị
+- **Giáo dục:** Điểm số, thời gian học, số sách đọc
+- **Môi trường:** Nhiệt độ, lượng mưa, chỉ số ô nhiễm
+- **Thể thao:** Thành tích, thời gian tập luyện
+
+#### **Bước 2: Thiết kế bảng số liệu**
+- **Số nhóm:** 4-6 nhóm
+- **Kích thước mẫu:** 50-150 đơn vị
+- **Phân bố:** Không đều, có nhóm chiếm ưu thế
+- **Đơn vị:** Phù hợp với thực tế
+
+#### **Bước 3: Xây dựng câu hỏi theo mức độ**
+
+**Câu a) - Tính số trung bình (2-3 bước):**
+- Tìm giá trị đại diện của mỗi nhóm
+- Áp dụng công thức
+- Diễn giải ý nghĩa
+
+**Câu b) - Tìm trung vị và mốt (3-4 bước):**
+- Xác định vị trí trung vị
+- Tìm nhóm chứa trung vị
+- Nội suy tìm giá trị chính xác
+- Xác định nhóm mốt
+
+**Câu c) - Bài toán tình huống (4-5 bước):**
+- Thay đổi dữ liệu (tăng/giảm, thêm/bớt)
+- Tính toán lại các số đặc trưng
+- So sánh với kết quả ban đầu
+
+**Câu d) - Phân tích và nhận xét:**
+- So sánh các số đặc trưng
+- Rút ra kết luận về dữ liệu
+- Đưa ra khuyến nghị thực tế
+
+### IV. MẪU ĐỀ HOÀN CHỈNH
+
+**Bài toán:** Khảo sát thời gian sử dụng điện thoại (giờ/ngày) của 120 học sinh:
+
+| Thời gian (giờ) | [0;2) | [2;4) | [4;6) | [6;8) | [8;10] |
+|-----------------|-------|-------|-------|-------|--------|
+| Số học sinh     | 10    | 30    | 45    | 25    | 10     |
+
+**Câu hỏi:**
+a) Tính thời gian sử dụng điện thoại trung bình của học sinh
+b) Tìm thời gian sử dụng trung vị và nhóm mốt
+c) Nếu 20 học sinh sử dụng ít nhất chuyển sang nhóm [2;4), tính lại thời gian trung bình
+d) Dựa vào kết quả, hãy nhận xét về thói quen sử dụng điện thoại của học sinh và đưa ra khuyến nghị
+
+### V. TIÊU CHÍ ĐÁNH GIÁ
+- **Tính toán chính xác:** 40%
+- **Áp dụng công thức đúng:** 30%
+- **Phân tích, nhận xét:** 20%
+- **Trình bày logic:** 10%

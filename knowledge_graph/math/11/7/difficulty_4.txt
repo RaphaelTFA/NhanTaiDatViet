@@ -1,0 +1,129 @@
+# HƯỚNG DẪN SINH ĐỀ VẬN DỤNG CAO
+## Chủ đề: Quan hệ vuông góc trong không gian - Lớp 11
+
+### I. KHUNG KIẾN THỨC CẦN VẬN DỤNG
+
+**Kiến thức chủ đạo:**
+- Đường thẳng vuông góc với mặt phẳng
+- Mặt phẳng vuông góc với mặt phẳng
+- Góc giữa đường thẳng và mặt phẳng
+- Khoảng cách từ điểm đến mặt phẳng
+
+**Kiến thức tích hợp:**
+- Hình học không gian (hình chóp, hình lăng trụ)
+- Tỷ số lượng giác
+- Phương pháp tọa độ trong không gian
+- Quan hệ song song trong không gian
+
+### II. CÁC DẠNG BÀI VẬN DỤNG CAO
+
+#### **DẠNG 1: Tổng hợp quan hệ vuông góc trong hình chóp**
+
+**Cấu trúc đề:**
+Cho hình chóp S.ABCD có đáy ABCD là hình vuông cạnh a. SA ⊥ (ABCD), SA = h.
+1. Chứng minh các quan hệ vuông góc
+2. Tính góc giữa đường thẳng và mặt phẳng
+3. Tìm điều kiện để hai mặt phẳng vuông góc
+4. Xác định vị trí điểm M để thỏa mãn điều kiện cho trước
+
+**Ví dụ cụ thể:**
+```
+Cho hình chóp S.ABCD có đáy ABCD là hình thoi cạnh a, ∠BAD = 60°. 
+SA ⊥ (ABCD), SA = a√3.
+a) Chứng minh BD ⊥ (SAC)
+b) Tính góc giữa SC và mặt phẳng (ABCD)
+c) Xác định vị trí điểm M trên cạnh SC sao cho góc giữa BM và 
+   mặt phẳng (ABCD) bằng 30°
+d) Tính khoảng cách từ A đến mặt phẳng (SBD)
+```
+
+#### **DẠNG 2: Bài toán tối ưu hóa với ràng buộc vuông góc**
+
+**Cấu trúc đề:**
+```
+Cho hình lăng trụ đứng ABC.A'B'C' có đáy ABC là tam giác vuông tại A,
+AB = 3a, AC = 4a, AA' = 5a.
+a) Chứng minh (ABC) ⊥ (ABB'A')
+b) Gọi M là điểm thuộc cạnh BB'. Tìm vị trí của M sao cho:
+   - AM ⊥ B'C
+   - Khoảng cách từ M đến mặt phẳng (A'BC) đạt giá trị nhỏ nhất
+c) Xác định mặt phẳng (P) qua A, vuông góc với BC sao cho 
+   thiết diện của (P) với hình lăng trụ có diện tích lớn nhất
+```
+
+#### **DẠNG 3: Bài toán chứng minh và tính toán phức hợp**
+
+**Cấu trúc đề:**
+```
+Cho tứ diện ABCD có AB = CD = a, AC = BD = b, AD = BC = c.
+a) Chứng minh rằng AB ⊥ CD, AC ⊥ BD, AD ⊥ BC
+b) Gọi O là giao điểm của các đường thẳng qua trung điểm 
+   của các cặp cạnh đối diện. Chứng minh O là tâm của tứ diện.
+c) Xác định điều kiện của a, b, c để:
+   - Mặt phẳng (ABC) ⊥ (ACD)
+   - Góc giữa hai mặt phẳng (ABC) và (BCD) bằng 60°
+d) Tính thể tích tứ diện theo a, b, c
+```
+
+### III. PHƯƠNG PHÁP SINH ĐỀ CHI TIẾT
+
+#### **Bước 1: Chọn hình khối cơ sở**
+- Hình chóp có đáy đặc biệt (tam giác đều, vuông, hình vuông, thoi...)
+- Hình lăng trụ đứng/xiên
+- Tứ diện đặc biệt
+
+#### **Bước 2: Thiết lập điều kiện vuông góc ban đầu**
+- Cạnh bên vuông góc với đáy
+- Hai mặt bên vuông góc nhau
+- Đường chéo vuông góc với mặt phẳng
+
+#### **Bước 3: Xây dựng chuỗi câu hỏi tăng dần độ khó**
+
+**Câu a) - Chứng minh quan hệ vuông góc (25%):**
+- Chứng minh đường thẳng vuông góc mặt phẳng
+- Chứng minh hai mặt phẳng vuông góc
+- Sử dụng định lý ba đường vuông góc
+
+**Câu b) - Tính góc và khoảng cách (35%):**
+- Góc giữa đường thẳng và mặt phẳng
+- Góc giữa hai mặt phẳng
+- Khoảng cách từ điểm đến mặt phẳng
+
+**Câu c) - Bài toán tìm vị trí/điều kiện (25%):**
+- Tìm điểm thỏa mãn điều kiện cho trước
+- Xác định tham số để có quan hệ vuông góc
+- Bài toán cực trị có ràng buộc
+
+**Câu d) - Tổng hợp và mở rộng (15%):**
+- Kết hợp với tính thể tích
+- Bài toán ngược
+- Ứng dụng thực tế
+
+### IV. TIÊU CHÍ ĐÁNH GIÁ MỨC VẬN DỤNG CAO
+
+✅ **Đạt chuẩn khi:**
+- Kết hợp ≥3 định lý/tính chất vuông góc
+- Cần ≥4 bước suy luận logic
+- Vận dụng kiến thức từ ≥2 chương khác nhau
+- Có yếu tố sáng tạo trong cách tiếp cận
+- Đòi hỏi phân tích hình học không gian sâu
+
+❌ **Chưa đạt khi:**
+- Chỉ áp dụng trực tiếp công thức
+- Bài toán có thể giải bằng 1-2 bước đơn giản
+- Không có yếu tố tích hợp kiến thức
+- Thiếu tính logic trong chuỗi câu hỏi
+
+### V. MẪU ĐỀ HOÀN CHỈNH
+
+**Bài toán:** Cho hình chóp S.ABCD có đáy ABCD là hình thang vuông tại A và D, AB = 2a, AD = DC = a, SA ⊥ (ABCD), SA = a√2.
+
+a) Chứng minh SC ⊥ BD và tính góc giữa SB và mặt phẳng (ABCD).
+
+b) Gọi M là trung điểm của SC. Chứng minh AM ⊥ (SBD).
+
+c) Xác định vị trí điểm N trên cạnh SD sao cho mặt phẳng (AMN) vuông góc với mặt phẳng (SBC).
+
+d) Tính thể tích khối tứ diện SAMN khi N thỏa mãn điều kiện câu c).
+
+**Đáp án và hướng dẫn giải chi tiết được cung cấp kèm theo.**

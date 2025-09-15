@@ -1,0 +1,137 @@
+# HƯỚNG DẪN SINH ĐỀ VẬN DỤNG CAO - QUAN HỆ SONG SONG TRONG KHÔNG GIAN
+
+## I. KHUNG KIẾN THỨC CẦN VẬN DỤNG
+
+### 1. Kiến thức chủ đạo (Quan hệ song song):
+- Đường thẳng song song với mặt phẳng
+- Hai mặt phẳng song song
+- Tính chất của đường thẳng và mặt phẳng song song
+- Định lý Thales trong không gian
+
+### 2. Kiến thức tích hợp:
+- Hình học không gian cơ bản (hình chóp, lăng trụ)
+- Tỉ số thể tích
+- Quan hệ vuông góc trong không gian
+- Vector và tọa độ trong không gian
+
+## II. CÁC DẠNG BÀI VẬN DỤNG CAO
+
+### DẠNG 1: CHỨNG MINH QUAN HỆ SONG SONG PHỨC HỢP
+
+**Cấu trúc đề:**
+```
+Cho hình chóp S.ABCD có đáy ABCD là hình bình hành. Gọi M, N, P, Q lần lượt là các điểm trên SA, SB, SC, SD sao cho SM/SA = SN/SB = k, SP/SC = SQ/SD = m (với k ≠ m).
+
+a) Chứng minh rằng các đường thẳng MN và PQ song song với nhau.
+b) Tìm điều kiện của k và m để mặt phẳng (MNPQ) song song với mặt phẳng (ABCD).
+c) Khi mặt phẳng (MNPQ) song song với (ABCD), tính tỉ số thể tích V_{S.MNPQ}/V_{S.ABCD}.
+```
+
+**Điểm vận dụng cao:**
+- Kết hợp định lý Thales với tính chất hình bình hành
+- Phân tích điều kiện song song của hai mặt phẳng
+- Tích hợp tính toán tỉ số thể tích
+
+### DẠNG 2: BÀI TOÁN CỰC TRỊ KẾT HỢP SONG SONG
+
+**Cấu trúc đề:**
+```
+Cho tứ diện ABCD. Một mặt phẳng (P) di động song song với (ABC) và cắt các cạnh DA, DB, DC tại M, N, P sao cho DA/DM = DB/DN = DC/DP = t (t > 1).
+
+a) Chứng minh tam giác MNP đồng dạng với tam giác ABC.
+b) Gọi S₁, S₂ lần lượt là diện tích tam giác MNP và ABC. Tính S₁/S₂ theo t.
+c) Tìm vị trí của mặt phẳng (P) để chu vi tam giác MNP bằng một nửa chu vi tam giác ABC.
+```
+
+**Điểm vận dụng cao:**
+- Kết hợp quan hệ song song với hình học phẳng (đồng dạng)
+- Vận dụng tỉ số đồng dạng trong không gian
+- Giải phương trình chứa tham số hình học
+
+### DẠNG 3: BÀI TOÁN TỔNG HỢP VỚI VECTOR
+
+**Cấu trúc đề:**
+```
+Trong không gian Oxyz, cho bốn điểm A(1;0;0), B(0;2;0), C(0;0;3), D(1;1;1).
+
+a) Chứng minh AB không song song với CD.
+b) Tìm điểm M trên đường thẳng AB và điểm N trên đường thẳng CD sao cho MN song song với mặt phẳng (Oxy).
+c) Trong tất cả các vị trí của M, N như trên, tìm vị trí để độ dài MN nhỏ nhất.
+```
+
+**Điểm vận dụng cao:**
+- Kết hợp hình học không gian với tọa độ
+- Sử dụng điều kiện song song qua vector
+- Bài toán tối ưu trong không gian
+
+## III. CÁC BƯỚC SINH ĐỀ CHI TIẾT
+
+### BƯỚC 1: Chọn khung hình học
+- **Hình cơ bản:** Hình chóp tam giác/tứ giác, lăng trụ, tứ diện
+- **Điểm đặc biệt:** Tạo các điểm chia đoạn theo tỉ số, giao điểm của đường và mặt
+
+### BƯỚC 2: Thiết kế mối quan hệ phức tạp
+```
+Ví dụ framework:
+1. Cho hình chóp S.ABC với các điều kiện ban đầu
+2. Tạo các điểm M, N, P theo quy luật parametric
+3. Yêu cầu chứng minh/tính toán quan hệ song song
+4. Kết hợp với bài toán cực trị hoặc tối ưu
+```
+
+### BƯỚC 3: Tạo câu hỏi phân tích tổng hợp
+
+**Mức độ 1 (Nhận biết trong bối cảnh phức tạp):**
+```
+"Chứng minh rằng đường thẳng... song song với mặt phẳng..."
+```
+
+**Mức độ 2 (Phân tích điều kiện):**
+```
+"Tìm điều kiện của tham số k để... song song với..."
+```
+
+**Mức độ 3 (Tổng hợp và tối ưu):**
+```
+"Trong tất cả các vị trí thỏa mãn điều kiện song song, tìm vị trí để... đạt giá trị..."
+```
+
+### BƯỚC 4: Thiết kế hệ thống con đường giải
+
+**Con đường 1:** Sử dụng định lý Thales không gian
+**Con đường 2:** Sử dụng vector và tọa độ
+**Con đường 3:** Sử dụng tính chất giao tuyến
+
+## IV. MẪU ĐỀ HOÀN CHỈNH
+
+### BÀI TOÁN MẪU:
+
+**Cho hình chóp S.ABCD có đáy ABCD là hình thang với AB // CD và AB = 2CD. Gọi M là trung điểm SA, N là điểm trên SB sao cho SN = (2/3)SB.**
+
+**a)** Chứng minh rằng đường thẳng MN song song với mặt phẳng (SCD).
+
+**b)** Mặt phẳng qua M, N và song song với CD cắt SC, SD tại P, Q. Chứng minh MNPQ là hình thang.
+
+**c)** Tính tỉ số diện tích của hình thang MNPQ và tam giác SCD.
+
+**d)** Tìm vị trí điểm K trên SC sao cho mặt phẳng (MNK) chia khối chóp S.ABCD thành hai phần có tỉ số thể tích bằng 2:3.
+
+### HƯỚNG DẪN GIẢI CHO GIÁO VIÊN:
+
+**Ý a:** Sử dụng định lý Thales và tính chất hình thang
+**Ý b:** Áp dụng tính chất mặt phẳng song song với đường thẳng
+**Ý c:** Kết hợp tỉ số đồng dạng trong không gian
+**Ý d:** Sử dụng công thức tỉ số thể tích khối chóp
+
+## V. TIÊU CHÍ ĐÁNH GIÁ MỨC VẬN DỤNG CAO
+
+### ✅ Đạt chuẩn khi:
+- Học sinh phải vận dụng ít nhất 3 định lý/tính chất khác nhau
+- Có ít nhất 2 bước suy luận logic phức tạp
+- Kết hợp được kiến thức từ 2-3 chủ đề khác nhau
+- Yêu cầu phân tích điều kiện hoặc tối ưu hóa
+
+### ❌ Không đạt chuẩn khi:
+- Chỉ áp dụng trực tiếp một công thức/định lý
+- Các bước giải quá đơn giản, tuyến tính
+- Không có yếu tố phân tích tổng hợp

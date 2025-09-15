@@ -1,0 +1,105 @@
+# TÓM TẮT CHƯƠNG ĐẠO HÀM - TOÁN 11
+
+## I. ĐỊNH NGHĨA ĐẠO HÀM
+
+### 1. Định nghĩa đạo hàm tại một điểm
+Cho hàm số y = f(x) xác định trên khoảng (a;b) và x₀ ∈ (a;b).
+
+**Đạo hàm của hàm số f(x) tại x₀** là:
+```
+f'(x₀) = lim[h→0] [f(x₀ + h) - f(x₀)]/h
+```
+(nếu giới hạn này tồn tại và hữu hạn)
+
+### 2. Định nghĩa hàm đạo hàm
+Nếu f(x) có đạo hàm tại mọi điểm x thuộc (a;b), ta có **hàm đạo hàm**:
+```
+f'(x) = lim[h→0] [f(x + h) - f(x)]/h
+```
+
+## II. CÁC CÔNG THỨC ĐẠO HÀM CƠ BẢN
+
+### 1. Đạo hàm của các hàm số sơ cấp
+- (c)' = 0 (c là hằng số)
+- (x)' = 1
+- (xⁿ)' = n·xⁿ⁻¹ (n ∈ ℝ)
+- (√x)' = 1/(2√x)
+- (1/x)' = -1/x²
+
+### 2. Đạo hàm của các hàm lượng giác
+- (sin x)' = cos x
+- (cos x)' = -sin x
+- (tan x)' = 1/cos²x = 1 + tan²x
+- (cot x)' = -1/sin²x = -(1 + cot²x)
+
+### 3. Đạo hàm của hàm số mũ và logarit
+- (eˣ)' = eˣ
+- (aˣ)' = aˣ·ln a (a > 0, a ≠ 1)
+- (ln x)' = 1/x
+- (log_a x)' = 1/(x·ln a) (a > 0, a ≠ 1)
+
+## III. CÁC QUY TẮC TÍNH ĐẠO HÀM
+
+### 1. Quy tắc cộng, trừ
+```
+[u(x) ± v(x)]' = u'(x) ± v'(x)
+```
+
+### 2. Quy tắc nhân
+```
+[u(x)·v(x)]' = u'(x)·v(x) + u(x)·v'(x)
+[k·u(x)]' = k·u'(x) (k là hằng số)
+```
+
+### 3. Quy tắc chia
+```
+[u(x)/v(x)]' = [u'(x)·v(x) - u(x)·v'(x)]/[v(x)]²
+```
+
+### 4. Đạo hàm của hàm hợp
+Nếu y = f(u) và u = g(x), thì:
+```
+y'_x = y'_u · u'_x
+```
+
+## IV. ĐỊNH LÝ VỀ ĐẠO HÀM
+
+### 1. Định lý về mối liên hệ giữa tính liên tục và khả vi
+Nếu hàm số f(x) có đạo hàm tại x₀ thì f(x) liên tục tại x₀.
+
+### 2. Ý nghĩa hình học của đạo hàm
+f'(x₀) là hệ số góc của tiếp tuyến với đồ thị hàm số y = f(x) tại điểm M(x₀; f(x₀)).
+
+**Phương trình tiếp tuyến:**
+```
+y - y₀ = f'(x₀)(x - x₀)
+```
+
+### 3. Ý nghĩa vật lý của đạo hàm
+- Vận tốc tức thời: v(t) = s'(t)
+- Gia tốc tức thời: a(t) = v'(t) = s''(t)
+
+## V. CÁC DẠNG BÀI TẬP CHÍNH
+
+### Dạng 1: Tính đạo hàm bằng định nghĩa
+- Sử dụng công thức: f'(x₀) = lim[h→0] [f(x₀ + h) - f(x₀)]/h
+- Tính giới hạn để tìm đạo hàm
+
+### Dạng 2: Tính đạo hàm bằng công thức và quy tắc
+- Áp dụng các công thức đạo hàm cơ bản
+- Sử dụng quy tắc cộng, trừ, nhân, chia
+- Tính đạo hàm hàm hợp
+
+### Dạng 3: Viết phương trình tiếp tuyến
+- Tìm đạo hàm f'(x₀)
+- Viết phương trình: y - y₀ = f'(x₀)(x - x₀)
+- Các trường hợp: tiếp tuyến tại một điểm, tiếp tuyến qua một điểm
+
+### Dạng 4: Ứng dụng đạo hàm trong vật lý
+- Bài toán chuyển động: tính vận tốc, gia tốc
+- Công thức: v = s'(t), a = v'(t) = s''(t)
+
+### Dạng 5: Tìm điều kiện để hàm số có đạo hàm
+- Kiểm tra tính liên tục
+- Tính đạo hàm trái và đạo hàm phải
+- So sánh để tìm điều kiện

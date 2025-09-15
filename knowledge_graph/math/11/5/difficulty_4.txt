@@ -1,0 +1,154 @@
+# HƯỚNG DẪN SINH ĐỀ MỨC VẬN DỤNG CAO
+## Chủ đề: Giới hạn - Hàm số liên tục (Lớp 11)
+
+## I. PHÂN TÍCH YÊU CẦU VÀ ĐỊNH HƯỚNG
+
+### 1. Đặc điểm câu hỏi Vận dụng cao
+- **Tích hợp đa kiến thức**: Kết hợp giới hạn với phương trình, bất phương trình, hình học tọa độ
+- **Tính chất phức hợp**: Yêu cầu xử lý nhiều bước logic, phân tích case
+- **Suy luận cao**: Cần nhận biết mối liên hệ ẩn giữa các khái niệm
+- **Tính sáng tạo**: Không áp dụng trực tiếp công thức mà cần biến đổi linh hoạt
+
+## II. CÁC DẠNG BÀI VẬN DỤNG CAO
+
+### **DẠNG 1: GIỚI HẠN KẾT HỢP THAM SỐ VÀ ĐIỀU KIỆN RÀNG BUỘC**
+
+**Cấu trúc sinh đề:**
+```
+Cho hàm số f(x) = [biểu thức chứa tham số] với điều kiện [ràng buộc phức tạp].
+Tìm tham số m để [điều kiện về giới hạn] thỏa mãn đồng thời [điều kiện bổ sung].
+```
+
+**Ví dụ mẫu:**
+*Cho hàm số $f(x) = \frac{x^3 - (m+1)x^2 + mx + m-2}{x^2-1}$ với $m > 0$.*
+*Tìm tất cả giá trị của $m$ để $\lim_{x \to 1} f(x) = 2m$ và phương trình $f(x) = 0$ có đúng 2 nghiệm phân biệt.*
+
+**Điểm mấu chốt:**
+- Phân tích điều kiện tồn tại giới hạn
+- Kết hợp với điều kiện số nghiệm
+- Cần xét tính liên tục và khả vi
+
+### **DẠNG 2: GIỚI HẠN TRONG BÀI TOÁN TỐI ƯU**
+
+**Cấu trúc sinh đề:**
+```
+Bài toán thực tế dẫn đến hàm số có chứa giới hạn.
+Tìm giá trị tối ưu với ràng buộc về giới hạn.
+```
+
+**Ví dụ mẫu:**
+*Một chất điểm chuyển động theo quy luật $s(t) = \frac{at^3 + bt^2 + c}{t^2 + 1}$ (s tính bằng mét, t tính bằng giây).*
+*Biết $\lim_{t \to +\infty} s(t) = 5$ và vận tốc tại $t = 1$ bằng 3 m/s.*
+*Tìm a, b, c để gia tốc cực đại trong khoảng (0; 2).*
+
+### **DẠNG 3: LIÊN TỤC TRÊN TẬP HỢP PHỨC TẠP**
+
+**Cấu trúc sinh đề:**
+```
+Hàm số định nghĩa từng khúc với điều kiện phức tạp.
+Xét tính liên tục và tìm tham số thỏa mãn nhiều điều kiện.
+```
+
+**Ví dụ mẫu:**
+*Cho hàm số:*
+$$f(x) = \begin{cases}
+\frac{\sin(mx) - \sin x}{x^3} & \text{nếu } x \neq 0 \\
+a & \text{nếu } x = 0
+\end{cases}$$
+
+*Tìm m và a để f(x) liên tục tại x = 0 và đồ thị hàm số có tiếp tuyến tại điểm $(0; a)$ song song với đường thẳng $y = \frac{x}{6} + 1$.*
+
+### **DẠNG 4: GIỚI HẠN TRONG HÌNH HỌC TỌAĐỘ**
+
+**Cấu trúc sinh đề:**
+```
+Bài toán hình học dẫn đến việc tính giới hạn của diện tích, thể tích.
+Kết hợp với điều kiện tối ưu hình học.
+```
+
+**Ví dụ mẫu:**
+*Cho đường tròn $(C): x^2 + y^2 = 4$ và điểm $A(0; a)$ với $a > 2$.*
+*Từ A kẻ hai tiếp tuyến đến (C) tạo thành tam giác OAB (O là tâm, B là giao điểm hai tiếp tuyến).*
+*Tìm $a$ để $\lim_{a \to +\infty} \frac{S_{OAB}}{a^2} = \frac{1}{2}$ và chu vi tam giác OAB đạt giá trị nhỏ nhất.*
+
+## III. QUY TRÌNH SINH ĐỀ CHI TIẾT
+
+### **BƯỚC 1: XÁC ĐỊNH KIẾN THỨC TÍCH HỢP**
+1. **Kiến thức chính**: Giới hạn, tính liên tục
+2. **Kiến thức phụ**: 
+   - Đạo hàm và ứng dụng
+   - Phương trình, bất phương trình
+   - Hình học tọa độ
+   - Lượng giác
+
+### **BƯỚC 2: THIẾT KẾ BỐI CẢNH**
+- **Bài toán thực tế**: Chuyển động, tăng trưởng, tối ưu hóa
+- **Bài toán lý thuyết**: Chứng minh, tìm điều kiện tồn tại
+- **Bài toán hình học**: Diện tích, thể tích, khoảng cách
+
+### **BƯỚC 3: TẠO ĐIỀU KIỆN RÀNG BUỘC**
+```
+Template: Tìm tham số thỏa mãn đồng thời:
+- Điều kiện 1: Về giới hạn/liên tục
+- Điều kiện 2: Về tính chất hình học/đại số
+- Điều kiện 3: Về tối ưu/cực trị
+```
+
+### **BƯỚC 4: THIẾT KẾ MỨC ĐỘ KHÓ**
+
+**Mức 1 - Vận dụng cao cơ bản:**
+- 2-3 kiến thức tích hợp
+- 2-3 bước giải chính
+- 1 điều kiện ràng buộc phức tạp
+
+**Mức 2 - Vận dụng cao nâng cao:**
+- 3-4 kiến thức tích hợp  
+- 4-5 bước giải chính
+- 2 điều kiện ràng buộc phức tạp
+
+## IV. TEMPLATE SINH ĐỀ CỤ THỂ
+
+### **Template 1: Tham số trong giới hạn có điều kiện**
+```
+Cho hàm số f(x) = [biểu thức phân thức chứa tham số m]
+
+Tìm m để:
+1) lim[x→a] f(x) = [giá trị cho trước]
+2) [Điều kiện về phương trình/bất phương trình]
+3) [Điều kiện tối ưu]
+```
+
+### **Template 2: Liên tục và khả vi**
+```
+Cho hàm số định nghĩa từng khúc:
+f(x) = {biểu thức 1 nếu điều kiện 1
+       {biểu thức 2 nếu điều kiện 2
+
+Tìm tham số để:
+1) f liên tục tại x = a
+2) f khả vi tại x = a  
+3) [Điều kiện bổ sung về hình học]
+```
+
+### **Template 3: Ứng dụng thực tế**
+```
+Bài toán thực tế dẫn đến hàm số chứa tham số.
+Điều kiện về giới hạn phản ánh tính chất vật lý.
+Tìm tham số để tối ưu một đại lượng nào đó.
+```
+
+## V. TIÊU CHÍ ĐÁNH GIÁ CHẤT LƯỢNG ĐỀ
+
+### **Tiêu chí BẮT BUỘC:**
+- ✅ Tích hợp tối thiểu 3 nhóm kiến thức
+- ✅ Có ít nhất 4 bước giải chính
+- ✅ Yêu cầu suy luận logic cao
+- ✅ Không giải được bằng công thức trực tiếp
+
+### **Tiêu chí NÂNG CAO:**
+- ✅ Có nhiều hướng tiếp cận khác nhau
+- ✅ Kết nối với kiến thức lớp 12
+- ✅ Có ý nghĩa thực tiễn rõ ràng
+- ✅ Tạo ra insight mới cho học sinh
+
+**Lưu ý quan trọng**: Mọi bài toán phải đảm bảo có lời giải hoàn chỉnh và nằm trong khả năng của học sinh lớp 11 giỏi.

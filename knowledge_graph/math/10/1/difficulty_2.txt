@@ -1,0 +1,180 @@
+# HƯỚNG DẪN SINH ĐỀ - MỨC THÔNG HIỂU
+## Chủ đề: MỆNH ĐỀ - TẬP HỢP (Lớp 10)
+
+---
+
+## I. KHUNG KIẾN THỨC CẦN KIỂM TRA
+
+### 1. Về Mệnh đề:
+- Phân biệt mệnh đề và câu không phải mệnh đề
+- Xác định tính đúng/sai của mệnh đề
+- Mệnh đề phủ định, mệnh đề kéo theo, mệnh đề tương đương
+- Mệnh đề chứa biến, lượng từ ∀ và ∃
+
+### 2. Về Tập hợp:
+- Các cách biểu diễn tập hợp
+- Quan hệ thuộc, không thuộc, con, bằng nhau
+- Các phép toán: hợp, giao, hiệu, phần bù
+- Biểu đồ Ven và ứng dụng
+
+---
+
+## II. DẠNG CÂU HỎI VÀ HƯỚNG DẪN SINH ĐỀ
+
+### **DẠNG 1: PHÂN TÍCH MỆNH ĐỀ**
+
+**Mục tiêu:** Học sinh giải thích, phân loại các loại mệnh đề
+
+**Cấu trúc câu hỏi:**
+- Cho 4-5 câu, yêu cầu phân loại mệnh đề/không phải mệnh đề
+- Xác định tính đúng/sai và giải thích
+- Viết mệnh đề phủ định và xác định tính đúng/sai
+
+**Ví dụ mẫu:**
+```
+Cho các câu sau:
+a) "Hôm nay trời đẹp quá!"
+b) "Số 15 chia hết cho 3"
+c) "x² - 5x + 6 = 0"
+d) "∀x ∈ ℝ: x² ≥ 0"
+
+Hãy phân loại các câu trên thành mệnh đề hoặc không phải mệnh đề. 
+Với các mệnh đề, xác định tính đúng/sai và giải thích.
+```
+
+**Hướng dẫn sinh đề:**
+- Trộn lẫn câu cảm thán, câu hỏi, mệnh đề đúng/sai
+- Bao gồm cả mệnh đề chứa lượng từ
+- Yêu cầu giải thích tại sao đúng/sai
+
+---
+
+### **DẠNG 2: MỆNH ĐỀ KÉO THEO VÀ TƯƠNG ĐƯƠNG**
+
+**Mục tiêu:** Nhận biết mối liên hệ giữa các mệnh đề
+
+**Cấu trúc câu hỏi:**
+- Cho mệnh đề P ⇒ Q, xác định tính đúng/sai
+- Phân tích mệnh đề đảo, mệnh đề phủ định
+- So sánh P ⇒ Q và Q ⇒ P
+
+**Ví dụ mẫu:**
+```
+Cho mệnh đề P: "ABCD là hình vuông" và Q: "ABCD là hình chữ nhật"
+a) Xét tính đúng/sai của mệnh đề P ⇒ Q
+b) Xét tính đúng/sai của mệnh đề Q ⇒ P  
+c) Kết luận về mối quan hệ giữa P và Q
+d) Viết mệnh đề tương đương đúng liên quan đến hình vuông và hình thoi
+```
+
+**Hướng dẫn sinh đề:**
+- Sử dụng các khái niệm hình học quen thuộc
+- Kết hợp kiến thức toán học cơ bản (số học, đại số)
+- Yêu cầu so sánh và phân tích
+
+---
+
+### **DẠNG 3: CHUYỂN ĐỔI BIỂU DIỄN TẬP HỢP**
+
+**Mục tiêu:** Chuyển đổi giữa các cách biểu diễn tập hợp
+
+**Cấu trúc câu hỏi:**
+- Cho tập hợp dạng liệt kê, viết dạng chỉ ra tính chất
+- Cho tập hợp dạng tính chất, biểu diễn trên trục số
+- Kết hợp với giải bất phương trình đơn giản
+
+**Ví dụ mẫu:**
+```
+Cho tập hợp A = {x ∈ ℝ | -2 ≤ x < 5}
+a) Biểu diễn tập hợp A trên trục số
+b) Viết tập hợp A dưới dạng khoảng, đoạn
+c) Tìm tập hợp B = {x ∈ ℤ | x ∈ A} và viết dưới dạng liệt kê
+d) So sánh số phần tử của A và B
+```
+
+**Hướng dẫn sinh đề:**
+- Sử dụng các khoảng, đoạn đơn giản
+- Kết hợp với tập số nguyên, số tự nhiên
+- Yêu cầu nhiều cách biểu diễn khác nhau
+
+---
+
+### **DẠNG 4: PHÉP TOÁN TẬP HỢP VỚI BIỂU ĐỒ VEN**
+
+**Mục tiêu:** Áp dụng các phép toán tập hợp và biểu đồ Ven
+
+**Cấu trúc câu hỏi:**
+- Cho hai tập hợp cụ thể, thực hiện các phép toán
+- Vẽ biểu đồ Ven và xác định vùng
+- Tính số phần tử của các tập hợp kết quả
+
+**Ví dụ mẫu:**
+```
+Cho U = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10}
+     A = {1, 3, 5, 7, 9}
+     B = {2, 3, 4, 5, 6}
+
+a) Tìm A ∩ B, A ∪ B, A \ B, CᵤA
+b) Vẽ biểu đồ Ven biểu diễn A và B
+c) Tô màu vùng biểu diễn (A ∩ B) ∪ CᵤA
+d) Tính số phần tử của mỗi tập hợp tìm được
+```
+
+**Hướng dẫn sinh đề:**
+- Sử dụng tập hợp số tự nhiên nhỏ (dễ tính toán)
+- Kết hợp vẽ hình và tính toán
+- Có thể thay đổi thành tập hợp học sinh trong lớp
+
+---
+
+### **DẠNG 5: BÀI TOÁN THỰC TẾ**
+
+**Mục tiêu:** Áp dụng kiến thức tập hợp vào tình huống thực tế
+
+**Cấu trúc câu hỏi:**
+- Bài toán thống kê đơn giản
+- Phân loại nhóm đối tượng
+- Sử dụng nguyên lý bao hàm - loại trừ cơ bản
+
+**Ví dụ mẫu:**
+```
+Một lớp có 40 học sinh. Trong đó có 25 em học giỏi Toán, 
+20 em học giỏi Văn, 8 em học giỏi cả Toán và Văn.
+
+a) Vẽ biểu đồ Ven biểu diễn tình况
+b) Tính số học sinh chỉ học giỏi Toán
+c) Tính số học sinh chỉ học giỏi Văn  
+d) Tính số học sinh không học giỏi môn nào
+e) Viết mệnh đề về mối quan hệ giữa tập hợp học sinh giỏi Toán và Văn
+```
+
+**Hướng dẫn sinh đề:**
+- Sử dụng tình huống học đường quen thuộc
+- Số liệu phải hợp lý (tránh mâu thuẫn)
+- Kết hợp với viết mệnh đề
+
+---
+
+## III. TIÊU CHÍ ĐÁNH GIÁ
+
+### **Thang điểm phân bổ:**
+- **Dạng 1:** 2-3 điểm (phân loại và giải thích)
+- **Dạng 2:** 2 điểm (phân tích mệnh đề)
+- **Dạng 3:** 2 điểm (chuyển đổi biểu diễn)
+- **Dạng 4:** 2-3 điểm (phép toán và biểu đồ)
+- **Dạng 5:** 1-2 điểm (ứng dụng thực tế)
+
+### **Lưu ý khi ra đề:**
+1. **Độ khó vừa phải:** Học sinh khá (7-8 điểm) có thể làm được
+2. **Tính ứng dụng:** Kết hợp lý thuyết với thực tế
+3. **Tính toàn diện:** Bao quát các kiến thức chính của chủ đề
+4. **Thời gian:** Phù hợp với 1 tiết kiểm tra (45 phút)
+
+---
+
+## IV. GỢI Ý MỞ RỘNG
+
+- Có thể kết hợp với hình học phẳng cơ bản
+- Sử dụng bài toán đếm đơn giản
+- Kết nối với các môn học khác (Lý, Hóa, Sinh)
+- Sử dụng công nghệ (máy tính, phần mềm vẽ) nếu có điều kiện

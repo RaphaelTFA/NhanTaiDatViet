@@ -1,0 +1,102 @@
+# HƯỚNG DẪN SINH ĐỀ TOÁN LỚP 10 - MỨC VẬN DỤNG
+## Chủ đề: Tính xác suất theo định nghĩa cổ điển
+
+### I. KHUNG LÝ THUYẾT CẦN VẬN DỤNG
+
+**Định nghĩa cổ điển về xác suất:**
+- Không gian mẫu Ω có số phần tử hữu hạn
+- Các kết quả đồng khả năng
+- P(A) = n(A)/n(Ω)
+
+**Kiến thức liên quan cần kết hợp:**
+- Hoán vị, chỉnh hợp, tổ hợp
+- Quy tắc cộng, quy tắc nhân
+- Biến cố đối, biến cố hợp
+
+### II. CÁC DẠNG BÀI TẬP VẬN DỤNG
+
+#### **Dạng 1: Ứng dụng trong giáo dục**
+
+**Ví dụ mẫu:**
+Một lớp có 45 học sinh, trong đó có 18 học sinh giỏi Toán, 15 học sinh giỏi Văn và 8 học sinh vừa giỏi Toán vừa giỏi Văn. Chọn ngẫu nhiên 1 học sinh làm lớp trưởng.
+a) Tính xác suất học sinh được chọn giỏi ít nhất một môn
+b) Biết học sinh được chọn giỏi ít nhất một môn, tính xác suất học sinh đó chỉ giỏi đúng một môn
+
+**Hướng dẫn sinh đề:**
+- Sử dụng số liệu thực tế về sĩ số lớp (35-45 học sinh)
+- Kết hợp với lý thuyết tập hợp (giao, hợp, hiệu)
+- Có thể mở rộng với 3 môn học
+- Yêu cầu tính xác suất có điều kiện ở mức cơ bản
+
+#### **Dạng 2: Ứng dụng trong thể thao**
+
+**Ví dụ mẫu:**
+Giải bóng đá có 16 đội tham gia, chia thành 4 bảng A, B, C, D (mỗi bảng 4 đội). Trong đó có 3 đội mạnh là M1, M2, M3. Việc chia bảng được thực hiện bằng cách bốc thăm ngẫu nhiên.
+a) Tính xác suất để 3 đội mạnh nằm ở 3 bảng khác nhau
+b) Tính xác suất để có ít nhất 2 đội mạnh cùng bảng
+
+**Hướng dẫn sinh đề:**
+- Sử dụng mô hình thể thao quen thuộc (World Cup, SEA Games)
+- Số đội phải chia hết cho số bảng
+- Kết hợp với tổ hợp và quy tắc đếm
+- Có thể thay đổi: 12 đội/3 bảng, 8 đội/2 bảng
+
+#### **Dạng 3: Ứng dụng trong công nghệ**
+
+**Ví dụ mẫu:**
+Một mật khẩu gồm 4 chữ số được tạo ngẫu nhiên từ các số 0, 1, 2, ..., 9. Biết rằng mật khẩu không bắt đầu bằng 0 và không có 2 chữ số liên tiếp giống nhau.
+a) Tính số mật khẩu có thể tạo được
+b) Tính xác suất để mật khẩu có tổng các chữ số là số chẵn
+c) Tính xác suất để mật khẩu có chứa ít nhất một chữ số 8
+
+**Hướng dẫn sinh đề:**
+- Độ dài mật khẩu từ 3-5 ký tự
+- Có thể bao gồm cả chữ cái (A-Z) ở mức đơn giản
+- Các điều kiện ràng buộc thực tế (không bắt đầu bằng 0, không lặp liên tiếp)
+- Kết hợp với tính chất số học (chẵn/lẻ, chia hết)
+
+#### **Dạng 4: Ứng dụng trong kinh tế - xã hội**
+
+**Ví dụ mẫu:**
+Một cửa hàng có 20 sản phẩm, trong đó có 12 sản phẩm loại A (giá cao), 8 sản phẩm loại B (giá thấp). Do sự cố hệ thống, 5 sản phẩm bị mất nhãn giá. Chọn ngẫu nhiên 3 sản phẩm trong 5 sản phẩm này để kiểm tra.
+a) Tính xác suất để 3 sản phẩm được chọn đều là loại A
+b) Tính xác suất để có đúng 2 sản phẩm loại A trong 3 sản phẩm được chọn
+
+**Hướng dẫn sinh đề:**
+- Sử dụng mô hình kinh doanh đơn giản
+- Số lượng sản phẩm không quá lớn (10-30 sản phẩm)
+- Có thể thay đổi: kiểm tra chất lượng, phân loại hàng hóa
+- Kết hợp với tổ hợp
+
+### III. TIÊU CHÍ ĐÁNH GIÁ MỨC VẬN DỤNG
+
+#### **Về tính toán:**
+- Cần 2-3 bước tính toán
+- Sử dụng công thức tổ hợp C(n,k) với n ≤ 20
+- Kết quả cuối có thể rút gọn phân số
+
+#### **Về phân tích:**
+- Xác định đúng không gian mẫu
+- Phân tích được biến cố thành các trường hợp
+- Nhận biết mối quan hệ giữa các biến cố
+
+#### **Về ứng dụng:**
+- Gắn liền với tình huống thực tế
+- Dữ liệu hợp lý, không quá phức tạp
+- Có ý nghĩa giáo dục
+
+### IV. MẪU CÂU HỎI HOÀN CHỈNH
+
+**Bài tập vận dụng:**
+Trong kỳ thi THPT, một trường có 180 thí sinh dự thi môn Toán. Kết quả như sau: 72 thí sinh đạt điểm ≥ 8, 108 thí sinh đạt điểm ≥ 5, trong đó có 45 thí sinh đạt điểm từ 8 đến 10. Ban giám hiệu chọn ngẫu nhiên 1 thí sinh để phỏng vấn kinh nghiệm học tập.
+
+a) Tính xác suất để thí sinh được chọn có điểm dưới 5.
+b) Tính xác suất để thí sinh được chọn có điểm từ 5 đến dưới 8.
+c) Biết thí sinh được chọn có điểm ≥ 5, tính xác suất để thí sinh đó có điểm ≥ 8.
+
+**Đáp án:**
+a) P = 72/180 = 2/5
+b) P = 63/180 = 7/20  
+c) P = 72/108 = 2/3
+
+Đây là khung hướng dẫn giúp giáo viên tạo ra các bài tập vận dụng phù hợp với mức độ học sinh giỏi lớp 10.

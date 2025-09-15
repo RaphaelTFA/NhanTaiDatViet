@@ -1,0 +1,90 @@
+# HƯỚNG DẪN SINH ĐỀ MỨC NHẬN BIẾT
+## Chủ đề: Mệnh đề - Tập hợp (Lớp 10)
+
+## I. KIẾN THỨC CẦN NHẮC LẠI
+
+### 1. Mệnh đề
+- **Định nghĩa**: Mệnh đề là một câu khẳng định có thể xác định được tính đúng hoặc sai
+- **Phủ định mệnh đề**: Nếu P là mệnh đề thì phủ định của P ký hiệu là P̄ hoặc ¬P
+- **Mệnh đề kéo theo**: P ⇒ Q (nếu P thì Q)
+- **Mệnh đề tương đương**: P ⇔ Q (P khi và chỉ khi Q)
+
+### 2. Tập hợp
+- **Cách biểu diễn**: Liệt kê phần tử hoặc nêu tính chất đặc trưng
+- **Quan hệ**: ∈ (thuộc), ∉ (không thuộc), ⊂ (tập con), ⊄ (không phải tập con)
+- **Các phép toán**: ∪ (hợp), ∩ (giao), \ (hiệu), A^c (phần bù)
+- **Tập hợp đặc biệt**: ∅ (tập rỗng), ℕ, ℤ, ℚ, ℝ
+
+## II. CÁC DẠNG CÂU HỎI MỨC NHẬN BIẾT
+
+### DẠNG 1: NHẬN BIẾT MỆNH ĐỀ
+
+**Câu hỏi mẫu:**
+1. **Cho biết** câu nào sau đây là mệnh đề?
+   - A. Hôm nay trời đẹp quá!
+   - B. Bạn có thích học toán không?
+   - C. 2 + 3 = 5
+   - D. Hãy đến lớp sớm
+
+2. **Xác định** tính đúng sai của mệnh đề: "Số 15 chia hết cho 3"
+
+3. **Tìm** phủ định của mệnh đề P: "Mọi học sinh đều thích toán"
+
+### DẠNG 2: NHẬN BIẾT QUAN HỆ THUỘC, TẬP CON
+
+**Câu hỏi mẫu:**
+1. **Cho biết** quan hệ giữa phần tử và tập hợp:
+   - Điền ∈ hoặc ∉: 3 .... {1, 2, 4, 5}
+
+2. **Xác định** quan hệ tập con:
+   - A = {1, 2}, B = {1, 2, 3, 4}. Khẳng định nào đúng?
+   - A. A ⊂ B    B. B ⊂ A    C. A = B    D. A ∩ B = ∅
+
+### DẠNG 3: NHẬN BIẾT CÁC PHÉP TOÁN TẬP HỢP
+
+**Câu hỏi mẫu:**
+1. **Tính** A ∪ B với A = {1, 2, 3}, B = {2, 3, 4}
+
+2. **Tìm** A ∩ B với A = {a, b, c}, B = {b, c, d}
+
+3. **Cho biết** kết quả của A \ B với A = {1, 2, 3, 4}, B = {3, 4, 5}
+
+### DẠNG 4: NHẬN BIẾT CÁCH BIỂU DIỄN TẬP HỢP
+
+**Câu hỏi mẫu:**
+1. **Xác định** tập hợp A = {x ∈ ℕ | x < 5} bằng cách liệt kê
+
+2. **Cho biết** cách viết tập hợp {2, 4, 6, 8} dưới dạng tính chất đặc trưng
+
+## III. TEMPLATE SINH CÂU HỎI
+
+### 1. Về Mệnh đề:
+- "**Cho biết** câu nào sau đây là/không là mệnh đề..."
+- "**Xác định** tính đúng/sai của mệnh đề..."
+- "**Tìm** phủ định của mệnh đề..."
+- "**Nhận biết** mệnh đề kéo theo/tương đương..."
+
+### 2. Về Tập hợp:
+- "**Tính** A ∪ B, A ∩ B, A \ B với A = {...}, B = {...}"
+- "**Xác định** quan hệ thuộc/tập con..."
+- "**Cho biết** số phần tử của tập hợp..."
+- "**Tìm** tập hợp con của..."
+
+## IV. LƯU Ý KHI SINH ĐỀ
+
+### Độ khó phù hợp:
+- Sử dụng số liệu đơn giản (tập hợp có 3-5 phần tử)
+- Các phần tử là số tự nhiên nhỏ hoặc chữ cái
+- Mệnh đề đơn giản, dễ hiểu
+
+### Tránh:
+- Các phép toán phức tạp
+- Tập hợp có quá nhiều phần tử
+- Mệnh đề có cấu trúc phức tạp
+- Yêu cầu chứng minh hoặc biện luận
+
+### Phân bố câu hỏi đề xuất:
+- Mệnh đề: 30-40%
+- Quan hệ thuộc, tập con: 20-30%
+- Phép toán tập hợp: 30-40%
+- Biểu diễn tập hợp: 10-20%

@@ -1,0 +1,120 @@
+# HƯỚNG DẪN SINH ĐỀ VẬN DỤNG
+## Chủ đề: Bất phương trình và hệ bất phương trình bậc nhất hai ẩn - Lớp 10
+
+---
+
+## I. KHUNG KIẾN THỨC CẦN VẬN DỤNG
+
+### 1. Kiến thức cốt lõi:
+- Bất phương trình bậc nhất hai ẩn: ax + by + c ≥ 0 (hoặc ≤, >, <)
+- Hệ bất phương trình bậc nhất hai ẩn
+- Miền nghiệm trên mặt phẳng tọa độ
+- Tìm giá trị lớn nhất, nhỏ nhất của biểu thức tuyến tính trên miền nghiệm
+
+### 2. Kiến thức liên quan cần kết hợp:
+- Hàm số bậc nhất
+- Phương trình đường thẳng
+- Tính diện tích tam giác, tứ giác
+- Bài toán tối ưu đơn giản
+
+---
+
+## II. CÁC DẠNG BÀI TẬP VẬN DỤNG
+
+### **DẠNG 1: BÀI TOÁN KINH TẾ - SẢN XUẤT**
+
+#### Mẫu đề:
+> Một xưởng may sản xuất hai loại áo: áo sơ mi (x chiếc) và áo thun (y chiếc) mỗi ngày. Biết rằng:
+> - Mỗi áo sơ mi cần 2 giờ cắt và 1 giờ may
+> - Mỗi áo thun cần 1 giờ cắt và 2 giờ may  
+> - Xưởng có tối đa 100 giờ cắt và 120 giờ may mỗi ngày
+> - Lợi nhuận áo sơ mi: 50.000 đồng/chiếc, áo thun: 40.000 đồng/chiếc
+> 
+> **Câu hỏi:** Hãy lập hệ bất phương trình biểu diễn điều kiện sản xuất và tìm số lượng áo mỗi loại để lợi nhuận cao nhất.
+
+#### Hướng dẫn giải:
+1. **Lập hệ bất phương trình:**
+   - 2x + y ≤ 100 (ràng buộc thời gian cắt)
+   - x + 2y ≤ 120 (ràng buộc thời gian may)
+   - x ≥ 0, y ≥ 0
+
+2. **Tìm miền nghiệm** bằng cách vẽ đồ thị
+
+3. **Tìm max của** f(x,y) = 50x + 40y trên miền nghiệm
+
+---
+
+### **DẠNG 2: BÀI TOÁN DINH DƯỠNG**
+
+#### Mẫu đề:
+> Một bệnh viện cần pha chế dung dịch dinh dưỡng từ hai loại vitamin A và B. Biết rằng:
+> - 1ml vitamin A chứa 30 đơn vị protein và 20 đơn vị glucose
+> - 1ml vitamin B chứa 10 đơn vị protein và 40 đơn vị glucose
+> - Bệnh nhân cần ít nhất 180 đơn vị protein và 240 đơn vị glucose mỗi ngày
+> - Chi phí: vitamin A là 5.000 đồng/ml, vitamin B là 3.000 đồng/ml
+>
+> **Câu hỏi:** Lập hệ bất phương trình và tìm cách pha chế để chi phí thấp nhất.
+
+---
+
+### **DẠNG 3: BÀI TOÁN VẬN TẢI**
+
+#### Mẫu đề:
+> Một công ty vận chuyển có hai loại xe tải: xe nhỏ (x chiếc) và xe lớn (y chiếc). 
+> - Xe nhỏ chở được 2 tấn, tiêu thụ 8 lít xăng/chuyến
+> - Xe lớn chở được 5 tấn, tiêu thụ 15 lít xăng/chuyến
+> - Cần vận chuyển ít nhất 40 tấn hàng
+> - Có tối đa 120 lít xăng
+> - Chi phí thuê xe nhỏ: 200.000 đồng/chiếc, xe lớn: 350.000 đồng/chiếc
+>
+> **Câu hỏi:** Tìm số lượng xe mỗi loại để chi phí thuê xe thấp nhất.
+
+---
+
+### **DẠNG 4: BÀI TOÁN ĐẦU TƯ TÀI CHÍNH**
+
+#### Mẫu đề:
+> Một nhà đầu tư có 500 triệu đồng muốn đầu tư vào hai kênh:
+> - Kênh A: lãi suất 8%/năm, rủi ro thấp (x triệu đồng)
+> - Kênh B: lãi suất 12%/năm, rủi ro cao (y triệu đồng)
+> - Theo quy định, số tiền đầu tư kênh B không quá 60% tổng vốn
+> - Để đảm bảo an toàn, kênh A phải ít nhất 200 triệu đồng
+>
+> **Câu hỏi:** Lập hệ bất phương trình và tìm cách phân bổ vốn để lợi nhuận cao nhất.
+
+---
+
+## III. TIÊU CHÍ CHẤM ĐIỂM VẬN DỤNG
+
+### **Thang điểm 10:**
+
+| **Bước giải** | **Điểm** | **Yêu cầu** |
+|---------------|----------|-------------|
+| Đọc hiểu đề, xác định ẩn | 1.5 | Xác định chính xác x, y là gì |
+| Lập hệ bất phương trình | 3.0 | Viết đúng tất cả ràng buộc |
+| Xác định miền nghiệm | 2.5 | Vẽ đúng và xác định miền |
+| Tìm giá trị tối ưu | 2.5 | Tính toán chính xác |
+| Kết luận trong ngữ cảnh | 0.5 | Trả lời đúng câu hỏi đề bài |
+
+---
+
+## IV. LƯU Ý KHI SINH ĐỀ
+
+### **Về nội dung:**
+- Sử dụng số liệu thực tế, hợp lý
+- Đảm bảo bài toán có nghiệm và nghiệm tại đỉnh của miền
+- Kết hợp với kiến thức hình học (vẽ đồ thị)
+
+### **Về độ khó:**
+- 2-3 ràng buộc chính + điều kiện x,y ≥ 0
+- Yêu cầu tìm max hoặc min của hàm mục tiêu
+- Cần 3-4 bước giải chính
+
+### **Về tính thực tế:**
+- Chọn ngữ cảnh quen thuộc: sản xuất, kinh doanh, y tế
+- Số liệu không quá phức tạp nhưng cần tính toán chính xác
+- Kết quả phải có ý nghĩa thực tế
+
+---
+
+**Chúc các em học sinh đạt kết quả cao!**

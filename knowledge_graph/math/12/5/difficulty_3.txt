@@ -1,0 +1,103 @@
+# HƯỚNG DẪN SINH ĐỀ MỨC VẬN DỤNG
+## Chủ đề: Phương pháp tọa độ trong không gian - Lớp 12
+
+## I. KHUNG KIẾN THỨC CẦN VẬN DỤNG
+
+### 1. Kiến thức cốt lõi:
+- Hệ tọa độ Oxyz trong không gian
+- Phương trình đường thẳng, mặt phẳng
+- Khoảng cách từ điểm đến đường thẳng, mặt phẳng
+- Góc giữa đường thẳng và mặt phẳng
+- Thể tích khối đa diện
+
+### 2. Kỹ năng tích hợp:
+- Hình học không gian (khối chóp, lăng trụ)
+- Đạo hàm và ứng dụng (tìm cực trị)
+- Giải hệ phương trình
+
+## II. CÁC DẠNG BÀI VẬN DỤNG
+
+### **DẠNG 1: BÀI TOÁN KIẾN TRÚC - XÂY DỰNG**
+
+**Tình huống:** Thiết kế nhà, cầu, tòa nhà với các yêu cầu kỹ thuật cụ thể
+
+**Ví dụ mẫu:**
+> Một công ty kiến trúc thiết kế mái nhà có dạng hình chóp tam giác. Đỉnh mái tại A(6,0,8), ba góc nhà tại B(0,0,0), C(12,0,0), D(6,9,0). Để đảm bảo thoát nước, góc nghiêng của mỗi mặt mái so với mặt đất phải từ 25° đến 45°. Kiểm tra thiết kế có phù hợp không và tính diện tích vật liệu cần dùng.
+
+**Hướng sinh đề:**
+- Cho tọa độ các điểm đỉnh của công trình
+- Yêu cầu kiểm tra điều kiện kỹ thuật (góc, khoảng cách an toàn)
+- Tính toán chi phí vật liệu (diện tích, thể tích)
+
+### **DẠNG 2: BÀI TOÁN HÀNG KHÔNG - GIAO THÔNG**
+
+**Tình huống:** Tính toán đường bay, quỹ đạo vệ tinh, định vị GPS
+
+**Ví dụ mẫu:**
+> Máy bay khởi hành từ sân bay A(100,50,0) bay theo đường thẳng đến B(300,150,8) (đơn vị: km). Đồng thời, máy bay khác từ C(200,0,6) bay theo hướng vector v⃗(1,2,0). Tại thời điểm nào hai máy bay gần nhau nhất và khoảng cách đó là bao nhiêu? Biết vận tốc cả hai máy bay đều là 600 km/h.
+
+**Hướng sinh đề:**
+- Cho tọa độ điểm xuất phát và đích đến
+- Tích hợp chuyển động thẳng đều
+- Yêu cầu tìm cực trị khoảng cách theo thời gian
+
+### **DẠNG 3: BÀI TOÁN VẬT LÝ - KỸ THUẬT**
+
+**Tình huống:** Tính toán lực, điện trường, sóng radar
+
+**Ví dụ mẫu:**
+> Một trạm radar đặt tại O(0,0,50) có tầm phát hiện 100km. Máy bay di chuyển từ A(80,60,10) đến B(-60,80,8) với vận tốc không đổi 720 km/h. Tính thời gian máy bay nằm trong vùng phát hiện của radar.
+
+**Hướng sinh đề:**
+- Cho phạm vi hoạt động của thiết bị (hình cầu, hình trụ)
+- Quỹ đạo chuyển động là đường thẳng
+- Tính thời gian giao của quỹ đạo với vùng hoạt động
+
+### **DẠNG 4: BÀI TOÁN THỰC TẾ TÍCH HỢP**
+
+**Tình huống:** Kết hợp nhiều yếu tố thực tế
+
+**Ví dụ mẫu:**
+> Một khu du lịch có 3 khách sạn tại A(0,0,0), B(6,0,0), C(3,4,0). Muốn xây trạm cấp nước tại vị trí D(x,y,h) sao cho: tổng khoảng cách từ D đến 3 khách sạn là nhỏ nhất, đồng thời độ cao h ≥ 20m để đảm bảo áp lực nước. Chi phí xây dựng là 50 triệu/m độ cao và 10 triệu/m đường ống ngang. Tìm vị trí tối ưu và tính tổng chi phí.
+
+## III. CÔNG THỨC SINH ĐỀ CHUẨN
+
+### **Bước 1: Chọn bối cảnh thực tế**
+- Kiến trúc: nhà, cầu, tháp
+- Giao thông: máy bay, tàu, GPS  
+- Công nghệ: radar, vệ tinh, anten
+- Môi trường: địa hình, thời tiết
+
+### **Bước 2: Thiết lập hệ tọa độ**
+- Chọn gốc tọa độ hợp lý với bối cảnh
+- Cho tọa độ các điểm với số liệu thực tế
+- Đảm bảo tính toán không quá phức tạp
+
+### **Bước 3: Xây dựng yêu cầu đa tầng**
+- **Tầng 1:** Thiết lập phương trình cơ bản
+- **Tầng 2:** Kiểm tra điều kiện kỹ thuật
+- **Tầng 3:** Tối ưu hóa hoặc tính chi phí
+
+### **Bước 4: Tích hợp kiến thức**
+- Kết hợp 2-3 chủ đề toán học
+- Sử dụng điều kiện thực tế làm ràng buộc
+- Yêu cầu phân tích và đánh giá kết quả
+
+## IV. TIÊU CHÍ ĐÁNH GIÁ ĐỀ TỐT
+
+### **Về nội dung:**
+- ✅ Bối cảnh thực tế, hợp lý
+- ✅ Số liệu phù hợp với thực tế
+- ✅ Yêu cầu rõ ràng, logic
+
+### **Về mức độ:**
+- ✅ Cần 2-3 bước giải chính
+- ✅ Tích hợp ít nhất 2 chủ đề
+- ✅ Có yếu tố phân tích, đánh giá
+
+### **Về tính khả thi:**
+- ✅ Học sinh giỏi giải được trong 8-12 phút
+- ✅ Tính toán chính xác, không rắc rối
+- ✅ Kết quả có ý nghĩa thực tế
+
+**Lưu ý:** Luôn kiểm tra lại đáp án và đảm bảo bài toán có lời giải hoàn chỉnh trước khi sử dụng.

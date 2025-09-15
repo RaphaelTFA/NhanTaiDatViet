@@ -1,0 +1,71 @@
+# TÓM TẮT CHƯƠNG 2: VECTOR VÀ HỆ TRỤC TỌA ĐỘ TRONG KHÔNG GIAN
+
+## I. ĐỊNH NGHĨA CƠ BẢN
+
+### 1. Vector trong không gian
+- **Vector trong không gian**: Một đoạn thẳng có hướng, được xác định bởi điểm đầu và điểm cuối
+- **Vector không**: Vector có điểm đầu và điểm cuối trùng nhau, ký hiệu $\vec{0}$
+- **Vector đơn vị**: Vector có độ dài bằng 1
+
+### 2. Hệ trục tọa độ Oxyz
+- **Hệ trục tọa độ Oxyz**: Gồm gốc O và 3 trục Ox, Oy, Oz vuông góc từng đôi một
+- **Vector đơn vị**: $\vec{i}, \vec{j}, \vec{k}$ theo các trục Ox, Oy, Oz
+
+## II. ĐỊNH LÝ VÀ TÍNH CHẤT
+
+### 1. Biểu diễn vector
+- Mọi vector $\vec{a}$ đều biểu diễn được: $\vec{a} = a_1\vec{i} + a_2\vec{j} + a_3\vec{k}$
+- Tọa độ vector: $\vec{a} = (a_1; a_2; a_3)$
+
+### 2. Tọa độ điểm
+- Điểm M có tọa độ: $M(x; y; z)$ với $\overrightarrow{OM} = x\vec{i} + y\vec{j} + z\vec{k}$
+
+## III. CÁC CÔNG THỨC CHÍNH
+
+### 1. Phép toán vector
+- **Cộng vector**: $\vec{a} + \vec{b} = (a_1 + b_1; a_2 + b_2; a_3 + b_3)$
+- **Trừ vector**: $\vec{a} - \vec{b} = (a_1 - b_1; a_2 - b_2; a_3 - b_3)$
+- **Nhân với số**: $k\vec{a} = (ka_1; ka_2; ka_3)$
+
+### 2. Độ dài vector và khoảng cách
+- **Độ dài vector**: $|\vec{a}| = \sqrt{a_1^2 + a_2^2 + a_3^2}$
+- **Khoảng cách 2 điểm**: $AB = \sqrt{(x_B - x_A)^2 + (y_B - y_A)^2 + (z_B - z_A)^2}$
+
+### 3. Tích vô hướng
+- **Công thức**: $\vec{a} \cdot \vec{b} = a_1b_1 + a_2b_2 + a_3b_3$
+- **Góc giữa 2 vector**: $\cos(\vec{a}, \vec{b}) = \frac{\vec{a} \cdot \vec{b}}{|\vec{a}||\vec{b}|}$
+
+### 4. Tích có hướng
+- **Công thức**: $\vec{a} \times \vec{b} = \begin{vmatrix} \vec{i} & \vec{j} & \vec{k} \\ a_1 & a_2 & a_3 \\ b_1 & b_2 & b_3 \end{vmatrix}$
+
+### 5. Điều kiện song song và vuông góc
+- **Song song**: $\vec{a} \parallel \vec{b} \Leftrightarrow \vec{a} = k\vec{b}$ hoặc $\frac{a_1}{b_1} = \frac{a_2}{b_2} = \frac{a_3}{b_3}$
+- **Vuông góc**: $\vec{a} \perp \vec{b} \Leftrightarrow \vec{a} \cdot \vec{b} = 0$
+
+## IV. DẠNG BÀI TẬP CHÍNH
+
+### 1. Tọa độ vector và điểm
+- Tìm tọa độ vector biết 2 điểm đầu cuối
+- Tìm tọa độ điểm thỏa mãn điều kiện cho trước
+
+### 2. Phép toán vector
+- Thực hiện các phép toán cộng, trừ, nhân vector
+- Tính độ dài vector, khoảng cách giữa 2 điểm
+
+### 3. Quan hệ song song, vuông góc
+- Chứng minh 2 vector song song/vuông góc
+- Tìm điều kiện để 2 vector song song/vuông góc
+
+### 4. Góc và tích vô hướng
+- Tính góc giữa 2 vector
+- Ứng dụng tích vô hướng trong bài toán thực tế
+
+### 5. Tích có hướng
+- Tính tích có hướng của 2 vector
+- Ứng dụng tính diện tích, thể tích
+
+### 6. Ứng dụng hình học
+- Chứng minh tính chất hình học (tam giác, tứ giác, hình hộp...)
+- Tìm tọa độ trọng tâm, tâm đường tròn ngoại tiếp...
+
+Đây là những kiến thức cơ bản và quan trọng nhất trong chương Vector và hệ trục tọa độ trong không gian, tạo nền tảng cho việc học các chương tiếp theo về phương trình đường thẳng và mặt phẳng.

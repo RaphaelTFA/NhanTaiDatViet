@@ -1,0 +1,126 @@
+# HƯỚNG DẪN SINH ĐỀ MỨC NHẬN BIẾT
+## Chủ đề: Dãy số - Cấp số cộng - Cấp số nhân (Lớp 11)
+
+## I. KIẾN THỨC CẦN NHỚ
+
+### 1. Dãy số
+- **Định nghĩa**: Dãy số là một hàm số có tập xác định là ℕ* hoặc tập con của ℕ*
+- **Ký hiệu**: (uₙ) với uₙ là số hạng thứ n
+
+### 2. Cấp số cộng (CSC)
+- **Định nghĩa**: Dãy số (uₙ) là CSC nếu uₙ₊₁ - uₙ = d (d là công sai)
+- **Công thức số hạng tổng quát**: uₙ = u₁ + (n-1)d
+- **Công thức tổng n số hạng đầu**: Sₙ = n(u₁ + uₙ)/2 = n[2u₁ + (n-1)d]/2
+
+### 3. Cấp số nhân (CSN)
+- **Định nghĩa**: Dãy số (uₙ) là CSN nếu uₙ₊₁/uₙ = q (q là công bội, q ≠ 0)
+- **Công thức số hạng tổng quát**: uₙ = u₁.qⁿ⁻¹
+- **Công thức tổng n số hạng đầu**: 
+  - Nếu q = 1: Sₙ = n.u₁
+  - Nếu q ≠ 1: Sₙ = u₁(qⁿ - 1)/(q - 1)
+
+## II. CÁC DẠNG CÂU HỎI MỨC NHẬN BIẾT
+
+### DẠNG 1: Nhận biết định nghĩa và tính chất
+
+**Mẫu câu hỏi:**
+
+1. **Cho biết** dãy số nào sau đây là cấp số cộng?
+   A. 1, 3, 6, 10, 15, ...
+   B. 2, 4, 6, 8, 10, ...
+   C. 1, 2, 4, 8, 16, ...
+   D. 1, 4, 9, 16, 25, ...
+
+2. **Nhận biết** dãy số nào sau đây là cấp số nhân?
+   A. 3, 6, 9, 12, 15, ...
+   B. 2, 4, 8, 16, 32, ...
+   C. 1, 3, 5, 7, 9, ...
+   D. 1, 4, 7, 10, 13, ...
+
+### DẠNG 2: Áp dụng trực tiếp công thức
+
+**Mẫu câu hỏi:**
+
+3. **Tính** số hạng thứ 5 của cấp số cộng có u₁ = 3 và d = 2.
+   A. 11          B. 9          C. 13          D. 15
+
+4. **Tìm** số hạng thứ 4 của cấp số nhân có u₁ = 2 và q = 3.
+   A. 18          B. 54         C. 24          D. 81
+
+5. **Xác định** công sai của cấp số cộng: 5, 9, 13, 17, 21, ...
+   A. d = 3       B. d = 4      C. d = 5       D. d = 2
+
+6. **Tìm** công bội của cấp số nhân: 3, 6, 12, 24, 48, ...
+   A. q = 3       B. q = 2      C. q = 4       D. q = 6
+
+### DẠNG 3: Tính tổng n số hạng đầu
+
+**Mẫu câu hỏi:**
+
+7. **Tính** tổng 5 số hạng đầu của cấp số cộng có u₁ = 2 và d = 3.
+   A. S₅ = 40     B. S₅ = 35    C. S₅ = 45     D. S₅ = 30
+
+8. **Tìm** tổng 4 số hạng đầu của cấp số nhân có u₁ = 1 và q = 2.
+   A. S₄ = 15     B. S₄ = 16    C. S₄ = 14     D. S₄ = 12
+
+### DẠNG 4: Nhận biết công thức và ký hiệu
+
+**Mẫu câu hỏi:**
+
+9. **Cho biết** công thức số hạng tổng quát của cấp số cộng là:
+   A. uₙ = u₁ + nd
+   B. uₙ = u₁ + (n-1)d
+   C. uₙ = u₁.qⁿ
+   D. uₙ = u₁.qⁿ⁻¹
+
+10. **Nhận biết** công thức tổng n số hạng đầu của cấp số nhân (q ≠ 1) là:
+    A. Sₙ = n(u₁ + uₙ)/2
+    B. Sₙ = u₁(qⁿ - 1)/(q - 1)
+    C. Sₙ = n[2u₁ + (n-1)d]/2
+    D. Sₙ = u₁ + u₂ + ... + uₙ
+
+## III. HƯỚNG DẪN SINH ĐỀ CHI TIẾT
+
+### Bước 1: Chọn kiến thức cần kiểm tra
+- Định nghĩa CSC, CSN
+- Công thức số hạng tổng quát
+- Công thức tính tổng
+- Nhận biết dãy số
+
+### Bước 2: Tạo câu hỏi theo template
+**Template cho CSC:**
+- Cho u₁ = [số đơn giản], d = [số nguyên nhỏ] → Tính uₙ
+- Cho dãy số cụ thể → Tìm d
+- Cho u₁, d → Tính Sₙ
+
+**Template cho CSN:**
+- Cho u₁ = [số đơn giản], q = [số nguyên nhỏ] → Tính uₙ
+- Cho dãy số cụ thể → Tìm q
+- Cho u₁, q → Tính Sₙ
+
+### Bước 3: Tạo đáp án nhiễu
+- Sai lệch 1-2 đơn vị so với đáp án đúng
+- Kết quả khi nhầm công thức
+- Kết quả khi tính sai phép toán đơn giản
+
+### Bước 4: Kiểm tra độ khó
+- Học sinh chỉ cần nhớ và áp dụng trực tiếp
+- Phép tính không quá 3 bước
+- Số liệu đơn giản, dễ tính nhẩm
+
+## IV. LƯU Ý KHI SINH ĐỀ
+
+1. **Về nội dung:**
+   - Ưu tiên các số nguyên dương nhỏ
+   - Tránh phân số, số thập phân phức tạp
+   - Kết quả cuối nên là số nguyên
+
+2. **Về hình thức:**
+   - Sử dụng đúng động từ yêu cầu
+   - Câu hỏi ngắn gọn, rõ ràng
+   - Đáp án có độ phân biệt cao
+
+3. **Về mức độ:**
+   - Chỉ kiểm tra 1 kiến thức/công thức mỗi câu
+   - Không kết hợp nhiều dạng bài
+   - Phù hợp với học sinh trung bình (5-6 điểm)

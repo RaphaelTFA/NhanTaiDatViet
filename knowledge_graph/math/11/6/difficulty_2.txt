@@ -1,0 +1,154 @@
+# HƯỚNG DẪN SINH ĐỀ MỨC THÔNG HIỂU
+## Chủ đề: Hàm số mũ - Hàm số Logarit (Lớp 11)
+
+---
+
+## I. KHUNG KIẾN THỨC CẦN SINH ĐỀ
+
+### 1. Hàm số mũ y = aˣ (a > 0, a ≠ 1)
+- **Tập xác định**: ℝ
+- **Tập giá trị**: (0; +∞)
+- **Tính chất**:
+  - Khi a > 1: hàm đồng biến trên ℝ
+  - Khi 0 < a < 1: hàm nghịch biến trên ℝ
+- **Đồ thị**: Luôn đi qua điểm (0; 1), nằm phía trên trục Ox
+
+### 2. Hàm số logarit y = log_a x (a > 0, a ≠ 1)
+- **Tập xác định**: (0; +∞)
+- **Tập giá trị**: ℝ
+- **Tính chất**:
+  - Khi a > 1: hàm đồng biến trên (0; +∞)
+  - Khi 0 < a < 1: hàm nghịch biến trên (0; +∞)
+- **Đồ thị**: Luôn đi qua điểm (1; 0), nằm bên phải trục Oy
+
+### 3. Mối quan hệ giữa hàm mũ và logarit
+- Hai hàm số ngược nhau
+- Đồ thị đối xứng qua đường thẳng y = x
+
+---
+
+## II. CÁC DẠNG BÀI TẬP MỨC THÔNG HIỂU
+
+### **DẠNG 1: PHÂN TÍCH TÍNH CHẤT HÀM SỐ**
+
+**Mẫu câu hỏi:**
+1. So sánh tính đồng biến, nghịch biến của các hàm số:
+   - y = 2ˣ và y = (1/3)ˣ
+   - y = log₂x và y = log₀.₅x
+
+2. Giải thích vì sao hàm số y = 3ˣ luôn có giá trị dương với mọi x ∈ ℝ?
+
+3. Phân tích sự khác biệt về tập xác định giữa hàm số mũ và hàm số logarit.
+
+**Hướng dẫn sinh đề:**
+- Chọn các cơ số cụ thể (a > 1 và 0 < a < 1)
+- Yêu cầu học sinh so sánh, giải thích dựa trên tính chất
+- Tập trung vào việc hiểu bản chất của các tính chất
+
+---
+
+### **DẠNG 2: XÁC ĐỊNH TẬP XÁC ĐỊNH**
+
+**Mẫu câu hỏi:**
+1. Tìm tập xác định của các hàm số:
+   - y = log₃(x - 2)
+   - y = log₂(4 - x²)
+   - y = log₅(x + 1) + log₅(x - 1)
+
+2. Giải thích điều kiện để hàm số y = log_a(mx + n) có nghĩa.
+
+**Hướng dẫn sinh đề:**
+- Sử dụng biểu thức trong logarit đơn giản (bậc nhất, bậc hai cơ bản)
+- Yêu cầu 1-2 bước giải
+- Có thể kết hợp tổng, hiệu logarit
+
+---
+
+### **DẠNG 3: ÁP DỤNG CÔNG THỨC LOGARIT**
+
+**Mẫu câu hỏi:**
+1. Tính giá trị biểu thức:
+   - log₂8 + log₂4
+   - log₃27 - log₃9
+   - 2^(log₂5) + 3^(log₃7)
+
+2. Chuyển đổi các biểu thức sau về dạng logarit cơ số 10:
+   - log₂16
+   - log₅125
+
+**Hướng dẫn sinh đề:**
+- Sử dụng các công thức cơ bản: log_a(xy), log_a(x/y), log_a(x^n)
+- Áp dụng công thức đổi cơ số đơn giản
+- Kết quả cuối cùng nên là số nguyên hoặc số đẹp
+
+---
+
+### **DẠNG 4: PHÂN TÍCH ĐỒ THỊ**
+
+**Mẫu câu hỏi:**
+1. Cho đồ thị hàm số y = 2ˣ. Mô tả đồ thị hàm số y = 2^(x-1) + 3.
+
+2. So sánh vị trí đồ thị của y = 3ˣ và y = log₃x. Giải thích mối quan hệ.
+
+3. Từ đồ thị y = eˣ, hãy suy ra đồ thị y = ln x.
+
+**Hướng dẫn sinh đề:**
+- Tập trung vào phép tịnh tiến đồ thị cơ bản
+- Yêu cầu hiểu mối quan hệ hàm ngược
+- Sử dụng đồ thị quen thuộc làm cơ sở
+
+---
+
+### **DẠNG 5: GIẢI PHƯƠNG TRÌNH CƠ BẢN**
+
+**Mẫu câu hỏi:**
+1. Giải các phương trình:
+   - 2ˣ = 8
+   - log₃x = 2
+   - log₂(x + 1) = 3
+
+2. Tìm x biết: 3^(2x-1) = 27
+
+**Hướng dẫn sinh đề:**
+- Phương trình giải được bằng 1-2 bước
+- Sử dụng định nghĩa cơ bản của logarit và hàm mũ
+- Kết quả là số nguyên hoặc phân số đơn giản
+
+---
+
+## III. NGUYÊN TẮC SINH ĐỀ MỨC THÔNG HIỂU
+
+### **1. Về mức độ khó:**
+- ✅ Sử dụng công thức trực tiếp, ít biến đổi
+- ✅ Yêu cầu hiểu khái niệm và áp dụng đúng
+- ❌ Tránh kỹ thuật phức tạp
+- ❌ Không kết hợp quá nhiều bước
+
+### **2. Về nội dung:**
+- ✅ Tập trung tính chất cơ bản
+- ✅ Ứng dụng công thức quen thuộc
+- ✅ Phân tích, so sánh khái niệm
+- ❌ Tránh bài toán thực tế phức tạp
+
+### **3. Về cách thức:**
+- ✅ Câu hỏi mở: "Giải thích", "So sánh", "Phân tích"
+- ✅ Yêu cầu chuyển đổi biểu diễn
+- ✅ Kết hợp lý thuyết và bài tập
+
+---
+
+## IV. MẪU ĐỀ KIỂM TRA 45 PHÚT
+
+**Câu 1 (2đ):** So sánh tính đồng biến của y = 5ˣ và y = log₅x. Giải thích.
+
+**Câu 2 (2đ):** Tìm tập xác định: y = log₂(x² - 4)
+
+**Câu 3 (3đ):** Tính: log₃9 + log₃27 - log₃3
+
+**Câu 4 (2đ):** Giải phương trình: log₂(x - 1) = 3
+
+**Câu 5 (1đ):** Mô tả cách vẽ đồ thị y = 2^(x+1) từ đồ thị y = 2ˣ
+
+---
+
+**Lưu ý:** Điều chỉnh độ khó và số lượng câu hỏi phù hợp với thời gian kiểm tra và đối tượng học sinh cụ thể.

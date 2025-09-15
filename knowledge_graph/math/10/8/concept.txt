@@ -1,0 +1,75 @@
+# CHƯƠNG VIII: ĐẠI SỐ TỔ HỢP - LỚP 10
+
+## I. QUY TẮC ĐẾM
+
+### 1. Quy tắc cộng
+**Định nghĩa**: Nếu công việc A có thể thực hiện bằng m cách, công việc B có thể thực hiện bằng n cách và hai công việc không thể thực hiện đồng thời, thì có **m + n** cách để thực hiện một trong hai công việc A hoặc B.
+
+### 2. Quy tắc nhân  
+**Định nghĩa**: Nếu công việc A có thể thực hiện bằng m cách, sau đó công việc B có thể thực hiện bằng n cách, thì có **m × n** cách để thực hiện liên tiếp cả hai công việc A và B.
+
+## II. HOÁN VỊ - CHỈNH HỢP - TỔ HỢP
+
+### 1. Hoán vị
+**Định nghĩa**: Hoán vị của n phần tử là một cách sắp xếp n phần tử đó theo một thứ tự nhất định.
+
+**Công thức**: P_n = n! = 1 × 2 × 3 × ... × n
+
+### 2. Chỉnh hợp
+**Định nghĩa**: Chỉnh hợp chập k của n phần tử (k ≤ n) là một cách sắp xếp k phần tử được chọn từ n phần tử đã cho theo một thứ tự nhất định.
+
+**Công thức**: A_n^k = n!/(n-k)! = n(n-1)(n-2)...(n-k+1)
+
+### 3. Tổ hợp
+**Định nghĩa**: Tổ hợp chập k của n phần tử (k ≤ n) là một cách chọn k phần tử từ n phần tử đã cho mà không quan tâm đến thứ tự.
+
+**Công thức**: C_n^k = n!/(k!(n-k)!) = A_n^k/k!
+
+## III. TÍNH CHẤT CỦA TỔ HỢP
+
+### Các tính chất cơ bản:
+1. C_n^0 = C_n^n = 1
+2. C_n^k = C_n^(n-k)
+3. C_n^k = C_(n-1)^(k-1) + C_(n-1)^k (Công thức Pascal)
+
+## IV. NHỊ THỨC NEWTON
+
+### Định lý:
+**(a + b)^n = ∑(k=0 đến n) C_n^k × a^(n-k) × b^k**
+
+### Khai triển:
+(a + b)^n = C_n^0 × a^n + C_n^1 × a^(n-1) × b + C_n^2 × a^(n-2) × b^2 + ... + C_n^n × b^n
+
+### Tính chất:
+- Số các số hạng: n + 1
+- Số hạng tổng quát thứ (k+1): T_(k+1) = C_n^k × a^(n-k) × b^k
+- Hệ số của x^k trong khai triển (1+x)^n là C_n^k
+
+## V. DẠNG BÀI TẬP CHÍNH
+
+### 1. Bài toán đếm sử dụng quy tắc cộng và nhân
+- Đếm số cách chọn, sắp xếp với điều kiện
+- Bài toán đếm số có điều kiện
+
+### 2. Bài toán hoán vị
+- Sắp xếp n người, n vật
+- Sắp xếp có điều kiện (ngồi cạnh nhau, không ngồi cạnh nhau)
+
+### 3. Bài toán chỉnh hợp
+- Chọn và sắp xếp k phần tử từ n phần tử
+- Tạo số có k chữ số từ n chữ số cho trước
+
+### 4. Bài toán tổ hợp
+- Chọn k phần tử từ n phần tử
+- Chia nhóm, lập đội
+- Chứng minh đẳng thức tổ hợp
+
+### 5. Bài toán nhị thức Newton
+- Khai triển (a + b)^n
+- Tìm hệ số của một số hạng cụ thể
+- Tìm số hạng không chứa x, hệ số lớn nhất
+
+### 6. Bài toán ứng dụng thực tế
+- Xác suất
+- Bài toán tô màu
+- Bài toán chia đối tượng

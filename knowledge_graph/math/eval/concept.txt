@@ -1,0 +1,65 @@
+**Mục tiêu:** Đánh giá mức độ phù hợp về mặt kiến thức của một câu hỏi toán học với một **chủ đề cụ thể** và **khối lớp** đã xác định trong chương trình học.
+
+**1. Xác định Thông tin Mục tiêu của Câu hỏi:**
+Trước khi bắt đầu chấm điểm, hãy đảm bảo bạn đã biết **Chủ đề** và **Khối lớp** mà câu hỏi này được gán (ví dụ: "Chủ đề: Phương trình bậc hai một ẩn, Khối lớp: Toán lớp 9").
+
+**2. Tiêu chí Chấm điểm cho sự Phù hợp Kiến thức:**
+
+*   **Đặc điểm của sự phù hợp kiến thức:**
+    *   **Đúng trọng tâm chủ đề:** Câu hỏi tập trung vào các khái niệm, công thức, định lý, dạng bài chính thuộc chủ đề đã cho. Không lạc đề sang các chủ đề khác.
+    *   **Nằm trong chương trình của khối lớp:** Kiến thức yêu cầu trong câu hỏi đã được học (hoặc đang học) ở khối lớp đó. Không quá sớm (kiến thức của lớp cao hơn) hoặc quá muộn (kiến thức của lớp thấp hơn, thường là đã được ôn lại nhưng không phải trọng tâm).
+    *   **Chính xác về mặt toán học:** Các khái niệm, thuật ngữ, công thức được sử dụng một cách chính xác, không gây hiểu lầm.
+    *   **Phản ánh đúng yêu cầu của chương trình:** Yêu cầu của câu hỏi (ghi nhớ, áp dụng, giải quyết vấn đề) phù hợp với những gì chương trình môn Toán ở khối lớp đó kỳ vọng học sinh đạt được với chủ đề này.
+
+*   **Điểm đánh giá phù hợp (tối đa 10 điểm):**
+    *   **9 - 10 điểm (Hoàn toàn phù hợp):** Câu hỏi hoàn toàn đúng trọng tâm chủ đề, tất cả các kiến thức được sử dụng nằm chính xác trong chương trình của khối lớp, không có chi tiết thừa hoặc thiếu gây hiểu lầm. Phản ánh đúng mục tiêu học tập của chủ đề ở khối lớp này.
+    *   **7 - 8.5 điểm (Phù hợp tốt):** Câu hỏi đúng trọng tâm chủ đề, phần lớn kiến thức nằm trong chương trình của khối lớp. Có thể có một vài chi tiết nhỏ hơi thiên về lớp dưới (kiến thức nền tảng đã học và được ôn lại) hoặc hơi gợi mở đến lớp trên một cách tinh tế (nhưng vẫn có thể giải quyết được bằng kiến thức hiện tại).
+    *   **4 - 6.5 điểm (Phù hợp trung bình):** Câu hỏi có liên quan đến chủ đề nhưng có thể đi hơi lạc trọng tâm một chút, hoặc có một phần đáng kể kiến thức thuộc về khối lớp khác (quá sớm hoặc quá muộn). Có thể gây khó khăn cho học sinh ở khối lớp mục tiêu vì yêu cầu kiến thức chưa được học.
+    *   **0 - 3.5 điểm (Không phù hợp/Phù hợp rất kém):** Câu hỏi đi sai trọng tâm chủ đề hoặc yêu cầu kiến thức hoàn toàn nằm ngoài chương trình của khối lớp. Có thể có lỗi sai về mặt toán học cơ bản.
+
+**3. Quy trình Chấm điểm tổng thể:**
+
+1.  **Đọc kỹ câu hỏi và Xác định Chủ đề & Khối lớp mục tiêu.**
+2.  **Đánh giá mức độ phù hợp về kiến thức:** Dựa trên các tiêu chí chi tiết ở Mục 2, hãy xem xét câu hỏi **phù hợp đến mức nào** so với chủ đề và khối lớp mục tiêu.
+3.  **Gán điểm dựa trên mức độ phù hợp:** Dựa trên các mức điểm 0 - 10, hãy xác định điểm cho câu hỏi đó.
+4.  **Viết nhận xét (quan trọng):** Giải thích lý do bạn gán điểm, chỉ ra những điểm mạnh (phù hợp) và điểm yếu (chưa phù hợp) của câu hỏi so với chủ đề và khối lớp mục tiêu. Đề xuất cải thiện nếu cần.
+
+**4. Tổng điểm:**
+*(Dựa trên đánh giá của bạn về mức độ phù hợp của kiến thức trong câu hỏi với chủ đề và khối lớp mục tiêu)*
+[**_CHỈ ĐIỀN MỘT LẦN VÀO ĐÂY SAU KHI HOÀN THÀNH ĐÁNH GIÁ_**]
+**Tổng điểm: x/10** (Ví dụ: 8/10)
+
+**5. Định dạng chấm:**
+*   **Văn bản:** [Câu hỏi cần được chấm]
+*   **Chủ đề mục tiêu:** [Chủ đề mà câu hỏi phải thuộc về]
+*   **Khối lớp mục tiêu:** [Khối lớp mà câu hỏi phải dành cho]
+*   **Đánh giá:** [Đánh giá chi tiết về sự phù hợp của kiến thức trong câu hỏi]
+*   **Nhận xét** [Những điều câu hỏi cần sửa đổi để phù hợp hơn, nếu có]
+*   **Tổng điểm: [Tổng điểm đưa ra (x/10)]**
+
+**Ví dụ Minh họa:**
+
+*   **Văn bản:** "Cho hàm số $y = \frac{x+1}{x-2}$. Tìm tiệm cận đứng và tiệm cận ngang của đồ thị hàm số."
+*   **Chủ đề mục tiêu:** Các phép biến đổi đại số
+*   **Khối lớp mục tiêu:** Toán lớp 9
+*   **Đánh giá:** Kiến thức về tiệm cận của hàm số không thuộc chủ đề "Các phép biến đổi đại số" và hoàn toàn không nằm trong chương trình Toán lớp 9. Đây là kiến thức của chương trình Giải tích lớp 11 hoặc 12.
+*   **Nhận xét** Câu hỏi này hoàn toàn không phù hợp với chủ đề và khối lớp mục tiêu. Cần thay thế bằng một câu hỏi khác thuộc về các phép biến đổi đại số của lớp 9 (ví dụ: rút gọn biểu thức, giải phương trình chứa ẩn ở mẫu).
+*   **Tổng điểm: 0/10**
+
+---
+
+*   **Văn bản:** "Giải phương trình: $3x + 5 = 11$."
+*   **Chủ đề mục tiêu:** Phương trình bậc nhất một ẩn
+*   **Khối lớp mục tiêu:** Toán lớp 8
+*   **Đánh giá:** Câu hỏi này trực tiếp yêu cầu giải một phương trình bậc nhất một ẩn cơ bản, hoàn toàn nằm trong chương trình và kiến thức trọng tâm của Toán lớp 8 về chủ đề này.
+*   **Nhận xét** Câu hỏi rất phù hợp, đúng trọng tâm và đúng khối lớp. Rõ ràng và dễ hiểu.
+*   **Tổng điểm: 9.8/10**
+
+---
+
+**THÔNG TIN CÂU HỎI CẦN ĐƯỢC CHẤM:**
+*   **Khối học**:
+*   **Chủ đề**:
+*   **Câu hỏi**:
+
+---

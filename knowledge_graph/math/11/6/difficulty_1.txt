@@ -1,0 +1,125 @@
+# HƯỚNG DẪN SINH ĐỀ MỨC ĐỘ NHẬN BIẾT
+## CHỦ ĐỀ: HÀM SỐ MŨ - HÀM SỐ LOGARIT (LỚP 11)
+
+## I. KHUNG KIẾN THỨC CẦN NHẬN BIẾT
+
+### 1. Hàm số mũ
+- **Định nghĩa**: Hàm số mũ có dạng y = aˣ (a > 0, a ≠ 1)
+- **Tập xác định**: ℝ
+- **Tập giá trị**: (0; +∞)
+- **Tính chất cơ bản**: aˣ > 0 với mọi x ∈ ℝ
+
+### 2. Hàm số logarit
+- **Định nghĩa**: Hàm số logarit có dạng y = log_a(x) (a > 0, a ≠ 1)
+- **Tập xác định**: (0; +∞)
+- **Tập giá trị**: ℝ
+- **Công thức cơ bản**: log_a(a) = 1, log_a(1) = 0
+
+### 3. Công thức cần nhớ
+- aˣ · aʸ = aˣ⁺ʸ
+- aˣ : aʸ = aˣ⁻ʸ
+- (aˣ)ʸ = aˣʸ
+- log_a(xy) = log_a(x) + log_a(y)
+- log_a(x/y) = log_a(x) - log_a(y)
+
+## II. DẠNG CÂU HỎI NHẬN BIẾT
+
+### **DẠNG 1: Nhận biết định nghĩa và tập xác định**
+
+**Mẫu câu hỏi:**
+1. Cho biết tập xác định của hàm số y = 2ˣ
+   A. (0; +∞)  B. ℝ  C. ℝ\{0}  D. (1; +∞)
+
+2. Xác định tập xác định của hàm số y = log₂(x)
+   A. ℝ  B. (0; +∞)  C. [0; +∞)  D. ℝ\{0}
+
+**Hướng dẫn sinh đề:**
+- Hỏi trực tiếp về tập xác định của y = aˣ và y = log_a(x)
+- Có thể thay đổi cơ số a (a = 2, 3, 1/2, e, 10...)
+- Đưa ra 4 lựa chọn rõ ràng, dễ phân biệt
+
+### **DẠNG 2: Tính giá trị biểu thức đơn giản**
+
+**Mẫu câu hỏi:**
+1. Tính giá trị của 2³
+   A. 6  B. 8  C. 9  D. 12
+
+2. Cho biết giá trị của log₂(8)
+   A. 2  B. 3  C. 4  D. 6
+
+3. Tính log₃(1)
+   A. 0  B. 1  C. 3  D. -1
+
+**Hướng dẫn sinh đề:**
+- Chọn các số mũ và logarit đơn giản: 2², 3³, 5², log₂(4), log₃(9), log₁₀(100)...
+- Kết quả phải là số nguyên hoặc số đơn giản
+- Các phương án nhiễu là những số gần với đáp án đúng
+
+### **DẠNG 3: Áp dụng trực tiếp công thức**
+
+**Mẫu câu hỏi:**
+1. Tính 2³ · 2⁴
+   A. 2⁷  B. 2¹²  C. 4⁷  D. 8⁷
+
+2. Xác định log₂(4) + log₂(8)
+   A. 3  B. 4  C. 5  D. 6
+
+3. Cho biết (3²)³ bằng
+   A. 3⁵  B. 3⁶  C. 6⁶  D. 9³
+
+**Hướng dẫn sinh đề:**
+- Sử dụng trực tiếp các công thức: aˣ · aʸ = aˣ⁺ʸ, (aˣ)ʸ = aˣʸ
+- Với logarit: log_a(x) + log_a(y) = log_a(xy)
+- Chọn số liệu đơn giản, dễ tính nhẩm
+
+### **DẠNG 4: Nhận biết tính chất cơ bản**
+
+**Mẫu câu hỏi:**
+1. Nhận biết mệnh đề nào sau đây đúng?
+   A. 2ˣ < 0 với mọi x  B. 2ˣ > 0 với mọi x  C. 2ˣ = 0 khi x = 0  D. 2ˣ âm khi x < 0
+
+2. Tìm khẳng định đúng về hàm số y = log₃(x)
+   A. Có tập giá trị là (0; +∞)  B. Xác định với mọi x ∈ ℝ  
+   C. log₃(3) = 1  D. log₃(0) = 1
+
+**Hướng dẫn sinh đề:**
+- Kiểm tra việc nhớ tính chất: aˣ > 0, log_a(a) = 1, log_a(1) = 0
+- Đưa ra các mệnh đề sai rõ ràng để tạo phương án nhiễu
+- Tập trung vào những tính chất cơ bản nhất
+
+### **DẠNG 5: So sánh đơn giản**
+
+**Mẫu câu hỏi:**
+1. Cho biết so sánh nào đúng?
+   A. 2³ > 2⁴  B. 2³ < 2⁴  C. 2³ = 2⁴  D. Không so sánh được
+
+2. Xác định: log₂(8) và log₂(4), số nào lớn hơn?
+   A. log₂(8) > log₂(4)  B. log₂(8) < log₂(4)  
+   C. log₂(8) = log₂(4)  D. Không xác định được
+
+**Hướng dẫn sinh đề:**
+- Chỉ so sánh các giá trị đơn giản, cùng cơ số
+- Kết quả phải hiển nhiên, không cần tính toán phức tạp
+- Có thể hỏi về tính đơn điệu của hàm số
+
+## III. LƯU Ý KHI SINH ĐỀ
+
+### **Độ khó phù hợp:**
+- Câu hỏi phải giải được trong 1-2 phút
+- Không yêu cầu biến đổi quá 2 bước
+- Kết quả là số nguyên hoặc số đơn giản
+
+### **Phương án nhiễu:**
+- Là kết quả của các sai lầm thường gặp
+- Không quá xa so với đáp án đúng
+- Có tính hợp lý nhất định
+
+### **Ngôn ngữ đề bài:**
+- Sử dụng: "Tính", "Cho biết", "Xác định", "Tìm", "Nhận biết"
+- Tránh: "Chứng minh", "Giải", "Phân tích"
+- Câu hỏi ngắn gọn, rõ ràng
+
+### **Kiểm tra cuối:**
+- Đảm bảo chỉ có 1 đáp án đúng
+- Các phương án nhiễu hợp lý
+- Câu hỏi thuộc chương trình SGK lớp 11

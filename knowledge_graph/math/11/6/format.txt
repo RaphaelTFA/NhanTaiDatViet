@@ -1,0 +1,45 @@
+***Yêu cầu cấu trúc của câu hỏi như sau:***
+
+**I. Các Khái Niệm Chính của `text2qti`:**
+
+*   **Mục đích:** `text2qti` chuyển đổi các file văn bản thuần túy định dạng Markdown thành các bài kiểm tra (quizzes) định dạng QTI (phiên bản 1.2), có thể nhập vào Canvas và các phần mềm giáo dục khác.
+*   **Hỗ trợ loại câu hỏi:** Trắc nghiệm (multiple-choice), Đúng/Sai (true/false), Nhiều đáp án (multiple-answers), Số học (numerical), Trả lời ngắn (short-answer/fill-in-the-blank), Tự luận (essay), và Tải lên file (file-upload).
+*   **Markdown:** Hầu hết văn bản (câu hỏi, lựa chọn, phản hồi) được xử lý dưới dạng Markdown (bao gồm cú pháp cơ bản và một số extensions như smarty, tables, footnotes, v.v.).
+*   **LaTeX Math & siunitx:** Hỗ trợ cơ bản cho công thức toán học LaTeX ($F=ma$) và ký hiệu đơn vị/số khoa học `siunitx` (\num{1.23e5}, \si{m/s}).
+*   **Cấu trúc file:** File văn bản thuần túy (`.txt`) là định dạng đầu vào.
+*   **Lưu ý về biểu thức toán học:** Bắt buộc phải dùng "Latex Math & siunitx", không được dùng kí tự thay thế vì điều ấy được đánh giá vô cùng xấu
+**II. Cấu Trúc Cơ Bản của Câu Hỏi:**
+
+1.  **Câu hỏi:** Bắt đầu bằng một số theo sau là dấu chấm và một hoặc nhiều khoảng trắng/tab (`1. `).
+2.  **Lựa chọn (nếu có):**
+    *   Bắt đầu bằng một chữ cái theo sau là dấu đóng ngoặc đơn và một hoặc nhiều khoảng trắng/tab (`a) `).
+    *   Đáp án đúng được đánh dấu bằng dấu hoa thị (`*c) `).
+    *   Đối với câu hỏi **nhiều đáp án (multiple-answers)**: Sử dụng `[]` hoặc `[ ]` cho đáp án sai và `[*]` cho đáp án đúng.
+
+**III. Các Loại Câu Hỏi Cụ Thể:**
+
+*   **Trắc nghiệm:** `1. Câu hỏi? *a) Đúng b) Sai`
+*   **Nhiều đáp án:** `1. Câu hỏi? [*] Đúng [ ] Sai`
+*   **Số học (Numerical):**
+    *   Bắt đầu bằng dấu bằng (`= `).
+    *   Có thể là giá trị chính xác (`= 5`), khoảng (`= [min, max]`), hoặc sai số (`= ans +- margin` - margin có thể là số hoặc phần trăm).
+    *   Hạn chế: Giá trị tuyệt đối của câu trả lời nhỏ nhất phải >= 0.0001.
+*   **Trả lời ngắn (Short-answer):**
+    *   Bắt đầu bằng dấu hoa thị (`* `).
+    *   Hỗ trợ nhiều đáp án đúng. Đáp án là văn bản thuần túy, một dòng.
+*   **Tự luận (Essay):** Bắt đầu bằng ba dấu gạch dưới trở lên (`____`).
+*   **Tải lên file (File-upload):** Bắt đầu bằng ba dấu mũ trở lên (`^^^^`).
+
+**IV. Định Dạng File và Thụt lề:**
+
+*   **Không thụt lề:** Cú pháp wrapper của `text2qti` (quiz title, question number, answer letter, GROUP/END_GROUP, v.v.).
+*   **Thụt lề:** Nội dung Markdown bên trong các thành phần quiz (nội dung câu hỏi, mô tả, phản hồi, v.v.).
+    *   Mỗi "khối" Markdown phải có cùng mức thụt lề từ dòng đầu tiên trở đi.
+    *   Tab được mở rộng thành 4 khoảng trắng.
+    *   Không gian thụt lề tối thiểu cho dòng tiếp theo là 2 khoảng trắng hoặc 1 tab, nhưng nên khớp với vị trí bắt đầu của văn bản dòng đầu tiên.
+
+***Yêu cầu cần thiết khi đưa ra bài tập***
+* Bạn không được phép đưa ra lời bình luận nào, kể cả dấu "---" hay tương tự như vậy.
+* Bắt buộc CÓ và CHỈ CÓ đầy đủ câu hỏi, đáp án, và gợi ý câu hỏi
+* Không được có bất kì một title, hay đề mục nào cả, tôi chỉ cần câu hỏi bao gồm (câu hỏi, đáp án và gợi ý câu hỏi)
+* Đối với đáp án của trả lời ngắn (Short answer), không được sử dụng các kí tự ngoài các con số la tinh và '+-', yêu cầu câu trả lời phải dưới định dạng Numerical

@@ -1,0 +1,85 @@
+Dựa vào nội dung SGK Toán 11 (Kết nối tri thức), tôi xin tóm tắt kiến thức chính về **Hàm số lượng giác và Phương trình lượng giác**:
+
+## I. HÀM SỐ LƯỢNG GIÁC
+
+### 1. Hàm số sin và cosin
+**Định nghĩa:**
+- Hàm số sin: y = sin x, tập xác định D = ℝ
+- Hàm số cosin: y = cos x, tập xác định D = ℝ
+
+**Tính chất:**
+- Cả hai hàm đều tuần hoàn với chu kì 2π
+- Tập giá trị: [-1; 1]
+- sin x lẻ: sin(-x) = -sin x
+- cos x chẵn: cos(-x) = cos x
+
+### 2. Hàm số tang và cotang
+**Định nghĩa:**
+- Hàm số tang: y = tan x, D = ℝ \ {π/2 + kπ, k ∈ ℤ}
+- Hàm số cotang: y = cot x, D = ℝ \ {kπ, k ∈ ℤ}
+
+**Tính chất:**
+- Cả hai hàm tuần hoàn với chu kì π
+- Tập giá trị: ℝ
+- Cả hai đều là hàm lẻ
+
+### 3. Công thức cơ bản
+- sin²x + cos²x = 1
+- 1 + tan²x = 1/cos²x (cos x ≠ 0)
+- 1 + cot²x = 1/sin²x (sin x ≠ 0)
+- tan x = sin x/cos x
+- cot x = cos x/sin x = 1/tan x
+
+## II. PHƯƠNG TRÌNH LƯỢNG GIÁC
+
+### 1. Phương trình lượng giác cơ bản
+
+**a) sin x = a**
+- Nếu |a| > 1: phương trình vô nghiệm
+- Nếu |a| ≤ 1: x = arcsin a + k2π hoặc x = π - arcsin a + k2π (k ∈ ℤ)
+
+**b) cos x = a**
+- Nếu |a| > 1: phương trình vô nghiệm  
+- Nếu |a| ≤ 1: x = ±arccos a + k2π (k ∈ ℤ)
+
+**c) tan x = a**
+- x = arctan a + kπ (k ∈ ℤ)
+
+**d) cot x = a**
+- x = arccot a + kπ (k ∈ ℤ)
+
+### 2. Các trường hợp đặc biệt
+- sin x = 0 ⟺ x = kπ
+- sin x = 1 ⟺ x = π/2 + k2π
+- sin x = -1 ⟺ x = -π/2 + k2π
+- cos x = 0 ⟺ x = π/2 + kπ
+- cos x = 1 ⟺ x = k2π
+- cos x = -1 ⟺ x = π + k2π
+
+### 3. Phương trình bậc hai với hàm lượng giác
+- Dạng: a·sin²x + b·sin x + c = 0
+- Đặt t = sin x (|t| ≤ 1), giải phương trình bậc hai với t
+- Tương tự cho cos x, tan x, cot x
+
+## III. DẠNG BÀI TẬP CHÍNH
+
+### 1. Tính giá trị hàm lượng giác
+- Sử dụng đường tròn lượng giác
+- Áp dụng tính chất tuần hoàn
+- Sử dụng công thức lượng giác cơ bản
+
+### 2. Giải phương trình lượng giác cơ bản
+- Áp dụng trực tiếp công thức nghiệm
+- Tìm nghiệm trong khoảng cho trước
+
+### 3. Giải phương trình lượng giác đưa về dạng cơ bản
+- Sử dụng công thức biến đổi
+- Phân tích thành nhân tử
+- Đặt ẩn phụ
+
+### 4. Khảo sát và vẽ đồ thị hàm lượng giác
+- Xác định tập xác định, tập giá trị
+- Tìm chu kì, tính chất chẵn lẻ
+- Lập bảng biến thiên và vẽ đồ thị
+
+Đây là những kiến thức nền tảng quan trọng, học sinh cần nắm vững để giải quyết các bài toán lượng giác phức tạp hơn.

@@ -1,0 +1,115 @@
+# HƯỚNG DẪN SINH ĐỀ - MỨC ĐỘ VẬN DỤNG
+## Chủ đề: Phương pháp tọa độ trong mặt phẳng - Lớp 10
+
+### I. CẤU TRÚC ĐỀ VẬN DỤNG
+
+#### 1. Phân bố nội dung:
+- **40%** Bài toán thực tế (GPS, bản đồ, kiến trúc, thiên văn)
+- **30%** Bài toán hình học phẳng kết hợp tọa độ
+- **20%** Bài toán tối ưu hóa đơn giản
+- **10%** Bài toán chuyển động
+
+#### 2. Mức độ yêu cầu:
+- **2-3 bước** tính toán/suy luận
+- **Kết hợp** 2-3 kiến thức: tọa độ + hàm số/hình học/lượng giác
+- **Số liệu thực tế** nhưng không quá phức tạp
+
+### II. KHUNG SINH ĐỀ CHI TIẾT
+
+#### **Dạng 1: Bài toán GPS và Định vị**
+**Mẫu câu hỏi:**
+```
+Trên bản đồ GPS sử dụng hệ tọa độ vuông góc, ba trạm phát sóng A, B, C có tọa độ 
+A(2;1), B(8;5), C(5;9) (đơn vị: km).
+a) Tìm tọa độ trung tâm D của tam giác ABC để đặt trạm điều khiển.
+b) Một chiếc xe đang ở vị trí M sao cho MA = MB = MC. Tìm tọa độ điểm M.
+c) Tính bán kính vùng phủ sóng nhỏ nhất để cả ba trạm đều nằm trong vùng này.
+```
+
+**Kiến thức cần vận dụng:**
+- Tọa độ trọng tâm tam giác
+- Phương trình đường tròn ngoại tiếp
+- Tính khoảng cách giữa hai điểm
+
+#### **Dạng 2: Bài toán Kiến trúc - Xây dựng**
+**Mẫu câu hỏi:**
+```
+Một công trình cầu có dạng parabol trên hệ tọa độ Oxy. Hai chân cầu ở A(-30;0) 
+và B(30;0), đỉnh cầu ở C(0;45) (đơn vị: mét).
+a) Viết phương trình parabol mô tả hình dạng cầu.
+b) Tại vị trí cách chân cầu A một khoảng 18m, người ta muốn dựng một cột đèn 
+   cao 25m. Hỏi cột đèn có chạm vào cầu không?
+c) Tính chiều dài cầu từ A đến C.
+```
+
+**Kiến thức cần vận dụng:**
+- Phương trình parabol
+- Hàm số bậc hai
+- Tính độ dài đường cong (công thức gần đúng)
+
+#### **Dạng 3: Bài toán Thiên văn**
+**Mẫu câu hỏi:**
+```
+Trên bản đồ sao, ba ngôi sao A, B, C có tọa độ A(1;2), B(7;6), C(4;8). 
+Đơn vị đo là năm ánh sáng.
+a) Chứng minh tam giác ABC là tam giác vuông. Xác định đỉnh vuông.
+b) Một ngôi sao mới D được phát hiện sao cho ABCD tạo thành hình chữ nhật. 
+   Tìm tọa độ điểm D.
+c) Tính diện tích vùng không gian được bao bởi tứ giác ABCD.
+```
+
+**Kiến thức cần vận dụng:**
+- Tích vô hướng của hai vectơ
+- Tính chất hình chữ nhật
+- Công thức tính diện tích
+
+#### **Dạng 4: Bài toán Tối ưu hóa**
+**Mẫu câu hỏi:**
+```
+Một nhà máy ở A(2;1) và một kho hàng ở B(8;7) cần được nối với một con đường 
+thẳng đi qua điểm C trên trục Ox.
+a) Viết phương trình đường thẳng AB.
+b) Tìm tọa độ điểm C trên trục Ox sao cho tổng khoảng cách AC + CB là nhỏ nhất.
+c) Tính độ dài đường đi ngắn nhất này.
+```
+
+**Kiến thức cần vận dụng:**
+- Phương trình đường thẳng
+- Phản xạ qua trục tọa độ
+- Bài toán cực trị
+
+### III. TIÊU CHÍ ĐÁNH GIÁ ĐỀ VẬN DỤNG
+
+#### **1. Về nội dung (4 điểm):**
+- ✓ Có bối cảnh thực tế rõ ràng
+- ✓ Kết hợp 2-3 kiến thức toán học
+- ✓ Mức độ phù hợp với học sinh giỏi
+- ✓ Số liệu hợp lý, không quá phức tạp
+
+#### **2. Về kỹ năng (3 điểm):**
+- ✓ Yêu cầu 2-3 bước giải
+- ✓ Cần phân tích mối quan hệ các yếu tố
+- ✓ Không chỉ áp dụng máy móc công thức
+
+#### **3. Về trình bày (3 điểm):**
+- ✓ Đề bài rõ ràng, logic
+- ✓ Các câu hỏi tăng dần độ khó
+- ✓ Có thể giải được với kiến thức lớp 10
+
+### IV. LƯU Ý KHI SINH ĐỀ
+
+1. **Chọn số liệu:** Ưu tiên số nguyên, tránh căn thức phức tạp
+2. **Bối cảnh:** Sử dụng tình huống quen thuộc với học sinh
+3. **Độ khó:** Tăng dần từ câu a) đến câu c)
+4. **Thời gian:** Mỗi bài khoảng 15-20 phút giải
+
+### V. VÍ DỤ ĐỀ HOÀN CHỈNH
+
+**Bài toán:** Một sân bay có tháp điều khiển ở O(0;0), hai đường băng chính nằm trên các đường thẳng d₁: x + y - 6 = 0 và d₂: x - y + 2 = 0. Một máy bay đang ở vị trí A(4;2) cần hạ cánh.
+
+a) Tính khoảng cách từ máy bay đến mỗi đường băng.
+b) Máy bay nên chọn đường băng nào để hạ cánh cho gần nhất?
+c) Sau khi hạ cánh, máy bay di chuyển đến vị trí B trên đường băng đã chọn sao cho OB nhỏ nhất. Tìm tọa độ điểm B.
+
+---
+*Hướng dẫn này giúp tạo ra các bài toán vận dụng chất lượng, phù hợp với mục tiêu giáo dục và năng lực học sinh.*

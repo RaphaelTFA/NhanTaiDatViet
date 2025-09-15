@@ -1,0 +1,70 @@
+# TÓM TẮT CHƯƠNG VII: PHƯƠNG PHÁP TỌA ĐỘ TRONG MẶT PHẲNG
+
+## I. HỆ TỌA ĐỘ TRONG MẶT PHẲNG
+
+### 1. Định nghĩa hệ tọa độ Oxy
+- **Hệ tọa độ vuông góc Oxy**: Gồm hai trục Ox, Oy vuông góc tại gốc O và có cùng đơn vị đo
+- **Tọa độ điểm**: M(x; y) với x là hoành độ, y là tung độ
+
+### 2. Các công thức cơ bản
+- **Tọa độ vectơ**: $\overrightarrow{AB} = (x_B - x_A; y_B - y_A)$
+- **Độ dài vectơ**: $|\overrightarrow{AB}| = \sqrt{(x_B - x_A)^2 + (y_B - y_A)^2}$
+- **Tọa độ trung điểm**: $M_{AB} = \left(\frac{x_A + x_B}{2}; \frac{y_A + y_B}{2}\right)$
+
+## II. PHƯƠNG TRÌNH ĐƯỜNG THẲNG
+
+### 1. Các dạng phương trình
+- **Phương trình tổng quát**: $ax + by + c = 0$ (a² + b² ≠ 0)
+- **Phương trình tham số**: $\begin{cases} x = x_0 + at \\ y = y_0 + bt \end{cases}$
+- **Phương trình chính tắc**: $\frac{x - x_0}{a} = \frac{y - y_0}{b}$
+
+### 2. Vectơ pháp tuyến và vectơ chỉ phương
+- **Vectơ pháp tuyến**: $\overrightarrow{n} = (a; b)$
+- **Vectơ chỉ phương**: $\overrightarrow{u} = (b; -a)$ hoặc $\overrightarrow{u} = (-b; a)$
+
+### 3. Khoảng cách và góc
+- **Khoảng cách từ điểm đến đường thẳng**: $d(M, d) = \frac{|ax_0 + by_0 + c|}{\sqrt{a^2 + b^2}}$
+- **Góc giữa hai đường thẳng**: $\cos\alpha = \frac{|a_1a_2 + b_1b_2|}{\sqrt{a_1^2 + b_1^2}\sqrt{a_2^2 + b_2^2}}$
+
+## III. PHƯƠNG TRÌNH ĐƯỜNG TRÒN
+
+### 1. Phương trình đường tròn
+- **Dạng chính tắc**: $(x - a)^2 + (y - b)^2 = R^2$
+- **Dạng tổng quát**: $x^2 + y^2 - 2ax - 2by + c = 0$ với điều kiện $a^2 + b^2 - c > 0$
+
+### 2. Vị trí tương đối
+- **Đường thẳng và đường tròn**: So sánh khoảng cách từ tâm đến đường thẳng với bán kính
+- **Hai đường tròn**: So sánh khoảng cách giữa hai tâm với tổng và hiệu các bán kính
+
+## IV. PHƯƠNG TRÌNH ĐƯỜNG ELIP
+
+### 1. Định nghĩa và phương trình
+- **Elip**: Tập hợp các điểm M sao cho $MF_1 + MF_2 = 2a$ (với F₁, F₂ là hai tiêu điểm)
+- **Phương trình chính tắc**: $\frac{x^2}{a^2} + \frac{y^2}{b^2} = 1$ (a > b > 0)
+
+### 2. Các yếu tố của elip
+- **Tiêu điểm**: F₁(-c; 0), F₂(c; 0) với $c^2 = a^2 - b^2$
+- **Đỉnh**: A₁(-a; 0), A₂(a; 0), B₁(0; -b), B₂(0; b)
+- **Tâm sai**: $e = \frac{c}{a}$ (0 < e < 1)
+
+## V. DẠNG BÀI TẬP CHÍNH
+
+### 1. Bài tập về tọa độ điểm và vectơ
+- Tìm tọa độ điểm thỏa mãn điều kiện cho trước
+- Chứng minh các tính chất hình học bằng tọa độ
+- Tính toán với vectơ trong hệ tọa độ
+
+### 2. Bài tập về đường thẳng
+- Lập phương trình đường thẳng qua điểm, song song, vuông góc
+- Tìm giao điểm, tính khoảng cách, góc
+- Bài toán về tam giác: trọng tâm, trực tâm, ngoại tâm
+
+### 3. Bài tập về đường tròn
+- Lập phương trình đường tròn
+- Xét vị trí tương đối của đường thẳng và đường tròn
+- Tìm tiếp tuyến của đường tròn
+
+### 4. Bài tập về elip
+- Lập phương trình elip từ các điều kiện cho trước
+- Tìm các yếu tố của elip
+- Bài toán về tiêu điểm và tính chất quang học

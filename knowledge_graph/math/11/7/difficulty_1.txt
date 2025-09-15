@@ -1,0 +1,123 @@
+# HƯỚNG DẪN SINH ĐỀ - QUAN HỆ VUÔNG GÓC TRONG KHÔNG GIAN (MỨC NHẬN BIẾT)
+
+## I. KIẾN THỨC CƠ BẢN CẦN KIỂM TRA
+
+### 1. Đường thẳng vuông góc với mặt phẳng
+- Định nghĩa đường thẳng vuông góc với mặt phẳng
+- Định lý ba đường vuông góc
+- Điều kiện để đường thẳng vuông góc với mặt phẳng
+
+### 2. Hai mặt phẳng vuông góc
+- Định nghĩa hai mặt phẳng vuông góc
+- Điều kiện để hai mặt phẳng vuông góc
+- Tính chất cơ bản
+
+### 3. Khoảng cách trong không gian
+- Khoảng cách từ điểm đến đường thẳng
+- Khoảng cách từ điểm đến mặt phẳng
+- Công thức tính cơ bản
+
+## II. CÁC DẠNG CÂU HỎI MỨC NHẬN BIẾT
+
+### DẠNG 1: Nhận biết định nghĩa và khái niệm
+
+**Mẫu câu hỏi:**
+
+**Câu 1:** Cho biết định nghĩa đường thẳng d vuông góc với mặt phẳng (P).
+A. d vuông góc với một đường thẳng nằm trong (P)
+B. d vuông góc với hai đường thẳng song song trong (P)
+C. d vuông góc với mọi đường thẳng nằm trong (P)
+D. d cắt (P) tại một điểm
+
+**Câu 2:** Xác định điều kiện để hai mặt phẳng (P) và (Q) vuông góc với nhau.
+A. Góc giữa hai mặt phẳng bằng 90°
+B. Có một đường thẳng thuộc (P) song song với (Q)
+C. Có một đường thẳng thuộc (P) cắt (Q)
+D. Có một đường thẳng thuộc (P) tạo với (Q) góc 45°
+
+### DẠNG 2: Áp dụng trực tiếp định lý
+
+**Mẫu câu hỏi:**
+
+**Câu 3:** Trong hình lập phương ABCD.A'B'C'D', nhận biết đường thẳng nào vuông góc với mặt phẳng (ABCD)?
+A. AC
+B. BD
+C. AA'
+D. AB
+
+**Câu 4:** Cho hình chóp S.ABC có SA ⊥ (ABC). Tìm đường cao của tam giác SBC hạ từ đỉnh S.
+A. SA
+B. SB
+C. SC
+D. Đường vuông góc từ S đến BC
+
+### DẠNG 3: Tính chất cơ bản về quan hệ vuông góc
+
+**Mẫu câu hỏi:**
+
+**Câu 5:** Cho đường thẳng a ⊥ (P) và đường thẳng b ⊂ (P). Xác định mối quan hệ giữa a và b.
+A. a // b
+B. a ⊥ b
+C. a và b chéo nhau
+D. a cắt b
+
+**Câu 6:** Nếu hai mặt phẳng (P) và (Q) vuông góc với nhau, cho biết tính chất nào sau đây đúng?
+A. Mọi đường thẳng trong (P) đều vuông góc với (Q)
+B. Tồn tại đường thẳng trong (P) vuông góc với (Q)
+C. Mọi đường thẳng trong (P) đều song song với (Q)
+D. Không có đường thẳng nào trong (P) vuông góc với (Q)
+
+### DẠNG 4: Nhận biết trong các hình không gian cơ bản
+
+**Mẫu câu hỏi:**
+
+**Câu 7:** Trong hình lăng trụ đứng ABC.A'B'C', xác định mặt phẳng vuông góc với mặt phẳng (ABC).
+A. (ABB'A')
+B. (BCC'B')
+C. (CAA'C')
+D. Cả A, B, C đều đúng
+
+**Câu 8:** Cho hình chóp tam giác đều S.ABC có SA = SB = SC. Nhận biết SO có vuông góc với mặt phẳng (ABC) không? (O là tâm đường tròn ngoại tiếp tam giác ABC)
+A. Có
+B. Không
+C. Chỉ đúng khi tam giác ABC vuông
+D. Chỉ đúng khi tam giác ABC cân
+
+### DẠNG 5: Khoảng cách cơ bản
+
+**Mẫu câu hỏi:**
+
+**Câu 9:** Cho điểm A cách mặt phẳng (P) một khoảng bằng 5. Tính khoảng cách từ A đến (P).
+A. 3
+B. 4
+C. 5
+D. 6
+
+**Câu 10:** Trong hình lập phương cạnh a, tìm khoảng cách từ một đỉnh đến mặt phẳng chứa đáy đối diện.
+A. a
+B. a√2
+C. a√3
+D. 2a
+
+## III. HƯỚNG DẪN TẠO ĐỀ
+
+### 1. Tỷ lệ phân bố câu hỏi:
+- Định nghĩa, khái niệm: 30-40%
+- Áp dụng trực tiếp định lý: 40-50%
+- Nhận biết trong hình cụ thể: 20-30%
+
+### 2. Cấu trúc đề kiểm tra 15 phút (5 câu):
+- 2 câu về định nghĩa
+- 2 câu áp dụng trực tiếp
+- 1 câu nhận biết trong hình cụ thể
+
+### 3. Cấu trúc đề kiểm tra 45 phút (20 câu):
+- 6-8 câu về định nghĩa và khái niệm
+- 8-10 câu áp dụng trực tiếp
+- 4-6 câu nhận biết trong hình cụ thể
+
+### 4. Lưu ý khi ra đề:
+- Sử dụng hình vẽ đơn giản, quen thuộc
+- Các đáp án nhiễu phải hợp lý
+- Tránh các phép tính phức tạp
+- Câu hỏi phải rõ ràng, dễ hiểu

@@ -1,0 +1,114 @@
+# HƯỚNG DẪN SINH ĐỀ MỨC VẬN DỤNG CAO
+## Chủ đề: Ứng dụng đạo hàm để khảo sát và vẽ đồ thị hàm số
+
+## I. NGUYÊN TẮC CHUNG KHI SINH ĐỀ MỨC VẬN DỤNG CAO
+
+### 1. Đặc điểm của câu hỏi Vận dụng cao:
+- **Tích hợp đa kiến thức**: Kết hợp khảo sát hàm số với hình học tọa độ, phương trình - bất phương trình, cực trị có điều kiện
+- **Tính phân tích cao**: Yêu cầu học sinh phân tích mối quan hệ giữa tham số và tính chất đồ thị
+- **Suy luận logic phức tạp**: Cần nhiều bước chứng minh và biện luận
+- **Ứng dụng thực tế**: Gắn với các bài toán tối ưu hóa, mô hình hóa
+
+### 2. Cấu trúc câu hỏi:
+- **Phần 1**: Thiết lập bối cảnh (hàm số có tham số, điều kiện ràng buộc)
+- **Phần 2**: Yêu cầu khảo sát có điều kiện
+- **Phần 3**: Ứng dụng kết quả khảo sát để giải quyết vấn đề phức tạp
+
+## II. CÁC DẠNG CÂU HỎI ĐIỂN HÌNH
+
+### **DẠNG 1: Khảo sát hàm số kết hợp với bài toán cực trị hình học**
+
+**Cấu trúc sinh đề:**
+
+*Cho hàm số $f(x) = ax^3 + bx^2 + cx + d$ (với điều kiện ràng buộc về tham số)*
+
+**Câu a)** Tìm điều kiện của tham số để hàm số có hai điểm cực trị thỏa mãn tính chất hình học cụ thể (cách đều một đường thẳng, tạo thành tam giác có diện tích cho trước với điểm cố định, ...)
+
+**Câu b)** Với điều kiện tìm được, chứng minh đồ thị hàm số luôn đi qua điểm cố định và tìm điểm đó.
+
+**Câu c)** Tìm giá trị tham số để khoảng cách từ tâm đối xứng của đồ thị đến đường thẳng $y = mx + n$ là lớn nhất.
+
+**Ví dụ cụ thể:**
+> Cho hàm số $f(x) = x^3 - 3mx^2 + 3(m^2-1)x + m$ với $m$ là tham số thực.
+> 
+> a) Tìm $m$ để đồ thị hàm số có hai điểm cực trị $A, B$ sao cho tam giác $OAB$ có diện tích bằng $2\sqrt{2}$ (với $O$ là gốc tọa độ).
+> 
+> b) Chứng minh rằng đồ thị hàm số luôn đi qua hai điểm cố định và đường thẳng qua hai điểm này có tính chất gì đặc biệt?
+> 
+> c) Tìm $m$ để khoảng cách từ tâm đối xứng của đồ thị đến đường thẳng $y = x - 1$ đạt giá trị nhỏ nhất.
+
+### **DẠNG 2: Khảo sát hàm số với bài toán tiếp tuyến và giao điểm**
+
+**Cấu trúc sinh đề:**
+
+*Cho họ hàm số $y = \frac{ax^2 + bx + c}{dx + e}$ phụ thuộc tham số*
+
+**Câu a)** Khảo sát và vẽ đồ thị hàm số khi tham số nhận giá trị cụ thể.
+
+**Câu b)** Tìm điều kiện tham số để đồ thị hàm số cắt đường thẳng $y = kx + h$ tại hai điểm phân biệt $M, N$ sao cho một trong các điều kiện:
+- Trung điểm $MN$ thuộc đường thẳng cho trước
+- $\overrightarrow{OM} \cdot \overrightarrow{ON} = k$ (với $k$ cho trước)
+- Tiếp tuyến tại $M, N$ song song hoặc vuông góc
+
+**Câu c)** Từ một điểm $A$ cố định, kẻ được hai tiếp tuyến đến đồ thị. Tìm quỹ tích các tiếp điểm khi tham số thay đổi.
+
+### **DẠNG 3: Bài toán tối ưu kết hợp khảo sát hàm số**
+
+**Cấu trúc sinh đề:**
+
+*Cho hàm số mô tả một hiện tượng thực tế có tham số*
+
+**Câu a)** Khảo sát sự biến thiên của hàm số theo tham số.
+
+**Câu b)** Tìm điều kiện để hàm số có tính chất cực trị cụ thể (có cực trị trong khoảng cho trước, cực đại lớn hơn cực tiểu một lượng cụ thể, ...)
+
+**Câu c)** Ứng dụng: Tìm giá trị tham số để một đại lượng nào đó đạt tối ưu (chi phí nhỏ nhất, lợi nhuận lớn nhất, diện tích/thể tích tối ưu, ...)
+
+**Ví dụ cụ thể:**
+> Một công ty sản xuất có hàm chi phí $C(x) = x^3 - 6x^2 + 15x + a$ (triệu đồng) và hàm doanh thu $R(x) = -x^2 + 12x$ (triệu đồng), trong đó $x$ là sản lượng (tấn), $0 \leq x \leq 8$, $a > 0$ là tham số.
+> 
+> a) Khảo sát sự biến thiên của hàm lợi nhuận $P(x) = R(x) - C(x)$ theo $a$.
+> 
+> b) Tìm $a$ để công ty có lợi nhuận dương trên khoảng $(1; 5)$.
+> 
+> c) Tìm $a$ để lợi nhuận trung bình trên đoạn $[2; 6]$ đạt giá trị lớn nhất.
+
+## III. TIÊU CHÍ ĐÁNH GIÁ ĐỘ KHÓ
+
+### **Mức 1: Cơ bản** (không phù hợp với yêu cầu)
+- Khảo sát hàm số cơ bản không có tham số
+- Tìm cực trị đơn giản
+- Vẽ đồ thị trực tiếp
+
+### **Mức 2: Nâng cao** (gần đạt yêu cầu)
+- Khảo sát hàm số có tham số đơn giản
+- Bài toán tiếp tuyến cơ bản
+- Tìm giao điểm với phương trình bậc hai
+
+### **Mức 3: Vận dụng cao** (đạt yêu cầu)
+- Tích hợp nhiều kiến thức: khảo sát + hình học + cực trị
+- Yêu cầu suy luận logic cao
+- Có ứng dụng thực tế hoặc tính chất hình học phức tạp
+- Cần nhiều bước biến đổi và phân tích
+
+## IV. MẪU CÂUI HỎI HOÀN CHỈNH
+
+### **Câu hỏi mẫu:**
+
+> **Cho hàm số** $f(x) = \frac{x^2 - 2mx + m^2 + m}{x - m}$ **với** $m$ **là tham số thực.**
+> 
+> **a)** Khảo sát và vẽ đồ thị hàm số khi $m = 1$.
+> 
+> **b)** Chứng minh rằng với mọi giá trị của $m$, đồ thị hàm số luôn đi qua hai điểm cố định. Tìm tọa độ hai điểm đó.
+> 
+> **c)** Gọi $A, B$ là hai điểm cố định nói trên. Tìm $m$ để điểm $C(m; f(m+1))$ tạo với $A, B$ thành tam giác có diện tích lớn nhất.
+> 
+> **d)** Từ điểm $M(0; 2)$, kẻ được hai tiếp tuyến đến đồ thị hàm số (với $m$ thay đổi). Tìm quỤ tích các tiếp điểm.
+
+## V. LƯU Ý KHI SINH ĐỀ
+
+1. **Đảm bảo tính khả thi**: Phương trình phải có nghiệm trong phạm vi yêu cầu
+2. **Cân bằng độ khó**: Không được quá khó làm học sinh nản chí
+3. **Tính ứng dụng**: Ưu tiên các bài toán có ý nghĩa thực tế
+4. **Đa dạng phương pháp**: Kết hợp nhiều kỹ thuật giải toán khác nhau
+5. **Tính sư phạm**: Câu hỏi phải có giá trị giáo dục, rèn luyện tư duy logic

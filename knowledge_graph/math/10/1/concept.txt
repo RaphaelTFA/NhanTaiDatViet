@@ -1,0 +1,98 @@
+# TÓM TẮT CHƯƠNG I: MỆNH ĐỀ VÀ TẬP HỢP
+
+## I. MỆNH ĐỀ
+
+### 1. Định nghĩa
+- **Mệnh đề** là một câu khẳng định có thể xác định được tính đúng hoặc sai
+- Mệnh đề đúng có giá trị chân lý là **Đ** (True)
+- Mệnh đề sai có giá trị chân lý là **S** (False)
+
+### 2. Mệnh đề phủ định
+- Mệnh đề phủ định của P, ký hiệu **¬P** hoặc **P̄**
+- Nếu P đúng thì ¬P sai và ngược lại
+
+### 3. Mệnh đề kéo theo
+- **P ⇒ Q**: "Nếu P thì Q"
+- P ⇒ Q chỉ sai khi P đúng và Q sai
+- Các dạng tương đương:
+  + Mệnh đề đảo: Q ⇒ P
+  + Mệnh đề phủ định: ¬P ⇒ ¬Q
+  + Mệnh đề phản đảo: ¬Q ⇒ ¬P
+
+### 4. Mệnh đề tương đương
+- **P ⇔ Q**: "P khi và chỉ khi Q"
+- P ⇔ Q đúng khi P và Q có cùng giá trị chân lý
+
+### 5. Mệnh đề có chứa kí hiệu ∀, ∃
+- **∀x ∈ X, P(x)**: "Với mọi x thuộc X, P(x) đúng"
+- **∃x ∈ X, P(x)**: "Tồn tại x thuộc X sao cho P(x) đúng"
+
+## II. TẬP HỢP
+
+### 1. Định nghĩa và ký hiệu
+- **Tập hợp** là một khái niệm cơ bản, không định nghĩa
+- **Phần tử**: a ∈ A (a thuộc A), a ∉ A (a không thuộc A)
+- **Tập hợp rỗng**: ∅ (không chứa phần tử nào)
+
+### 2. Cách xác định tập hợp
+- **Liệt kê**: A = {1, 2, 3, 4}
+- **Tính chất đặc trưng**: A = {x | x có tính chất P}
+
+### 3. Quan hệ giữa các tập hợp
+- **Tập con**: A ⊆ B ⇔ ∀x ∈ A ⇒ x ∈ B
+- **Hai tập bằng nhau**: A = B ⇔ A ⊆ B và B ⊆ A
+
+### 4. Các phép toán trên tập hợp
+
+#### a) Hợp của hai tập hợp
+**A ∪ B = {x | x ∈ A hoặc x ∈ B}**
+
+#### b) Giao của hai tập hợp  
+**A ∩ B = {x | x ∈ A và x ∈ B}**
+
+#### c) Hiệu của hai tập hợp
+**A \ B = {x | x ∈ A và x ∉ B}**
+
+#### d) Phần bù
+**C_U A = U \ A** (với U là tập vũ trụ)
+
+### 5. Tính chất các phép toán
+- **Tính giao hoán**: A ∪ B = B ∪ A; A ∩ B = B ∩ A
+- **Tính kết hợp**: (A ∪ B) ∪ C = A ∪ (B ∪ C)
+- **Tính phân phối**: A ∩ (B ∪ C) = (A ∩ B) ∪ (A ∩ C)
+- **Luật De Morgan**: C_U(A ∪ B) = C_U A ∩ C_U B
+
+### 6. Số phần tử của tập hợp
+**|A ∪ B| = |A| + |B| - |A ∩ B|**
+
+## III. CÁC DẠNG BÀI TẬP CHÍNH
+
+### 1. Dạng 1: Xét tính đúng sai của mệnh đề
+- Phân tích cấu trúc mệnh đề
+- Sử dụng bảng chân lý
+- Tìm phản ví dụ
+
+### 2. Dạng 2: Lập mệnh đề phủ định
+- Phủ định kí hiệu ∀, ∃
+- Phủ định mệnh đề kéo theo
+- Sử dụng luật De Morgan
+
+### 3. Dạng 3: Xác định các phần tử của tập hợp
+- Liệt kê phần tử
+- Sử dụng tính chất đặc trưng
+- Biểu diễn trên trục số, sơ đồ Ven
+
+### 4. Dạng 4: Các phép toán trên tập hợp
+- Tìm hợp, giao, hiệu của các tập hợp
+- Sử dụng sơ đồ Ven
+- Áp dụng công thức đếm
+
+### 5. Dạng 5: Chứng minh quan hệ giữa các tập hợp
+- Chứng minh A ⊆ B
+- Chứng minh A = B
+- Sử dụng định nghĩa và tính chất
+
+### 6. Dạng 6: Bài toán thực tế về tập hợp
+- Bài toán thống kê
+- Bài toán phân loại
+- Sử dụng nguyên lý bao hàm - loại trừ

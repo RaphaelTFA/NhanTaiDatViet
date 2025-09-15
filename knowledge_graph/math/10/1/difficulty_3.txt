@@ -1,0 +1,91 @@
+# HƯỚNG DẪN SINH ĐỀ VẬN DỤNG - CHỦ ĐỀ MỆNH ĐỀ - TẬP HỢP
+
+## I. KHUNG YÊU CẦU CHO ĐỀ VẬN DỤNG
+
+### 1. Về nội dung kiến thức cần vận dụng:
+- **Mệnh đề**: Mệnh đề chứa biến, mệnh đề phủ định, mệnh đề kéo theo, mệnh đề tương đương
+- **Tập hợp**: Các phép toán trên tập hợp, biểu diễn tập hợp, quan hệ bao hàm
+- **Kết hợp**: Logic toán học trong giải quyết bài toán thực tế
+
+### 2. Mức độ vận dụng yêu cầu:
+- **Bước 1**: Chuyển đổi tình huống thực tế thành ngôn ngữ toán học
+- **Bước 2**: Áp dụng lý thuyết mệnh đề và tập hợp
+- **Bước 3**: Phân tích và kết luận phù hợp với ngữ cảnh
+
+## II. CÁC DẠNG BÀI VẬN DỤNG
+
+### **Dạng 1: Ứng dụng vào khảo sát thống kê**
+
+**Cấu trúc đề:**
+Một trường THPT có 1200 học sinh. Khảo sát sở thích môn học cho thấy:
+- A: Tập hợp học sinh thích môn Toán (720 em)
+- B: Tập hợp học sinh thích môn Văn (650 em)  
+- C: Tập hợp học sinh thích môn Anh (580 em)
+- |A ∩ B| = 380, |B ∩ C| = 320, |A ∩ C| = 290
+- |A ∩ B ∩ C| = 150
+
+**Yêu cầu:**
+1. Tính số học sinh chỉ thích đúng một môn
+2. Xét tính đúng sai của mệnh đề: "Nếu một học sinh thích Toán và Văn thì học sinh đó cũng thích Anh"
+3. Phân tích mối quan hệ giữa các tập hợp
+
+### **Dạng 2: Ứng dụng vào kinh tế - quản lý**
+
+**Cấu trúc đề:**
+Một công ty khảo sát 500 khách hàng về 3 sản phẩm A, B, C:
+- Tập X: Khách hàng mua sản phẩm A (|X| = 280)
+- Tập Y: Khách hàng mua sản phẩm B (|Y| = 320)
+- Tập Z: Khách hàng mua sản phẩm C (|Z| = 250)
+
+**Cho thêm điều kiện:**
+- 40% khách hàng mua A cũng mua B
+- 30% khách hàng mua B cũng mua C  
+- 25% khách hàng mua A cũng mua C
+- 60 khách hàng mua cả 3 sản phẩm
+
+**Yêu cầu học sinh:**
+1. Thiết lập các tập hợp và tính toán số lượng
+2. Xét mệnh đề có dạng "p ⇒ q" và tính độ tin cậy
+3. Đưa ra khuyến nghị kinh doanh dựa trên phân tích
+
+### **Dạng 3: Ứng dụng vào bài toán thực tế kết hợp hình học**
+
+**Cấu trúc đề:**
+Trên mặt phẳng tọa độ, cho:
+- A = {(x,y) | x² + y² ≤ 25}
+- B = {(x,y) | |x| + |y| ≤ 6}  
+- C = {(x,y) | x ≥ 0, y ≥ 0}
+
+**Bối cảnh thực tế:** Bài toán quy hoạch vùng trồng cây trong khu vực hình vuông
+
+**Yêu cầu:**
+1. Mô tả ý nghĩa hình học của các tập hợp
+2. Tính diện tích các vùng A∩B∩C, A∪B∪C
+3. Xét tính đúng sai của các mệnh đề về quan hệ bao hàm
+4. Ứng dụng vào bài toán tối ưu hóa diện tích
+
+## III. TIÊU CHÍ ĐÁNH GIÁ ĐỀ VẬN DỤNG
+
+### **Điểm mạnh của đề tốt:**
+✅ **Tính thực tiễn cao**: Dữ liệu sát với thực tế  
+✅ **Tính logic**: Yêu cầu suy luận 2-3 bước  
+✅ **Tính tổng hợp**: Kết hợp nhiều kiến thức  
+✅ **Độ phân hóa**: Phù hợp học sinh giỏi  
+
+### **Các lỗi cần tránh:**
+❌ Đề quá phức tạp, xa rời chương trình  
+❌ Số liệu không hợp lý hoặc quá khó tính  
+❌ Không thể hiện rõ mối quan hệ với thực tế  
+❌ Yêu cầu chỉ ở mức nhớ công thức  
+
+## IV. TEMPLATE SINH ĐỀ
+
+**Bước 1**: Chọn bối cảnh thực tế (giáo dục, kinh tế, xã hội...)  
+**Bước 2**: Xây dựng 3 tập hợp với quan hệ phù hợp  
+**Bước 3**: Đưa ra dữ liệu số cụ thể, hợp lý  
+**Bước 4**: Thiết kế câu hỏi tăng dần độ khó:
+   - Câu 1: Tính toán cơ bản (2-3 điểm)
+   - Câu 2: Phân tích mệnh đề (3-4 điểm)  
+   - Câu 3: Vận dụng cao, kết luận (3-4 điểm)
+
+**Bước 5**: Kiểm tra tính khả thi và phù hợp với thời gian làm bài

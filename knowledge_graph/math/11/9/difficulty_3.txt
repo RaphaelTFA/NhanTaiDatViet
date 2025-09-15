@@ -1,0 +1,131 @@
+# HƯỚNG DẪN SINH ĐỀ TOÁN LỚP 11 - CHỦ ĐỀ ĐẠO HÀM (MỨC VẬN DỤNG)
+
+## I. KHUNG CHUNG VỀ ĐỀ BÀI
+
+### 1. Cấu trúc đề bài mức vận dụng:
+- **Bối cảnh thực tế**: Luôn xuất phát từ tình huống có thật
+- **Số liệu cụ thể**: Sử dụng dữ liệu thực tế nhưng được làm tròn phù hợp
+- **Nhiều bước giải**: Yêu cầu 2-3 bước tính toán/suy luận
+- **Tích hợp kiến thức**: Kết hợp với hàm số, phương trình, bất phương trình
+
+### 2. Các dạng ứng dụng chính:
+- Bài toán kinh tế (chi phí, lợi nhuận, doanh thu)
+- Bài toán chuyển động (vận tốc, gia tốc)
+- Bài toán hình học (tốc độ thay đổi diện tích, thể tích)
+- Bài toán vật lý (nhiệt độ, áp suất, điện học)
+
+## II. CÁC DẠNG ĐỀ CHUẨN
+
+### DẠNG 1: BÀI TOÁN KINH TẾ
+
+**Mẫu đề 1:**
+Một công ty sản xuất điện thoại có hàm chi phí sản xuất x chiếc điện thoại là:
+C(x) = 0,2x³ - 12x² + 300x + 50000 (đơn vị: nghìn đồng)
+
+Với x ∈ [10; 200].
+
+**Câu hỏi:**
+a) Tính chi phí biên tại mức sản xuất 50 chiếc.
+b) Tại mức sản xuất nào thì chi phí biên nhỏ nhất?
+c) Giải thích ý nghĩa kinh tế của kết quả câu b.
+
+**Hướng dẫn giải:**
+- Bước 1: Tính C'(x) = 0,6x² - 24x + 300
+- Bước 2: Tính C'(50), tìm Min C'(x) trên [10;200]
+- Bước 3: Phân tích ý nghĩa
+
+**Mẫu đề 2:**
+Doanh thu của một cửa hàng bán áo thun theo thời gian t (tháng) được mô tả bởi:
+R(t) = -2t³ + 30t² + 144t + 1000 (triệu đồng)
+
+Với t ∈ [0; 12].
+
+**Câu hỏi:**
+a) Tìm tốc độ tăng doanh thu tại thời điểm t = 4 tháng.
+b) Doanh thu tăng nhanh nhất vào thời điểm nào?
+c) Dự đoán xu hướng kinh doanh của cửa hàng.
+
+### DẠNG 2: BÀI TOÁN CHUYỂN ĐỘNG
+
+**Mẫu đề 3:**
+Một viên bi được thả rơi từ tòa nhà cao, quãng đường rơi được tính theo công thức:
+s(t) = 4,9t² + 2t (mét)
+
+Trong đó t là thời gian (giây).
+
+**Câu hỏi:**
+a) Tính vận tốc của viên bi tại thời điểm t = 3 giây.
+b) Tại thời điểm nào vận tốc của viên bi đạt 50 m/s?
+c) Nếu tòa nhà cao 122,5m, viên bi chạm đất với vận tốc bao nhiêu?
+
+**Mẫu đề 4:**
+Một ô tô chạy trên đường thẳng, vị trí của nó được xác định bởi:
+s(t) = t³ - 9t² + 24t + 5 (km)
+
+Với t là thời gian (giờ), t ∈ [0; 8].
+
+**Câu hỏi:**
+a) Tính vận tốc và gia tốc tại t = 2 giờ.
+b) Tìm thời điểm ô tô dừng lại.
+c) Tính quãng đường ô tô đi được trong 4 giờ đầu.
+
+### DẠNG 3: BÀI TOÁN HÌNH HỌC
+
+**Mẫu đề 5:**
+Một bồn nước hình trụ có bán kính đáy R = 2m. Nước được bơm vào bồn với tốc độ 0,5 m³/phút.
+
+**Câu hỏi:**
+a) Viết công thức tính thể tích nước theo chiều cao h.
+b) Tính tốc độ thay đổi mực nước trong bồn.
+c) Sau 1 giờ bơm, mực nước cao bao nhiêu?
+
+**Mẫu đề 6:**
+Một khối cầu đang được thổi phồng, bán kính tăng với tốc độ 2 cm/phút.
+
+**Câu hỏi:**
+a) Tính tốc độ thay đổi thể tích khi bán kính r = 10 cm.
+b) Khi nào diện tích mặt cầu tăng với tốc độ 100π cm²/phút?
+c) So sánh tốc độ tăng thể tích khi r = 5cm và r = 10cm.
+
+### DẠNG 4: BÀI TOÁN VẬT LÝ
+
+**Mẫu đề 7:**
+Nhiệt độ của một vật theo thời gian được mô tả bởi:
+T(t) = 20 + 80e^(-0,1t) (°C)
+
+Với t là thời gian (phút).
+
+**Câu hỏi:**
+a) Tính tốc độ thay đổi nhiệt độ tại t = 10 phút.
+b) Khi nào tốc độ giảm nhiệt độ là 4°C/phút?
+c) Nhiệt độ cuối cùng của vật là bao nhiêu?
+
+## III. TIÊU CHÍ ĐÁNH GIÁ ĐỀ TỐT
+
+### 1. Về nội dung:
+- ✅ Có bối cảnh thực tế rõ ràng
+- ✅ Số liệu hợp lý, không quá phức tạp
+- ✅ Câu hỏi có tính tư duy cao
+- ✅ Kết hợp được với kiến thức khác
+
+### 2. Về mức độ:
+- ✅ Cần 2-3 bước giải
+- ✅ Phân tích được mối quan hệ
+- ✅ Ứng dụng linh hoạt công thức
+- ✅ Phù hợp học sinh giỏi
+
+### 3. Về kỹ thuật:
+- ✅ Tính toán chính xác
+- ✅ Đơn vị đo phù hợp
+- ✅ Miền xác định hợp lý
+- ✅ Có thể kiểm tra kết quả
+
+## IV. LƯU Ý KHI SINH ĐỀ
+
+1. **Chọn bối cảnh**: Gần gũi với học sinh, dễ hiểu
+2. **Thiết kế hàm số**: Đạo hàm không quá phức tạp
+3. **Đặt câu hỏi**: Từ dễ đến khó, có tính logic
+4. **Kiểm tra đáp án**: Đảm bảo tính chính xác
+5. **Đánh giá độ khó**: Phù hợp với học sinh giỏi
+
+Đây là khung hướng dẫn chi tiết để tạo ra những bài tập đạo hàm mức vận dụng chất lượng cao, phù hợp với yêu cầu đề ra.

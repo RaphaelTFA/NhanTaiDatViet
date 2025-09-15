@@ -1,0 +1,102 @@
+# HƯỚNG DẪN SINH ĐỀ MỨC NHẬN BIẾT
+## Chủ đề: Vector và hệ trục tọa độ trong không gian - Lớp 12
+
+## I. KHUNG KIẾN THỨC CẦN NHẮC LẠI
+
+### 1. Hệ trục tọa độ Oxyz trong không gian
+- Định nghĩa hệ trục tọa độ vuông góc
+- Tọa độ của điểm M(x; y; z)
+
+### 2. Vector trong không gian
+- Tọa độ vector: $\vec{a} = (a_1; a_2; a_3)$
+- Các phép toán vector cơ bản
+- Độ dài vector: $|\vec{a}| = \sqrt{a_1^2 + a_2^2 + a_3^2}$
+
+### 3. Công thức cơ bản
+- Tích vô hướng: $\vec{a} \cdot \vec{b} = a_1b_1 + a_2b_2 + a_3b_3$
+- Điều kiện vuông góc: $\vec{a} \perp \vec{b} \Leftrightarrow \vec{a} \cdot \vec{b} = 0$
+- Khoảng cách giữa hai điểm: $AB = \sqrt{(x_B-x_A)^2 + (y_B-y_A)^2 + (z_B-z_A)^2}$
+
+## II. CÁC DẠNG CÂU HỎI MỨC NHẬN BIẾT
+
+### **DẠNG 1: Nhận biết tọa độ điểm, vector**
+
+**Câu hỏi mẫu:**
+- Cho điểm M(2; -3; 5). Tọa độ của điểm M trên trục Oz là:
+  A. 2    B. -3    C. 5    D. 0
+
+- Cho $\vec{a} = (1; -2; 3)$. Thành phần thứ hai của vector $\vec{a}$ là:
+  A. 1    B. -2    C. 3    D. 0
+
+### **DẠNG 2: Tính toán trực tiếp từ công thức**
+
+**Câu hỏi mẫu:**
+- Tính độ dài của vector $\vec{a} = (3; 4; 0)$:
+  A. 3    B. 4    C. 5    D. 7
+
+- Cho A(1; 2; 3) và B(4; 6; 3). Tính khoảng cách AB:
+  A. 3    B. 4    C. 5    D. 6
+
+### **DẠNG 3: Phép toán vector cơ bản**
+
+**Câu hỏi mẫu:**
+- Cho $\vec{a} = (2; 1; -1)$ và $\vec{b} = (1; 0; 2)$. Tìm $\vec{a} + \vec{b}$:
+  A. (3; 1; 1)    B. (1; 1; -3)    C. (2; 0; 2)    D. (3; 0; 1)
+
+- Cho $\vec{a} = (1; -2; 3)$. Tìm $2\vec{a}$:
+  A. (2; -4; 6)    B. (2; -2; 3)    C. (1; -4; 6)    D. (3; 0; 5)
+
+### **DẠNG 4: Tích vô hướng cơ bản**
+
+**Câu hỏi mẫu:**
+- Cho $\vec{a} = (1; 2; 0)$ và $\vec{b} = (2; -1; 3)$. Tính $\vec{a} \cdot \vec{b}$:
+  A. 0    B. 1    C. 2    D. 3
+
+- Cho $\vec{u} = (2; -1; 0)$ và $\vec{v} = (1; 2; 3)$. Xác định tích vô hướng $\vec{u} \cdot \vec{v}$:
+  A. -1    B. 0    C. 1    D. 3
+
+## III. TEMPLATE SINH ĐỀ
+
+### **Template 1: Nhận biết tọa độ**
+```
+Cho [điểm/vector] [tên] có tọa độ ([số]; [số]; [số]). 
+[Tọa độ trên trục/Thành phần thứ [số]] là:
+A. [đáp án 1]  B. [đáp án 2]  C. [đáp án 3]  D. [đáp án 4]
+```
+
+### **Template 2: Tính độ dài vector**
+```
+Tính độ dài của vector $\vec{a} = ([số]; [số]; [số])$:
+A. [√(tổng bình phương)]  B. [số sai 1]  C. [số sai 2]  D. [số sai 3]
+```
+
+### **Template 3: Phép toán vector**
+```
+Cho $\vec{a} = ([số]; [số]; [số])$ và $\vec{b} = ([số]; [số]; [số])$. 
+Tìm $\vec{a} [+/-] \vec{b}$:
+A. [kết quả đúng]  B. [kết quả sai]  C. [kết quả sai]  D. [kết quả sai]
+```
+
+### **Template 4: Tích vô hướng**
+```
+Cho $\vec{a} = ([số]; [số]; [số])$ và $\vec{b} = ([số]; [số]; [số])$. 
+Tính $\vec{a} \cdot \vec{b}$:
+A. [tích đúng]  B. [số sai]  C. [số sai]  D. [số sai]
+```
+
+## IV. LƯU Ý KHI SINH ĐỀ
+
+### **Về số liệu:**
+- Sử dụng số nguyên nhỏ (-5 đến 5)
+- Kết quả tính toán đơn giản, dễ kiểm tra
+- Tránh số thập phân phức tạp
+
+### **Về đáp án nhiễu:**
+- Tạo đáp án sai từ lỗi tính toán thường gặp
+- Đáp án sai do nhầm dấu, nhầm vị trí
+- Các đáp án phân biệt rõ ràng
+
+### **Về mức độ:**
+- Áp dụng trực tiếp 1 công thức
+- Không quá 2 bước tính toán
+- Phù hợp với học sinh trung bình (5-6 điểm)

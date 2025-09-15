@@ -1,0 +1,75 @@
+# TÓM TẮT CHƯƠNG DÃY SỐ - CẤP SỐ CỘNG - CẤP SỐ NHÂN
+
+## I. DÃY SỐ
+
+### 1. Định nghĩa
+- **Dãy số hữu hạn**: Một hàm số từ tập {1, 2, 3, ..., n} vào ℝ
+- **Dãy số vô hạn**: Một hàm số từ ℕ* vào ℝ
+- Ký hiệu: (uₙ) hoặc u₁, u₂, u₃, ..., uₙ, ...
+
+### 2. Cách cho dãy số
+- **Công thức tổng quát**: uₙ = f(n)
+- **Công thức truy hồi**: u₁ = a, uₙ₊₁ = f(uₙ)
+- **Mô tả bằng lời**
+
+### 3. Tính chất
+- **Dãy tăng**: uₙ₊₁ > uₙ với mọi n
+- **Dãy giảm**: uₙ₊₁ < uₙ với mọi n
+- **Dãy bị chặn trên**: ∃M: uₙ ≤ M với mọi n
+- **Dãy bị chặn dưới**: ∃m: uₙ ≥ m với mọi n
+
+## II. CẤP SỐ CỘNG
+
+### 1. Định nghĩa
+Dãy số (uₙ) là cấp số cộng nếu: uₙ₊₁ = uₙ + d (với d là công sai)
+
+### 2. Các công thức chính
+- **Số hạng tổng quát**: uₙ = u₁ + (n-1)d
+- **Tổng n số hạng đầu**: Sₙ = n(u₁ + uₙ)/2 = n(2u₁ + (n-1)d)/2
+- **Tính chất**: uₖ = (uₖ₋₁ + uₖ₊₁)/2 (số hạng giữa là trung bình cộng)
+
+### 3. Dấu hiệu nhận biết
+- uₙ₊₁ - uₙ = d (hằng số)
+- 2uₖ = uₖ₋₁ + uₖ₊₁
+
+## III. CẤP SỐ NHÂN
+
+### 1. Định nghĩa
+Dãy số (uₙ) là cấp số nhân nếu: uₙ₊₁ = uₙ × q (với q ≠ 0 là công bội)
+
+### 2. Các công thức chính
+- **Số hạng tổng quát**: uₙ = u₁ × qⁿ⁻¹
+- **Tổng n số hạng đầu**: 
+  - Nếu q ≠ 1: Sₙ = u₁(qⁿ - 1)/(q - 1)
+  - Nếu q = 1: Sₙ = n × u₁
+- **Tính chất**: uₖ² = uₖ₋₁ × uₖ₊₁ (với uₖ ≠ 0)
+
+### 3. Dấu hiệu nhận biết
+- uₙ₊₁/uₙ = q (hằng số, uₙ ≠ 0)
+- uₖ² = uₖ₋₁ × uₖ₊₁ (với các số hạng khác 0)
+
+## IV. DẠNG BÀI TẬP CHÍNH
+
+### 1. Dãy số
+- Tìm số hạng của dãy số
+- Xét tính tăng, giảm, bị chặn
+- Tìm công thức tổng quát
+
+### 2. Cấp số cộng
+- Tìm số hạng đầu và công sai
+- Tính số hạng thứ n
+- Tính tổng n số hạng đầu
+- Chứng minh dãy là cấp số cộng
+
+### 3. Cấp số nhân
+- Tìm số hạng đầu và công bội
+- Tính số hạng thứ n
+- Tính tổng n số hạng đầu
+- Chứng minh dãy là cấp số nhân
+
+### 4. Bài toán thực tế
+- Bài toán về lãi suất
+- Bài toán về tăng trưởng dân số
+- Bài toán về chuyển động
+
+**Lưu ý**: Cần phân biệt rõ cấp số cộng và cấp số nhân, nắm vững các công thức và biết áp dụng linh hoạt vào từng dạng bài tập cụ thể.

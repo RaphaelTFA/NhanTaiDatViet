@@ -1,0 +1,165 @@
+# HƯỚNG DẪN SINH ĐỀ TOÁN 10 - MỨC THÔNG HIỂU
+## Chủ đề: HÀM SỐ, ĐỒ THỊ VÀ ỨNG DỤNG
+
+---
+
+## I. KHUNG KIẾN THỨC CẦN KIỂM TRA
+
+### 1. Khái niệm hàm số
+- Định nghĩa hàm số, tập xác định, tập giá trị
+- Các cách cho hàm số (công thức, bảng, đồ thị)
+- Đồ thị hàm số
+
+### 2. Tính chất hàm số
+- Tính đơn điệu (tăng, giảm)
+- Tính chẵn, lẻ
+- Giá trị lớn nhất, nhỏ nhất
+
+### 3. Các hàm số cơ bản
+- Hàm số bậc nhất: y = ax + b
+- Hàm số bậc hai: y = ax² + bx + c
+- Hàm số y = |x|, y = √x
+
+---
+
+## II. CÁC DẠNG BÀI TẬP MỨC THÔNG HIỂU
+
+### **DẠNG 1: PHÂN TÍCH TẬP XÁC ĐỊNH VÀ TÍNH CHẤT**
+
+**Cấu trúc đề:**
+- Cho hàm số có biểu thức đơn giản
+- Yêu cầu tìm tập xác định và giải thích
+- Xét tính chẵn, lẻ hoặc tính đơn điệu
+
+**Ví dụ mẫu:**
+```
+Cho hàm số f(x) = (x-1)/√(4-x²)
+
+a) Tìm tập xác định của hàm số và giải thích điều kiện
+b) Xét tính chẵn, lẻ của hàm số
+c) Tính f(0), f(1) nếu có thể
+```
+
+**Hướng dẫn sinh đề:**
+- Chọn hàm số có 1-2 điều kiện xác định đơn giản
+- Yêu cầu giải thích ý nghĩa các điều kiện
+- Kết hợp kiểm tra tính chất cơ bản
+
+---
+
+### **DẠNG 2: CHUYỂN ĐỔI GIỮA CÁC BIỂU DIỄN**
+
+**Cấu trúc đề:**
+- Cho một dạng biểu diễn (công thức/bảng/đồ thị)
+- Yêu cầu chuyển sang dạng khác
+- Phân tích thông tin từ mỗi dạng
+
+**Ví dụ mẫu:**
+```
+Cho bảng giá trị của hàm số f(x):
+x  | -2 | -1 | 0 | 1 | 2 | 3
+f(x)| 3  | 0  |-1| 0 | 3 | 8
+
+a) Vẽ đồ thị hàm số dựa trên bảng giá trị
+b) Từ đồ thị, xác định khoảng đồng biến, nghịch biến
+c) So sánh f(-2) và f(2), giải thích ý nghĩa
+```
+
+**Hướng dẫn sinh đề:**
+- Dùng bảng giá trị 5-6 điểm
+- Đồ thị đơn giản, dễ vẽ
+- Yêu cầu nhận xét, so sánh giá trị
+
+---
+
+### **DẠNG 3: PHÂN TÍCH HÀM SỐ BẬC HAI**
+
+**Cấu trúc đề:**
+- Cho hàm số bậc hai cụ thể
+- Phân tích các yếu tố: đỉnh, trục đối xứng, chiều biến thiên
+- Ứng dụng đơn giản
+
+**Ví dụ mẫu:**
+```
+Cho hàm số y = -x² + 4x - 3
+
+a) Tìm tọa độ đỉnh và trục đối xứng của parabol
+b) Lập bảng biến thiên của hàm số
+c) Tìm giá trị lớn nhất của hàm số và giải thích ý nghĩa
+d) Với giá trị nào của x thì y ≥ 0?
+```
+
+**Hướng dẫn sinh đề:**
+- Chọn a = ±1, ±2 để dễ tính
+- Discriminant dương để có nghiệm thực
+- Kết hợp tìm GTLN/GTNN
+
+---
+
+### **DẠNG 4: SO SÁNH VÀ PHÂN LOẠI HÀM SỐ**
+
+**Cấu trúc đề:**
+- Cho nhiều hàm số cùng loại
+- Yêu cầu so sánh, phân loại theo tính chất
+- Giải thích sự khác biệt
+
+**Ví dụ mẫu:**
+```
+Cho các hàm số:
+f₁(x) = 2x + 1
+f₂(x) = -3x + 2  
+f₃(x) = x²
+f₄(x) = -x² + 4
+
+a) Phân loại các hàm số theo bậc
+b) So sánh tính đơn điệu của f₁(x) và f₂(x), giải thích
+c) Hàm số nào có giá trị lớn nhất? Tại sao?
+d) Vẽ phác đồ thị các hàm số trên cùng hệ trục
+```
+
+---
+
+### **DẠNG 5: ỨNG DỤNG THỰC TẾ CƠ BẢN**
+
+**Cấu trúc đề:**
+- Mô tả tình huống thực tế đơn giản
+- Thiết lập hàm số mô tả
+- Phân tích ý nghĩa thực tế
+
+**Ví dụ mẫu:**
+```
+Chi phí sản xuất x sản phẩm được cho bởi công thức:
+C(x) = x² + 20x + 100 (nghìn đồng), với 0 ≤ x ≤ 50
+
+a) Tính chi phí sản xuất 10 sản phẩm
+b) Tìm số sản phẩm để chi phí là 200 nghìn đồng
+c) Vẽ đồ thị hàm chi phí trong khoảng cho phép
+d) Giải thích ý nghĩa của hệ số trong công thức
+```
+
+---
+
+## III. TIÊU CHÍ ĐÁNH GIÁ ĐỀ MỨC THÔNG HIỂU
+
+### ✅ **Đề đạt yêu cầu khi:**
+- Yêu cầu giải thích, phân tích kavái niệm
+- Sử dụng 1-2 bước giải chính
+- Có chuyển đổi giữa các dạng biểu diễn
+- Kết hợp nhiều kiến thức ở mức cơ bản
+- Phù hợp học sinh khá (7-8 điểm)
+
+### ❌ **Tránh các lỗi:**
+- Chỉ yêu cầu tính toán máy móc
+- Quá phức tạp, cần kỹ thuật cao
+- Không có yêu cầu phân tích, giải thích
+- Quá dễ (chỉ nhận biết) hoặc quá khó
+
+---
+
+## IV. GỢI Ý BIẾN TẤU ĐỀ
+
+1. **Thay đổi tham số:** a, b, c trong các hàm số
+2. **Đổi dạng biểu diễn:** từ công thức sang bảng/đồ thị
+3. **Thay đổi miền xét:** các khoảng khác nhau
+4. **Kết hợp tính chất:** chẵn lẻ + đơn điệu
+5. **Ứng dụng khác:** kinh tế, vật lý, hình học

@@ -1,0 +1,130 @@
+# HƯỚNG DẪN SINH ĐỀ MỨC VẬN DỤNG
+## CHỦ ĐỀ: DÃY SỐ - CẤP SỐ CỘNG - CẤP SỐ NHÂN (LỚP 11)
+
+## I. KHUNG CẤU TRÚC ĐỀ
+
+### 1. Phân bổ câu hỏi theo dạng:
+- **40% Cấp số cộng ứng dụng thực tế** (2-3 câu)
+- **40% Cấp số nhân ứng dụng thực tế** (2-3 câu)  
+- **20% Kết hợp cấp số cộng/nhân với chủ đề khác** (1 câu)
+
+### 2. Mức độ tính toán:
+- Mỗi câu yêu cầu **2-3 bước** tính toán/suy luận
+- Sử dụng **số liệu thực tế** nhưng không quá phức tạp
+- Cần **phân tích mối quan hệ** giữa các đại lượng
+
+## II. CÁC DẠNG BÀI ĐIỂN HÌNH
+
+### DẠNG 1: CẤP SỐ CỘNG ỨNG DỤNG THỰC TẾ
+
+**A. Bối cảnh kinh tế - tài chính:**
+- Lương tăng định kỳ
+- Kế hoạch tiết kiệm
+- Khấu hao tài sản
+
+**B. Bối cảnh vật lý - kỹ thuật:**
+- Chuyển động thẳng đều
+- Nhiệt độ thay đổi đều
+- Sản lượng tăng đều
+
+**Ví dụ mẫu:**
+> Một công ty khởi nghiệp có doanh thu tháng đầu là 50 triệu đồng. Do mở rộng thị trường, doanh thu tăng đều 8 triệu đồng mỗi tháng.
+> 
+> a) Tính doanh thu của tháng thứ 12
+> b) Tổng doanh thu của 12 tháng đầu
+> c) Sau bao nhiêu tháng, tổng doanh thu đạt 1 tỷ đồng?
+
+### DẠNG 2: CẤP SỐ NHÂN ỨNG DỤNG THỰC TẾ
+
+**A. Bối cảnh sinh học - y tế:**
+- Tăng trưởng dân số/vi khuẩn
+- Phân rã phóng xạ
+- Lan truyền dịch bệnh
+
+**B. Bối cảnh đầu tư - lãi suất:**
+- Lãi suất kép
+- Tăng trưởng GDP
+- Khấu hao theo tỷ lệ
+
+**Ví dụ mẫu:**
+> Một người gửi tiết kiệm 100 triệu đồng với lãi suất 6%/năm, lãi nhập gốc. Đồng thời, cuối mỗi năm người đó gửi thêm 20 triệu đồng.
+> 
+> a) Tính số tiền sau 5 năm
+> b) Sau bao nhiêu năm số tiền vượt 500 triệu đồng?
+
+### DẠNG 3: KẾT HỢP VỚI CÁC CHỦ ĐỀ KHÁC
+
+**A. Kết hợp với hàm số:**
+- Dãy số có công thức tổng quát là hàm số
+- Khảo sát tính chất qua đồ thị
+
+**B. Kết hợp với phương trình:**
+- Giải phương trình chứa tham số
+- Hệ phương trình với điều kiện cấp số
+
+**Ví dụ mẫu:**
+> Cho hàm số f(x) = x² - 6x + 8. Xét dãy số (uₙ) với uₙ = f(n).
+> 
+> a) Chứng minh dãy (vₙ) với vₙ = uₙ₊₁ - uₙ là cấp số cộng
+> b) Tìm công thức tổng Sₙ = u₁ + u₂ + ... + uₙ
+
+## III. NGÂN HÀNG BỐI CẢNH THỰC TẾ
+
+### 1. Kinh tế - Xã hội:
+- Tăng trưởng doanh thu/lợi nhuận
+- Kế hoạch trả góp
+- Tăng lương định kỳ
+- Dân số và urbanization
+
+### 2. Khoa học - Công nghệ:
+- Tăng trưởng vi sinh vật
+- Phân rã chất phóng xạ
+- Nhiệt độ, áp suất
+- Tốc độ internet, data
+
+### 3. Đời sống - Giáo dục:
+- Lịch tập luyện thể thao
+- Kế hoạch học tập
+- Chi tiêu gia đình
+- Năng suất lao động
+
+## IV. HƯỚNG DẪN THIẾT KẾ CÂU HỎI
+
+### Bước 1: Chọn bối cảnh thực tế
+- Gần gũi với học sinh
+- Có ý nghĩa thực tiễn
+- Số liệu hợp lý
+
+### Bước 2: Xác định kiến thức cần vận dụng
+- Công thức số hạng tổng quát
+- Công thức tổng n số hạng đầu
+- Điều kiện để dãy là CSC/CSN
+
+### Bước 3: Thiết kế chuỗi câu hỏi
+- **Câu a**: Tính toán trực tiếp (1-2 bước)
+- **Câu b**: Vận dụng công thức (2-3 bước)
+- **Câu c**: Tìm điều kiện/so sánh (3 bước)
+
+### Bước 4: Kiểm tra độ khó
+- Phù hợp học sinh giỏi (8-9 điểm)
+- Yêu cầu suy luận logic
+- Tính toán chính xác
+
+## V. TIÊU CHÍ ĐÁNH GIÁ
+
+### 1. Về nội dung:
+- ✅ Ứng dụng thực tế rõ ràng
+- ✅ Mức độ vừa phải, không quá khó
+- ✅ Liên quan chặt chẽ với chủ đề
+
+### 2. Về kỹ năng:
+- ✅ Áp dụng công thức vào tình huống cụ thể
+- ✅ 2-3 bước tính toán/suy luận
+- ✅ Phân tích mối quan hệ giữa các yếu tố
+
+### 3. Về tính thực tiễn:
+- ✅ Số liệu thực tế, hợp lý
+- ✅ Bối cảnh gần gũi
+- ✅ Tính toán chính xác, không phức tạp
+
+**Lưu ý**: Mỗi đề nên có 4-6 câu, thời gian làm bài 45-60 phút, phù hợp với học sinh mức độ giỏi.

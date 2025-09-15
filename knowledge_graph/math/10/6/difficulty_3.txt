@@ -1,0 +1,99 @@
+# HƯỚNG DẪN SINH ĐỀ - MỨC VẬN DỤNG
+## Chủ đề: Hàm số, đồ thị và ứng dụng - Lớp 10
+
+### I. KHUNG KIẾN THỨC CẦN VẬN DỤNG
+
+**1. Các loại hàm số cơ bản:**
+- Hàm số bậc nhất: y = ax + b
+- Hàm số bậc hai: y = ax² + bx + c
+- Hàm số căn thức: y = √(ax + b)
+- Hàm số nghịch biến: y = a/x + b
+
+**2. Tính chất đồ thị:**
+- Tính đồng biến, nghịch biến
+- Giá trị lớn nhất, nhỏ nhất
+- Giao điểm với các trục
+- Đỉnh parabol
+
+### II. CẤU TRÚC ĐỀ VẬN DỤNG
+
+#### **Dạng 1: Ứng dụng thực tế - Kinh tế**
+
+**Mẫu câu hỏi:**
+Một cửa hàng bán điện thoại có chi phí sản xuất được mô tả bởi hàm số C(x) = 2x² - 80x + 1000 (nghìn đồng), trong đó x là số điện thoại sản xuất trong một ngày (0 ≤ x ≤ 50). Doanh thu được tính theo công thức R(x) = 120x (nghìn đồng).
+
+a) Tìm hàm lợi nhuận P(x) = R(x) - C(x)
+b) Xác định số điện thoại cần sản xuất để đạt lợi nhuận tối đa
+c) Tính lợi nhuận tối đa đó
+
+**Hướng dẫn sinh đề tương tự:**
+- Thay đổi ngữ cảnh: sản xuất bánh, quần áo, máy tính...
+- Điều chỉnh hệ số trong hàm chi phí và doanh thu
+- Thay đổi miền xác định phù hợp thực tế
+
+#### **Dạng 2: Ứng dụng vật lý - Chuyển động**
+
+**Mẫu câu hỏi:**
+Một quả bóng được ném lên cao từ độ cao 1,5m với vận tốc ban đầu 20m/s. Độ cao của quả bóng theo thời gian được mô tả bởi hàm số h(t) = -5t² + 20t + 1,5 (mét), trong đó t là thời gian (giây).
+
+a) Tìm thời điểm quả bóng đạt độ cao lớn nhất
+b) Tính độ cao lớn nhất của quả bóng
+c) Sau bao lâu quả bóng chạm đất?
+
+**Hướng dẫn sinh đề tương tự:**
+- Thay đổi độ cao ban đầu
+- Điều chỉnh vận tốc ban đầu
+- Có thể kết hợp với bài toán tìm khoảng cách
+
+#### **Dạng 3: Tối ưu hóa thực tế**
+
+**Mẫu câu hỏi:**
+Một nông dân có 100m dây thép gai để rào một khu vườn hình chữ nhật, với một cạnh tựa vào tường nhà (không cần rào). Gọi x là chiều rộng của khu vườn.
+
+a) Thiết lập hàm số diện tích S(x) theo x
+b) Tìm miền xác định của hàm số
+c) Tìm kích thước khu vườn để diện tích lớn nhất
+
+#### **Dạng 4: Phân tích mối quan hệ giữa các đại lượng**
+
+**Mẫu câu hỏi:**
+Trong một bình chứa nước, mực nước giảm theo thời gian do có lỗ thủng. Chiều cao mực nước được mô tả bởi hàm số h(t) = √(400 - 2t) (cm), trong đó t là thời gian (phút).
+
+a) Xác định miền xác định của hàm số trong thực tế
+b) Tính tốc độ giảm mực nước tại thời điểm t = 100 phút
+c) Sau bao lâu thì bình cạn nước?
+
+### III. TIÊU CHÍ SINH ĐỀ CHẤT LƯỢNG
+
+#### **1. Về tính thực tế:**
+- Sử dụng số liệu có thể xảy ra trong đời sống
+- Đơn vị đo lường phù hợp với ngữ cảnh
+- Kết quả cuối cùng có ý nghĩa thực tiễn
+
+#### **2. Về mức độ phức tạp:**
+- Cần 2-3 bước giải quyết
+- Kết hợp nhiều kỹ năng: lập hàm số, tìm cực trị, giải phương trình
+- Yêu cầu phân tích và nhận xét kết quả
+
+#### **3. Về tính tính toán:**
+- Số liệu cho phép tính toán chính xác
+- Tránh kết quả quá phức tạp (số thập phân dài)
+- Có thể sử dụng máy tính để kiểm tra
+
+### IV. BẢNG THAM KHẢO SỐ LIỆU THỰC TẾ
+
+| Ngữ cảnh | Đại lượng | Giá trị tham khảo |
+|----------|-----------|-------------------|
+| Kinh tế | Chi phí sản xuất | 50-500 nghìn đồng/sản phẩm |
+| Vật lý | Gia tốc trọng trường | g = 10 m/s² |
+| Xây dựng | Diện tích đất | 100-1000 m² |
+| Giao thông | Vận tốc xe | 30-80 km/h |
+
+### V. LƯU Ý KHI SINH ĐỀ
+
+1. **Kiểm tra tính khả thi:** Đảm bảo bài toán có nghiệm và nghiệm phù hợp thực tế
+2. **Độ khó phù hợp:** Không quá dễ (chỉ thay số) nhưng không quá khó (vượt chương trình)
+3. **Tính liên kết:** Các câu hỏi phụ cần có mối liên hệ logic với nhau
+4. **Ngôn ngữ rõ ràng:** Sử dụng thuật ngữ chính xác, tránh gây hiểu nhầm
+
+Hướng dẫn này giúp tạo ra những bài tập vận dụng chất lượng, phù hợp với học sinh giỏi lớp 10.

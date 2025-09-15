@@ -1,0 +1,119 @@
+# HƯỚNG DẪN SINH ĐỀ CẤP ĐỘ THÔNG HIỂU
+## Chủ đề: Bất phương trình và hệ bất phương trình bậc nhất hai ẩn - Lớp 10
+
+---
+
+## I. KHUNG KIẾN THỨC CẦN ĐÁNH GIÁ
+
+### 1. Khái niệm cơ bản
+- Bất phương trình bậc nhất hai ẩn: ax + by + c > 0 (≥, <, ≤)
+- Nghiệm của bất phương trình và biểu diễn hình học
+- Hệ bất phương trình bậc nhất hai ẩn
+
+### 2. Tính chất và phương pháp
+- Miền nghiệm của bất phương trình trên mặt phẳng tọa độ
+- Đường thẳng biên và quy tắc xác định miền nghiệm
+- Giao của các miền nghiệm trong hệ bất phương trình
+
+---
+
+## II. CẤU TRÚC SINH ĐỀ THEO MỨC THÔNG HIỂU
+
+### **DẠNG 1: Phân tích và giải thích khái niệm**
+
+#### Câu hỏi mẫu:
+**Câu 1:** Cho bất phương trình 2x - 3y + 6 > 0
+a) Giải thích ý nghĩa hình học của bất phương trình này
+b) Xác định và giải thích cách vẽ miền nghiệm
+
+#### Hướng dẫn sinh đề:
+- **Chọn hệ số:** a, b ∈ {±1, ±2, ±3}, c ∈ {±3, ±6, ±9}
+- **Dấu bất phương trình:** Đa dạng >, <, ≥, ≤
+- **Yêu cầu:** Học sinh phải giải thích được đường thẳng biên và cách xác định miền nghiệm
+
+### **DẠNG 2: Áp dụng quy tắc xác định miền nghiệm**
+
+#### Câu hỏi mẫu:
+**Câu 2:** Cho bất phương trình x + 2y - 4 ≤ 0
+a) Vẽ đường thẳng biên
+b) Sử dụng điểm thử để xác định miền nghiệm
+c) Kiểm tra điểm A(1,1) có thuộc miền nghiệm không?
+
+#### Hướng dẫn sinh đề:
+- **Đường thẳng biên:** Chọn dạng dễ vẽ (qua 2 điểm có tọa độ nguyên)
+- **Điểm thử:** Thường chọn O(0,0) hoặc điểm có tọa độ đơn giản
+- **Điểm kiểm tra:** Cho 2-3 điểm để học sinh kiểm tra
+
+### **DẠNG 3: So sánh và phân loại miền nghiệm**
+
+#### Câu hỏi mẫu:
+**Câu 3:** Cho hai bất phương trình:
+- (I): x - y + 2 > 0
+- (II): x - y + 2 ≥ 0
+
+So sánh miền nghiệm của hai bất phương trình trên. Điểm nào sau đây thuộc miền nghiệm của (I) nhưng không thuộc miền nghiệm của (II)?
+
+#### Hướng dẫn sinh đề:
+- **Chọn cặp bất phương trình:** Chỉ khác nhau về dấu (> và ≥, < và ≤)
+- **Yêu cầu so sánh:** Tập trung vào sự khác biệt về đường biên
+- **Điểm kiểm tra:** Cho điểm nằm trên đường biên để phân biệt
+
+### **DẠNG 4: Chuyển đổi giữa biểu diễn đại số và hình học**
+
+#### Câu hỏi mẫu:
+**Câu 4:** Cho miền nghiệm được tô đậm trong hình vẽ (miền phía trên đường thẳng d: 2x + y - 3 = 0, không kể đường thẳng d)
+a) Viết bất phương trình có miền nghiệm như hình vẽ
+b) Giải thích cách xác định dấu của bất phương trình
+
+#### Hướng dẫn sinh đề:
+- **Cho đồ thị:** Vẽ rõ ràng, miền nghiệm được tô màu
+- **Đường thẳng:** Chọn dạng đơn giản, dễ nhận biết phương trình
+- **Loại đường:** Nét liền (≥, ≤) hoặc nét đứt (>, <)
+
+### **DẠNG 5: Hệ bất phương trình cơ bản**
+
+#### Câu hỏi mẫu:
+**Câu 5:** Cho hệ bất phương trình:
+$$\begin{cases} 
+x + y - 2 ≥ 0 \\
+2x - y + 1 ≥ 0 \\
+x ≤ 3
+\end{cases}$$
+
+a) Vẽ miền nghiệm của hệ
+b) Tìm tọa độ các đỉnh của miền nghiệm
+c) Kiểm tra điểm M(2,1) có thuộc miền nghiệm không?
+
+#### Hướng dẫn sinh đề:
+- **Số bất phương trình:** 2-3 bất phương trình
+- **Dạng đơn giản:** Kết hợp đường thẳng và đường song song với trục
+- **Miền nghiệm:** Tạo tam giác hoặc tứ giác có đỉnh là số nguyên
+
+---
+
+## III. TIÊU CHÍ ĐÁNH GIÁ VÀ THANG ĐIỂM
+
+### **Mức độ điểm:**
+- **7-8 điểm:** Phù hợp với học sinh khá
+- **Phân bố điểm:**
+  - Dạng 1 (giải thích khái niệm): 2 điểm
+  - Dạng 2 (áp dụng quy tắc): 2.5 điểm
+  - Dạng 3 (so sánh, phân loại): 2 điểm
+  - Dạng 4 (chuyển đổi biểu diễn): 1.5 điểm
+  - Dạng 5 (hệ bất phương trình): 2 điểm
+
+### **Yêu cầu đánh giá:**
+- Giải thích chính xác khái niệm
+- Vẽ hình và xác định miền nghiệm đúng
+- Áp dụng đúng quy tắc xác định miền nghiệm
+- Nhận biết mối liên hệ giữa biểu diễn đại số và hình học
+
+---
+
+## IV. LƯU Ý KHI SINH ĐỀ
+
+1. **Số liệu:** Chọn hệ số đơn giản để tính toán không quá phức tạp
+2. **Hình vẽ:** Đảm bảo rõ ràng, chính xác khi yêu cầu vẽ miền nghiệm
+3. **Độ khó:** Tránh các phép tính phức tạp, tập trung vào khái niệm
+4. **Thời gian:** Mỗi câu hỏi nên giải được trong 8-12 phút
+5. **Tính thực tế:** Có thể kết hợp với bài toán thực tế đơn giản

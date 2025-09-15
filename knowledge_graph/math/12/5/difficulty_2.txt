@@ -1,0 +1,121 @@
+# HƯỚNG DẪN SINH ĐỀ MỨC THÔNG HIỂU
+## Chủ đề: Phương pháp tọa độ trong không gian - Lớp 12
+
+## I. KHUNG KIẾN THỨC CẦN ĐÁNH GIÁ
+
+### 1. Hệ tọa độ Oxyz
+- Tọa độ điểm, vector
+- Các phép toán vector
+- Khoảng cách giữa hai điểm
+
+### 2. Phương trình đường thẳng
+- Phương trình tham số
+- Phương trình chính tắc
+- Chuyển đổi giữa các dạng
+
+### 3. Phương trình mặt phẳng
+- Phương trình tổng quát
+- Điều kiện song song, vuông góc
+- Khoảng cách từ điểm đến mặt phẳng
+
+### 4. Vị trí tương đối
+- Đường thẳng và mặt phẳng
+- Hai mặt phẳng
+- Hai đường thẳng
+
+## II. CÁC DẠNG CÂU HỎI THÔNG HIỂU
+
+### DẠNG 1: Phân tích và giải thích khái niệm
+
+**Mẫu câu hỏi:**
+1. Cho vector $\vec{n} = (2; -1; 3)$ và điểm $A(1; 2; -1)$. Giải thích tại sao phương trình $2(x-1) - (y-2) + 3(z+1) = 0$ là phương trình mặt phẳng đi qua điểm A và có vector pháp tuyến $\vec{n}$.
+
+2. Phân tích sự khác biệt giữa phương trình tham số và phương trình chính tắc của đường thẳng. Khi nào không thể viết phương trình chính tắc?
+
+**Hướng dẫn sinh đề:**
+- Yêu cầu giải thích mối liên hệ giữa các yếu tố
+- Phân tích điều kiện tồn tại của công thức
+- So sánh ưu nhược điểm của các dạng biểu diễn
+
+### DẠNG 2: Áp dụng công thức cơ bản
+
+**Mẫu câu hỏi:**
+1. Trong không gian Oxyz, cho hai điểm $A(1; -2; 3)$ và $B(4; 1; -1)$.
+   a) Tính tọa độ vector $\overrightarrow{AB}$
+   b) Tính khoảng cách AB
+   c) Tìm tọa độ trung điểm M của đoạn AB
+
+2. Cho mặt phẳng $(P): 2x - y + 3z - 6 = 0$ và điểm $M(1; 2; 1)$.
+   a) Xác định vector pháp tuyến của (P)
+   b) Tính khoảng cách từ M đến (P)
+   c) Điểm M nằm ở phía nào của mặt phẳng (P)?
+
+**Hướng dẫn sinh đề:**
+- Sử dụng 1-2 công thức cơ bản
+- Không yêu cầu biến đổi phức tạp
+- Tập trung vào việc áp dụng đúng công thức
+
+### DẠNG 3: Chuyển đổi giữa các dạng biểu diễn
+
+**Mẫu câu hỏi:**
+1. Cho đường thẳng $d$ có phương trình tham số: $\begin{cases} x = 1 + 2t \\ y = -1 + t \\ z = 3 - t \end{cases}$
+   a) Viết phương trình chính tắc của d
+   b) Xác định điểm thuộc d khi t = 2
+   c) Tìm vector chỉ phương của d
+
+2. Viết phương trình mặt phẳng đi qua ba điểm $A(1; 0; 0)$, $B(0; 1; 0)$, $C(0; 0; 1)$ dưới dạng tổng quát.
+
+**Hướng dẫn sinh đề:**
+- Chuyển đổi giữa các dạng phương trình
+- Từ điểm và vector sang phương trình
+- Từ phương trình sang các yếu tố đặc trưng
+
+### DẠNG 4: Nhận biết mối liên hệ
+
+**Mẫu câu hỏi:**
+1. Cho hai mặt phẳng:
+   $(P_1): 2x - y + z - 3 = 0$
+   $(P_2): x + y - z + 1 = 0$
+   a) Xét vị trí tương đối của hai mặt phẳng
+   b) Tìm phương trình đường thẳng giao tuyến (nếu có)
+
+2. Cho đường thẳng $d: \frac{x-1}{2} = \frac{y+1}{1} = \frac{z}{-1}$ và mặt phẳng $(P): x + y + z - 2 = 0$
+   a) Xét vị trí tương đối của d và (P)
+   b) Tìm tọa độ giao điểm (nếu có)
+
+**Hướng dẫn sinh đề:**
+- Xét vị trí tương đối bằng điều kiện vector
+- Tìm giao điểm, giao tuyến
+- Không yêu cầu bài toán quá phức tạp
+
+## III. TIÊU CHÍ ĐÁNH GIÁ ĐỘ KHÓ
+
+### ✅ Phù hợp mức Thông hiểu:
+- Áp dụng trực tiếp 1-2 công thức
+- Giải thích được nguyên lý của phương pháp
+- Chuyển đổi được giữa các dạng biểu diễn
+- Nhận biết được mối liên hệ cơ bản
+
+### ❌ Không phù hợp:
+- Yêu cầu nhiều bước biến đổi phức tạp
+- Kết hợp quá nhiều kiến thức cùng lúc
+- Bài toán có tính chất tối ưu hóa
+- Yêu cầu kỹ thuật tính toán cao
+
+## IV. TEMPLATE SINH ĐỀ
+
+### Câu hỏi dạng trắc nghiệm:
+"Trong không gian Oxyz, cho [dữ liệu cơ bản]. Hãy [yêu cầu cụ thể ở mức thông hiểu]."
+
+### Câu hỏi dạng tự luận:
+"Cho [đối tượng hình học với tọa độ cụ thể].
+a) [Yêu cầu áp dụng công thức trực tiếp]
+b) [Yêu cầu phân tích hoặc chuyển đổi]
+c) [Yêu cầu nhận biết mối liên hệ]"
+
+## V. LƯU Ý KHI SINH ĐỀ
+
+1. **Về số liệu**: Chọn số đẹp, tránh tính toán phức tạp
+2. **Về ngôn ngữ**: Rõ ràng, chính xác, phù hợp với trình độ học sinh
+3. **Về cấu trúc**: Từ dễ đến khó, có tính logic
+4. **Về thời gian**: Mỗi câu không quá 5-7 phút giải

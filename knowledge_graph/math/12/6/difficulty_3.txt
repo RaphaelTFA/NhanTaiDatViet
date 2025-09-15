@@ -1,0 +1,119 @@
+# HƯỚNG DẪN SINH ĐỀ - XÁC SUẤT CÓ ĐIỀU KIỆN (MỨC VẬN DỤNG)
+
+## I. KHUNG KIẾN THỨC CỐT LÕI
+
+### 1. Công thức cơ bản
+- **Xác suất có điều kiện**: P(A|B) = P(A∩B)/P(B) với P(B) > 0
+- **Công thức nhân**: P(A∩B) = P(A|B).P(B) = P(B|A).P(A)
+- **Công thức xác suất đầy đủ**: P(A) = Σ P(A|Bᵢ).P(Bᵢ)
+- **Công thức Bayes**: P(Bᵢ|A) = P(A|Bᵢ).P(Bᵢ)/P(A)
+
+### 2. Kết hợp với các chủ đề khác
+- Hoán vị, chỉnh hợp, tổ hợp
+- Phân phối nhị thức
+- Thống kê mô tả
+- Hình học không gian (thể tích, diện tích)
+
+## II. CÁC DẠNG BÀI THỰC TẾ CHO MỨC VẬN DỤNG
+
+### **DẠNG 1: Y TẾ - CHẨN ĐOÁN BỆNH**
+
+**Cấu trúc bài toán:**
+- Tỷ lệ mắc bệnh trong dân số
+- Độ chính xác của test chẩn đoán
+- Tính xác suất mắc bệnh khi test dương tính
+
+**Ví dụ mẫu:**
+Một bệnh hiếm gặp có tỷ lệ mắc là 0,2% trong dân số. Một test chẩn đoán có:
+- Độ nhạy: 95% (test dương tính khi có bệnh)
+- Độ đặc hiệu: 98% (test âm tính khi không có bệnh)
+
+Tính xác suất một người thực sự mắc bệnh khi test cho kết quả dương tính.
+
+### **DẠNG 2: KINH TẾ - KIỂM SOÁT CHẤT LƯỢNG**
+
+**Cấu trúc bài toán:**
+- Nhiều dây chuyền sản xuất với tỷ lệ lỗi khác nhau
+- Sản lượng khác nhau từ mỗi dây chuyền
+- Phân tích nguyên nhân khi phát hiện lỗi
+
+**Ví dụ mẫu:**
+Một nhà máy có 3 dây chuyền sản xuất với thông số:
+- Dây chuyền A: 40% sản lượng, tỷ lệ lỗi 2%
+- Dây chuyền B: 35% sản lượng, tỷ lệ lỗi 3%  
+- Dây chuyền C: 25% sản lượng, tỷ lệ lỗi 5%
+
+Kiểm tra ngẫu nhiên phát hiện sản phẩm lỗi. Tính xác suất sản phẩm này từ dây chuyền A.
+
+### **DẠNG 3: GIÁO DỤC - PHÂN TÍCH KẾT QUẢ HỌC TẬP**
+
+**Cấu trúc bài toán:**
+- Nhiều lớp học với tỷ lệ giỏi khác nhau
+- Chọn ngẫu nhiên học sinh từ các lớp
+- Phân tích xác suất thuộc lớp nào khi biết kết quả
+
+**Ví dụ mẫu:**
+Khối 12 có 4 lớp với số học sinh và tỷ lệ giỏi Toán:
+- Lớp A: 30 học sinh, 20% giỏi
+- Lớp B: 32 học sinh, 25% giỏi
+- Lớp C: 28 học sinh, 15% giỏi
+- Lớp D: 30 học sinh, 30% giỏi
+
+Chọn ngẫu nhiên 1 học sinh từ khối 12, biết học sinh đó giỏi Toán. Tính xác suất học sinh đó thuộc lớp D.
+
+### **DẠNG 4: KẾT HỢP VỚI TỔ HỢP**
+
+**Cấu trúc bài toán:**
+- Chọn ngẫu nhiên từ nhóm có đặc điểm khác nhau
+- Sử dụng công thức tổ hợp để tính số cách
+- Áp dụng xác suất có điều kiện
+
+**Ví dụ mẫu:**
+Một hộp có 15 viên bi gồm 8 viên đỏ và 7 viên xanh. Lấy ngẫu nhiên 3 viên bi.
+Biết rằng trong 3 viên bi lấy được có ít nhất 1 viên đỏ. Tính xác suất để có đúng 2 viên đỏ.
+
+## III. HƯỚNG DẪN THIẾT KẾ CÂU HỎI
+
+### **Bước 1: Chọn bối cảnh thực tế**
+- Y tế: chẩn đoán bệnh, hiệu quả thuốc
+- Kinh tế: kiểm soát chất lượng, phân tích thị trường
+- Giáo dục: đánh giá kết quả học tập
+- Thể thao: phân tích hiệu suất vận động viên
+- Công nghệ: độ tin cậy hệ thống
+
+### **Bước 2: Thiết lập số liệu**
+- Sử dụng phần trăm thực tế (không quá lẻ)
+- Đảm bảo tính toán không quá phức tạp
+- Kết quả cuối nên là phân số hoặc phần trăm đẹp
+
+### **Bước 3: Tạo cấu trúc câu hỏi**
+- **Phần a**: Tính xác suất cơ bản (1 điểm)
+- **Phần b**: Áp dụng công thức Bayes (2 điểm)
+- **Phần c**: Mở rộng với điều kiện phức tạp hơn (1 điểm)
+
+### **Bước 4: Đảm bảo mức độ vận dụng**
+- Cần 2-3 bước tính toán
+- Yêu cầu hiểu rõ ý nghĩa của từng xác suất
+- Kết hợp với kiến thức tổ hợp, thống kê
+- Phân tích mối quan hệ giữa các biến cố
+
+## IV. TIÊU CHÍ ĐÁNH GIÁ
+
+### **Điểm 9-10 (Giỏi)**
+- Xác định chính xác các biến cố
+- Áp dụng đúng công thức Bayes
+- Tính toán chính xác
+- Giải thích ý nghĩa kết quả
+
+### **Thang điểm chi tiết:**
+- Xác định biến cố và ghi giả thiết: 1 điểm
+- Áp dụng công thức phù hợp: 2 điểm  
+- Tính toán chính xác: 3 điểm
+- Kết luận và ý nghĩa: 1 điểm
+
+## V. LƯU Ý KHI THIẾT KẾ
+
+1. **Về nội dung**: Luôn gắn với tình huống thực tế, tránh câu hỏi thuần túy lý thuyết
+2. **Về tính toán**: Số liệu phải hợp lý, không quá phức tạp nhưng đủ thử thách
+3. **Về mức độ**: Cần có sự phân loại rõ ràng, phù hợp với học sinh giỏi
+4. **Về ứng dụng**: Kết hợp tốt với các chủ đề khác trong chương trình Toán 12

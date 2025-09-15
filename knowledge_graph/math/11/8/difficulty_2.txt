@@ -1,0 +1,105 @@
+# HƯỚNG DẪN SINH ĐỀ TOÁN LỚP 11 - CÁC QUY TẮC TÍNH XÁC SUẤT
+## Mức độ: THÔNG HIỂU
+
+### I. KHUNG KIẾN THỨC CẦN KIỂM TRA
+
+#### 1. Các công thức cơ bản cần nắm vững:
+- **Quy tắc cộng xác suất:**
+  - P(A ∪ B) = P(A) + P(B) - P(A ∩ B)
+  - Nếu A và B xung khắc: P(A ∪ B) = P(A) + P(B)
+- **Quy tắc nhân xác suất:**
+  - P(A ∩ B) = P(A) × P(B|A) = P(B) × P(A|B)
+  - Nếu A và B độc lập: P(A ∩ B) = P(A) × P(B)
+- **Xác suất có điều kiện:** P(A|B) = P(A ∩ B)/P(B)
+- **Công thức xác suất đầy đủ và công thức Bayes**
+
+#### 2. Các khái niệm quan trọng:
+- Biến cố độc lập, xung khắc
+- Biến cố đối, biến cố hợp, giao
+- Xác suất có điều kiện
+
+### II. CẤU TRÚC ĐỀ THI MỨC THÔNG HIỂU
+
+#### **DẠNG 1: NHẬN BIẾT VÀ PHÂN LOẠI CÁC LOẠI BIẾN CỐ**
+
+**Mẫu câu hỏi:**
+Cho hai biến cố A và B với P(A) = 0,6; P(B) = 0,4; P(A ∩ B) = 0,2. Hãy xác định:
+a) Hai biến cố A và B có độc lập không? Giải thích.
+b) Tính P(A ∪ B)
+c) So sánh P(A|B) và P(A)
+
+**Hướng dẫn sinh đề:**
+- Cho trước 2-3 thông số về xác suất
+- Yêu cầu học sinh phân tích mối quan hệ giữa các biến cố
+- Kiểm tra tính độc lập: P(A ∩ B) = P(A) × P(B)?
+- Tính toán và so sánh các xác suất liên quan
+
+#### **DẠNG 2: ÁP DỤNG QUY TẮC CỘNG XÁC SUẤT**
+
+**Mẫu câu hỏi:**
+Một lớp có 40 học sinh, trong đó có 25 em học giỏi Toán, 20 em học giỏi Lý, 12 em học giỏi cả Toán và Lý. Chọn ngẫu nhiên một học sinh.
+a) Tìm xác suất để học sinh đó học giỏi Toán hoặc Lý
+b) Tìm xác suất để học sinh đó không học giỏi môn nào
+c) Giải thích tại sao không thể dùng công thức P(A ∪ B) = P(A) + P(B)
+
+**Hướng dẫn sinh đề:**
+- Tạo bài toán thực tế với số liệu cụ thể
+- Yêu cầu áp dụng quy tắc cộng tổng quát
+- Kiểm tra hiểu biết về điều kiện áp dụng công thức
+- Số lượng phần tử nên chọn sao cho có giao khác rỗng
+
+#### **DẠNG 3: ÁP DỤNG QUY TẮC NHÂN VÀ XÁC SUẤT CÓ ĐIỀU KIỆN**
+
+**Mẫu câu hỏi:**
+Một hộp có 8 bi đỏ và 7 bi xanh. Lấy liên tiếp 2 bi không hoàn lại.
+a) Tính xác suất để bi thứ nhất là đỏ, bi thứ hai là xanh
+b) Tính xác suất để cả hai bi cùng màu
+c) Biết bi thứ nhất là đỏ, tính xác suất để bi thứ hai cũng là đỏ
+d) So sánh kết quả câu c) với xác suất lấy được bi đỏ trong lần lấy đầu tiên
+
+**Hướng dẫn sinh đề:**
+- Sử dụng mô hình lấy bi, bài, thẻ quen thuộc
+- Kết hợp cả lấy có và không hoàn lại
+- Yêu cầu tính xác suất có điều kiện
+- So sánh để thấy sự khác biệt khi có điều kiện
+
+#### **DẠNG 4: CÔNG THỨC XÁC SUẤT ĐẦY ĐỦ**
+
+**Mẫu câu hỏi:**
+Một cửa hàng nhập hàng từ 3 nhà cung cấp A, B, C với tỷ lệ tương ứng 50%, 30%, 20%. Tỷ lệ hàng loại I của các nhà cung cấp lần lượt là 80%, 70%, 90%.
+a) Tính xác suất để một sản phẩm được chọn ngẫu nhiên là loại I
+b) Biết một sản phẩm là loại I, tính xác suất để nó đến từ nhà cung cấp A
+c) Giải thích ý nghĩa của kết quả câu b)
+
+**Hướng dẫn sinh đề:**
+- Tạo bài toán có 2-3 nhóm/nguồn khác nhau
+- Cho tỷ lệ của từng nhóm và xác suất từng nhóm có tính chất cần tìm
+- Áp dụng công thức xác suất đầy đủ và Bayes
+- Yêu cầu giải thích ý nghĩa thực tiế
+
+### III. TIÊU CHÍ ĐÁNH GIÁ MỨC THÔNG HIỂU
+
+#### **Về kiến thức:**
+- Hiểu và phân biệt được các khái niệm: độc lập, xung khắc, có điều kiện
+- Biết khi nào áp dụng công thức nào
+- Hiểu ý nghĩa thực tế của các kết quả tính được
+
+#### **Về kỹ năng:**
+- Áp dụng đúng 1-2 công thức cơ bản
+- Thực hiện các phép tính không quá phức tạp
+- Giải thích được lý do chọn công thức
+- So sánh và nhận xét kết quả
+
+#### **Về tư duy:**
+- Phân tích được mối quan hệ giữa các biến cố
+- Chuyển đổi được giữa ngôn ngữ tự nhiên và ký hiệu toán học
+- Kiểm tra được tính hợp lý của kết quả
+
+### IV. LƯU Ý KHI SINH ĐỀ
+
+1. **Về số liệu:** Chọn số đẹp, dễ tính toán, tránh phân số phức tạp
+2. **Về ngữ cảnh:** Sử dụng tình huống thực tế quen thuộc với học sinh
+3. **Về độ khó:** Mỗi câu không quá 2 bước tính, tập trung vào việc áp dụng công thức đúng
+4. **Về cấu trúc:** Các câu nhỏ có mối liên hệ, tăng dần độ khó trong cùng một bài
+
+Đây là khung hướng dẫn giúp giáo viên tạo ra những câu hỏi phù hợp với mức độ thông hiểu, đảm bảo kiểm tra được khả năng hiểu biết và áp dụng kiến thức cơ bản của học sinh.

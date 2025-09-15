@@ -1,0 +1,118 @@
+# HƯỚNG DẪN SINH ĐỀ: TÍNH XÁC SUẤT THEO ĐỊNH NGHĨA CỔ ĐIỂN (LỚP 10)
+## Mức độ: THÔNG HIỂU
+
+---
+
+## I. KIẾN THỨC CƠ BẢN CẦN NẮM
+
+### 1. Các khái niệm cơ bản
+- **Phép thử ngẫu nhiên**: Thí nghiệm có nhiều kết quả có thể xảy ra, không dự đoán trước được kết quả
+- **Không gian mẫu (Ω)**: Tập hợp tất cả các kết quả có thể xảy ra
+- **Biến cố**: Tập con của không gian mẫu
+- **Biến cố đơn**: Biến cố chỉ có một phần tử
+- **Biến cố thuận lợi**: Các kết quả làm cho biến cố xảy ra
+
+### 2. Công thức xác suất cổ điển
+$$P(A) = \frac{|A|}{|\Omega|} = \frac{\text{Số kết quả thuận lợi cho A}}{\text{Tổng số kết quả có thể}}$$
+
+### 3. Tính chất cơ bản
+- $0 \leq P(A) \leq 1$
+- $P(\Omega) = 1$ (biến cố chắc chắn)
+- $P(\emptyset) = 0$ (biến cố không thể)
+
+---
+
+## II. HƯỚNG DẪN SINH ĐỀ THEO MỨC THÔNG HIỂU
+
+### **DẠNG 1: Giải thích và phân tích khái niệm**
+
+**Mẫu câu hỏi:**
+1. *Giải thích tại sao xác suất của một biến cố luôn nằm trong khoảng [0,1]?*
+2. *Phân tích sự khác nhau giữa biến cố và biến cố đơn. Cho ví dụ minh họa.*
+3. *So sánh hai cách tính xác suất: đếm trực tiếp và sử dụng quy tắc nhân.*
+
+**Hướng dẫn sinh đề:**
+- Yêu cầu học sinh giải thích bằng định nghĩa và ví dụ cụ thể
+- Sử dụng từ khóa: "Giải thích", "Phân tích", "So sánh", "Tại sao"
+
+### **DẠNG 2: Áp dụng công thức cơ bản (1-2 bước)**
+
+**Mẫu câu hỏi:**
+
+*Câu 1:* Gieo một con xúc xắc cân đối. Tính xác suất để:
+a) Xuất hiện mặt chẵn
+b) Xuất hiện mặt chia hết cho 3
+c) So sánh hai xác suất trên
+
+*Câu 2:* Từ một hộp có 5 bi đỏ, 3 bi xanh, 2 bi vàng, chọn ngẫu nhiên 1 bi. Tính xác suất để:
+a) Chọn được bi đỏ
+b) Chọn được bi không phải màu vàng
+
+**Hướng dẫn sinh đề:**
+- Bài toán có thể giải trong 1-2 bước
+- Sử dụng trực tiếp công thức xác suất cổ điển
+- Kết hợp với phép toán tập hợp đơn giản
+
+### **DẠNG 3: Nhận biết mối liên hệ giữa các khái niệm**
+
+**Mẫu câu hỏi:**
+
+*Câu 3:* Rút ngẫu nhiên một lá bài từ bộ bài 52 lá.
+a) Xác định không gian mẫu
+b) Gọi A là biến cố "rút được bài đỏ", B là biến cố "rút được bài Át". Tính P(A), P(B)
+c) Giải thích mối quan hệ giữa A và B (rời nhau, giao nhau, bao hàm?)
+
+*Câu 4:* Cho hai biến cố A và B với P(A) = 0,6 và P(B) = 0,4.
+a) Nếu A và B xung khắc, P(A ∪ B) = ?
+b) Mối quan hệ này có hợp lý không? Giải thích.
+
+**Hướng dẫn sinh đề:**
+- Kết hợp nhiều khái niệm nhưng ở mức cơ bản
+- Yêu cầu phân tích mối quan hệ giữa các biến cố
+- Sử dụng từ khóa: "Mối quan hệ", "Liên hệ", "Ảnh hưởng"
+
+### **DẠNG 4: Chuyển đổi giữa các dạng biểu diễn**
+
+**Mẫu câu hỏi:**
+
+*Câu 5:* Cho bảng thống kê kết quả thi của một lớp:
+| Điểm | 5 | 6 | 7 | 8 | 9 | 10 |
+|------|---|---|---|---|---|----| 
+| Số HS| 2 | 5 | 8 | 10| 4 | 1  |
+
+a) Biểu diễn bằng biểu đồ cột
+b) Tính xác suất để chọn ngẫu nhiên 1 học sinh có điểm ≥ 8
+c) Chuyển thành dạng phần trăm
+
+**Hướng dẫn sinh đề:**
+- Chuyển đổi giữa bảng số liệu, biểu đồ, phần trăm
+- Không yêu cầu vẽ biểu đồ phức tạp
+- Tập trung vào việc đọc hiểu và chuyển đổi thông tin
+
+---
+
+## III. TIÊU CHÍ ĐÁNH GIÁ MỨC THÔNG HIỂU
+
+### **Học sinh đạt yêu cầu khi:**
+- Giải thích được các khái niệm cơ bản bằng lời
+- Áp dụng đúng công thức xác suất trong 1-2 bước
+- Nhận biết được mối liên hệ giữa các biến cố
+- Chuyển đổi được giữa các dạng biểu diễn khác nhau
+
+### **Phân phối điểm tham khảo:**
+- Giải thích khái niệm: 25%
+- Áp dụng công thức: 40% 
+- Phân tích mối liên hệ: 25%
+- Chuyển đổi biểu diễn: 10%
+
+---
+
+## IV. LƯU Ý KHI SINH ĐỀ
+
+1. **Về nội dung**: Tập trung vào ứng dụng thực tế đơn giản (xúc xắc, bài, bi, thống kê đơn giản)
+
+2. **Về độ khó**: Không sử dụng hoán vị, chỉnh hợp, tổ hợp phức tạp
+
+3. **Về hình thức**: Kết hợp câu hỏi trắc nghiệm và tự luận, ưu tiên tự luận để đánh giá khả năng giải thích
+
+4. **Về thời gian**: Mỗi câu nên giải được trong 3-5 phút

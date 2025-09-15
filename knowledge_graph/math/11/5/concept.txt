@@ -1,0 +1,82 @@
+Dựa trên chương trình SGK Toán 11 Kết nối tri thức về "Giới hạn - Hàm số liên tục", tôi xin tóm tắt các kiến thức chính:
+
+## I. GIỚI HẠN CỦA DÃY SỐ
+
+### 1. Định nghĩa
+- Dãy số (uₙ) có giới hạn là 0 nếu |uₙ| có thể nhỏ tùy ý khi n đủ lớn
+- Ký hiệu: lim uₙ = 0 hoặc uₙ → 0 khi n → +∞
+
+### 2. Các giới hạn đặc biệt
+- lim(1/n) = 0
+- lim(1/nᵏ) = 0 (k > 0)
+- lim qⁿ = 0 (|q| < 1)
+
+### 3. Định lý về giới hạn dãy số
+- lim(uₙ + vₙ) = lim uₙ + lim vₙ
+- lim(uₙ.vₙ) = lim uₙ . lim vₙ
+- lim(uₙ/vₙ) = lim uₙ / lim vₙ (nếu lim vₙ ≠ 0)
+
+## II. GIỚI HẠN CỦA HÀM SỐ
+
+### 1. Giới hạn tại một điểm
+**Định nghĩa:** lim f(x) = L nếu f(x) tiến đến L khi x tiến đến x₀
+                x→x₀
+
+### 2. Giới hạn tại vô cực
+- lim f(x) = L: f(x) → L khi x → +∞
+  x→+∞
+- lim f(x) = +∞: f(x) → +∞ khi x → x₀
+  x→x₀
+
+### 3. Các quy tắc tính giới hạn
+- Quy tắc về tổng, hiệu, tích, thương
+- Quy tắc kẹp
+- Giới hạn một bên (trái, phải)
+
+### 4. Các dạng vô định
+- 0/0, ∞/∞, ∞ - ∞, 0.∞
+
+## III. HÀM SỐ LIÊN TỤC
+
+### 1. Định nghĩa
+Hàm số f(x) liên tục tại x₀ nếu: lim f(x) = f(x₀)
+                                    x→x₀
+
+### 2. Các định lý
+- **Định lý 1:** Hàm đa thức, hàm phân thức hữu tỷ liên tục trên tập xác định
+- **Định lý 2:** Tổng, hiệu, tích, thương của các hàm liên tục là hàm liên tục
+- **Định lý giá trị trung gian:** Nếu f liên tục trên [a,b] và f(a).f(b) < 0 thì tồn tại c ∈ (a,b) sao cho f(c) = 0
+
+## IV. CÁC DẠNG BÀI TẬP CHÍNH
+
+### Dạng 1: Tính giới hạn dãy số
+- Sử dụng các giới hạn cơ bản
+- Chia tử và mẫu cho nᵏ (k lớn nhất)
+
+### Dạng 2: Tính giới hạn hàm số
+- **Dạng 0/0:** Phân tích, rút gọn, sử dụng liên hợp
+- **Dạng ∞/∞:** Chia tử và mẫu cho xᵏ
+- **Dạng ∞ - ∞:** Nhân liên hợp, biến đổi
+
+### Dạng 3: Xét tính liên tục
+- Kiểm tra điều kiện liên tục tại một điểm
+- Tìm tham số để hàm số liên tục
+- Chứng minh phương trình có nghiệm
+
+### Dạng 4: Ứng dụng định lý giá trị trung gian
+- Chứng minh sự tồn tại nghiệm của phương trình
+
+## V. CÔNG THỨC QUAN TRỌNG
+
+```
+lim(sin x)/x = 1 (x→0)
+x→0
+
+lim(1 + 1/n)ⁿ = e
+n→∞
+
+lim aⁿ = 0 nếu |a| < 1
+n→∞     = +∞ nếu a > 1
+```
+
+Đây là những kiến thức cốt lõi cần nắm vững để giải quyết các bài tập trong chương này.

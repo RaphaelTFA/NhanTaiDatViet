@@ -1,0 +1,109 @@
+# HƯỚNG DẪN SINH ĐỀ VẬN DỤNG CAO - HÀM SỐ MŨ VÀ LOGARIT
+
+## I. KHUNG KIẾN THỨC CHÍNH (THEO CHƯƠNG TRÌNH 2018)
+
+### 1. Hàm số mũ y = aˣ (a > 0, a ≠ 1)
+- Tính chất, đồ thị
+- Phương trình mũ cơ bản và nâng cao
+- Bất phương trình mũ
+
+### 2. Hàm số logarit y = log_a(x) (a > 0, a ≠ 1)
+- Tính chất, đồ thị
+- Phương trình logarit
+- Bất phương trình logarit
+
+### 3. Ứng dụng thực tế
+- Tăng trưởng dân số, lãi suất
+- Phân rã phóng xạ
+
+## II. CẤU TRÚC SINH ĐỀ VẬN DỤNG CAO
+
+### Dạng 1: Kết hợp Hàm số mũ - Logarit với Hình học tọa độ
+
+**Khung bài toán:**
+> Cho đường thẳng d: y = mx + n và đồ thị hàm số y = aˣ (hoặc y = log_a(x)). Tìm điều kiện để:
+> - Đường thẳng cắt đồ thị tại k điểm
+> - Tổng tung độ giao điểm thỏa mãn điều kiện cho trước
+> - Khoảng cách từ giao điểm đến trục tọa độ cực trị
+
+**Ví dụ mẫu:**
+Cho hàm số f(x) = 2^(x+1) + 2^(-x-1) và đường thẳng d: y = m(x-1) + 2. Tìm m để đường thẳng d cắt đồ thị hàm số f(x) tại hai điểm phân biệt A, B sao cho tam giác OAB có diện tích bằng 4.
+
+### Dạng 2: Hệ phương trình mũ - logarit phức hợp
+
+**Khung bài toán:**
+> Cho hệ phương trình chứa cả hàm mũ và logarit với tham số. Yêu cầu:
+> - Giải hệ khi tham số có giá trị cụ thể
+> - Tìm điều kiện tham số để hệ có nghiệm
+> - Tìm giá trị lớn nhất/nhỏ nhất của biểu thức nghiệm
+
+**Ví dụ mẫu:**
+Cho hệ phương trình:
+```
+{ x² + y² = a² + 1
+{ log₂(x+y) + log₂(x-y) = log₂(a²)
+```
+Tìm a để hệ có nghiệm duy nhất và tính tổng x + y tại nghiệm đó.
+
+### Dạng 3: Bài toán tối ưu với ràng buộc mũ - logarit
+
+**Khung bài toán:**
+> Tìm giá trị lớn nhất/nhỏ nhất của biểu thức chứa hàm mũ và logarit trên miền xác định có điều kiện ràng buộc phức tạp.
+
+**Ví dụ mẫu:**
+Cho x, y > 0 thỏa mãn 2^x · 3^y = 6 và x + y ≥ 2. Tìm giá trị nhỏ nhất của biểu thức P = x²log₂(3) + y²log₃(2) + xy.
+
+### Dạng 4: Ứng dụng thực tế đa tầng
+
+**Khung bài toán:**
+> Mô hình thực tế kết hợp nhiều yếu tố: tăng trưởng, suy giảm, chu kỳ, với nhiều ràng buộc điều kiện.
+
+**Ví dụ mẫu:**
+Một khu rừng có N₀ = 10000 cây. Do chặt phá, số cây giảm theo quy luật N₁(t) = N₀·e^(-0.1t). Từ năm thứ 5, người ta trồng thêm với tốc độ tăng theo N₂(t) = 2000·(1.05)^(t-5) cây/năm (t ≥ 5). Tìm thời điểm số cây trong rừng đạt cực tiểu và tính số cây tại thời điểm đó.
+
+## III. CÔNG THỨC SINH ĐỀ CHUẨN VẬN DỤNG CAO
+
+### Bước 1: Chọn kiến thức nền
+- **Chủ đạo (60%):** Hàm mũ/logarit
+- **Phụ trợ (40%):** Chọn từ {Hình học tọa độ, Đạo hàm, Bất đẳng thức, Dãy số}
+
+### Bước 2: Xây dựng tình huống
+```
+Tình huống = Bối cảnh thực tế + Điều kiện toán học + Yêu cầu phân tích
+```
+
+### Bước 3: Thiết kế độ khó
+- **Bước giải:** Tối thiểu 4-5 bước logic liên kết
+- **Phương pháp:** Cần 2-3 phương pháp khác nhau
+- **Kiến thức:** Tổng hợp 3-4 chủ đề
+
+### Bước 4: Câu hỏi con đa chiều
+1. **Phân tích:** Tìm điều kiện, miền xác định
+2. **Tổng hợp:** Giải phương trình/bpt/hệ
+3. **Vận dụng:** Tối ưu hóa, so sánh, đánh giá
+
+## IV. CHECKLIST ĐÁNH GIÁ ĐỀ VẬN DỤNG CAO
+
+### ✅ Tiêu chí bắt buộc:
+- [ ] Hàm mũ/logarit là kiến thức chủ đạo
+- [ ] Kết hợp tối thiểu 2 chủ đề khác
+- [ ] Có ít nhất 4 bước giải logic
+- [ ] Yêu cầu phân tích/tổng hợp
+- [ ] Không thể giải bằng công thức trực tiếp
+- [ ] Có tính ứng dụng hoặc mới lạ
+
+### ✅ Tiêu chí nâng cao:
+- [ ] Nhiều hướng tiếp cận khác nhau
+- [ ] Liên kết với thực tế
+- [ ] Có yếu tố bất ngờ trong lời giải
+- [ ] Kết quả có ý nghĩa toán học sâu sắc
+
+## V. VÍ DỤ HOÀN CHỈNH
+
+**Đề bài:** Cho hàm số f(x) = |log₂(x-1)| với x > 1. Đường thẳng y = ax + b (a > 0) cắt đồ thị f(x) tại ba điểm phân biệt có hoành độ x₁ < x₂ < x₃ sao cho x₁ + x₃ = 2x₂. Biết rằng đường thẳng này cũng cắt đường tròn (C): x² + y² - 4x - 2y = 0 tại hai điểm A, B sao cho AB = 2√2. Tìm phương trình đường thẳng và tính tổng S = x₁ + x₂ + x₃.
+
+**Đây là ví dụ điển hình vận dụng cao vì:**
+- Kết hợp logarit (chủ đạo) + hình học tọa độ
+- Yêu cầu phân tích tính chất đồ thị hàm trị tuyệt đối
+- Tổng hợp điều kiện từ hai đối tượng hình học khác nhau
+- Cần vận dụng linh hoạt tính chất đối xứng và định lý Vieta mở rộng

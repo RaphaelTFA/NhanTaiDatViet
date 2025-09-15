@@ -1,0 +1,92 @@
+# TÓM TẮT CHƯƠNG IV: VECTOR (TOÁN 10 - KẾT NỐI TRI THỨC)
+
+## I. ĐỊNH NGHĨA CƠ BẢN
+
+### 1. Vector
+- **Vector** là một đoạn thẳng có hướng, kí hiệu: $\overrightarrow{AB}$ (A là điểm đầu, B là điểm cuối)
+- **Vector không**: $\overrightarrow{0}$ (điểm đầu và điểm cuối trùng nhau)
+- **Độ dài vector**: $|\overrightarrow{AB}|$ = độ dài đoạn thẳng AB
+
+### 2. Hai vector bằng nhau
+Hai vector $\overrightarrow{AB}$ và $\overrightarrow{CD}$ bằng nhau khi:
+- Cùng hướng
+- Cùng độ dài
+
+## II. CÁC PHÉP TOÁN VECTOR
+
+### 1. Phép cộng vector
+- **Quy tắc tam giác**: $\overrightarrow{AB} + \overrightarrow{BC} = \overrightarrow{AC}$
+- **Quy tắc hình bình hành**: $\overrightarrow{AB} + \overrightarrow{AD} = \overrightarrow{AC}$ (ABDC là hình bình hành)
+
+**Tính chất:**
+- Giao hoán: $\overrightarrow{a} + \overrightarrow{b} = \overrightarrow{b} + \overrightarrow{a}$
+- Kết hợp: $(\overrightarrow{a} + \overrightarrow{b}) + \overrightarrow{c} = \overrightarrow{a} + (\overrightarrow{b} + \overrightarrow{c})$
+- $\overrightarrow{a} + \overrightarrow{0} = \overrightarrow{a}$
+
+### 2. Phép trừ vector
+- **Vector đối**: $\overrightarrow{BA} = -\overrightarrow{AB}$
+- **Hiệu hai vector**: $\overrightarrow{a} - \overrightarrow{b} = \overrightarrow{a} + (-\overrightarrow{b})$
+- $\overrightarrow{AB} - \overrightarrow{AC} = \overrightarrow{CB}$
+
+### 3. Phép nhân vector với một số
+- $k\overrightarrow{a}$ có:
+  - Độ dài: $|k\overrightarrow{a}| = |k||\overrightarrow{a}|$
+  - Hướng: cùng hướng với $\overrightarrow{a}$ nếu k > 0, ngược hướng nếu k < 0
+
+**Tính chất:**
+- $k(\overrightarrow{a} + \overrightarrow{b}) = k\overrightarrow{a} + k\overrightarrow{b}$
+- $(m + n)\overrightarrow{a} = m\overrightarrow{a} + n\overrightarrow{a}$
+- $m(n\overrightarrow{a}) = (mn)\overrightarrow{a}$
+
+## III. TÍCH VÔ HƯỚNG CỦA HAI VECTOR
+
+### 1. Định nghĩa
+$\overrightarrow{a} \cdot \overrightarrow{b} = |\overrightarrow{a}||\overrightarrow{b}|\cos(\overrightarrow{a}, \overrightarrow{b})$
+
+### 2. Tính chất
+- Giao hoán: $\overrightarrow{a} \cdot \overrightarrow{b} = \overrightarrow{b} \cdot \overrightarrow{a}$
+- Phân phối: $\overrightarrow{a} \cdot (\overrightarrow{b} + \overrightarrow{c}) = \overrightarrow{a} \cdot \overrightarrow{b} + \overrightarrow{a} \cdot \overrightarrow{c}$
+- $(k\overrightarrow{a}) \cdot \overrightarrow{b} = k(\overrightarrow{a} \cdot \overrightarrow{b})$
+- $\overrightarrow{a} \cdot \overrightarrow{a} = |\overrightarrow{a}|^2$
+
+### 3. Điều kiện vuông góc
+$\overrightarrow{a} \perp \overrightarrow{b} \Leftrightarrow \overrightarrow{a} \cdot \overrightarrow{b} = 0$
+
+## IV. HỆ TRỤC TỌA ĐỘ
+
+### 1. Tọa độ vector
+$\overrightarrow{a} = (a_1; a_2) = a_1\overrightarrow{i} + a_2\overrightarrow{j}$
+
+### 2. Công thức tọa độ
+- $\overrightarrow{AB} = (x_B - x_A; y_B - y_A)$
+- $\overrightarrow{a} + \overrightarrow{b} = (a_1 + b_1; a_2 + b_2)$
+- $k\overrightarrow{a} = (ka_1; ka_2)$
+- $\overrightarrow{a} \cdot \overrightarrow{b} = a_1b_1 + a_2b_2$
+- $|\overrightarrow{a}| = \sqrt{a_1^2 + a_2^2}$
+
+## V. DẠNG BÀI TẬP CHÍNH
+
+### 1. Dạng 1: Tính toán vector
+- Thực hiện phép cộng, trừ, nhân vector
+- Tìm tọa độ vector
+- Tính độ dài vector
+
+### 2. Dạng 2: Chứng minh hình học
+- Chứng minh ba điểm thẳng hàng
+- Chứng minh tứ giác là hình bình hành
+- Chứng minh hai đường thẳng vuông góc
+
+### 3. Dạng 3: Tích vô hướng
+- Tính tích vô hướng
+- Tìm góc giữa hai vector
+- Chứng minh vuông góc
+
+### 4. Dạng 4: Bài toán thực tế
+- Ứng dụng vector trong vật lý (lực, vận tốc)
+- Bài toán tối ưu hóa
+- Bài toán hình học không gian
+
+### 5. Dạng 5: Phân tích vector
+- Phân tích vector theo hai vector không cùng phương
+- Tìm điều kiện để ba vector đồng phẳng
+- Bài toán trọng tâm

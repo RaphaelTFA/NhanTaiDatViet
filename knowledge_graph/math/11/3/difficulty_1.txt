@@ -1,0 +1,139 @@
+# HƯỚNG DẪN SINH ĐỀ - MỨC NHẬN BIẾT
+## Chủ đề: Các số đặc trưng đo xu thế trung tâm của mẫu số liệu ghép nhóm - Lớp 11
+
+---
+
+## I. KIẾN THỨC CẦN NHẮC LẠI
+
+### 1. Các khái niệm cơ bản cần nắm:
+- **Số trung bình cộng** của mẫu số liệu ghép nhóm
+- **Trung vị (Median)** của mẫu số liệu ghép nhóm  
+- **Mốt (Mode)** của mẫu số liệu ghép nhóm
+- **Tần số**, **tần số tích lũy**, **giá trị đại diện** của nhóm
+
+### 2. Công thức cơ bản:
+
+**Số trung bình cộng:**
+$$\overline{x} = \frac{\sum_{i=1}^{k} n_i \cdot x_i}{n}$$
+
+**Trung vị:**
+- Xác định nhóm chứa trung vị: nhóm có tần số tích lũy ≥ n/2
+- Công thức: $$M_e = L + \frac{\frac{n}{2} - F}{f} \cdot h$$
+
+**Mốt:**
+$$M_o = L + \frac{d_1}{d_1 + d_2} \cdot h$$
+
+---
+
+## II. CÁC DẠNG CÂU HỎI MỨC NHẬN BIẾT
+
+### **Dạng 1: Nhận biết định nghĩa, khái niệm**
+
+**Cấu trúc câu hỏi:**
+- "Cho biết định nghĩa của..."
+- "Khái niệm nào sau đây đúng?"
+- "Phát biểu nào sau đây về... là đúng?"
+
+**Ví dụ mẫu:**
+> **Câu 1:** Số trung bình cộng của mẫu số liệu ghép nhóm được tính bằng công thức nào?
+> A) $\frac{\sum x_i}{k}$  
+> B) $\frac{\sum n_i \cdot x_i}{n}$  
+> C) $\frac{\sum n_i}{k}$  
+> D) $\frac{\sum x_i}{n}$
+
+### **Dạng 2: Nhận biết và áp dụng trực tiếp công thức**
+
+**Cấu trúc câu hỏi:**
+- "Tính số trung bình cộng của mẫu số liệu..."
+- "Xác định trung vị của bảng số liệu..."
+- "Tìm mốt của mẫu số liệu ghép nhóm..."
+
+**Ví dụ mẫu:**
+> **Câu 2:** Cho bảng số liệu ghép nhóm:
+> 
+> | Nhóm | [10; 15) | [15; 20) | [20; 25) | [25; 30) |
+> |------|----------|----------|----------|----------|
+> | Tần số| 5        | 8        | 12       | 10       |
+> 
+> Tính số trung bình cộng của mẫu số liệu trên.
+> A) 20,5   B) 21   C) 21,5   D) 22
+
+### **Dạng 3: Xác định các thành phần trong công thức**
+
+**Cấu trúc câu hỏi:**
+- "Trong công thức tính trung vị, L là gì?"
+- "Xác định nhóm chứa trung vị..."
+- "Cho biết giá trị đại diện của nhóm [a; b) là..."
+
+**Ví dụ mẫu:**
+> **Câu 3:** Trong bảng số liệu ở câu 2, nhóm chứa trung vị là:
+> A) [10; 15)   B) [15; 20)   C) [20; 25)   D) [25; 30)
+
+### **Dạng 4: Tính toán đơn giản**
+
+**Cấu trúc câu hỏi:**
+- "Tính tần số tích lũy..."
+- "Xác định n/2 trong bảng số liệu..."
+- "Tìm giá trị đại diện của các nhóm..."
+
+**Ví dụ mẫu:**
+> **Câu 4:** Với bảng số liệu ở câu 2, tần số tích lũy của nhóm [20; 25) là:
+> A) 12   B) 25   C) 13   D) 35
+
+---
+
+## III. HƯỚNG DẪN SINH CÂU HỎI CỤ THỂ
+
+### **Bước 1: Chuẩn bị dữ liệu**
+- Tạo bảng số liệu ghép nhóm đơn giản (3-5 nhóm)
+- Chọn các khoảng có độ rộng bằng nhau (thường là 5 hoặc 10)
+- Tần số không quá lớn, dễ tính toán
+
+### **Bước 2: Thiết kế câu hỏi theo từng mức độ**
+
+**Mức 1 - Nhận biết khái niệm:**
+- Hỏi về định nghĩa
+- Nhận biết công thức
+- Phân biệt các khái niệm
+
+**Mức 2 - Áp dụng trực tiếp:**
+- Tính số trung bình cộng
+- Xác định nhóm chứa trung vị/mốt
+- Tính trung vị hoặc mốt với số liệu đơn giản
+
+**Mức 3 - Xác định thành phần:**
+- Tìm giá trị đại diện
+- Tính tần số tích lũy
+- Xác định các tham số trong công thức
+
+### **Bước 3: Thiết kế đáp án**
+- Đáp án đúng: Kết quả chính xác từ công thức
+- Đáp án sai: Các lỗi phổ biến (quên chia cho n, tính sai giá trị đại diện...)
+
+---
+
+## IV. MẪU ĐỀ HOÀN CHỈNH
+
+> **Cho bảng số liệu về điểm kiểm tra của 40 học sinh:**
+> 
+> | Điểm | [4; 5) | [5; 6) | [6; 7) | [7; 8) | [8; 9) | [9; 10] |
+> |------|--------|--------|--------|--------|--------|---------|
+> | Tần số| 3      | 7      | 12     | 10     | 6      | 2       |
+> 
+> **Câu 1:** Giá trị đại diện của nhóm [6; 7) là:
+> A) 6   B) 6,5   C) 7   D) 1
+> 
+> **Câu 2:** Số trung bình cộng của mẫu số liệu trên là:
+> A) 6,5   B) 6,525   C) 6,55   D) 6,6
+> 
+> **Câu 3:** Nhóm chứa trung vị là:
+> A) [5; 6)   B) [6; 7)   C) [7; 8)   D) [8; 9)
+> 
+> **Câu 4:** Nhóm chứa mốt là:
+> A) [5; 6)   B) [6; 7)   C) [7; 8)   D) [8; 9)
+
+**Đáp án:** 1-B, 2-C, 3-B, 4-B
+
+---
+
+Hướng dẫn này giúp tạo ra các câu hỏi phù hợp với mức độ nhận biết, tập trung vào việc kiểm tra khả năng nhớ và áp dụng trực tiếp các công thức cơ bản.

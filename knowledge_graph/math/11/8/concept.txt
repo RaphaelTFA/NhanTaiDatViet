@@ -1,0 +1,82 @@
+# TÓM TẮT: CÁC QUY TẮC TÍNH XÁC SUẤT (TOÁN 11 - KNTT)
+
+## I. ĐỊNH NGHĨA CƠ BẢN
+
+### 1. Biến cố
+- **Biến cố**: Là một tập hợp con của không gian mẫu Ω
+- **Biến cố chắc chắn**: Ω (luôn xảy ra)
+- **Biến cố không thể**: ∅ (không bao giờ xảy ra)
+- **Biến cố đối**: Biến cố đối của A là Ā = Ω\A
+
+### 2. Xác suất cổ điển
+**Công thức**: P(A) = |A|/|Ω| = (Số kết quả thuận lợi cho A)/(Tổng số kết quả có thể)
+
+## II. CÁC QUY TẮC TÍNH XÁC SUẤT
+
+### 1. Quy tắc cộng xác suất
+
+**Định lý**: 
+- Với hai biến cố A, B bất kỳ: **P(A ∪ B) = P(A) + P(B) - P(A ∩ B)**
+- Nếu A và B xung khắc (A ∩ B = ∅): **P(A ∪ B) = P(A) + P(B)**
+
+**Hệ quả**:
+- P(Ā) = 1 - P(A)
+- 0 ≤ P(A) ≤ 1
+- P(Ω) = 1, P(∅) = 0
+
+### 2. Xác suất có điều kiện
+
+**Định nghĩa**: P(A|B) = P(A ∩ B)/P(B) (với P(B) > 0)
+
+**Ý nghĩa**: Xác suất xảy ra biến cố A khi biết B đã xảy ra
+
+### 3. Quy tắc nhân xác suất
+
+**Định lý**: 
+- **P(A ∩ B) = P(A) × P(B|A) = P(B) × P(A|B)**
+- Nếu A và B độc lập: **P(A ∩ B) = P(A) × P(B)**
+
+### 4. Biến cố độc lập
+
+**Định nghĩa**: A và B độc lập ⟺ P(A ∩ B) = P(A) × P(B)
+
+**Tính chất**: Nếu A, B độc lập thì:
+- A và Ā độc lập với B
+- Ā và B̄ độc lập
+
+## III. CÔNG THỨC XÁC SUẤT TOÀN PHẦN VÀ BAYES
+
+### 1. Công thức xác suất toàn phần
+Nếu B₁, B₂, ..., Bₙ là phân hoạch của Ω thì:
+**P(A) = P(A|B₁)P(B₁) + P(A|B₂)P(B₂) + ... + P(A|Bₙ)P(Bₙ)**
+
+### 2. Công thức Bayes
+**P(Bᵢ|A) = P(A|Bᵢ)P(Bᵢ)/P(A)**
+
+## IV. DẠNG BÀI TẬP CHÍNH
+
+### Dạng 1: Tính xác suất cổ điển
+- Đếm số phần tử của biến cố và không gian mẫu
+- Áp dụng: P(A) = |A|/|Ω|
+
+### Dạng 2: Áp dụng quy tắc cộng
+- Tính P(A ∪ B) khi biết P(A), P(B), P(A ∩ B)
+- Bài toán "hoặc" - "hoặc"
+
+### Dạng 3: Áp dụng quy tắc nhân
+- Tính xác suất của biến cố giao
+- Bài toán rút không hoàn lại
+
+### Dạng 4: Xác suất có điều kiện
+- Tính P(A|B) khi biết thông tin về B
+- Bài toán rút có hoàn lại
+
+### Dạng 5: Biến cố độc lập
+- Kiểm tra tính độc lập
+- Tính xác suất khi các biến cố độc lập
+
+### Dạng 6: Công thức Bayes
+- Bài toán nguyên nhân - kết quả
+- Cập nhật xác suất khi có thông tin mới
+
+**Lưu ý**: Cần phân biệt rõ các từ khóa "và", "hoặc", "không", "biết rằng" để áp dụng công thức phù hợp.

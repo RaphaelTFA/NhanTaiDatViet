@@ -1,0 +1,99 @@
+# HƯỚNG DẪN SINH ĐỀ TOÁN LỚP 10 - ĐẠI SỐ TỔ HỢP (Mức Thông hiểu)
+
+## I. KHUNG KIẾN THỨC CẦN ĐÁNH GIÁ
+
+### 1. Quy tắc cộng và quy tắc nhân
+- Phân biệt khi nào dùng quy tắc cộng, khi nào dùng quy tắc nhân
+- Áp dụng vào bài toán đếm cơ bản
+
+### 2. Hoán vị, chỉnh hợp, tổ hợp
+- So sánh và phân biệt các khái niệm
+- Nhận biết dạng bài toán để áp dụng công thức phù hợp
+- Các tính chất cơ bản: $C_n^k = C_n^{n-k}$, $C_n^0 = 1$, $A_n^k = k! \cdot C_n^k$
+
+### 3. Nhị thức Newton
+- Công thức khai triển và tính chất của hệ số nhị thức
+- Tìm số hạng tổng quát, số hạng không chứa x, hệ số của $x^k$
+
+## II. CÁC DẠNG CÂU HỎI VÀ HƯỚNG DẪN SINH ĐỀ
+
+### DẠNG 1: Phân biệt và so sánh khái niệm
+
+**Cấu trúc câu hỏi:**
+- "Giải thích sự khác biệt giữa hoán vị và chỉnh hợp"
+- "So sánh $A_n^k$ và $C_n^k$, cho biết mối liên hệ"
+- "Phân tích khi nào dùng quy tắc cộng, khi nào dùng quy tắc nhân"
+
+**Ví dụ mẫu:**
+*Cho 6 học sinh nam và 4 học sinh nữ. So sánh và giải thích sự khác biệt giữa:*
+- *Số cách chọn 3 học sinh bất kỳ*
+- *Số cách xếp 3 học sinh thành hàng ngang*
+
+### DẠNG 2: Nhận biết và áp dụng công thức phù hợp
+
+**Cấu trúc câu hỏi:**
+- Cho tình huống cụ thể, yêu cầu nhận biết dạng toán và áp dụng công thức
+- Không yêu cầu tính toán phức tạp, tập trung vào việc lựa chọn phương pháp
+
+**Ví dụ mẫu:**
+*Một nhóm có 8 người. Hãy xác định dùng công thức nào để tính:*
+- *a) Số cách chọn 3 người làm ban thường vụ (3 người có vai trò như nhau)*
+- *b) Số cách chọn 1 trưởng nhóm, 1 thư ký, 1 thủ quỹ (3 vai trò khác nhau)*
+
+### DẠNG 3: Áp dụng tính chất và công thức cơ bản
+
+**Cấu trúc câu hỏi:**
+- Sử dụng 1-2 công thức hoặc tính chất
+- Không yêu cầu biến đổi phức tạp
+
+**Ví dụ mẫu:**
+*Cho $C_n^2 = 15$. Tìm n và tính $C_n^{n-2}$.*
+
+*Không khai triển, hãy tìm hệ số của $x^3$ trong khai triển $(2x + 1)^5$.*
+
+### DẠNG 4: Bài toán đếm ứng dụng (mức cơ bản)
+
+**Cấu trúc câu hỏi:**
+- Tình huống thực tế đơn giản
+- Áp dụng trực tiếp 1-2 quy tắc hoặc công thức
+
+**Ví dụ mẫu:**
+*Một cửa hàng có 5 loại bánh ngọt và 4 loại nước uống. Hỏi có bao nhiêu cách để:*
+- *a) Chọn 1 món bánh HOẶC 1 ly nước?*
+- *b) Chọn 1 món bánh VÀ 1 ly nước?*
+
+### DẠNG 5: Nhận biết mối liên hệ giữa các khái niệm
+
+**Cấu trúc câu hỏi:**
+- Chứng minh hoặc giải thích các đẳng thức đơn giản
+- Thiết lập mối quan hệ giữa các công thức
+
+**Ví dụ mẫu:**
+*Chứng minh rằng $A_n^k = k! \cdot C_n^k$ và giải thích ý nghĩa của đẳng thức này.*
+
+*Cho biết $C_7^2 + C_7^3 = C_8^3$. Hãy giải thích tại sao đẳng thức này đúng.*
+
+## III. TIÊU CHÍ ĐÁNH GIÁ MỨC THÔNG HIỂU
+
+### Tiêu chí ĐÚNG mức Thông hiểu:
+- ✅ Yêu cầu giải thích, phân tích khái niệm
+- ✅ Nhận biết được dạng bài và áp dụng đúng công thức
+- ✅ Sử dụng 1-2 bước giải, không quá phức tạp
+- ✅ Kết hợp nhiều khái niệm ở mức độ cơ bản
+
+### Tránh các trường hợp:
+- ❌ Chỉ yêu cầu nhớ và áp dụng máy móc (mức Nhận biết)
+- ❌ Đòi hỏi kỹ thuật cao, biến đổi phức tạp (mức Vận dụng)
+- ❌ Bài toán có nhiều trường hợp, điều kiện ràng buộc phức tạp
+
+## IV. MẪU ĐỀ THAM KHẢO
+
+**Câu 1:** Giải thích sự khác biệt giữa $C_n^k$ và $A_n^k$. Cho ví dụ minh họa.
+
+**Câu 2:** Cho $C_n^3 = 20$. Tìm n và tính $C_n^{n-3}$.
+
+**Câu 3:** Một đội văn nghệ có 6 nam và 4 nữ. Hỏi có bao nhiêu cách chọn 3 người sao cho có ít nhất 1 nữ?
+
+**Câu 4:** Tìm hệ số của $x^4$ trong khai triển $(x + 2)^6$.
+
+**Câu 5:** Chứng minh $C_n^k + C_n^{k+1} = C_{n+1}^{k+1}$ và giải thích ý nghĩa tổ hợp của đẳng thức.

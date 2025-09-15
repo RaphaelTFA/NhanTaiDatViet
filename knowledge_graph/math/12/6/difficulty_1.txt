@@ -1,0 +1,125 @@
+# HƯỚNG DẪN SINH ĐỀ MỨC NHẬN BIẾT
+## Chủ đề: Xác suất có điều kiện - Lớp 12
+
+---
+
+## I. KIẾN THỨC CƠ BẢN CẦN KIỂM TRA
+
+### 1. Định nghĩa xác suất có điều kiện
+- Công thức: P(A|B) = P(A∩B)/P(B) với P(B) > 0
+- Ý nghĩa: Xác suất xảy ra biến cố A khi biết B đã xảy ra
+
+### 2. Tính chất cơ bản
+- 0 ≤ P(A|B) ≤ 1
+- P(Ω|B) = 1 (Ω là biến cố chắc chắn)
+- P(∅|B) = 0 (∅ là biến cố không thể)
+
+### 3. Công thức nhân xác suất
+- P(A∩B) = P(A|B).P(B) = P(B|A).P(A)
+
+---
+
+## II. DẠNG CÂU HỎI MỨC NHẬN BIẾT
+
+### **Dạng 1: Nhận biết định nghĩa và công thức**
+
+**Mẫu câu hỏi:**
+- "Cho biết công thức tính xác suất có điều kiện P(A|B)"
+- "Xác định điều kiện để P(A|B) có nghĩa"
+- "Nhận biết ký hiệu P(A|B) có ý nghĩa gì?"
+
+**Ví dụ cụ thể:**
+> **Câu 1:** Công thức tính xác suất có điều kiện P(A|B) là:
+> A. P(A|B) = P(A)/P(B)
+> B. P(A|B) = P(A∩B)/P(B) với P(B) > 0
+> C. P(A|B) = P(B)/P(A)
+> D. P(A|B) = P(A) + P(B)
+
+### **Dạng 2: Tính trực tiếp theo công thức**
+
+**Mẫu câu hỏi:**
+- "Tính P(A|B) khi biết P(A∩B) và P(B)"
+- "Xác định P(A∩B) khi biết P(A|B) và P(B)"
+
+**Ví dụ cụ thể:**
+> **Câu 2:** Cho P(A∩B) = 0,3 và P(B) = 0,6. Tính P(A|B).
+> A. 0,18
+> B. 0,5
+> C. 0,9
+> D. 1,8
+
+> **Câu 3:** Cho P(A|B) = 0,4 và P(B) = 0,25. Tính P(A∩B).
+> A. 0,1
+> B. 0,65
+> C. 1,6
+> D. 0,625
+
+### **Dạng 3: Bài toán đơn giản với bảng số liệu**
+
+**Mẫu câu hỏi:**
+- "Tính xác suất có điều kiện từ bảng thống kê cho sẵn"
+- "Xác định xác suất từ dữ liệu đã được tổng hợp"
+
+**Ví dụ cụ thể:**
+> **Câu 4:** Một lớp có 40 học sinh được thống kê như sau:
+> 
+> | | Nam | Nữ | Tổng |
+> |---|---|---|---|
+> | Giỏi Toán | 12 | 8 | 20 |
+> | Không giỏi Toán | 10 | 10 | 20 |
+> | Tổng | 22 | 18 | 40 |
+> 
+> Chọn ngẫu nhiên 1 học sinh. Tính xác suất học sinh đó giỏi Toán, biết học sinh đó là nam.
+> A. 12/40
+> B. 12/22
+> C. 22/40
+> D. 20/40
+
+### **Dạng 4: Nhận biết tính chất**
+
+**Mẫu câu hỏi:**
+- "Cho biết giá trị của P(A|B) thuộc khoảng nào?"
+- "Xác định giá trị của P(Ω|B)"
+
+**Ví dụ cụ thể:**
+> **Câu 5:** Với B là biến cố bất kỳ có P(B) > 0, giá trị P(Ω|B) bằng:
+> A. 0
+> B. 1
+> C. P(B)
+> D. Không xác định
+
+---
+
+## III. CẤU TRÚC ĐỀ KIỂM TRA MỨC NHẬN BIẾT
+
+### **Phân bố câu hỏi:**
+- **2-3 câu** về định nghĩa và công thức cơ bản
+- **3-4 câu** tính toán trực tiếp áp dụng công thức
+- **2-3 câu** từ bảng số liệu đơn giản
+- **1-2 câu** về tính chất cơ bản
+
+### **Tiêu chí đánh giá:**
+- Thời gian làm bài: 1-2 phút/câu
+- Độ khó: Dễ - Trung bình
+- Đáp án rõ ràng, không gây nhầm lẫn
+- Phù hợp với học sinh trung bình (5-6 điểm)
+
+---
+
+## IV. LƯU Ý KHI SINH ĐỀ
+
+### **Nên làm:**
+- Sử dụng số liệu đẹp, dễ tính
+- Đưa ra 4 phương án rõ ràng, khác biệt
+- Kiểm tra đáp án trước khi đưa vào đề
+- Sắp xếp theo thứ tự từ dễ đến khó
+
+### **Tránh:**
+- Các phép tính phức tạp
+- Số liệu rối rắm, khó nhớ
+- Yêu cầu phân tích nhiều bước
+- Câu hỏi mơ hồ, đa nghĩa
+
+---
+
+**Kết luận:** Đề thi mức Nhận biết về xác suất có điều kiện cần tập trung vào việc kiểm tra khả năng nhớ công thức và áp dụng trực tiếp vào các bài toán đơn giản.

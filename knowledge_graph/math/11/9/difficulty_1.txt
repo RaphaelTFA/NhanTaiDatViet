@@ -1,0 +1,120 @@
+# HƯỚNG DẪN SINH ĐỀ MỨC NHẬN BIẾT - CHỦ ĐỀ ĐẠO HÀM (LỚP 11)
+
+## I. KHUNG KIẾN THỨC CẦN KIỂM TRA
+
+### 1. Định nghĩa đạo hàm
+- Định nghĩa đạo hàm tại một điểm
+- Định nghĩa đạo hàm của hàm số
+- Ý nghĩa hình học và vật lý của đạo hàm
+
+### 2. Các công thức đạo hàm cơ bản
+- Đạo hàm của hàm số hằng: (c)' = 0
+- Đạo hàm của hàm số mũ: (x^n)' = nx^(n-1)
+- Đạo hàm của căn: (√x)' = 1/(2√x)
+- Đạo hàm của 1/x: (1/x)' = -1/x²
+
+### 3. Quy tắc tính đạo hàm
+- Quy tắc tổng: (u + v)' = u' + v'
+- Quy tắc tích: (uv)' = u'v + uv'
+- Quy tắc thương: (u/v)' = (u'v - uv')/v²
+
+## II. DẠNG CÂU HỎI VÀ HƯỚNG DẪN SINH ĐỀ
+
+### **Dạng 1: Nhận biết định nghĩa**
+
+**Cấu trúc câu hỏi:**
+- "Cho biết định nghĩa đạo hàm của hàm số y = f(x) tại điểm x₀"
+- "Xác định công thức tính đạo hàm tại một điểm"
+
+**Ví dụ mẫu:**
+*Câu 1: Đạo hàm của hàm số y = f(x) tại điểm x₀ được định nghĩa bởi công thức nào sau đây?*
+A. f'(x₀) = lim[h→0] [f(x₀+h) - f(x₀)]/h
+B. f'(x₀) = lim[h→0] [f(x₀+h) + f(x₀)]/h  
+C. f'(x₀) = [f(x₀+h) - f(x₀)]/h
+D. f'(x₀) = f(x₀+h) - f(x₀)
+
+### **Dạng 2: Áp dụng trực tiếp công thức cơ bản**
+
+**Cấu trúc câu hỏi:**
+- "Tính đạo hàm của hàm số y = x^n"
+- "Tìm đạo hàm của hàm số đa thức đơn giản"
+
+**Ví dụ mẫu:**
+*Câu 2: Tính đạo hàm của hàm số y = x⁵*
+A. y' = x⁴
+B. y' = 5x⁴
+C. y' = 5x⁵
+D. y' = x⁵
+
+*Câu 3: Cho biết đạo hàm của hàm số y = 3x² - 2x + 1*
+A. y' = 6x - 2
+B. y' = 6x + 2
+C. y' = 3x - 2
+D. y' = 6x² - 2x
+
+### **Dạng 3: Nhận biết quy tắc tính đạo hàm**
+
+**Cấu trúc câu hỏi:**
+- "Xác định quy tắc tính đạo hàm của tổng"
+- "Cho biết công thức đạo hàm của tích"
+
+**Ví dụ mẫu:**
+*Câu 4: Quy tắc tính đạo hàm của tích (uv)' là:*
+A. (uv)' = u'v'
+B. (uv)' = u'v + uv'
+C. (uv)' = u'v - uv'
+D. (uv)' = (u' + v')(u + v)
+
+### **Dạng 4: Tính đạo hàm đơn giản**
+
+**Cấu trúc câu hỏi:**
+- "Tính đạo hàm của y = ax + b"
+- "Tìm y' của hàm số y = x^n với n đơn giản"
+
+**Ví dụ mẫu:**
+*Câu 5: Tính đạo hàm của hàm số y = 2x + 5*
+A. y' = 2
+B. y' = 2x
+C. y' = 5
+D. y' = 2x + 5
+
+*Câu 6: Đạo hàm của hàm số y = x³ tại x = 2 bằng:*
+A. 8
+B. 12
+C. 6
+D. 3
+
+## III. NGÂN HÀNG CÂU HỎI MẪU
+
+### **Nhóm A: Định nghĩa và khái niệm (20%)**
+1. Cho biết ý nghĩa hình học của đạo hàm
+2. Xác định điều kiện tồn tại đạo hàm tại một điểm
+3. Nhận biết công thức định nghĩa đạo hàm
+
+### **Nhóm B: Công thức cơ bản (40%)**
+1. Tính đạo hàm của hàm số hằng
+2. Tính đạo hàm của x^n (n = 1,2,3,4,5)
+3. Tính đạo hàm của √x, 1/x
+4. Tính đạo hàm của hàm đa thức bậc 1, bậc 2
+
+### **Nhóm C: Quy tắc đơn giản (40%)**
+1. Áp dụng quy tắc tổng với 2 hàm số
+2. Áp dụng quy tắc tích đơn giản
+3. Tính đạo hàm tại một điểm cụ thể
+
+## IV. LƯU Ý KHI SINH ĐỀ
+
+### **Độ khó:**
+- Chỉ sử dụng hàm số đa thức bậc thấp (≤3)
+- Hệ số là các số nguyên đơn giản
+- Không kết hợp quá nhiều quy tắc trong 1 câu
+
+### **Đáp án nhiễu:**
+- Tạo đáp án sai từ lỗi thường gặp của học sinh
+- Đáp án đúng phải rõ ràng, không gây nhầm lẫn
+
+### **Thời gian:**
+- Mỗi câu học sinh có thể giải trong 1-2 phút
+- Không yêu cầu tính toán phức tạp
+
+Hướng dẫn này giúp tạo ra các câu hỏi phù hợp với mức độ nhận biết, đảm bảo học sinh có thể áp dụng trực tiếp kiến thức đã học mà không cần suy luận phức tạp.

@@ -1,0 +1,125 @@
+# HƯỚNG DẪN SINH ĐỀ MỨC NHẬN BIẾT
+## Chủ đề: Phương pháp tọa độ trong không gian - Lớp 12
+
+## I. CÁC KIẾN THỨC CƠ BẢN CẦN NHẮC LẠI
+
+### 1. Hệ tọa độ Oxyz trong không gian
+- Điểm M(x; y; z)
+- Vector $\vec{a} = (a_1; a_2; a_3)$
+
+### 2. Các công thức cơ bản về vector
+- $\vec{AB} = (x_B - x_A; y_B - y_A; z_B - z_A)$
+- $|\vec{a}| = \sqrt{a_1^2 + a_2^2 + a_3^2}$
+- $\vec{a} \cdot \vec{b} = a_1b_1 + a_2b_2 + a_3b_3$
+
+### 3. Khoảng cách giữa hai điểm
+- $AB = \sqrt{(x_B - x_A)^2 + (y_B - y_A)^2 + (z_B - z_A)^2}$
+
+### 4. Phương trình mặt phẳng
+- Dạng tổng quát: $ax + by + cz + d = 0$
+- Vector pháp tuyến: $\vec{n} = (a; b; c)$
+
+### 5. Phương trình đường thẳng
+- Dạng tham số: $\begin{cases} x = x_0 + at \\ y = y_0 + bt \\ z = z_0 + ct \end{cases}$
+- Vector chỉ phương: $\vec{u} = (a; b; c)$
+
+## II. CÁC DẠNG CÂU HỎI MỨC NHẬN BIẾT
+
+### Dạng 1: Nhận biết tọa độ điểm, vector
+
+**Mẫu câu hỏi:**
+1. **Cho biết** tọa độ vector $\vec{AB}$ với $A(1; 2; 3)$ và $B(4; 0; -1)$.
+   - A. $(3; -2; -4)$
+   - B. $(5; 2; 2)$
+   - C. $(-3; 2; 4)$
+   - D. $(4; 0; -1)$
+
+2. **Tính** độ dài vector $\vec{a} = (2; -1; 3)$.
+   - A. $\sqrt{14}$
+   - B. $\sqrt{6}$
+   - C. $4$
+   - D. $6$
+
+### Dạng 2: Tính khoảng cách
+
+**Mẫu câu hỏi:**
+3. **Tính** khoảng cách giữa hai điểm $A(1; 0; 2)$ và $B(3; 4; 2)$.
+   - A. $2\sqrt{5}$
+   - B. $4$
+   - C. $\sqrt{20}$
+   - D. $6$
+
+4. **Cho biết** khoảng cách từ gốc tọa độ $O$ đến điểm $M(3; 4; 0)$.
+   - A. $5$
+   - B. $7$
+   - C. $\sqrt{7}$
+   - D. $\sqrt{25}$
+
+### Dạng 3: Nhận biết phương trình mặt phẳng
+
+**Mẫu câu hỏi:**
+5. **Xác định** vector pháp tuyến của mặt phẳng $(P): 2x - 3y + z - 1 = 0$.
+   - A. $(2; -3; 1)$
+   - B. $(2; 3; 1)$
+   - C. $(-2; 3; -1)$
+   - D. $(1; -1; 0)$
+
+6. **Cho biết** mặt phẳng nào sau đây đi qua gốc tọa độ?
+   - A. $x + y + z + 1 = 0$
+   - B. $2x - y + 3z = 0$
+   - C. $x - 2y + z - 5 = 0$
+   - D. $3x + y - z + 2 = 0$
+
+### Dạng 4: Nhận biết phương trình đường thẳng
+
+**Mẫu câu hỏi:**
+7. **Xác định** vector chỉ phương của đường thẳng $d: \begin{cases} x = 1 + 2t \\ y = -1 + t \\ z = 3 - t \end{cases}$
+   - A. $(1; -1; 3)$
+   - B. $(2; 1; -1)$
+   - C. $(1; 2; 3)$
+   - D. $(2; -1; 1)$
+
+8. **Cho biết** điểm nào sau đây thuộc đường thẳng $d: \begin{cases} x = 2 + t \\ y = 1 - t \\ z = 3 + 2t \end{cases}$?
+   - A. $(2; 1; 3)$
+   - B. $(1; 2; 1)$
+   - C. $(0; 0; 0)$
+   - D. $(3; 0; 5)$
+
+### Dạng 5: Tích vô hướng và ứng dụng
+
+**Mẫu câu hỏi:**
+9. **Tính** tích vô hướng $\vec{a} \cdot \vec{b}$ với $\vec{a} = (1; 2; -1)$ và $\vec{b} = (2; 0; 3)$.
+   - A. $-1$
+   - B. $5$
+   - C. $1$
+   - D. $7$
+
+10. **Nhận biết** cặp vector nào sau đây vuông góc với nhau?
+    - A. $\vec{u} = (1; 2; 1)$ và $\vec{v} = (2; -1; 0)$
+    - B. $\vec{u} = (1; 1; 1)$ và $\vec{v} = (1; 1; 1)$
+    - C. $\vec{u} = (2; 0; 1)$ và $\vec{v} = (1; 3; 2)$
+    - D. $\vec{u} = (0; 1; 2)$ và $\vec{v} = (1; 0; 3)$
+
+## III. GỢI Ý THÊM CÁC DẠNG KHÁC
+
+### Dạng 6: Nhận biết vị trí tương đối
+- Hai đường thẳng song song, cắt nhau, chéo nhau
+- Đường thẳng và mặt phẳng song song, cắt nhau, nằm trong mặt phẳng
+
+### Dạng 7: Tọa độ trung điểm, trọng tâm
+- Trung điểm của đoạn thẳng
+- Trọng tâm tam giác
+
+## IV. LƯU Ý KHI SINH ĐỀ
+
+1. **Số liệu đơn giản**: Sử dụng các số nguyên nhỏ, dễ tính toán
+2. **Công thức trực tiếp**: Chỉ cần thay số vào công thức có sẵn
+3. **Đáp án rõ ràng**: Các phương án lựa chọn khác biệt rõ rệt
+4. **Thời gian giải**: Mỗi câu không quá 1-2 phút
+5. **Kiến thức cơ bản**: Tập trung vào các định nghĩa, công thức trong SGK
+
+**Tỷ lệ phân bố gợi ý:**
+- Tọa độ điểm, vector: 30%
+- Khoảng cách: 20%
+- Phương trình mặt phẳng: 25%
+- Phương trình đường thẳng: 25%

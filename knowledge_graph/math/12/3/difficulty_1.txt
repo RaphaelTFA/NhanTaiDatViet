@@ -1,0 +1,90 @@
+# HƯỚNG DẪN SINH ĐỀ MỨC ĐỘ NHẬN BIẾT
+## Chủ đề: Các số đặc trưng đo mức độ phân tán của mẫu số liệu ghép nhóm
+
+## I. KIẾN THỨC CẦN NHẮC LẠI
+
+### 1. Các khái niệm cơ bản:
+- **Khoảng biến thiên (R)**: R = x_max - x_min
+- **Khoảng tứ phân vị**: IQR = Q₃ - Q₁  
+- **Phương sai mẫu**: s² = (1/n)∑fᵢ(xᵢ - x̄)²
+- **Độ lệch chuẩn mẫu**: s = √s²
+- **Hệ số biến thiên**: CV = (s/x̄) × 100%
+
+### 2. Công thức tính nhanh phương sai:
+s² = (1/n)∑fᵢxᵢ² - x̄²
+
+## II. CÁC DẠNG CÂU HỎI MỨC NHẬN BIẾT
+
+### **Dạng 1: Nhận biết định nghĩa và khái niệm**
+
+**Câu hỏi mẫu:**
+- Cho biết công thức tính khoảng biến thiên của mẫu số liệu ghép nhóm.
+- Xác định đơn vị đo của độ lệch chuẩn khi biết đơn vị đo của số liệu gốc.
+- Nhận biết ý nghĩa của hệ số biến thiên trong thống kê.
+
+### **Dạng 2: Áp dụng trực tiếp công thức đơn giản**
+
+**Template câu hỏi:**
+```
+Cho bảng số liệu ghép nhóm:
+[Nhóm] | [a₁,b₁) | [a₂,b₂) | ... | [aₙ,bₙ)
+[Tần số] |   f₁   |   f₂   | ... |   fₙ
+
+Tính [một trong các đại lượng sau]:
+- Khoảng biến thiên
+- Phương sai (khi đã cho x̄)
+- Độ lệch chuẩn (khi đã cho s²)
+- Hệ số biến thiên (khi đã cho s và x̄)
+```
+
+### **Dạng 3: Câu hỏi trắc nghiệm nhận biết**
+
+**Mẫu câu hỏi:**
+1. Đơn vị đo của phương sai là gì khi số liệu có đơn vị là cm?
+   A. cm    B. cm²    C. cm³    D. Không có đơn vị
+
+2. Hệ số biến thiên được tính bằng công thức nào?
+   A. CV = s × x̄    B. CV = s/x̄    C. CV = (s/x̄) × 100%    D. CV = x̄/s
+
+## III. HƯỚNG DẪN TẠO ĐỀ CỤ THỂ
+
+### **Bước 1: Chuẩn bị dữ liệu**
+- Tạo bảng số liệu ghép nhóm đơn giản (3-5 nhóm)
+- Các khoảng cách đều nhau, số liệu dễ tính
+- Tần số là các số nguyên nhỏ (1-10)
+
+### **Bước 2: Thiết kế câu hỏi**
+- **30% câu hỏi lý thuyết**: Định nghĩa, công thức, ý nghĩa
+- **50% câu hỏi tính toán đơn giản**: Áp dụng trực tiếp 1 công thức
+- **20% câu hỏi nhận biết**: So sánh, phân loại đơn giản
+
+### **Bước 3: Cấu trúc đề**
+```
+Phần I: Trắc nghiệm (4-5 câu)
+- 2 câu về định nghĩa/công thức
+- 2-3 câu tính toán đơn giản
+
+Phần II: Tự luận (2-3 câu)
+- 1 câu tính khoảng biến thiên
+- 1 câu tính phương sai (cho sẵn trung bình)
+- 1 câu tính độ lệch chuẩn hoặc hệ số biến thiên
+```
+
+## IV. LƯU Ý QUAN TRỌNG
+
+### **Đảm bảo mức độ nhận biết:**
+- Chỉ cho 1 bước tính toán chính
+- Không yêu cầu tính nhiều đại lượng liên tiếp
+- Có thể cho sẵn một số kết quả trung gian
+- Sử dụng số liệu "đẹp", dễ tính
+
+### **Tránh:**
+- Yêu cầu so sánh độ phân tán giữa nhiều mẫu
+- Tính toán phức tạp với nhiều bước
+- Phân tích ý nghĩa sâu của kết quả
+- Vận dụng vào bài toán thực tế
+
+### **Tiêu chí đánh giá:**
+- Học sinh nhớ đúng công thức: 3-4 điểm
+- Áp dụng đúng công thức đơn giản: 5-6 điểm
+- Tính toán chính xác: 6 điểm

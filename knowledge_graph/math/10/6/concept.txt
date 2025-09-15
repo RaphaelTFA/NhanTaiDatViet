@@ -1,0 +1,92 @@
+# TÓM TẮT CHƯƠNG VI: HÀM SỐ, ĐỒ THỊ VÀ ỨNG DỤNG
+
+## I. ĐỊNH NGHĨA CƠ BẢN
+
+### 1. Hàm số
+- **Định nghĩa**: Hàm số f từ tập D ⊂ ℝ đến ℝ là một quy tắc đặt tương ứng mỗi số x ∈ D với một và chỉ một số y ∈ ℝ
+- **Ký hiệu**: y = f(x) hoặc f: D → ℝ
+- **Tập xác định**: D = {x ∈ ℝ | f(x) có nghĩa}
+- **Tập giá trị**: T = {f(x) | x ∈ D}
+
+### 2. Đồ thị hàm số
+- **Định nghĩa**: Đồ thị hàm số y = f(x) là tập hợp các điểm M(x; f(x)) trong mặt phẳng tọa độ Oxy với x ∈ D
+
+## II. TÍNH CHẤT CỦA HÀM SỐ
+
+### 1. Tính đồng biến và nghịch biến
+- **Hàm đồng biến** trên K: ∀x₁, x₂ ∈ K, x₁ < x₂ ⟹ f(x₁) < f(x₂)
+- **Hàm nghịch biến** trên K: ∀x₁, x₂ ∈ K, x₁ < x₂ ⟹ f(x₁) > f(x₂)
+
+### 2. Tính chẵn, lẻ
+- **Hàm chẵn**: f(-x) = f(x), ∀x ∈ D (đồ thị đối xứng qua Oy)
+- **Hàm lẻ**: f(-x) = -f(x), ∀x ∈ D (đồ thị đối xứng qua gốc O)
+
+### 3. Cực trị
+- **Cực đại tại x₀**: f(x₀) ≥ f(x) với mọi x trong lân cận của x₀
+- **Cực tiểu tại x₀**: f(x₀) ≤ f(x) với mọi x trong lân cận của x₀
+
+## III. CÁC HÀM SỐ CƠ BẢN
+
+### 1. Hàm số bậc nhất: y = ax + b (a ≠ 0)
+- **Tập xác định**: D = ℝ
+- **Tính chất**: 
+  - Đồng biến khi a > 0
+  - Nghịch biến khi a < 0
+- **Đồ thị**: Đường thẳng
+
+### 2. Hàm số bậc hai: y = ax² + bx + c (a ≠ 0)
+- **Tập xác định**: D = ℝ
+- **Đỉnh parabol**: I(-b/2a; -Δ/4a) với Δ = b² - 4ac
+- **Trục đối xứng**: x = -b/2a
+- **Tính chất**:
+  - Khi a > 0: hàm có cực tiểu, bề lõm quay lên
+  - Khi a < 0: hàm có cực đại, bề lõm quay xuống
+
+### 3. Hàm số y = ax + b/cx + d (c ≠ 0, ad - bc ≠ 0)
+- **Tập xác định**: D = ℝ \ {-d/c}
+- **Tiệm cận đứng**: x = -d/c
+- **Tiệm cận ngang**: y = a/c
+- **Tâm đối xứng**: I(-d/c; a/c)
+
+## IV. DẠNG BÀI TẬP CHÍNH
+
+### 1. Tìm tập xác định
+- Hàm phân thức: mẫu số ≠ 0
+- Hàm căn bậc chẵn: biểu thức dưới dấu căn ≥ 0
+- Hàm logarit: cơ số > 0, ≠ 1 và biểu thức trong log > 0
+
+### 2. Xét tính chẵn, lẻ
+- Kiểm tra tập xác định đối xứng qua gốc
+- Tính f(-x) và so sánh với f(x)
+
+### 3. Khảo sát tính đơn điệu
+- Chọn x₁ < x₂ trong khoảng xét
+- So sánh f(x₁) và f(x₂)
+- Hoặc sử dụng đạo hàm (lớp 11, 12)
+
+### 4. Vẽ đồ thị
+- Tìm tập xác định
+- Xét tính chất (chẵn, lẻ, đơn điệu)
+- Tìm giao điểm với trục tọa độ
+- Tìm tiệm cận (nếu có)
+- Lập bảng giá trị và vẽ đồ thị
+
+### 5. Ứng dụng
+- Giải phương trình bằng đồ thị
+- Giải bất phương trình bằng đồ thị
+- Tìm giá trị lớn nhất, nhỏ nhất
+- Bài toán thực tế
+
+## V. CÔNG THỨC QUAN TRỌNG
+
+### 1. Phép biến đổi đồ thị
+- Tịnh tiến: y = f(x - a) + b
+- Đối xứng qua Ox: y = -f(x)
+- Đối xứng qua Oy: y = f(-x)
+- Co giãn: y = af(bx)
+
+### 2. Hàm hợp
+- (f ∘ g)(x) = f(g(x))
+- Tập xác định: x ∈ Dg và g(x) ∈ Df
+
+Chương này là nền tảng quan trọng cho việc học các hàm số nâng cao ở lớp 11, 12 và giải tích đại học.

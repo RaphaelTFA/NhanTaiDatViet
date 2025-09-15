@@ -1,0 +1,132 @@
+# HƯỚNG DẪN SINH ĐỀ VẬN DỤNG CAO
+## Chủ đề: Vector và hệ trục tọa độ trong không gian (Lớp 12)
+
+## I. CẤU TRÚC VÀ TIÊU CHÍ SINH ĐỀ
+
+### 1. Yêu cầu về mức độ tư duy:
+- **Phân tích tổng hợp**: Kết hợp ít nhất 3-4 kiến thức khác nhau
+- **Suy luận logic**: Cần 4-6 bước giải có tính logic cao
+- **Vận dụng linh hoạt**: Không theo công thức cố định
+
+### 2. Cấu trúc câu hỏi chuẩn:
+```
+[Bối cảnh phức tạp] + [Điều kiện ràng buộc] + [Yêu cầu đa tầng]
+```
+
+## II. KHUNG KIẾN THỨC KẾT HỢP
+
+### Kiến thức chủ đạo (Vector - Tọa độ):
+- Tọa độ điểm, vector trong không gian
+- Tích vô hướng, tích có hướng
+- Phương trình mặt phẳng, đường thẳng
+- Khoảng cách, góc trong không gian
+
+### Kiến thức tích hợp:
+- Hình học không gian (12A)
+- Hàm số và phương trình (12A)
+- Bất đẳng thức và cực trị
+- Phép biến hình
+
+## III. DẠNG CÂU HỎI VÀ CÁCH SINH ĐỀ
+
+### **DẠNG 1: BÀI TOÁN TỐI ƯU HÓA TRONG KHÔNG GIAN**
+
+**Cấu trúc:**
+```
+Cho [hệ thống điểm/đường/mặt] + [điều kiện ràng buộc phức tạp]
+Tìm [giá trị cực trị] của [biểu thức chứa tọa độ]
+```
+
+**Ví dụ mẫu:**
+> Trong không gian Oxyz, cho mặt phẳng (P): x + 2y - z + 3 = 0 và đường thẳng d: (x-1)/2 = (y+1)/1 = z/(-1). Điểm M di động trên d, điểm N di động trên (P) sao cho MN ⊥ (P). Gọi H là hình chiếu vuông góc của O lên MN. Tìm giá trị nhỏ nhất của |OH|².
+
+**Hướng dẫn sinh đề:**
+1. **Chọn đối tượng cơ sở**: Mặt phẳng + đường thẳng (không song song, không vuông góc)
+2. **Thêm điều kiện**: Điểm di động + quan hệ vuông góc
+3. **Tạo đối tượng mới**: Hình chiếu, trung điểm, trọng tâm
+4. **Yêu cầu cực trị**: Khoảng cách, diện tích, thể tích
+
+### **DẠNG 2: BÀI TOÁN QUỸ TÍCH VÀ TẬP HỢP ĐIỂM**
+
+**Cấu trúc:**
+```
+Cho [hệ thống ban đầu] + [điểm di động theo quy luật]
+Chứng minh [quỹ tích] hoặc tìm [phương trình quỹ tích]
+```
+
+**Ví dụ mẫu:**
+> Cho tứ diện ABCD với A(1,0,0), B(0,1,0), C(0,0,1), D(a,b,c) với a+b+c=1. Gọi G là trọng tâm tứ diện ABCD. Khi D di động, chứng minh rằng quỹ tích điểm G nằm trên một mặt phẳng và tìm diện tích của hình chiếu vuông góc của tam giác ABC lên mặt phẳng đó.
+
+**Hướng dẫn sinh đề:**
+1. **Thiết lập hệ ban đầu**: Đa diện đặc biệt (tứ diện, hình hộp)
+2. **Tạo ràng buộc**: Phương trình liên hệ tọa độ
+3. **Định nghĩa điểm khảo sát**: Trọng tâm, tâm mặt cầu, điểm đặc biệt
+4. **Yêu cầu kép**: Quỹ tích + tính chất hình học
+
+### **DẠNG 3: BÀI TOÁN KẾT HỢP BIẾN HÌNH VÀ TỌA ĐỘ**
+
+**Cấu trúc:**
+```
+Cho [hình ban đầu] + [phép biến hình liên tiếp]
+Tìm [mối quan hệ] giữa [các yếu tố] qua biến hình
+```
+
+**Ví dụ mẫu:**
+> Trong không gian Oxyz, cho đường thẳng Δ: (x-1)/1 = y/2 = (z+1)/1 và điểm A(2,1,-1). Phép quay quanh trục Oz một góc 90° biến Δ thành Δ', phép đối xứng qua mặt phẳng (Oxy) biến A thành A'. Tìm tọa độ giao điểm của Δ' và mặt phẳng chứa A' song song với Δ.
+
+### **DẠNG 4: BÀI TOÁN CHỨNG MINH VÀ TÍNH TOÁN KẾT HỢP**
+
+**Cấu trúc:**
+```
+Cho [điều kiện phức tạp] 
+Chứng minh [mệnh đề] và tính [giá trị cụ thể]
+```
+
+**Ví dụ mẫu:**
+> Cho 4 điểm A, B, C, D trong không gian sao cho |AB| = |CD| = a, |AC| = |BD| = b, |AD| = |BC| = c. Chứng minh rằng ABCD là tứ diện gần đều và tính thể tích tứ diện ABCD theo a, b, c.
+
+## IV. QUY TRÌNH SINH ĐỀ CHI TIẾT
+
+### Bước 1: Xác định khung kiến thức
+- Chọn 1 kiến thức chủ đạo (vector/tọa độ)
+- Kết hợp 2-3 kiến thức phụ
+
+### Bước 2: Thiết kế bối cảnh
+- Tạo hệ thống đối tượng hình học
+- Đặt điều kiện ràng buộc không trivial
+- Đảm bảo tính khả thi của bài toán
+
+### Bước 3: Xây dựng yêu cầu
+- Yêu cầu chính: Phù hợp với chủ đề
+- Yêu cầu phụ: Tăng độ phức tạp
+- Kiểm tra: Độ khó phù hợp
+
+### Bước 4: Kiểm tra chất lượng
+- **Tính toán**: Số không quá phức tạp
+- **Logic**: Các bước giải liên kết chặt chẽ
+- **Độ phân loại**: Phân biệt được học sinh giỏi
+
+## V. CÁC LƯU Ý QUAN TRỌNG
+
+### ✅ NÊN LÀM:
+- Kết hợp nhiều phương pháp giải
+- Tạo bối cảnh thực tế, hấp dẫn
+- Yêu cầu chứng minh + tính toán
+- Sử dụng tham số để tăng độ khó
+
+### ❌ TRÁNH:
+- Chỉ áp dụng một công thức duy nhất
+- Tính toán quá phức tạp, số xấu
+- Bài toán không có tính phân loại
+- Vượt quá kiến thức chương trình
+
+## VI. THANG ĐÁNH GIÁ
+
+| Tiêu chí | Điểm |
+|----------|------|
+| Tính phù hợp với chủ đề | 25% |
+| Độ phức tạp tư duy | 25% |
+| Tính tích hợp kiến thức | 25% |
+| Tính phân loại học sinh | 25% |
+
+**Mức đạt chuẩn**: ≥ 80% tổng điểm

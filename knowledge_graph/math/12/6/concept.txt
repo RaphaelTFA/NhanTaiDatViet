@@ -1,0 +1,80 @@
+# TÓM TẮT CHƯƠNG 6: XÁC SUẤT CÓ ĐIỀU KIỆN
+
+## I. ĐỊNH NGHĨA VÀ CÔNG THỨC CƠ BẢN
+
+### 1. Xác suất có điều kiện
+**Định nghĩa:** Cho hai biến cố A và B với P(B) > 0. Xác suất có điều kiện của A khi biết B đã xảy ra được ký hiệu là P(A|B) và được tính theo công thức:
+
+$$P(A|B) = \frac{P(A \cap B)}{P(B)}$$
+
+### 2. Tính chất
+- $0 \leq P(A|B) \leq 1$
+- $P(\Omega|B) = 1$ (với $\Omega$ là không gian mẫu)
+- $P(\emptyset|B) = 0$
+
+## II. CÁC ĐỊNH LÝ QUAN TRỌNG
+
+### 1. Định lý nhân xác suất
+Nếu P(B) > 0 thì:
+$$P(A \cap B) = P(B) \cdot P(A|B)$$
+
+Mở rộng cho nhiều biến cố:
+$$P(A_1 \cap A_2 \cap ... \cap A_n) = P(A_1) \cdot P(A_2|A_1) \cdot P(A_3|A_1 \cap A_2) \cdot ... \cdot P(A_n|A_1 \cap A_2 \cap ... \cap A_{n-1})$$
+
+### 2. Công thức xác suất toàn phần
+Cho hệ đầy đủ các biến cố $B_1, B_2, ..., B_n$ (tức là các biến cố đôi một xung khắc và $B_1 \cup B_2 \cup ... \cup B_n = \Omega$). Khi đó:
+
+$$P(A) = \sum_{i=1}^{n} P(B_i) \cdot P(A|B_i)$$
+
+### 3. Công thức Bayes
+$$P(B_j|A) = \frac{P(B_j) \cdot P(A|B_j)}{\sum_{i=1}^{n} P(B_i) \cdot P(A|B_i)}$$
+
+### 4. Hai biến cố độc lập
+Hai biến cố A và B được gọi là độc lập nếu:
+$$P(A \cap B) = P(A) \cdot P(B)$$
+
+Khi đó: $P(A|B) = P(A)$ và $P(B|A) = P(B)$
+
+## III. CÁC DẠNG BÀI TẬP CHÍNH
+
+### Dạng 1: Tính xác suất có điều kiện trực tiếp
+- **Phương pháp:** Sử dụng công thức $P(A|B) = \frac{P(A \cap B)}{P(B)}$
+- **Bước giải:**
+  1. Xác định biến cố A và B
+  2. Tính P(B) và P(A ∩ B)
+  3. Áp dụng công thức
+
+### Dạng 2: Bài toán rút bi, thẻ có hoàn lại/không hoàn lại
+- **Phương pháp:** Sử dụng định lý nhân xác suất
+- **Bước giải:**
+  1. Xác định các biến cố theo thứ tự
+  2. Tính xác suất từng bước
+  3. Nhân các xác suất
+
+### Dạng 3: Ứng dụng công thức xác suất toàn phần
+- **Phương pháp:** Phân tích theo các trường hợp đầy đủ
+- **Bước giải:**
+  1. Xác định hệ đầy đủ các biến cố
+  2. Tính xác suất của từng biến cố trong hệ
+  3. Tính xác suất có điều kiện
+  4. Áp dụng công thức xác suất toàn phần
+
+### Dạng 4: Ứng dụng công thức Bayes
+- **Phương pháp:** Tính xác suất ngược
+- **Bước giải:**
+  1. Xác định các biến cố và điều kiện
+  2. Áp dụng công thức Bayes
+  3. Tính toán và kết luận
+
+### Dạng 5: Kiểm tra tính độc lập của hai biến cố
+- **Phương pháp:** Kiểm tra điều kiện $P(A \cap B) = P(A) \cdot P(B)$
+- **Bước giải:**
+  1. Tính P(A), P(B), và P(A ∩ B)
+  2. So sánh P(A ∩ B) với P(A).P(B)
+  3. Kết luận
+
+## IV. LƯU Ý QUAN TRỌNG
+- Phân biệt rõ P(A|B) và P(B|A)
+- Chú ý điều kiện P(B) > 0 khi tính P(A|B)
+- Xác định chính xác không gian mẫu và các biến cố liên quan
+- Vẽ sơ đồ cây xác suất để dễ hình dung bài toán

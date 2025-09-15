@@ -1,0 +1,120 @@
+# HƯỚNG DẪN SINH ĐỀ: HỆ THỨC LƯỢNG TRONG TAM GIÁC - MỨC THÔNG HIỂU
+
+## I. KHUNG KIẾN THỨC CẦN ĐÁNH GIÁ
+
+### 1. Các công thức cơ bản:
+- Định lý cosin: a² = b² + c² - 2bc.cosA
+- Định lý sin: a/sinA = b/sinB = c/sinC = 2R
+- Công thức tính diện tích: S = (1/2)bc.sinA = (1/2)ac.sinB = (1/2)ab.sinC
+
+### 2. Các hệ quả quan trọng:
+- Công thức tính bán kính đường tròn ngoại tiếp: R = abc/(4S)
+- Công thức tính bán kính đường tròn nội tiếp: r = S/p (p là nửa chu vi)
+- Công thức Heron: S = √[p(p-a)(p-b)(p-c)]
+
+## II. CÁC DẠNG BÀI TẬP MỨC THÔNG HIỂU
+
+### DẠNG 1: Áp dụng trực tiếp định lý cosin/sin
+
+**Cấu trúc đề:**
+- Cho tam giác ABC với 2-3 yếu tố (cạnh, góc)
+- Yêu cầu tính 1-2 yếu tố còn lại
+
+**Ví dụ mẫu:**
+*Cho tam giác ABC có a = 5, b = 7, C = 60°. Tính cạnh c và góc A.*
+
+**Hướng dẫn sinh đề:**
+- Cho 2 cạnh và 1 góc xen giữa → tính cạnh đối diện và góc khác
+- Cho 2 cạnh và 1 góc không xen giữa → tính cạnh còn lại
+- Cho 1 cạnh và 2 góc → tính các cạnh còn lại
+
+### DẠNG 2: Tính diện tích tam giác
+
+**Cấu trúc đề:**
+- Cho các yếu tố của tam giác
+- Yêu cầu tính diện tích bằng nhiều cách khác nhau
+
+**Ví dụ mẫu:**
+*Cho tam giác ABC có a = 6, b = 8, c = 10. Tính diện tích tam giác theo công thức Heron và kiểm tra bằng công thức khác.*
+
+**Hướng dẫn sinh đề:**
+- Cho 3 cạnh → dùng công thức Heron
+- Cho 2 cạnh và góc xen giữa → dùng S = (1/2)ab.sinC
+- Cho đủ yếu tố → so sánh kết quả bằng nhiều công thức
+
+### DẠNG 3: Tính bán kính đường tròn nội tiếp, ngoại tiếp
+
+**Cấu trúc đề:**
+- Cho tam giác với các yếu tố cụ thể
+- Yêu cầu tính R hoặc r
+
+**Ví dụ mẫu:**
+*Cho tam giác ABC có a = 3, b = 4, c = 5. Tính bán kính đường tròn ngoại tiếp R và nội tiếp r.*
+
+### DẠNG 4: Phân tích mối liên hệ giữa các yếu tố
+
+**Cấu trúc đề:**
+- So sánh các công thức
+- Chứng minh đẳng thức đơn giản
+- Nhận biết dạng tam giác
+
+**Ví dụ mẫu:**
+*Cho tam giác ABC. Chứng minh rằng nếu a² + b² = c² thì tam giác vuông tại C.*
+
+## III. TEMPLATE SINH ĐỀ CHO TỪNG DẠNG
+
+### Template 1: Áp dụng định lý cosin
+```
+Cho tam giác ABC có [2 cạnh] và [1 góc xen giữa/không xen giữa].
+a) Tính [cạnh còn lại]
+b) Tính [góc còn lại]
+c) Tính diện tích tam giác
+```
+
+### Template 2: Tính toán tổng hợp
+```
+Cho tam giác ABC có [3 yếu tố bất kỳ].
+a) Tính [các yếu tố còn lại]
+b) Tính diện tích tam giác
+c) Tính bán kính đường tròn ngoại tiếp R
+d) So sánh kết quả bằng công thức khác
+```
+
+### Template 3: Bài toán thực tế
+```
+[Mô tả tình huống thực tế liên quan đến đo đạc, xây dựng]
+Biết [các số liệu cụ thể]
+a) Tính [yếu tố cần tìm]
+b) Giải thích ý nghĩa kết quả
+```
+
+## IV. CÁC LƯU Ý KHI SINH ĐỀ
+
+### 1. Về số liệu:
+- Sử dụng số đẹp để tính toán không quá phức tạp
+- Kết hợp số nguyên và số thập phân đơn giản
+- Góc thường là 30°, 45°, 60°, 90°, 120° hoặc có sin, cos đẹp
+
+### 2. Về cấu trúc câu hỏi:
+- Câu a): Áp dụng trực tiếp công thức
+- Câu b): Tính toán bổ sung hoặc kiểm tra
+- Câu c): Mở rộng hoặc so sánh
+
+### 3. Về mức độ:
+- Không quá 2 bước tính toán
+- Tập trung vào việc chọn đúng công thức
+- Có thể yêu cầu giải thích cách chọn công thức
+
+## V. VÍ DỤ ĐỀ HOÀN CHỈNH
+
+**Câu 1:** Cho tam giác ABC có b = 6, c = 8, A = 60°.
+a) Tính cạnh a và diện tích tam giác ABC.
+b) Tính bán kính đường tròn ngoại tiếp R.
+c) Giải thích tại sao có thể áp dụng định lý cosin trong trường hợp này.
+
+**Câu 2:** Cho tam giác ABC có a = 5, b = 12, c = 13.
+a) Chứng tỏ tam giác ABC vuông và xác định góc vuông.
+b) Tính diện tích tam giác bằng hai cách khác nhau.
+c) So sánh bán kính đường tròn nội tiếp và ngoại tiếp.
+
+Hướng dẫn này giúp tạo ra các bài tập ở mức Thông hiểu, yêu cầu học sinh vận dụng công thức một cách có ý thức và hiểu được mối liên hệ giữa các khái niệm.

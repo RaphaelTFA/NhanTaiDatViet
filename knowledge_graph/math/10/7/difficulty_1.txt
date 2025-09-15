@@ -1,0 +1,98 @@
+# HƯỚNG DẪN SINH ĐỀ MỨC NHẬN BIẾT
+**Chủ đề: Phương pháp tọa độ trong mặt phẳng - Lớp 10**
+
+## I. KIẾN THỨC CẦN NHẮC LẠI
+
+### 1. Hệ trục tọa độ Oxy
+- Điểm M có tọa độ (x; y) với x là hoành độ, y là tung độ
+- Các điểm đặc biệt: O(0;0), A(a;0), B(0;b)
+
+### 2. Công thức cơ bản
+**a) Khoảng cách giữa hai điểm:**
+- A(x₁; y₁), B(x₂; y₂): AB = √[(x₂-x₁)² + (y₂-y₁)²]
+
+**b) Tọa độ trung điểm:**
+- M là trung điểm AB: M((x₁+x₂)/2; (y₁+y₂)/2)
+
+**c) Tọa độ véc tơ:**
+- A(x₁; y₁), B(x₂; y₂): AB⃗ = (x₂-x₁; y₂-y₁)
+
+**d) Độ dài véc tơ:**
+- u⃗ = (a; b): |u⃗| = √(a² + b²)
+
+## II. CÁC DẠNG CÂU HỎI MỨC NHẬN BIẾT
+
+### Dạng 1: Xác định tọa độ điểm, véc tơ
+
+**Mẫu câu hỏi:**
+1. Cho A(2; 3), B(-1; 5). Tọa độ véc tơ AB⃗ là:
+   A. (3; -2)  B. (-3; 2)  C. (1; 8)  D. (-1; 2)
+
+2. Điểm M có hoành độ bằng 4, tung độ bằng -2. Tọa độ điểm M là:
+   A. (4; -2)  B. (-2; 4)  C. (4; 2)  D. (-4; 2)
+
+### Dạng 2: Tính khoảng cách giữa hai điểm
+
+**Mẫu câu hỏi:**
+1. Cho A(1; 2), B(4; 6). Khoảng cách AB bằng:
+   A. 3  B. 4  C. 5  D. 6
+
+2. Tính khoảng cách từ điểm M(3; 0) đến gốc tọa độ O:
+   A. 0  B. 3  C. 9  D. √3
+
+### Dạng 3: Tìm tọa độ trung điểm
+
+**Mẫu câu hỏi:**
+1. Cho A(2; 4), B(6; 8). Tọa độ trung điểm I của đoạn AB là:
+   A. (4; 6)  B. (8; 12)  C. (2; 2)  D. (4; 4)
+
+2. Trung điểm của đoạn thẳng nối O(0; 0) và M(4; -2) có tọa độ là:
+   A. (2; -1)  B. (4; -2)  C. (0; 0)  D. (2; 1)
+
+### Dạng 4: Tính độ dài véc tơ
+
+**Mẫu câu hỏi:**
+1. Cho véc tơ u⃗ = (3; 4). Độ dài véc tơ u⃗ bằng:
+   A. 7  B. 5  C. 12  D. 25
+
+2. Véc tơ v⃗ = (-5; 0) có độ dài bằng:
+   A. -5  B. 0  C. 5  D. 25
+
+### Dạng 5: Nhận biết các khái niệm cơ bản
+
+**Mẫu câu hỏi:**
+1. Trong hệ trục tọa độ Oxy, điểm A(3; -2) nằm ở góc phần tư:
+   A. Thứ I  B. Thứ II  C. Thứ III  D. Thứ IV
+
+2. Cho biết điểm nào sau đây nằm trên trục hoành:
+   A. M(0; 5)  B. N(3; 0)  C. P(2; 3)  D. Q(-1; 2)
+
+## III. HƯỚNG DẪN SINH ĐỀ CHI TIẾT
+
+### 1. Cấu trúc đề thi (10 câu)
+- **Câu 1-3:** Tọa độ điểm, véc tơ (3 câu)
+- **Câu 4-5:** Khoảng cách giữa hai điểm (2 câu)
+- **Câu 6-7:** Tọa độ trung điểm (2 câu)
+- **Câu 8-9:** Độ dài véc tơ (2 câu)
+- **Câu 10:** Nhận biết khái niệm (1 câu)
+
+### 2. Ngân hàng số liệu đơn giản
+**Tọa độ các điểm thường dùng:**
+- A(1; 2), B(3; 4), C(-1; 2), D(0; 3)
+- M(2; 0), N(0; -2), P(-3; -1), Q(4; -2)
+
+**Véc tơ đơn giản:**
+- u⃗ = (3; 4), v⃗ = (5; 0), w⃗ = (0; -3)
+- a⃗ = (1; 1), b⃗ = (-2; 1), c⃗ = (6; 8)
+
+### 3. Lưu ý khi ra đề
+- Sử dụng số nguyên, tránh phân số phức tạp
+- Kết quả cuối cùng nên là số nguyên hoặc căn thức đơn giản
+- Các phương án nhiễu rõ ràng, dễ phân biệt
+- Kiểm tra tính chính xác của đáp án trước khi đưa vào đề
+
+### 4. Tiêu chí đánh giá
+- Học sinh cần nhớ chính xác công thức
+- Thực hiện đúng phép tính cơ bản
+- Không yêu cầu tư duy phân tích cao
+- Thời gian làm bài: 1-2 phút/câu

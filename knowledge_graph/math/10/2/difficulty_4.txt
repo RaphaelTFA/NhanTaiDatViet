@@ -1,0 +1,161 @@
+# HƯỚNG DẪN SINH ĐỀ VẬN DỤNG CAO
+## Chủ đề: Bất phương trình và hệ bất phương trình bậc nhất hai ẩn
+
+### I. PHÂN TÍCH YÊU CẦU VẬN DỤNG CAO
+
+**Kiến thức cốt lõi cần làm chủ đạo:**
+- Bất phương trình bậc nhất hai ẩn và miền nghiệm
+- Hệ bất phương trình bậc nhất hai ẩn
+- Tìm giá trị lớn nhất, nhỏ nhất của biểu thức tuyến tính trên miền nghiệm
+
+**Kiến thức liên quan cần tích hợp:**
+- Hàm số bậc nhất và đồ thị
+- Phương trình đường thẳng
+- Khoảng cách từ điểm đến đường thẳng
+- Hình học tọa độ (tam giác, tứ giác)
+- Bất đẳng thức
+- Phương trình tham số
+
+### II. DẠNG CÂU HỎI VÀ HƯỚNG DẪN SINH ĐỀ
+
+#### **DẠNG 1: Tối ưu hóa có điều kiện phức tạp**
+
+**Cấu trúc đề:**
+```
+Cho hệ bất phương trình phức tạp tạo thành miền đa giác.
+Yêu cầu: Tìm GTLN/GTNN của biểu thức có chứa tham số hoặc dạng phân thức.
+```
+
+**Ví dụ mẫu:**
+> Cho hệ bất phương trình: 
+> $$\begin{cases}
+> x + 2y \leq 6 \\
+> 2x + y \leq 6 \\
+> x - y \geq -1 \\
+> x \geq 0, y \geq 0
+> \end{cases}$$
+> 
+> a) Xác định tọa độ các đỉnh của miền nghiệm.
+> 
+> b) Tìm giá trị lớn nhất và nhỏ nhất của $P = \frac{x + 3y + 1}{x + y + 2}$ trên miền nghiệm.
+> 
+> c) Với giá trị nào của tham số $m$ thì phương trình $mx + (m-1)y = 2m + 1$ có nghiệm thuộc miền nghiệm?
+
+**Hướng dẫn sinh đề tương tự:**
+- Chọn hệ bất phương trình tạo đa giác lồi 4-6 đỉnh
+- Biểu thức cần tối ưu dạng phân thức hoặc chứa căn thức
+- Thêm yêu cầu về tham số hoặc điều kiện hình học
+
+#### **DẠNG 2: Tích hợp hình học tọa độ**
+
+**Cấu trúc đề:**
+```
+Miền nghiệm tạo thành hình học đặc biệt (tam giác, hình thang...).
+Yêu cầu: Tính diện tích, chu vi hoặc các yếu tố hình học khác.
+```
+
+**Ví dụ mẫu:**
+> Trong mặt phẳng tọa độ, xét miền $D$ được xác định bởi:
+> $$\begin{cases}
+> x + y \leq 4 \\
+> x - 2y \geq -2 \\
+> 2x + y \geq 2 \\
+> y \geq 0
+> \end{cases}$$
+> 
+> a) Chứng minh rằng $D$ là một tứ giác lồi và tính diện tích của nó.
+> 
+> b) Tìm điểm $M(x;y) \in D$ sao cho khoảng cách từ $M$ đến đường thẳng $3x + 4y - 12 = 0$ là lớn nhất.
+> 
+> c) Xác định điểm $N(x;y) \in D$ sao cho $x^2 + y^2$ đạt giá trị nhỏ nhất.
+
+#### **DẠNG 3: Bài toán thực tế phức tạp**
+
+**Cấu trúc đề:**
+```
+Mô hình hóa bài toán kinh tế, sản xuất với nhiều ràng buộc.
+Yêu cầu: Giải quyết nhiều câu hỏi liên quan đến tối ưu.
+```
+
+**Ví dụ mẫu:**
+> Một xưởng sản xuất hai loại sản phẩm A và B. Gọi $x$, $y$ lần lượt là số sản phẩm A và B được sản xuất (đơn vị: trăm sản phẩm). Các ràng buộc:
+> - Nguyên liệu: $2x + y \leq 8$
+> - Thời gian: $x + 2y \leq 10$  
+> - Lao động: $x + y \geq 2$
+> - $x \geq 0, y \geq 0$
+> 
+> a) Xác định miền sản xuất khả thi.
+> 
+> b) Lợi nhuận từ A là $3$ triệu/trăm sản phẩm, từ B là $2$ triệu/trăm sản phẩm. Tìm phương án sản xuất để lợi nhuận cao nhất.
+> 
+> c) Do biến động thị trường, lợi nhuận từ B thay đổi thành $a$ triệu/trăm sản phẩm. Tìm $a$ để phương án tối ưu không thay đổi.
+> 
+> d) Chi phí vận chuyển tỷ lệ với $(x-2)^2 + (y-1)^2$. Tìm phương án để chi phí vận chuyển nhỏ nhất.
+
+#### **DẠNG 4: Tham số và điều kiện tồn tại nghiệm**
+
+**Cấu trúc đề:**
+```
+Hệ bất phương trình chứa tham số.
+Yêu cầu: Tìm điều kiện tham số để hệ có nghiệm/vô nghiệm.
+```
+
+**Ví dụ mẫu:**
+> Cho hệ bất phương trình với tham số $m$:
+> $$\begin{cases}
+> x + y \leq 3 \\
+> x - y \geq -1 \\
+> mx + y \leq 2m + 1 \\
+> x \geq 0, y \geq 0
+> \end{cases}$$
+> 
+> a) Với $m = 1$, tìm GTLN của $P = 2x + y$ trên miền nghiệm.
+> 
+> b) Tìm các giá trị của $m$ để hệ có nghiệm.
+> 
+> c) Tìm $m$ để GTLN của $P = x + 2y$ trên miền nghiệm bằng $6$.
+> 
+> d) Với giá trị nào của $m$ thì đường thẳng $mx + y = 2m + 1$ tiếp xúc với miền nghiệm tại đúng một điểm?
+
+### III. NGUYÊN TẮC SINH ĐỀ VẬN DỤNG CAO
+
+#### **1. Về cấu trúc câu hỏi:**
+- **Câu a:** Xác định miền nghiệm, tìm tọa độ đỉnh
+- **Câu b:** Bài toán tối ưu cơ bản
+- **Câu c:** Tích hợp kiến thức khác (hình học, tham số)
+- **Câu d:** Mở rộng hoặc tổng quát hóa vấn đề
+
+#### **2. Về độ phức tạp:**
+- Hệ có ít nhất 4-5 bất phương trình
+- Miền nghiệm là đa giác có 4-6 đỉnh
+- Hàm mục tiêu không đơn giản (phân thức, chứa căn, tích)
+- Tích hợp ít nhất 2-3 chủ đề khác
+
+#### **3. Về kỹ năng cần thiết:**
+- Vẽ đồ thị chính xác
+- Tính toán tọa độ giao điểm
+- Phân tích đạo hàm có hướng
+- Sử dụng phương pháp hình học (khoảng cách, góc)
+- Biện luận theo tham số
+
+### IV. TIÊU CHÍ ĐÁNH GIÁ ĐỀ VẬN DỤNG CAO
+
+#### **Tiêu chí BẮT BUỘC:**
+✅ Chủ đề bất phương trình hai ẩn là trọng tâm  
+✅ Tích hợp kiến thức từ 2-3 chủ đề khác  
+✅ Yêu cầu suy luận logic cao  
+✅ Có ít nhất 3-4 câu hỏi con với độ khó tăng dần  
+✅ Không thể giải bằng cách áp dụng máy móc công thức  
+
+#### **Tiêu chí NÂNG CAO:**
+⭐ Có yếu tố sáng tạo, tình huống mới  
+⭐ Kết nối với thực tế một cách tự nhiên  
+⭐ Yêu cầu nhiều phương pháp giải quyết  
+⭐ Có thể mở rộng thành các bài toán khác  
+
+### V. LƯU Ý KHI SINH ĐỀ
+
+1. **Đảm bảo tính khả thi:** Hệ phải có nghiệm, miền nghiệm không rỗng
+2. **Kiểm tra độ chính xác:** Tọa độ các đỉnh là số hữu tỷ đơn giản
+3. **Cân bằng độ khó:** Từ dễ đến khó, từ quen thuộc đến sáng tạo
+4. **Đáp án rõ ràng:** Kết quả cuối phải đẹp, dễ kiểm tra

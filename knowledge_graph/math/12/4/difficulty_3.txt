@@ -1,0 +1,114 @@
+# HƯỚNG DẪN SINH ĐỀ NGUYÊN HÀM - TÍCH PHÂN MỨC VẬN DỤNG
+
+## I. KHUNG CẤU TRÚC ĐỀ
+
+### 1. Phân bố nội dung chính:
+- **40%** Ứng dụng tích phân tính diện tích, thể tích
+- **30%** Bài toán thực tế (vật lý, kinh tế, sinh học)
+- **20%** Tích phân kết hợp với hàm số, phương trình
+- **10%** Nguyên hàm với điều kiện phức tạp
+
+### 2. Mức độ khó:
+- **60%** câu khó vừa (cần 2-3 bước giải)
+- **40%** câu khó (cần phân tích sâu, kết hợp nhiều kiến thức)
+
+## II. CÁC DẠNG BÀI ĐIỂN HÌNH
+
+### DẠNG 1: ỨNG DỤNG THỰC TẾ - VẬT LÝ
+
+**Cấu trúc:**
+- Cho công thức vận tốc v(t) hoặc gia tốc a(t)
+- Yêu cầu tính quãng đường, vận tốc tại thời điểm cụ thể
+- Kết hợp với điều kiện ban đầu thực tế
+
+**Ví dụ mẫu:**
+*Một ô tô chuyển động thẳng có vận tốc v(t) = 3t² - 12t + 15 (m/s) với t ≥ 0 (giây). Biết tại t = 0, ô tô ở vị trí s₀ = 10m. Tính quãng đường ô tô đi được từ giây thứ 1 đến giây thứ 4.*
+
+**Hướng dẫn sinh đề:**
+1. Chọn hàm vận tốc dạng bậc 2 hoặc 3: v(t) = at² + bt + c
+2. Cho điều kiện ban đầu cụ thể (vị trí, vận tốc)
+3. Yêu cầu tính quãng đường trong khoảng thời gian [a,b]
+4. Có thể hỏi thêm: thời điểm vận tốc cực đại/cực tiểu
+
+### DẠNG 2: KINH TẾ - TỐC ĐỘ TĂNG TRƯỞNG
+
+**Cấu trúc:**
+- Cho tốc độ tăng trưởng dân số/doanh thu r(t)
+- Yêu cầu tính tổng tăng trưởng trong khoảng thời gian
+- Kết hợp với dữ liệu thực tế
+
+**Ví dụ mẫu:**
+*Tốc độ tăng trưởng dân số của một thành phố được mô tả bởi r(t) = 0.02t² + 0.5t + 2 (nghìn người/năm), với t là số năm kể từ năm 2020. Biết dân số năm 2020 là 500 nghìn người. Tính dân số của thành phố vào năm 2025.*
+
+**Hướng dẫn sinh đề:**
+1. Chọn hàm tốc độ tăng trưởng dạng đa thức bậc 2
+2. Cho dữ liệu ban đầu thực tế (dân số, doanh thu...)
+3. Yêu cầu tính giá trị tại thời điểm tương lai cụ thể
+4. Có thể hỏi thêm: thời điểm tốc độ tăng trưởng cao nhất
+
+### DẠNG 3: DIỆN TÍCH - KẾT HỢP HÌNH HỌC
+
+**Cấu trúc:**
+- Cho 2-3 đường cong y = f(x), y = g(x)
+- Yêu cầu tính diện tích hình phẳng giới hạn
+- Kết hợp với điều kiện thực tế (thiết kế, kiến trúc)
+
+**Ví dụ mẫu:**
+*Một công viên có hình dạng được giới hạn bởi các đường y = x² - 4x + 5, y = -x + 5 và các đường thẳng x = 1, x = 3. Biết đơn vị trên hệ trục tọa độ tương ứng với 10m trong thực tế. Tính diện tích thực của công viên.*
+
+**Hướng dẫn sinh đề:**
+1. Chọn hàm bậc 2 và đường thẳng có giao điểm rõ ràng
+2. Cho tỷ lệ thực tế cụ thể (1 đơn vị = x mét)
+3. Yêu cầu tính diện tích thực tế
+4. Có thể hỏi thêm: chi phí cỏ, sơn...
+
+### DẠNG 4: THỂ TÍCH - QUAY HÌNH
+
+**Cấu trúc:**
+- Cho hình phẳng quay quanh trục Ox hoặc Oy
+- Kết hợp với ứng dụng thực tế (thiết kế bình, lọ...)
+
+**Ví dụ mẫu:**
+*Một chiếc bình có dạng được tạo bởi khi quay đường cong y = √(4-x²) với -2 ≤ x ≤ 2 quanh trục Ox. Biết đơn vị là dm. Tính thể tích nước tối đa mà bình có thể chứa (tính theo lít).*
+
+### DẠNG 5: KẾT HỢP VỚI HÀM SỐ
+
+**Cấu trúc:**
+- Cho hàm số có chứa tham số
+- Sử dụng tích phân để tìm điều kiện của tham số
+- Kết hợp với điều kiện thực tế
+
+**Ví dụ mẫu:**
+*Hàm số f(x) = ax³ + bx² + cx + d mô tả độ cao của một cây cầu tại vị trí x (tính bằng mét). Biết rằng ∫₀¹⁰ f(x)dx = 500 và các điều kiện khác. Tìm a để diện tích mặt cầu là nhỏ nhất.*
+
+## III. NGUYÊN TẮC SINH ĐỀ
+
+### 1. Về số liệu:
+- Sử dụng số nguyên, số thập phân đơn giản
+- Kết quả cuối không quá 4 chữ số
+- Đơn vị đo lường thực tế (m, kg, lít, người...)
+
+### 2. Về ngôn ngữ:
+- Ngữ cảnh thực tế quen thuộc (giao thông, xây dựng, kinh tế...)
+- Câu hỏi rõ ràng, không gây nhầm lẫn
+- Có thể chia nhỏ thành các câu con
+
+### 3. Về độ khó:
+- Cần 2-3 bước tính toán chính
+- Kết hợp tối đa 2 chủ đề khác (hàm số, phương trình...)
+- Đòi hỏi phân tích tình huống trước khi áp dụng công thức
+
+### 4. Về đáp án:
+- Cung cấp đáp án chi tiết từng bước
+- Ghi chú những sai lầm thường gặp
+- Đề xuất cách kiểm tra kết quả
+
+## IV. CHECKLIST ĐÁNH GIÁ ĐỀ
+
+- [ ] Có ngữ cảnh thực tế rõ ràng
+- [ ] Cần ít nhất 2 bước giải chính
+- [ ] Số liệu hợp lý, không quá phức tạp
+- [ ] Kết quả có ý nghĩa thực tế
+- [ ] Phù hợp với học sinh giỏi (9 điểm)
+- [ ] Có thể kiểm tra lại kết quả
+- [ ] Thời gian giải ước tính 8-12 phút/câu

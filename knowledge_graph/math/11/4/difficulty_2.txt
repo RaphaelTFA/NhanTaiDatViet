@@ -1,0 +1,97 @@
+# HƯỚNG DẪN SINH ĐỀ - QUAN HỆ SONG SONG TRONG KHÔNG GIAN (MỨC THÔNG HIỂU)
+
+## I. KHUNG KIẾN THỨC CẦN ĐÁNH GIÁ
+
+### 1. Hai đường thẳng song song
+- Định nghĩa và điều kiện để hai đường thẳng song song
+- Tính chất bắc cầu của quan hệ song song
+- Định lý về đường thẳng song song với mặt phẳng
+
+### 2. Đường thẳng song song với mặt phẳng
+- Điều kiện để đường thẳng song song với mặt phẳng
+- Tính chất của đường thẳng song song với mặt phẳng
+- Quan hệ giữa hai đường thẳng song song cùng với một mặt phẳng
+
+### 3. Hai mặt phẳng song song
+- Điều kiện để hai mặt phẳng song song
+- Tính chất của hai mặt phẳng song song
+- Định lý về mặt phẳng cắt hai mặt phẳng song song
+
+## II. CÁC DẠNG CÂU HỎI THÔNG HIỂU
+
+### DẠNG 1: NHẬN BIẾT VÀ GIẢI THÍCH QUAN HỆ SONG SONG
+
+**Mẫu câu hỏi:**
+1. Cho tứ diện ABCD. Gọi M, N lần lượt là trung điểm của AB và CD. Giải thích tại sao đường thẳng MN song song với mặt phẳng (ACD) hoặc cắt mặt phẳng này.
+
+2. Trong hình hộp ABCD.A'B'C'D', hãy giải thích vì sao đường thẳng AB song song với mặt phẳng (A'C'D').
+
+**Hướng dẫn sinh đề:**
+- Cho hình không gian cụ thể (tứ diện, hình chóp, hình hộp)
+- Yêu cầu giải thích quan hệ song song dựa trên định nghĩa và tính chất
+- Học sinh cần nêu rõ căn cứ lý thuyết
+
+### DẠNG 2: SO SÁNH VÀ PHÂN LOẠI QUAN HỆ
+
+**Mẫu câu hỏi:**
+1. Cho hình chóp S.ABCD có đáy ABCD là hình bình hành. So sánh vị trí tương đối của các cặp đường thẳng: (SA, BC), (SB, CD), (SC, AD).
+
+2. Phân loại các mệnh đề sau thành đúng hoặc sai và giải thích:
+   - Nếu a // b và b // (P) thì a // (P)
+   - Nếu a // (P) và b // (P) thì a // b
+   - Nếu (P) // (Q) và a ⊂ (P) thì a // (Q)
+
+**Hướng dẫn sinh đề:**
+- Đưa ra nhiều trường hợp để học sinh phân tích
+- Yêu cầu so sánh, đối chiếu các tình huống
+- Kiểm tra khả năng phân biệt các trường hợp đặc biệt
+
+### DẠNG 3: ÁP DỤNG TÍNH CHẤT VÀ ĐỊNH LÝ
+
+**Mẫu câu hỏi:**
+1. Cho hình chóp S.ABCD có đáy là hình thang với AB // CD. Mặt phẳng (α) song song với (ABCD) cắt SA, SB, SC, SD tại A', B', C', D'. Chứng minh A'B'C'D' là hình thang.
+
+2. Cho hai mặt phẳng song song (P) và (Q). Đường thẳng d cắt (P) tại A và cắt (Q) tại B. Đường thẳng d' cắt (P) tại C và cắt (Q) tại D. Chứng minh ABDC là hình thang.
+
+**Hướng dẫn sinh đề:**
+- Thiết lập tình huống có sẵn quan hệ song song
+- Yêu cầu áp dụng tính chất để suy ra kết quả mới
+- 1-2 bước suy luận logic
+
+### DẠNG 4: TÌM ĐIỀU KIỆN VÀ CHỨNG MINH
+
+**Mẫu câu hỏi:**
+1. Cho tứ diện ABCD. Trên AB, AC lấy điểm M, N sao cho AM/AB = AN/AC = k. Tìm k để MN song song với mặt phẳng (BCD).
+
+2. Cho hình hộp ABCD.A'B'C'D'. Gọi O là tâm của ABCD, O' là tâm của A'B'C'D'. Chứng minh OO' song song với AA'.
+
+**Hướng dẫn sinh đề:**
+- Cho điều kiện ban đầu, yêu cầu tìm thêm điều kiện
+- Hoặc cho đủ điều kiện, yêu cầu chứng minh kết luận
+- Sử dụng trực tiếp định nghĩa và tính chất cơ bản
+
+## III. TIÊU CHÍ ĐÁNH GIÁ MỨC THÔNG HIỂU
+
+### Về kiến thức:
+- Hiểu rõ định nghĩa, điều kiện của các quan hệ song song
+- Nắm vững các tính chất và định lý cơ bản
+- Biết mối liên hệ giữa các loại quan hệ song song
+
+### Về kỹ năng:
+- Giải thích được căn cứ của kết luận
+- So sánh và phân loại được các trường hợp
+- Áp dụng đúng tính chất trong 1-2 bước
+- Chuyển đổi giữa hình vẽ và biểu diễn logic
+
+### Về thái độ:
+- Lập luận có căn cứ
+- Trình bày rõ ràng, mạch lạc
+- Chính xác trong sử dụng thuật ngữ
+
+## IV. LƯU Ý KHI SINH ĐỀ
+
+1. **Độ khó vừa phải:** Không quá phức tạp nhưng cần tư duy
+2. **Gắn với hình cụ thể:** Sử dụng các hình quen thuộc
+3. **Yêu cầu giải thích:** Không chỉ tìm kết quả mà phải nêu lý do
+4. **Kết hợp kiến thức:** Có thể liên kết với hình học phẳng
+5. **Tính thực tế:** Gắn với các mô hình không gian đơn giản

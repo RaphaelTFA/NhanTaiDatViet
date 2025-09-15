@@ -1,0 +1,70 @@
+Dựa trên nội dung SGK Toán 11 (Kết nối tri thức), tôi xin tóm tắt kiến thức về **Các số đặc trưng đo xu thế trung tâm của mẫu số liệu ghép nhóm**:
+
+## I. ĐỊNH NGHĨA CÁC SỐ ĐẶC TRƯNG
+
+### 1. Số trung bình cộng (Mean)
+**Định nghĩa:** Số trung bình cộng của mẫu số liệu ghép nhóm là:
+$$\overline{x} = \frac{x_1n_1 + x_2n_2 + ... + x_kn_k}{n} = \frac{\sum_{i=1}^k x_i n_i}{n}$$
+
+Trong đó:
+- $x_i$: giá trị đại diện của nhóm thứ i
+- $n_i$: tần số của nhóm thứ i  
+- $n = \sum_{i=1}^k n_i$: cỡ mẫu
+
+### 2. Mốt (Mode)
+**Định nghĩa:** Mốt $M_o$ là giá trị đại diện của nhóm có tần số lớn nhất.
+
+**Công thức tính mốt chính xác:**
+$$M_o = L + \frac{f_1}{f_1 + f_2} \times h$$
+
+Trong đó:
+- $L$: cận dưới của nhóm chứa mốt
+- $f_1$: hiệu số giữa tần số nhóm chứa mốt và nhóm trước đó
+- $f_2$: hiệu số giữa tần số nhóm chứa mốt và nhóm sau đó
+- $h$: độ dài khoảng nhóm
+
+### 3. Trung vị (Median)
+**Định nghĩa:** Trung vị $M_e$ là giá trị chia mẫu số liệu thành hai phần bằng nhau.
+
+**Công thức tính trung vị:**
+$$M_e = L + \frac{\frac{n}{2} - CF}{f} \times h$$
+
+Trong đó:
+- $L$: cận dưới của nhóm chứa trung vị
+- $n$: tổng tần số
+- $CF$: tần số tích lũy của nhóm trước nhóm chứa trung vị
+- $f$: tần số của nhóm chứa trung vị
+- $h$: độ dài khoảng nhóm
+
+## II. CÁC DẠNG BÀI TẬP CHÍNH
+
+### Dạng 1: Tính số trung bình cộng
+**Phương pháp:**
+1. Xác định giá trị đại diện $x_i$ của mỗi nhóm
+2. Áp dụng công thức: $\overline{x} = \frac{\sum x_i n_i}{n}$
+
+### Dạng 2: Tìm mốt của mẫu số liệu
+**Phương pháp:**
+1. Xác định nhóm có tần số lớn nhất
+2. Áp dụng công thức tính mốt chính xác (nếu cần)
+
+### Dạng 3: Tìm trung vị của mẫu số liệu
+**Phương pháp:**
+1. Lập bảng tần số tích lũy
+2. Xác định nhóm chứa trung vị (nhóm có tần số tích lũy ≥ n/2)
+3. Áp dụng công thức tính trung vị
+
+### Dạng 4: Bài toán tổng hợp
+**Phương pháp:**
+1. Tính cả ba số đặc trưng
+2. So sánh và nhận xét về xu thế trung tâm
+3. Ứng dụng vào các bài toán thực tế
+
+## III. LƯU Ý QUAN TRỌNG
+
+1. **Giá trị đại diện:** Thường lấy trung điểm của mỗi khoảng
+2. **Đơn vị:** Các số đặc trưng có cùng đơn vị với số liệu gốc
+3. **Ý nghĩa:** 
+   - Trung bình cộng: phản ánh xu thế chung
+   - Mốt: giá trị xuất hiện nhiều nhất
+   - Trung vị: ít bị ảnh hưởng bởi các giá trị ngoại lai

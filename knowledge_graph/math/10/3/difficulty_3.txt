@@ -1,0 +1,101 @@
+# HƯỚNG DẪN SINH ĐỀ VẬN DỤNG - HỆ THỨC LƯỢNG TRONG TAM GIÁC
+
+## I. KHUNG KIẾN THỨC CẦN VẬN DỤNG
+
+### 1. Các định lý chính:
+- **Định lý cosin**: a² = b² + c² - 2bc.cosA
+- **Định lý sin**: a/sinA = b/sinB = c/sinC = 2R
+- **Công thức tính diện tích**: S = ½bc.sinA = ½ac.sinB = ½ab.sinC
+- **Công thức Heron**: S = √[p(p-a)(p-b)(p-c)] với p = (a+b+c)/2
+
+### 2. Kiến thức liên quan cần kết hợp:
+- Hệ tọa độ Oxy (khoảng cách, tọa độ điểm)
+- Hàm số lượng giác cơ bản
+- Bất đẳng thức tam giác
+- Hình học không gian (góc, khoảng cách)
+
+## II. CÁC DẠNG BÀI VẬN DỤNG
+
+### **DẠNG 1: ỨNG DỤNG THỰC TẾ - ĐO ĐẠC & ĐỊNH VỊ**
+
+**Mẫu câu hỏi:**
+> Để đo khoảng cách từ điểm A trên bờ sông đến điểm B trên bờ đối diện, người ta chọn điểm C cách A một khoảng 150m. Đo được góc ∠CAB = 65° và góc ∠ACB = 48°. Tính khoảng cách AB và diện tích tam giác ABC.
+
+**Hướng dẫn sinh đề:**
+- Chọn khoảng cách thực tế: 80-200m
+- Góc dao động: 30°-75° (tránh góc vuông để tăng độ khó)
+- Yêu cầu tính 2-3 đại lượng khác nhau
+- Có thể thêm yêu cầu so sánh, ước lượng
+
+### **DẠNG 2: BÀI TOÁN TỐI ƯU**
+
+**Mẫu câu hỏi:**
+> Một khu đất hình tam giác ABC có AB = 120m, AC = 80m, góc ∠BAC = 60°. Người ta muốn chia đất thành hai phần bằng một đường thẳng từ A đến cạnh BC sao cho diện tích hai phần bằng nhau. Tính độ dài đường chia này.
+
+**Hướng dẫn sinh đề:**
+- Cho 2 cạnh và góc xen giữa (hoặc 3 cạnh)
+- Yêu cầu tìm vị trí điểm chia tối ưu
+- Kết hợp với điều kiện diện tích, chu vi
+- Số liệu thực tế: chiều dài 50-150m
+
+### **DẠNG 3: BÀI TOÁN CHUYỂN ĐỘNG**
+
+**Mẫu câu hỏi:**
+> Hai tàu thủy khởi hành cùng lúc từ cảng A, tàu 1 đi với vận tốc 25 km/h theo hướng N30°E, tàu 2 đi với vận tốc 20 km/h theo hướng N60°W. Sau 2 giờ, khoảng cách giữa hai tàu là bao nhiêu? Nếu từ vị trí này tàu 2 muốn đi thẳng đến vị trí tàu 1 thì phải đi theo hướng nào?
+
+**Hướng dẫn sinh đề:**
+- Vận tốc thực tế: 15-40 km/h
+- Thời gian: 1-3 giờ
+- Hướng di chuyển dùng góc địa lý
+- Yêu cầu tính khoảng cách + hướng đi
+
+### **DẠNG 4: KẾT HỢP TỌA ĐỘ**
+
+**Mẫu câu hỏi:**
+> Trong hệ tọa độ Oxy, cho tam giác ABC với A(2;3), B(-1;5), C(4;-2). Tính độ dài các cạnh, các góc của tam giác và diện tích. Chứng minh rằng tam giác ABC có một góc tù.
+
+**Hướng dẫn sinh đề:**
+- Tọa độ nguyên, không quá lớn (-5 đến 5)
+- Yêu cầu chứng minh tính chất góc
+- Kết hợp tính diện tích bằng nhiều cách
+- Có thể hỏi về đường cao, trung tuyến
+
+### **DẠNG 5: BÀI TOÁN CỰC TRỊ**
+
+**Mẫu câu hỏi:**
+> Cho tam giác ABC có AB = c, AC = b cố định và góc ∠BAC = α thay đổi. Tìm α để diện tích tam giác ABC lớn nhất. Khi đó, tính độ dài BC và bán kính đường tròn ngoại tiếp.
+
+**Hướng dẫn sinh đề:**
+- Cho trước 2 đại lượng, 1 đại lượng biến thiên
+- Tìm cực trị của diện tích, chu vi, bán kính...
+- Kết hợp với điều kiện tồn tại tam giác
+- Yêu cầu tính toán ở vị trí cực trị
+
+## III. TIÊU CHÍ ĐÁNH GIÁ ĐỘ KHÓ VẬN DỤNG
+
+### **Mức độ VẬN DỤNG cần đạt:**
+✓ **2-3 bước tính toán** liên tiếp
+✓ **Phân tích** mối quan hệ giữa các yếu tố
+✓ **Lựa chọn** công thức phù hợp với từng bước
+✓ **Kết hợp** với 1-2 chủ đề khác
+✓ **Ứng dụng** vào tình huống thực tế
+
+### **Tránh các lỗi thường gặp:**
+❌ Chỉ áp dụng 1 công thức duy nhất
+❌ Số liệu quá đặc biệt (góc vuông, tam giác đều)
+❌ Tình huống không thực tế
+❌ Quá nhiều chủ đề khác nhau trong 1 câu
+
+## IV. VÍ DỤ HOÀN CHỈNH
+
+**Bài toán mẫu hoàn chỉnh:**
+
+> Một chiếc drone bay từ điểm A với độ cao 50m. Từ A, drone bay theo hướng tạo với phương ngang góc 15° xuống dưới, đi được 200m đến điểm B. Sau đó từ B, drone bay theo phương ngang 150m đến điểm C. Cuối cùng, drone bay thẳng từ C về A.
+> 
+> a) Tính khoảng cách từ C về A.
+> b) Tính góc mà đường bay CA tạo với phương ngang.
+> c) Tính diện tích tam giác ABC và nhận xét về dạng tam giác này.
+
+**Lời giải:** *(Giáo viên tự giải để kiểm tra tính khả thi)*
+
+Đây là mẫu bài đạt chuẩn **VẬN DỤNG** với tình huống thực tế, 3 bước tính toán và kết hợp hình học không gian.

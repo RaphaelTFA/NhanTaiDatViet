@@ -1,0 +1,103 @@
+# TÓM TẮT: CÁC SỐ ĐẶC TRƯNG ĐO MỨC ĐỘ PHÂN TÁN CỦA MẪU SỐ LIỆU GHÉP NHÓM
+
+## I. ĐỊNH NGHĨA CÁC SỐ ĐẶC TRƯNG
+
+### 1. Khoảng biến thiên (Range - R)
+**Định nghĩa:** Khoảng biến thiên là hiệu số giữa giá trị lớn nhất và giá trị nhỏ nhất trong mẫu số liệu.
+
+**Công thức:** R = x_max - x_min
+
+### 2. Khoảng tứ phân vị (IQR)
+**Định nghĩa:** Khoảng tứ phân vị là hiệu số giữa tứ phân vị thứ ba và tứ phân vị thứ nhất.
+
+**Công thức:** IQR = Q₃ - Q₁
+
+### 3. Phương sai (Variance - σ²)
+**Định nghĩa:** Phương sai là trung bình cộng của bình phương các độ lệch so với số trung bình.
+
+**Công thức cho mẫu số liệu ghép nhóm:**
+```
+σ² = (Σnᵢ(xᵢ - x̄)²)/n = (Σnᵢxᵢ²)/n - x̄²
+```
+Trong đó:
+- nᵢ: tần số của nhóm thứ i
+- xᵢ: giá trị đại diện của nhóm thứ i
+- x̄: số trung bình
+- n: tổng số quan sát
+
+### 4. Độ lệch chuẩn (Standard deviation - σ)
+**Định nghĩa:** Độ lệch chuẩn là căn bậc hai của phương sai.
+
+**Công thức:** σ = √σ²
+
+## II. CÔNG THỨC TÍNH CHO MẪU SỐ LIỆU GHÉP NHÓM
+
+### 1. Số trung bình
+```
+x̄ = (Σnᵢxᵢ)/n
+```
+
+### 2. Tứ phân vị
+**Tứ phân vị thứ nhất Q₁:**
+- Vị trí: k₁ = n/4
+- Công thức nội suy tuyến tính trong nhóm chứa Q₁
+
+**Tứ phân vị thứ ba Q₃:**
+- Vị trí: k₃ = 3n/4
+- Công thức nội suy tuyến tính trong nhóm chứa Q₃
+
+### 3. Công thức nội suy cho tứ phân vị
+```
+Q = L + ((k - CF)/f) × h
+```
+Trong đó:
+- L: cận dưới của nhóm chứa tứ phân vị
+- k: vị trí tứ phân vị
+- CF: tần số tích lũy của nhóm trước nhóm chứa tứ phân vị
+- f: tần số của nhóm chứa tứ phân vị
+- h: độ rộng nhóm
+
+## III. DẠNG BÀI TẬP CHÍNH
+
+### Dạng 1: Tính các số đặc trưng cơ bản
+- Tính số trung bình
+- Tính phương sai và độ lệch chuẩn
+- Tính khoảng biến thiên
+
+**Phương pháp:**
+1. Xác định giá trị đại diện của mỗi nhóm
+2. Áp dụng công thức tương ứng
+3. Tính toán và đưa ra kết quả
+
+### Dạng 2: Tính tứ phân vị và khoảng tứ phân vị
+- Xác định vị trí Q₁, Q₂, Q₃
+- Tính giá trị các tứ phân vị
+- Tính IQR
+
+**Phương pháp:**
+1. Lập bảng tần số tích lũy
+2. Xác định vị trí tứ phân vị
+3. Xác định nhóm chứa tứ phân vị
+4. Áp dụng công thức nội suy
+
+### Dạng 3: So sánh mức độ phân tán
+- So sánh độ lệch chuẩn
+- So sánh hệ số biến thiên
+- Phân tích ý nghĩa thực tế
+
+**Phương pháp:**
+1. Tính các số đặc trưng cho từng mẫu
+2. So sánh các giá trị
+3. Đưa ra kết luận về mức độ phân tán
+
+### Dạng 4: Bài toán thực tế
+- Phân tích dữ liệu thống kê
+- Đưa ra nhận xét và kết luận
+- Ứng dụng vào các tình huống cụ thể
+
+## IV. LƯU Ý QUAN TRỌNG
+
+1. **Giá trị đại diện:** Thường lấy trung điểm của mỗi khoảng
+2. **Đơn vị:** Phương sai có đơn vị là bình phương đơn vị gốc, độ lệch chuẩn cùng đơn vị với dữ liệu gốc
+3. **Ý nghĩa:** Các số đặc trưng này đo mức độ phân tán, giá trị càng lớn thì dữ liệu càng phân tán
+4. **Độ chính xác:** Kết quả phụ thuộc vào cách chia nhóm và lựa chọn giá trị đại diện

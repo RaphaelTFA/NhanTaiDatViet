@@ -1,0 +1,134 @@
+# HƯỚNG DẪN SINH ĐỀ TOÁN 12 - MỨC NHẬN BIẾT
+## Chủ đề: Ứng dụng đạo hàm để khảo sát và vẽ đồ thị hàm số
+
+### I. KIẾN THỨC CẦN NHỚ
+
+#### 1. Các công thức đạo hàm cơ bản cần nhớ:
+- $(x^n)' = nx^{n-1}$
+- $(\frac{1}{x})' = -\frac{1}{x^2}$
+- $(\sqrt{x})' = \frac{1}{2\sqrt{x}}$
+- $(ax + b)' = a$
+
+#### 2. Điều kiện cực trị:
+- Hàm số có cực trị tại $x_0$ khi $f'(x_0) = 0$ và $f'(x)$ đổi dấu qua $x_0$
+
+#### 3. Tính đơn điệu:
+- $f'(x) > 0$ thì hàm số đồng biến
+- $f'(x) < 0$ thì hàm số nghịch biến
+
+#### 4. Tiệm cận:
+- Tiệm cận đứng: $x = a$ nếu $\lim_{x \to a} f(x) = \pm\infty$
+- Tiệm cận ngang: $y = b$ nếu $\lim_{x \to \pm\infty} f(x) = b$
+
+---
+
+### II. CÁC DẠNG CÂU HỎI NHẬN BIẾT
+
+#### **DẠNG 1: Tính đạo hàm trực tiếp**
+
+**Mẫu câu hỏi:**
+1. **Tính** đạo hàm của hàm số $y = x^3 - 2x^2 + 1$
+   - A. $y' = 3x^2 - 4x$
+   - B. $y' = 3x^2 - 2x$
+   - C. $y' = x^2 - 4x$
+   - D. $y' = 3x^2 - 4x + 1$
+
+2. **Cho biết** đạo hàm của hàm số $y = \frac{1}{x} + 2x$
+   - A. $y' = \frac{1}{x^2} + 2$
+   - B. $y' = -\frac{1}{x^2} + 2$
+   - C. $y' = -\frac{1}{x^2} + 1$
+   - D. $y' = \frac{1}{x^2} - 2$
+
+#### **DẠNG 2: Xác định điểm cực trị**
+
+**Mẫu câu hỏi:**
+3. **Tìm** nghiệm của phương trình $f'(x) = 0$ với $f(x) = x^2 - 4x + 3$
+   - A. $x = 2$
+   - B. $x = 4$
+   - C. $x = 1$
+   - D. $x = 3$
+
+4. **Xác định** điểm cực trị của hàm số $y = x^3 - 3x + 1$
+   - A. $x = 1$ và $x = -1$
+   - B. $x = 0$ và $x = 1$
+   - C. $x = 2$ và $x = -2$
+   - D. $x = 3$ và $x = 0$
+
+#### **DẠNG 3: Nhận biết tính đơn điệu**
+
+**Mẫu câu hỏi:**
+5. **Cho biết** hàm số $y = x^2 + 2x$ đồng biến trên khoảng nào?
+   - A. $(-\infty; -1)$
+   - B. $(-1; +\infty)$
+   - C. $(-\infty; 0)$
+   - D. $(0; +\infty)$
+
+6. **Nhận biết** dấu của $f'(x) = 2x - 4$ trên khoảng $(2; +\infty)$
+   - A. $f'(x) > 0$
+   - B. $f'(x) < 0$
+   - C. $f'(x) = 0$
+   - D. Không xác định được
+
+#### **DẠNG 4: Tìm tiệm cận đơn giản**
+
+**Mẫu câu hỏi:**
+7. **Tìm** tiệm cận đứng của hàm số $y = \frac{1}{x - 2}$
+   - A. $x = 0$
+   - B. $x = 2$
+   - C. $x = -2$
+   - D. $y = 0$
+
+8. **Xác định** tiệm cận ngang của hàm số $y = \frac{2x + 1}{x - 3}$
+   - A. $y = 1$
+   - B. $y = 2$
+   - C. $y = 3$
+   - D. $y = 0$
+
+#### **DẠNG 5: Nhận biết đặc điểm đồ thị**
+
+**Mẫu câu hỏi:**
+9. **Cho biết** đồ thị hàm số $y = x^2$ đi qua điểm nào?
+   - A. $(1; 2)$
+   - B. $(2; 4)$
+   - C. $(1; -1)$
+   - D. $(2; 2)$
+
+10. **Nhận biết** tọa độ đỉnh của parabol $y = x^2 - 2x + 3$
+    - A. $(1; 2)$
+    - B. $(2; 3)$
+    - C. $(0; 3)$
+    - D. $(-1; 6)$
+
+---
+
+### III. HƯỚNG DẪN SOẠN ĐỀ
+
+#### **Cấu trúc đề thi mức Nhận biết:**
+- **40% đạo hàm cơ bản** (4 câu)
+- **30% cực trị và đơn điệu** (3 câu)
+- **20% tiệm cận đơn giản** (2 câu)
+- **10% đặc điểm đồ thị** (1 câu)
+
+#### **Lưu ý khi soạn đề:**
+1. Sử dụng các hàm số đơn giản: đa thức bậc 2, 3 hoặc phân thức đơn giản
+2. Các phép tính không quá phức tạp
+3. Đáp án sai phải hợp lý (lỗi thường gặp của học sinh)
+4. Thời gian làm mỗi câu: 1-2 phút
+
+#### **Từ khóa quan trọng:**
+- **Tính, Tìm, Xác định, Cho biết, Nhận biết**
+- Tránh: "Chứng minh", "Phân tích", "So sánh phức tạp"
+
+---
+
+### IV. BẢNG ĐÁNH GIÁ CHẤT LƯỢNG CÂU HỎI
+
+| Tiêu chí | Đạt | Chưa đạt |
+|----------|-----|----------|
+| Kiến thức cơ bản SGK | ✓ | |
+| Áp dụng trực tiếp công thức | ✓ | |
+| Phù hợp học sinh TB | ✓ | |
+| Thời gian làm hợp lý | ✓ | |
+| Đáp án rõ ràng | ✓ | |
+
+**Đề nghị:** Mỗi đề nên có 10 câu trắc nghiệm, thời gian 15-20 phút.

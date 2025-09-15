@@ -1,0 +1,124 @@
+# HƯỚNG DẪN SINH ĐỀ - MỨC NHẬN BIẾT
+## Chủ đề: Giới hạn - Hàm số liên tục (Lớp 11)
+
+---
+
+## I. KIẾN THỨC CẦN NHẮC LẠI
+
+### 1. Định nghĩa giới hạn cơ bản
+- $\lim_{x \to a} f(x) = L$
+- Giới hạn một bên: $\lim_{x \to a^+} f(x)$, $\lim_{x \to a^-} f(x)$
+- Giới hạn tại vô cực: $\lim_{x \to +\infty} f(x)$, $\lim_{x \to -\infty} f(x)$
+
+### 2. Công thức giới hạn cơ bản
+- $\lim_{x \to +\infty} \frac{1}{x} = 0$
+- $\lim_{x \to +\infty} \frac{1}{x^n} = 0$ (n > 0)
+- $\lim_{x \to 0} \frac{\sin x}{x} = 1$
+
+### 3. Định nghĩa hàm số liên tục
+- Hàm số f(x) liên tục tại x = a khi: $\lim_{x \to a} f(x) = f(a)$
+
+---
+
+## II. CÁC DẠNG CÂU HỎI NHẬN BIẾT
+
+### **Dạng 1: Nhận biết định nghĩa giới hạn**
+
+**Mẫu câu hỏi:**
+1. **Cho biết** ý nghĩa của kí hiệu $\lim_{x \to 2} f(x) = 5$
+2. **Xác định** giới hạn $\lim_{x \to +\infty} \frac{1}{x^2}$
+3. **Tính** $\lim_{x \to 0} \frac{\sin 3x}{3x}$
+
+**Ví dụ cụ thể:**
+> **Câu 1:** Cho $\lim_{x \to 3} f(x) = 7$. Điều này có nghĩa là:
+> A. f(3) = 7
+> B. Khi x tiến gần đến 3 thì f(x) tiến gần đến 7
+> C. f(x) = 7 với mọi x
+> D. x = 3
+
+---
+
+### **Dạng 2: Áp dụng trực tiếp công thức giới hạn**
+
+**Mẫu câu hỏi:**
+1. **Tính** $\lim_{x \to +\infty} \frac{2}{x}$
+2. **Xác định** $\lim_{x \to 0} \frac{\sin 2x}{2x}$
+3. **Cho biết** giá trị của $\lim_{x \to +\infty} \frac{5}{x^3}$
+
+**Ví dụ cụ thể:**
+> **Câu 2:** $\lim_{x \to +\infty} \frac{3}{x^2}$ bằng:
+> A. 3    B. 0    C. +∞    D. -∞
+
+---
+
+### **Dạng 3: Nhận biết tính liên tục**
+
+**Mẫu câu hỏi:**
+1. **Xác định** hàm số nào sau đây liên tục tại x = 0
+2. **Cho biết** điều kiện để hàm số liên tục tại một điểm
+3. **Nhận biết** hàm số có bị gián đoạn hay không
+
+**Ví dụ cụ thể:**
+> **Câu 3:** Hàm số f(x) = x² + 3x - 1:
+> A. Liên tục trên ℝ
+> B. Gián đoạn tại x = 0
+> C. Chỉ liên tục tại x = 1
+> D. Không liên tục trên ℝ
+
+---
+
+### **Dạng 4: Nhận biết giới hạn đơn giản của đa thức**
+
+**Mẫu câu hỏi:**
+1. **Tính** $\lim_{x \to 2} (x^2 + 3x - 1)$
+2. **Xác định** $\lim_{x \to -1} (2x + 5)$
+3. **Cho biết** $\lim_{x \to 0} (x^3 - 2x + 4)$
+
+**Ví dụ cụ thể:**
+> **Câu 4:** $\lim_{x \to 1} (x^2 + 2x + 3)$ bằng:
+> A. 3    B. 6    C. 1    D. 2
+
+---
+
+## III. NGÂN HÀNG CÂU HỎI MẪU
+
+### **Câu hỏi trắc nghiệm:**
+
+1. $\lim_{x \to +\infty} \frac{1}{x}$ bằng:
+   A. 1    B. 0    C. +∞    D. Không tồn tại
+
+2. Hàm số f(x) = 3x + 2 có tính chất:
+   A. Gián đoạn tại x = 0    B. Liên tục trên ℝ
+   C. Chỉ liên tục tại x = 1    D. Không liên tục
+
+3. $\lim_{x \to 0} \frac{\sin x}{x}$ bằng:
+   A. 0    B. 1    C. +∞    D. Không xác định
+
+### **Câu hỏi tự luận ngắn:**
+
+1. **Tính** $\lim_{x \to 3} (x^2 - 2x + 1)$
+
+2. **Xác định** tính liên tục của hàm số f(x) = x + 5 tại x = 2
+
+3. **Cho biết** giá trị của $\lim_{x \to +\infty} \frac{7}{x^4}$
+
+---
+
+## IV. LƯU Ý KHI SINH ĐỀ
+
+✅ **Nên làm:**
+- Sử dụng các hàm đơn giản (đa thức bậc thấp)
+- Cho số liệu cụ thể, dễ tính
+- Hỏi trực tiếp định nghĩa, công thức
+- Tạo đáp án nhiễu rõ ràng, dễ phân biệt
+
+❌ **Không nên:**
+- Yêu cầu biến đổi phức tạp
+- Sử dụng hàm số khó
+- Kết hợp nhiều kiến thức trong một câu
+- Tạo đáp án gây nhầm lẫn
+
+---
+
+**Mức độ phù hợp:** Học sinh trung bình (5-6 điểm)
+**Thời gian làm bài:** 2-3 phút/câu trắc nghiệm, 3-5 phút/câu tự luận

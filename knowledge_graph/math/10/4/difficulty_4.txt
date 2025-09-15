@@ -1,0 +1,145 @@
+# HƯỚNG DẪN SINH ĐỀ VECTOR - MỨC VẬN DỤNG CAO (LỚP 10)
+
+## I. KHUNG KIẾN THỨC CƠ BẢN VECTOR LỚP 10
+
+### 1. Các khái niệm cơ bản
+- Định nghĩa vector, vector không, vector đơn vị
+- Hai vector bằng nhau, vector đối
+- Tọa độ vector trong hệ trục Oxy
+
+### 2. Các phép toán vector
+- Phép cộng, trừ vector (quy tắc hình bình hành, tam giác)
+- Phép nhân vector với một số
+- Tích vô hướng của hai vector
+
+### 3. Ứng dụng vector trong hình học
+- Biểu diễn điểm, đường thẳng qua vector
+- Chứng minh các tính chất hình học
+
+## II. TIÊU CHÍ SINH ĐỀ MỨC VẬN DỤNG CAO
+
+### 1. Độ phức tạp về tư duy
+- **Kết hợp 3-4 kiến thức**: Vector + Hình học phẳng + Lượng giác + Hàm số
+- **Phân tích đa chiều**: Từ điều kiện hình học suy ra điều kiện vector và ngược lại
+- **Tổng hợp thông tin**: Cần xử lý nhiều dữ kiện cùng lúc
+
+### 2. Cấu trúc bài toán
+- **Bối cảnh thực tế** hoặc **hình học phức tạp**
+- **Nhiều bước giải**: Mỗi bước cần kỹ thuật vector khác nhau
+- **Tham số hóa**: Chứa tham số cần tìm điều kiện
+
+## III. CÁC DẠNG BÀI TẬP MỨC VẬN DỤNG CAO
+
+### DẠNG 1: VECTOR VỚI HÌNH HỌC PHỨC TẠP
+
+**Cấu trúc sinh đề:**
+```
+Cho [hình học phức tạp: tứ giác, đa giác, hình tròn] với [điều kiện đặc biệt].
+Gọi [điểm đặc biệt: trọng tâm, trực tâm, tâm ngoại tiếp...] là [ký hiệu].
+Tìm [vị trí điểm M/giá trị tham số] để [biểu thức vector phức tạp] thỏa mãn [điều kiện].
+```
+
+**Ví dụ:**
+> Cho hình thang ABCD có AB // CD, AB = 2CD. Gọi M là điểm trên cạnh BC sao cho BM = kBC (0 ≤ k ≤ 1). Tìm k để vector $\overrightarrow{AM}$ vuông góc với vector $\overrightarrow{BD}$, biết rằng góc BAD = 60° và AD = AB.
+
+### DẠNG 2: VECTOR VỚI LƯỢNG GIÁC
+
+**Cấu trúc sinh đề:**
+```
+Trong hệ trục Oxy, cho [các vector có tọa độ chứa hàm lượng giác].
+Tìm [góc/độ dài/vị trí] để [biểu thức vector] đạt [cực trị/thỏa mãn điều kiện].
+```
+
+**Ví dụ:**
+> Trong mặt phẳng Oxy, cho $\vec{a} = (2\cos\alpha, \sin\alpha)$ và $\vec{b} = (\cos\beta, 2\sin\beta)$ với α, β là các góc thay đổi. Tìm giá trị lớn nhất của biểu thức $P = \vec{a}.\vec{b} + |\vec{a} + \vec{b}|$.
+
+### DẠNG 3: VECTOR VỚI BẤT ĐẲNG THỨC
+
+**Cấu trúc sinh đề:**
+```
+Cho [hệ thống vector] thỏa mãn [điều kiện ràng buộc].
+Chứng minh [bất đẳng thức] hoặc tìm [cực trị] của [biểu thức phức tạp].
+```
+
+**Ví dụ:**
+> Cho ba vector $\vec{u}, \vec{v}, \vec{w}$ thỏa mãn $|\vec{u}| = |\vec{v}| = |\vec{w}| = 1$ và $\vec{u} + \vec{v} + \vec{w} = \vec{0}$. Chứng minh rằng với mọi vector $\vec{x}$ bất kỳ, ta có: $|\vec{x} - \vec{u}|^2 + |\vec{x} - \vec{v}|^2 + |\vec{x} - \vec{w}|^2 \geq \frac{9}{2}$.
+
+### DẠNG 4: VECTOR VỚI HỆ PHƯƠNG TRÌNH
+
+**Cấu trúc sinh đề:**
+```
+Cho [hệ thống điểm/vector] thỏa mãn [hệ điều kiện phức tạp].
+Tìm [tọa độ/tham số] hoặc chứng minh [tính chất hình học].
+```
+
+**Ví dụ:**
+> Trong mặt phẳng Oxy, cho tam giác ABC có A(1,2), B(3,0), C(0,4). Điểm M thỏa mãn $\overrightarrow{MA} = k\overrightarrow{MB} + (1-k)\overrightarrow{MC}$ với k là tham số. Tìm quỹ tích điểm M khi k thay đổi, và xác định vị trí M để tam giác MAB có diện tích bằng nửa diện tích tam giác ABC.
+
+## IV. QUY TRÌNH SINH ĐỀ CHI TIẾT
+
+### BƯỚC 1: CHỌN KIẾN THỨC PHỤ KẾT HỢP
+- Hình học: Tam giác, tứ giác đặc biệt, đường tròn
+- Lượng giác: Hàm số lượng giác, phương trình lượng giác
+- Bất đẳng thức: Cauchy-Schwarz, Jensen
+- Phương trình: Hệ phương trình, phương trình bậc 2
+
+### BƯỚC 2: XÂY DỰNG BỐI CẢNH
+- **Bối cảnh hình học**: Sử dụng các điểm đặc biệt (trọng tâm, trực tâm, tâm ngoại tiếp...)
+- **Bối cảnh tọa độ**: Kết hợp với hàm số, đồ thị
+- **Bối cảnh thực tế**: Vật lý (lực, vận tốc), kỹ thuật
+
+### BƯỚC 3: TẠO ĐIỀU KIỆN RÀNG BUỘC
+- Sử dụng tham số để tăng độ phức tạp
+- Kết hợp nhiều điều kiện đồng thời
+- Tạo điều kiện tối ưu hóa (cực trị)
+
+### BƯỚC 4: THIẾT KẾ CÂU HỎI
+- **Phân tích**: "Chứng minh rằng...", "Giải thích tại sao..."
+- **Tổng hợp**: "Tìm mối quan hệ...", "Xác định điều kiện..."
+- **Vận dụng**: "Ứng dụng để giải quyết...", "Tối ưu hóa..."
+
+## V. TEMPLATE SINH ĐỀ CỤ THỂ
+
+### Template 1: Vector + Hình học + Tham số
+```
+Cho [hình H] có [tính chất đặc biệt T]. 
+Điểm M di động thỏa mãn [điều kiện vector phức tạp D].
+a) Chứng minh M thuộc [đường cong C].
+b) Tìm vị trí M để [biểu thức E] đạt [cực trị].
+c) Xác định điều kiện của [tham số] để [điều kiện hình học].
+```
+
+### Template 2: Vector + Lượng giác + Cực trị
+```
+Cho $\vec{a} = [biểu thức lượng giác]$, $\vec{b} = [biểu thức lượng giác]$.
+Biết [điều kiện ràng buộc].
+a) Tính [tích vô hướng/module] theo [tham số lượng giác].
+b) Tìm [cực trị] của [biểu thức phức tạp].
+c) Chứng minh [bất đẳng thức] liên quan.
+```
+
+### Template 3: Vector + Hệ phương trình + Quỹ tích
+```
+Trong hệ Oxy, cho [hệ điểm cố định].
+Điểm M(x,y) thỏa mãn [hệ điều kiện vector].
+a) Lập phương trình quỹ tích điểm M.
+b) Tìm điểm M để [biểu thức khoảng cách] đạt cực trị.
+c) Chứng minh [tính chất hình học] của quỹ tích.
+```
+
+## VI. CHECKLIST ĐÁNH GIÁ CHẤT LƯỢNG ĐỀ
+
+### ✅ Tiêu chí bắt buộc:
+- [ ] Sử dụng ít nhất 3 kiến thức vector khác nhau
+- [ ] Kết hợp với ít nhất 1 chủ đề ngoài vector
+- [ ] Có ít nhất 2 bước giải phức tạp
+- [ ] Yêu cầu phân tích, không chỉ áp dụng công thức
+- [ ] Có tính thực tiễn hoặc ý nghĩa hình học rõ ràng
+
+### ✅ Tiêu chí nâng cao:
+- [ ] Có nhiều cách giải khác nhau
+- [ ] Liên kết với kiến thức lớp 11-12 (nếu phù hợp)
+- [ ] Tạo cơ hội phát triển tư duy sáng tạo
+- [ ] Có thể mở rộng thành bài toán tổng quát
+
+Hướng dẫn này giúp tạo ra các câu hỏi vector mức vận dụng cao, đòi hỏi học sinh phải tư duy sâu và kết hợp linh hoạt nhiều kiến thức toán học.

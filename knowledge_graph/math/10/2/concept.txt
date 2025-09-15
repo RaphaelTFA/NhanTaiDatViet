@@ -1,0 +1,74 @@
+# TÓM TẮT CHƯƠNG II: BẤT PHƯƠNG TRÌNH VÀ HỆ BẤT PHƯƠNG TRÌNH BẬC NHẤT HAI ẨN
+
+## I. ĐỊNH NGHĨA CƠ BẢN
+
+### 1. Bất phương trình bậc nhất hai ẩn
+**Định nghĩa:** Bất phương trình bậc nhất hai ẩn x, y có dạng:
+- ax + by + c > 0
+- ax + by + c ≥ 0  
+- ax + by + c < 0
+- ax + by + c ≤ 0
+
+Trong đó a, b, c là các số thực cho trước và a² + b² ≠ 0.
+
+### 2. Nghiệm của bất phương trình
+**Định nghĩa:** Cặp số (x₀; y₀) được gọi là nghiệm của bất phương trình ax + by + c > 0 nếu ax₀ + by₀ + c > 0 là một mệnh đề đúng.
+
+### 3. Hệ bất phương trình bậc nhất hai ẩn
+**Định nghĹa:** Hệ bất phương trình bậc nhất hai ẩn là hệ gồm nhiều bất phương trình bậc nhất hai ẩn.
+
+## II. ĐỊNH LÝ VÀ TÍNH CHẤT
+
+### 1. Biểu diễn miền nghiệm
+**Định lý:** Tập nghiệm của bất phương trình bậc nhất hai ẩn ax + by + c > 0 được biểu diễn bởi một nửa mặt phẳng không chứa đường thẳng ax + by + c = 0.
+
+### 2. Cách xác định miền nghiệm
+- Vẽ đường thẳng d: ax + by + c = 0 (đường thẳng biên)
+- Lấy một điểm M(x₀; y₀) không thuộc đường thẳng d
+- Thay tọa độ điểm M vào bất phương trình:
+  + Nếu thỏa mãn: miền nghiệm là nửa mặt phẳng chứa điểm M
+  + Nếu không thỏa mãn: miền nghiệm là nửa mặt phẳng không chứa điểm M
+
+## III. DẠNG BÀI TẬP CHÍNH
+
+### Dạng 1: Xác định nghiệm của bất phương trình
+**Phương pháp:**
+- Thay tọa độ điểm vào bất phương trình
+- Kiểm tra tính đúng sai của bất đẳng thức
+
+### Dạng 2: Biểu diễn miền nghiệm trên mặt phẳng tọa độ
+**Các bước thực hiện:**
+1. Vẽ đường thẳng biên ax + by + c = 0
+2. Xác định miền nghiệm bằng phương pháp thử điểm
+3. Tô đậm (hoặc gạch chéo) miền nghiệm
+4. Chú ý: 
+   - Đường thẳng biên là nét liền nếu có dấu ≥ hoặc ≤
+   - Đường thẳng biên là nét đứt nếu có dấu > hoặc <
+
+### Dạng 3: Giải hệ bất phương trình bậc nhất hai ẩn
+**Phương pháp:**
+1. Biểu diễn miền nghiệm của từng bất phương trình
+2. Tìm giao của các miền nghiệm
+3. Miền giao chính là tập nghiệm của hệ
+
+### Dạng 4: Bài toán tối ưu với ràng buộc tuyến tính
+**Các bước giải:**
+1. Xác định hàm mục tiêu f(x,y) = ax + by
+2. Xác định miền ràng buộc (hệ bất phương trình)
+3. Tìm các đỉnh của miền ràng buộc
+4. Tính giá trị hàm mục tiêu tại các đỉnh
+5. So sánh để tìm giá trị tối ưu
+
+### Dạng 5: Bài toán thực tế
+**Phương pháp:**
+1. Đặt ẩn phụ (thường là x, y ≥ 0)
+2. Lập hệ bất phương trình từ các điều kiện ràng buộc
+3. Lập hàm mục tiêu cần tối ưu
+4. Áp dụng phương pháp giải bài toán tối ưu
+
+## IV. LƯU Ý QUAN TRỌNG
+
+1. **Khi vẽ đường thẳng biên:** Chọn 2 điểm đặc biệt (giao với các trục tọa độ)
+2. **Điểm thử:** Thường chọn O(0;0) nếu không thuộc đường thẳng biên
+3. **Miền nghiệm hữu hạn:** Thường là đa giác lồi
+4. **Giá trị tối ưu:** Thường đạt được tại các đỉnh của miền nghiệm

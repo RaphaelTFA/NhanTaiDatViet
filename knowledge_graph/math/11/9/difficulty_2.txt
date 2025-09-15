@@ -1,0 +1,114 @@
+# HƯỚNG DẪN SINH ĐỀ - ĐẠO HÀM LỚP 11 (MỨC THÔNG HIỂU)
+
+## I. KHUNG KIẾN THỨC CẦN ĐÁNH GIÁ
+
+### 1. Định nghĩa đạo hàm
+- Đạo hàm tại một điểm
+- Đạo hàm trên khoảng
+- Ý nghĩa hình học và vật lý của đạo hàm
+
+### 2. Các quy tắc tính đạo hàm
+- Đạo hàm của tổng, hiệu, tích, thương
+- Đạo hàm của hàm hợp
+- Đạo hàm của hàm ngược
+
+### 3. Đạo hàm các hàm số cơ bản
+- Hàm đa thức
+- Hàm lượng giác
+- Hàm mũ và logarit
+
+## II. CẤU TRÚC ĐỀ THI
+
+### Phân bổ câu hỏi theo dạng:
+- **40% câu trắc nghiệm**: Nhận biết khái niệm, áp dụng công thức trực tiếp
+- **40% câu tự luận ngắn**: Tính toán cơ bản, giải thích
+- **20% câu tự luận**: Phân tích, so sánh, ứng dụng
+
+## III. DẠNG CÂU HỎI VÀ HƯỚNG DẪN SINH ĐỀ
+
+### A. DẠNG 1: GIẢI THÍCH KHÁI NIỆM (20%)
+
+**Mục tiêu**: Đánh giá khả năng hiểu và giải thích các khái niệm cơ bản
+
+**Ví dụ mẫu**:
+1. "Giải thích ý nghĩa hình học của đạo hàm f'(a) tại điểm x = a"
+2. "So sánh khái niệm đạo hàm trái và đạo hàm phải tại một điểm"
+
+**Hướng dẫn sinh đề**:
+- Yêu cầu học sinh diễn đạt bằng lời các định nghĩa
+- Kết hợp với hình vẽ minh họa đơn giản
+- Liên hệ với ý nghĩa thực tế (vận tốc, gia tốc)
+
+### B. DẠNG 2: ÁP DỤNG CÔNG THỨC CƠ BẢN (30%)
+
+**Mục tiêu**: Kiểm tra khả năng sử dụng công thức đạo hàm cơ bản
+
+**Ví dụ mẫu**:
+1. Tính đạo hàm: $f(x) = 3x^4 - 2x^3 + 5x - 1$
+2. Tính đạo hàm: $g(x) = \sin(2x + 1)$
+3. Tính đạo hàm: $h(x) = \frac{x^2 + 1}{x - 2}$
+
+**Hướng dẫn sinh đề**:
+- Chọn hàm số cần 1-2 bước áp dụng công thức
+- Kết hợp tối đa 2 quy tắc đạo hàm
+- Tránh các biểu thức quá phức tạp
+
+### C. DẠNG 3: PHÂN TÍCH VÀ SO SÁNH (25%)
+
+**Mục tiêu**: Đánh giá khả năng phân tích mối liên hệ giữa các khái niệm
+
+**Ví dụ mẫu**:
+1. "Cho hàm số $f(x) = x^3 - 3x^2 + 2$. Tìm các điểm mà đạo hàm bằng 0 và giải thích ý nghĩa hình học"
+2. "So sánh tốc độ biến thiên của hai hàm số $f(x) = x^2$ và $g(x) = 2x$ tại x = 1"
+
+**Hướng dẫn sinh đề**:
+- Yêu cầu tính toán kết hợp với giải thích
+- Liên hệ giữa đạo hàm và tính chất hàm số
+- Sử dụng bảng giá trị hoặc đồ thị đơn giản
+
+### D. DẠNG 4: CHUYỂN ĐỔI BIỂU DIỄN (15%)
+
+**Mục tiêu**: Kiểm tra khả năng chuyển đổi giữa các dạng biểu diễn
+
+**Ví dụ mẫu**:
+1. "Từ đồ thị hàm số f(x), vẽ phác đồ thị đạo hàm f'(x)"
+2. "Cho bảng giá trị của f'(x), xác định khoảng đồng biến của f(x)"
+
+**Hướng dẫn sinh đề**:
+- Sử dụng đồ thị đơn giản (đa thức bậc 2, 3)
+- Bảng giá trị không quá 5-7 điểm
+- Yêu cầu giải thích ngắn gọn
+
+### E. DẠNG 5: ỨNG DỤNG CƠ BẢN (10%)
+
+**Mục tiêu**: Áp dụng đạo hàm vào bài toán thực tế đơn giản
+
+**Ví dụ mẫu**:
+1. "Một vật chuyển động theo phương trình $s(t) = 2t^3 - 3t^2 + 1$. Tính vận tốc tại thời điểm t = 2"
+2. "Viết phương trình tiếp tuyến của đường cong $y = x^2 - 4x + 3$ tại điểm có hoành độ x = 1"
+
+**Hướng dẫn sinh đề**:
+- Bài toán có bối cảnh thực tế đơn giản
+- Chỉ cần 1-2 bước tính toán
+- Kết quả có ý nghĩa rõ ràng
+
+## IV. TIÊU CHÍ ĐÁNH GIÁ
+
+### Thang điểm cho từng dạng:
+- **Tính toán chính xác**: 50%
+- **Giải thích, lý luận**: 30%
+- **Trình bày**: 20%
+
+### Mức độ yêu cầu:
+- Áp dụng đúng công thức
+- Giải thích được ý nghĩa kết quả
+- Nhận biết được mối liên hệ cơ bản
+- Trình bày logic, rõ ràng
+
+## V. LƯU Ý KHI SINH ĐỀ
+
+1. **Độ khó vừa phải**: Không quá dễ nhưng cũng không yêu cầu kỹ thuật cao
+2. **Đa dạng dạng thức**: Kết hợp nhiều loại câu hỏi khác nhau
+3. **Gần gũi thực tế**: Có bài toán ứng dụng đơn giản
+4. **Thời gian hợp lý**: Học sinh khá có thể hoàn thành trong thời gian quy định
+5. **Phân loại rõ ràng**: Mỗi câu hỏi có mục tiêu đánh giá cụ thể

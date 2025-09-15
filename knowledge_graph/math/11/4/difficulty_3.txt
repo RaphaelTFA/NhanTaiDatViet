@@ -1,0 +1,107 @@
+# HƯỚNG DẪN SINH ĐỀ TOÁN LỚP 11 - MỨC VẬN DỤNG
+## Chủ đề: QUAN HỆ SONG SONG TRONG KHÔNG GIAN
+
+### I. KHUNG KIẾN THỨC CƠ BẢN CẦN VẬN DỤNG
+
+**1. Đường thẳng song song với mặt phẳng:**
+- Điều kiện: d // (α) ⟺ d // d' với d' ⊂ (α)
+- Tính chất: Nếu d // (α) và (β) chứa d, cắt (α) theo giao tuyến d' thì d // d'
+
+**2. Hai mặt phẳng song song:**
+- Điều kiện: (α) // (β) ⟺ (α) chứa hai đường thẳng cắt nhau cùng song song với (β)
+- Tính chất: Mặt phẳng cắt hai mặt phẳng song song tạo ra hai giao tuyến song song
+
+**3. Định lý Thales trong không gian**
+
+### II. CÁC DẠNG BÀI VẬN DỤNG
+
+#### **DẠNG 1: ỨNG DỤNG TRONG KIẾN TRÚC VÀ XÂY DỰNG**
+
+**Cấu trúc đề:**
+- **Bối cảnh:** Thiết kế nhà, cầu, tòa nhà
+- **Yêu cầu:** Chứng minh tính song song, tính toán kích thước
+
+**Ví dụ mẫu:**
+"Một kiến trúc sư thiết kế mái nhà có dạng hình chóp S.ABCD với đáy ABCD là hình chữ nhật. Để tăng tính thẩm mỹ, người ta lắp đặt các thanh ngang MN, PQ tại các vị trí M, N thuộc cạnh SA, SB và P, Q thuộc cạnh SC, SD sao cho SM/SA = SP/SC = 1/3. Chứng minh rằng các thanh ngang này song song với nhau và tính tỷ lệ độ dài của chúng với cạnh đáy, biết AB = 8m, AD = 6m."
+
+**Hướng dẫn sinh đề:**
+1. Chọn khung cảnh thực tế (nhà, cầu, tháp...)
+2. Thiết lập hình học không gian phù hợp
+3. Đưa ra tỷ lệ cụ thể (1/2, 1/3, 2/3...)
+4. Yêu cầu chứng minh + tính toán
+
+#### **DẠNG 2: ỨNG DỤNG TRONG GIAO THÔNG VÀ LOGISTICS**
+
+**Cấu trúc đề:**
+- **Bối cảnh:** Đường ray, đường cao tốc, container
+- **Yêu cầu:** Phân tích quan hệ song song, tính khoảng cách
+
+**Ví dụ mẫu:**
+"Một bãi container có cấu trúc như hình hộp chữ nhật ABCD.A'B'C'D'. Để tối ưu hóa việc vận chuyển, người ta thiết kế hai đường ray trên các mặt bên: đường ray thứ nhất nối trung điểm M của AB với trung điểm N của A'B', đường ray thứ hai nối điểm P trên CD (CP = 1/4 CD) với điểm Q trên C'D' (C'Q = 1/4 C'D'). Chứng minh hai đường ray này song song với nhau. Nếu chiều cao container là 2.5m, tính khoảng cách giữa hai đường ray này."
+
+#### **DẠNG 3: ỨNG DỤNG TRONG THIẾT KẾ SẢN PHẨM**
+
+**Cấu trúc đề:**
+- **Bối cảnh:** Thiết kế đồ vật, máy móc
+- **Yêu cầu:** Kết hợp với tính toán thể tích, diện tích
+
+**Ví dụ mẫu:**
+"Một nhà thiết kế tạo ra khung đèn trang trí hình tứ diện SABC. Để tăng hiệu ứng ánh sáng, người ta gắn các dải LED theo các đoạn thẳng MN, PQ, RS sao cho: M, N, P lần lượt chia các cạnh SA, SB, SC theo tỷ lệ 2:1 (tính từ S), còn Q, R, S lần lượt là trung điểm của AB, BC, CA. Chứng minh mặt phẳng (MNP) song song với mặt phẳng (ABC) và tính tỷ lệ diện tích của hai tam giác MNP và ABC."
+
+### III. HƯỚNG DẪN SINH ĐỀ CHI TIẾT
+
+#### **Bước 1: Chọn bối cảnh thực tế**
+- Kiến trúc: nhà, cầu, tháp, sân vận động
+- Giao thông: đường ray, cao tốc, sân bay
+- Công nghiệp: container, nhà máy, kho hàng
+- Đời sống: đồ dùng, trang trí, thiết kế
+
+#### **Bước 2: Thiết lập hình học**
+- Chọn hình cơ bản: hình hộp, hình chóp, hình lăng trụ
+- Xác định các điểm đặc biệt với tỷ lệ cụ thể
+- Đảm bảo có ít nhất 2-3 mối quan hệ song song
+
+#### **Bước 3: Thiết kế câu hỏi đa cấp độ**
+1. **Cấp độ 1:** Nhận biết quan hệ song song
+2. **Cấp độ 2:** Chứng minh mối quan hệ
+3. **Cấp độ 3:** Tính toán kích thước, tỷ lệ
+
+#### **Bước 4: Kết hợp kiến thức liên môn**
+- Vật lý: ánh sáng, lực
+- Địa lý: bản đồ, tọa độ
+- Hóa học: cấu trúc phân tử
+- Công nghệ: thiết kế sản phẩm
+
+### IV. BỘ TIÊU CHÍ ĐÁNH GIÁ ĐỀ VẬN DỤNG
+
+#### **Về nội dung (40%):**
+- ✓ Bối cảnh thực tế, hấp dẫn
+- ✓ Kết hợp 2-3 kiến thức
+- ✓ Có số liệu cụ thể, hợp lý
+
+#### **Về kỹ năng (35%):**
+- ✓ Yêu cầu 2-3 bước suy luận
+- ✓ Kết hợp chứng minh + tính toán
+- ✓ Phân tích mối quan hệ không gian
+
+#### **Về độ khó (25%):**
+- ✓ Phù hợp học sinh giỏi (8-9 điểm)
+- ✓ Không quá phức tạp về tính toán
+- ✓ Có tính phân loại cao
+
+### V. NGÂN HÀNG SỐ LIỆU THỰC TẾ
+
+**Kiến trúc:**
+- Chiều cao tầng: 2.7m - 3.2m
+- Độ dài phòng: 3m - 8m
+- Góc mái: 30° - 45°
+
+**Container:**
+- Kích thước chuẩn: 6m × 2.4m × 2.6m
+- Container lớn: 12m × 2.4m × 2.6m
+
+**Giao thông:**
+- Khổ đường ray: 1.435m
+- Chiều rộng làn đường: 3.5m - 3.75m
+
+Hướng dẫn này sẽ giúp giáo viên tạo ra những bài toán vận dụng chất lượng cao, vừa gắn liền thực tế vừa đảm bảo tính toán học chặt chẽ.

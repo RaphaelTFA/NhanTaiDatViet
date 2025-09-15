@@ -1,0 +1,12 @@
+**Yêu cầu của thể loại 'Vận dụng':**
+**Về nội dung:**
+*   Ứng dụng được chủ đề vào thực tế với những câu hỏi thực tế
+*   Những câu hỏi có mức đồ vừa và khó, tuy nhiên vẫn cần mối quan hệ chặt chẽ với chủ đề
+*   Câu hỏi phù thuộc với học sinh mức độ giỏi (9 điểm)
+
+**Về mức độ vận dụng:**
+*   Yêu cầu học sinh phải áp dụng công thức vào tình huống cụ thể, không chỉ nhớ công thức
+*   Cần thực hiện 2-3 bước tính toán hoặc suy luận
+*   Cần kết hợp câu hỏi với các chủ đề khác ở mức độ nhỏ và vừa phải
+*   Đòi hỏi phân tích mối quan hệ giữa các yếu tố trong bài toán
+*   Sử dụng số liệu thực tế, không quá phức tạp nhưng cần tính toán chính xác

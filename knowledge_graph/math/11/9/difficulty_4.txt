@@ -1,0 +1,126 @@
+# HƯỚNG DẪN SINH ĐỀ - MỨC VẬN DỤNG CAO
+## Chủ đề: ĐẠO HÀM - LỚP 11
+
+### I. KHUNG KIẾN THỨC CẦN VẬN DỤNG
+
+**Kiến thức chủ đạo (Đạo hàm):**
+- Định nghĩa đạo hàm bằng giới hạn
+- Các quy tắc tính đạo hàm (tổng, hiệu, tích, thương)
+- Đạo hàm hàm hợp
+- Ý nghĩa hình học của đạo hàm
+- Ứng dụng đạo hàm trong khảo sát hàm số
+
+**Kiến thức liên quan cần tích hợp:**
+- Hàm số và đồ thị
+- Phương trình, bất phương trình
+- Hình học tọa độ (phương trình đường thẳng)
+- Giới hạn hàm số
+- Bất đẳng thức
+
+### II. CÁC DẠNG BÀI VẬN DỤNG CAO
+
+#### **DẠNG 1: Tìm tham số để hàm số thỏa mãn điều kiện về đạo hàm**
+
+**Cấu trúc đề:**
+```
+Cho hàm số f(x) = ax³ + bx² + cx + d (a ≠ 0).
+Biết rằng:
+- Đồ thị hàm số đi qua điểm A(1; 2)
+- Tiếp tuyến tại A song song với đường thẳng y = 3x + 1
+- Hàm số có cực trị tại x = -1
+Tìm các tham số a, b, c, d.
+```
+
+**Phương pháp sinh đề:**
+- Kết hợp 3-4 điều kiện về: điểm đi qua, tiếp tuyến, cực trị
+- Yêu cầu giải hệ phương trình phức tạp
+- Có thể thêm điều kiện về giá trị cực trị
+
+#### **DẠNG 2: Bài toán tối ưu hóa kết hợp đạo hàm**
+
+**Cấu trúc đề:**
+```
+Một hình chữ nhật ABCD có đỉnh A tại gốc tọa độ, đỉnh C trên đồ thị 
+hàm số y = -x² + 4x + 1. Biết AB song song Ox, AD song song Oy.
+a) Biểu diễn diện tích hình chữ nhật theo x
+b) Tìm vị trí điểm C để diện tích lớn nhất
+c) Tại vị trí tối ưu, tính độ dài đường chéo và góc tạo bởi đường chéo với trục Ox
+```
+
+**Phương pháp sinh đề:**
+- Tích hợp hình học tọa độ với đạo hàm
+- Yêu cầu lập hàm mục tiêu
+- Kết hợp nhiều yêu cầu tính toán
+
+#### **DẠNG 3: Bài toán về tiếp tuyến phức tạp**
+
+**Cấu trúc đề:**
+```
+Cho đường cong (C): y = x³ - 3x² + 2 và điểm M(0; m).
+a) Tìm m để từ M kẻ được đúng 3 tiếp tuyến đến (C)
+b) Với giá trị m vừa tìm, gọi A, B, C là các tiếp điểm. 
+   Chứng minh tam giác ABC có trọng tâm nằm trên (C)
+c) Tính diện tích tam giác ABC
+```
+
+**Phương pháp sinh đề:**
+- Kết hợp phương trình tiếp tuyến với hệ phương trình bậc cao
+- Tích hợp hình học phẳng
+- Yêu cầu chứng minh tính chất hình học
+
+#### **DẠNG 4: Bài toán tham số với điều kiện đạo hàm**
+
+**Cấu trúc đề:**
+```
+Cho hàm số f(x) = (x² + mx + 1)/(x + 1) với x ≠ -1.
+a) Tìm m để f'(x) > 0 với mọi x ∈ (-∞; -1) ∪ (-1; +∞)
+b) Với m tìm được, chứng minh phương trình f(x) = k có nghiệm 
+   với mọi k ∈ R
+c) Tìm giá trị nhỏ nhất của biểu thức P = f(x) + f'(x)
+```
+
+**Phương pháp sinh đề:**
+- Kết hợp đạo hàm hàm phân thức với bất đẳng thức
+- Yêu cầu khảo sát tính đơn điệu
+- Tích hợp bài toán tìm cực trị
+
+### III. NGUYÊN TẮC SINH CÂU HỎI MỨC VẬN DỤNG CAO
+
+#### **1. Tính tích hợp cao:**
+- Mỗi câu hỏi phải kết hợp ít nhất 3 nhóm kiến thức
+- Đạo hàm là công cụ chính, không phải mục đích duy nhất
+- Liên kết với thực tế hoặc hình học
+
+#### **2. Độ phức tạp tính toán:**
+- Yêu cầu 4-6 bước giải chính
+- Có ít nhất 1 bước cần suy luận logic cao
+- Kết quả không "đẹp" quá, tránh đoán đáp án
+
+#### **3. Cấu trúc đề đa tầng:**
+- Câu a: Thiết lập cơ sở
+- Câu b: Vận dụng kết quả câu a + kiến thức mới
+- Câu c: Tổng hợp toàn bộ + yêu cầu cao nhất
+
+### IV. MẪU ĐỀ CHUẨN VẬN DỤNG CAO
+
+**Bài toán tổng hợp:**
+```
+Cho hàm số f(x) = x³ - 3ax² + (3a² - 1)x + b, trong đó a, b là tham số.
+
+a) Chứng minh rằng với mọi giá trị của a, hàm số luôn có hai điểm cực trị.
+   Tìm tọa độ các điểm cực trị theo a.
+
+b) Gọi A, B là hai điểm cực trị của đồ thị hàm số. Tìm a để đường thẳng AB 
+   có hệ số góc bằng 1. Với giá trị a vừa tìm, tìm b để khoảng cách từ gốc 
+   tọa độ đến đường thẳng AB bằng √2.
+
+c) Với các giá trị a, b tìm được ở câu b, chứng minh rằng phương trình 
+   f(x) = m có 3 nghiệm phân biệt khi và chỉ khi m thuộc một khoảng xác định.
+   Tìm khoảng đó.
+```
+
+**Đặc điểm của mẫu đề này:**
+- ✅ Tích hợp: Đạo hàm + Hình học tọa độ + Phương trình + Khảo sát hàm số
+- ✅ Tính logic: Mỗi câu dựa trên kết quả câu trước
+- ✅ Độ khó tăng dần: Chứng minh → Tính toán → Tổng hợp
+- ✅ Vận dụng linh hoạt các phương pháp giải

@@ -1,0 +1,130 @@
+# HƯỚNG DẪN SINH ĐỀ VẬN DỤNG - HÀM SỐ MŨ VÀ LOGARIT
+
+## I. KHUNG KIẾN THỨC CẦN VẬN DỤNG
+
+### 1. Hàm số mũ
+- Dạng: y = a^x (a > 0, a ≠ 1)
+- Tính chất tăng giảm
+- Phương trình mũ cơ bản
+
+### 2. Hàm số logarit
+- Dạng: y = log_a(x) (a > 0, a ≠ 1, x > 0)
+- Tính chất logarit
+- Phương trình logarit
+
+### 3. Ứng dụng thực tế
+- Tăng trưởng dân số
+- Lãi suất ngân hàng
+- Phân rã phóng xạ
+- Thang đo địa chấn
+
+## II. CÁC DẠNG ĐỀ VẬN DỤNG
+
+### DẠNG 1: BÀI TOÁN TĂNG TRƯỞNG DÂN SỐ
+
+**Cấu trúc đề:**
+```
+Dân số một thành phố năm 2020 là P₀ người. Tỷ lệ tăng dân số hàng năm là r%. 
+Dân số sau t năm được tính theo công thức: P(t) = P₀(1 + r/100)^t
+
+Cho số liệu cụ thể, yêu cầu:
+a) Tính dân số sau n năm
+b) Tìm thời gian để dân số đạt một mức nhất định
+c) So sánh với tình huống khác
+```
+
+**Ví dụ cụ thể:**
+Dân số TP.HCM năm 2020 là 8,99 triệu người với tỷ lệ tăng 1,2%/năm.
+a) Tính dân số năm 2030
+b) Năm nào dân số đạt 10 triệu người?
+c) Nếu tỷ lệ tăng giảm còn 1%/năm từ 2025, so sánh dân số năm 2030
+
+### DẠNG 2: BÀI TOÁN LÃI SUẤT NGÂN HÀNG
+
+**Cấu trúc đề:**
+```
+Gửi tiết kiệm với lãi suất kép: A = P(1 + r)^t
+Kết hợp với:
+- Gửi định kỳ hàng tháng
+- So sánh các phương án đầu tư
+- Tính thời gian đạt mục tiêu tài chính
+```
+
+**Ví dụ cụ thể:**
+Bạn An gửi 100 triệu đồng với lãi suất 6%/năm (lãi kép).
+a) Tính số tiền sau 5 năm
+b) Sau bao nhiêu năm số tiền gấp đôi?
+c) Nếu gửi thêm 10 triệu mỗi năm, tính tổng số tiền sau 10 năm
+
+### DẠNG 3: BÀI TOÁN THANG ĐO ĐỊA CHẤN
+
+**Cấu trúc đề:**
+```
+Thang đo Richter: M = log₁₀(A/A₀)
+M: cấp độ địa chấn
+A: biên độ sóng địa chấn
+A₀: biên độ chuẩn
+```
+
+**Ví dụ cụ thể:**
+Động đất cấp 7 có biên độ sóng gấp bao nhiêu lần động đất cấp 5?
+Nếu một trận động đất có biên độ gấp 1000 lần chuẩn, tính cấp độ Richter.
+
+### DẠNG 4: BÀI TOÁN PHÂN RÃ PHÓNG XẠ
+
+**Cấu trúc đề:**
+```
+Công thức phân rã: N(t) = N₀e^(-λt)
+Hoặc: N(t) = N₀(1/2)^(t/T)
+T: chu kì bán rã
+```
+
+**Ví dụ cụ thể:**
+Đồng vị C-14 có chu kì bán rã 5730 năm. Một mẫu gỗ cổ còn 65% lượng C-14 ban đầu.
+a) Tính tuổi của mẫu gỗ
+b) Sau bao lâu nữa lượng C-14 còn 25%?
+
+## III. YÊU CẦU KỸ THUẬT SINH ĐỀ
+
+### 1. Về số liệu
+- Sử dụng số liệu thực tế từ báo chí, thống kê
+- Số liệu không quá phức tạp nhưng cần tính toán chính xác
+- Làm tròn hợp lý (2-3 chữ số thập phân)
+
+### 2. Về mức độ tính toán
+- **Bước 1:** Xác định công thức phù hợp
+- **Bước 2:** Thay số và biến đổi
+- **Bước 3:** Giải phương trình/tính toán kết quả
+
+### 3. Tích hợp kiến thức khác
+- **Hình học:** Tính diện tích, thể tích tăng trưởng
+- **Đại số:** Giải hệ phương trình kết hợp
+- **Xác suất:** Mô hình tăng trưởng ngẫu nhiên
+
+## IV. TIÊU CHÍ ĐÁNH GIÁ
+
+### Câu hỏi tốt cần:
+1. **Tính thực tế cao:** Dữ liệu có thể tra cứu được
+2. **Mức độ vừa phải:** Học sinh giỏi làm được trong 8-12 phút
+3. **Tính tích hợp:** Kết hợp ít nhất 2 kỹ năng toán học
+4. **Tính phân tích:** Cần hiểu mối quan hệ giữa các đại lượng
+5. **Độ chính xác:** Kết quả có thể kiểm tra được
+
+### Tránh:
+- Số liệu quá phức tạp
+- Tính toán thuần túy không có ý nghĩa
+- Câu hỏi quá dễ hoặc quá khó
+- Thiếu tính ứng dụng thực tế
+
+## V. MẪU ĐỀ HOÀN CHỈNH
+
+**Câu:** Một nghiên cứu cho thấy số lượng vi khuẩn trong môi trường nuôi cấy tăng theo công thức N(t) = N₀ × 2^(t/3), trong đó N₀ = 1000 là số lượng ban đầu, t tính bằng giờ.
+
+a) Tính số lượng vi khuẩn sau 9 giờ.
+b) Sau bao lâu số lượng vi khuẩn đạt 50.000 con?
+c) Nếu môi trường chỉ chứa được tối đa 100.000 vi khuẩn, hãy xác định khoảng thời gian an toàn cho thí nghiệm.
+
+**Đáp án:**
+a) N(9) = 1000 × 2³ = 8000 con
+b) 2^(t/3) = 50 ⟹ t = 3log₂(50) ≈ 16,9 giờ
+c) t < 3log₂(100) ≈ 19,9 giờ

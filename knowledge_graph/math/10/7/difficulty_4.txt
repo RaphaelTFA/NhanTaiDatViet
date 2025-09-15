@@ -1,0 +1,142 @@
+# HƯỚNG DẪN SINH ĐỀ VẬN DỤNG CAO - PHƯƠNG PHÁP TỌA ĐỘ TRONG MẶT PHẲNG
+
+## I. KHUNG KIẾN THỨC TRỌNG TÂM
+
+### 1. Kiến thức chính (chủ đạo):
+- Tọa độ điểm, vectơ trong mặt phẳng
+- Phương trình đường thẳng (tổng quát, tham số, chính tắc)
+- Phương trình đường tròn
+- Khoảng cách từ điểm đến đường thẳng
+- Góc giữa hai đường thẳng
+
+### 2. Kiến thức liên quan cần kết hợp:
+- Hệ phương trình bậc nhất
+- Bất đẳng thức (Cauchy-Schwarz, tam giác)
+- Hình học phẳng (tính chất tam giác, đường tròn)
+- Hàm số bậc hai
+- Lượng giác cơ bản
+
+## II. CÁC DẠNG ĐỀ VẬN DỤNG CAO
+
+### Dạng 1: Bài toán tối ưu hóa kết hợp hình học
+
+**Cấu trúc đề:**
+```
+Cho tam giác ABC với A(a₁,a₂), B(b₁,b₂), C(c₁,c₂).
+Điểm M di động thỏa mãn điều kiện ràng buộc phức tạp.
+Tìm vị trí M để biểu thức f(M) đạt giá trị cực trị.
+```
+
+**Ví dụ cụ thể:**
+> Cho tam giác ABC với A(1,2), B(4,6), C(7,2). Điểm M(x,y) di động sao cho 
+> MA² + MB² + MC² = 50. Tìm tọa độ M để chu vi tam giác MAB đạt giá trị nhỏ nhất.
+
+**Kỹ năng cần vận dụng:**
+- Lập phương trình quỹ tích điểm M
+- Sử dụng bất đẳng thức để tìm cực trị
+- Kết hợp điều kiện ràng buộc với mục tiêu tối ưu
+
+### Dạng 2: Bài toán chứng minh tính chất hình học qua tọa độ
+
+**Cấu trúc đề:**
+```
+Cho hình H với các đỉnh có tọa độ chứa tham số.
+Chứng minh H có tính chất đặc biệt khi tham số thỏa mãn điều kiện nào đó.
+Tìm điều kiện để H có tính chất mong muốn.
+```
+
+**Ví dụ cụ thể:**
+> Cho tứ giác ABCD với A(2,1), B(m,3), C(4,n), D(1,2).
+> a) Tìm điều kiện của m,n để ABCD là hình bình hành.
+> b) Với điều kiện câu a, chứng minh rằng đường tròn ngoại tiếp tam giác ABC 
+>    luôn đi qua một điểm cố định khi m thay đổi.
+
+### Dạng 3: Bài toán quỹ tích phức tạp
+
+**Cấu trúc đề:**
+```
+Cho hệ hình học với điều kiện ràng buộc.
+Một điểm di động theo quy luật phức tạp.
+Tìm quỹ tích và các tính chất của quỹ tích đó.
+```
+
+**Ví dụ cụ thể:**
+> Cho đường tròn (C): x² + y² - 4x - 2y + 1 = 0 và điểm A(1,3).
+> Từ A kẻ các tiếp tuyến đến đường tròn (C), tiếp tuyến thứ nhất cắt trục Ox tại M,
+> tiếp tuyến thứ hai cắt trục Oy tại N. Tìm quỹ tích trung điểm I của MN.
+
+### Dạng 4: Bài toán tích hợp nhiều đối tượng hình học
+
+**Cấu trúc đề:**
+```
+Cho hệ thống: đường thẳng, đường tròn, điểm với mối quan hệ phức tạp.
+Yêu cầu tìm vị trí, tính chất thỏa mãn nhiều điều kiện đồng thời.
+```
+
+**Ví dụ cụ thể:**
+> Cho tam giác ABC vuông cân tại A, với B(3,1), C(1,5).
+> a) Tìm tọa độ đỉnh A.
+> b) Gọi H là trực tâm tam giác ABC. Viết phương trình đường tròn (T) có tâm H
+>    và tiếp xúc với đường thẳng BC.
+> c) Tìm điểm M trên (T) sao cho MA + MB + MC đạt giá trị nhỏ nhất.
+
+## III. HƯỚNG DẪN THIẾT KẾ CÂU HỎI
+
+### Bước 1: Xác định mục tiêu
+- Chọn 3-4 kiến thức chính cần kiểm tra
+- Xác định 2-3 kiến thức liên quan để tích hợp
+- Đảm bảo có ít nhất 1 kỹ năng tư duy cao (phân tích, tổng hợp, đánh giá)
+
+### Bước 2: Thiết lập bối cảnh
+- Tạo hệ thống hình học có tính thực tế hoặc hấp dẫn
+- Đưa vào tham số để tăng độ phức tạp
+- Tạo mối liên hệ giữa các đối tượng hình học
+
+### Bước 3: Phân cấp câu hỏi
+```
+Câu a (30%): Thiết lập cơ sở - tính toán cơ bản
+Câu b (40%): Vận dụng - kết hợp 2-3 kiến thức
+Câu c (30%): Tư duy cao - phân tích, tổng hợp, sáng tạo
+```
+
+### Bước 4: Kiểm tra tính phù hợp
+- Đảm bảo có thể giải được trong thời gian quy định
+- Kiểm tra tính logic của các câu hỏi con
+- Xác nhận đáp án chính xác và đầy đủ
+
+## IV. CÁC SAI LẦM CẦN TRÁNH
+
+### 1. Về nội dung:
+- Không sử dụng kiến thức ngoài chương trình lớp 10
+- Tránh các phép tính quá phức tạp che lấp ý tưởng chính
+- Không đặt quá nhiều điều kiện gây rối
+
+### 2. Về cấu trúc:
+- Tránh câu hỏi độc lập không liên quan
+- Không để câu sau không sử dụng kết quả câu trước
+- Tránh độ khó tăng đột ngột giữa các câu
+
+### 3. Về mức độ:
+- Không yêu cầu học sinh "đoán" ý tưởng quá xa lạ
+- Tránh bài toán chỉ có một cách giải duy nhất quá kỹ thuật
+- Đảm bảo học sinh khá giỏi có thể tiếp cận được
+
+## V. TIÊU CHÍ ĐÁNH GIÁ CHẤT LƯỢNG ĐỀ
+
+### 1. Tính phù hợp (25%):
+- Đúng chương trình, đúng đối tượng học sinh
+- Thời gian làm bài hợp lý
+
+### 2. Tính tích hợp (25%):
+- Kết hợp nhiều kiến thức một cách tự nhiên
+- Có sự liên kết logic giữa các phần
+
+### 3. Tính phân hóa (25%):
+- Phân biệt được học sinh khác nhau về năng lực
+- Có câu dễ tiếp cận và câu thách thức
+
+### 4. Tính sáng tạo (25%):
+- Bối cảnh mới lạ, hấp dẫn
+- Yêu cầu tư duy linh hoạt, không máy móc
+
+Hướng dẫn này giúp giáo viên tạo ra những đề bài chất lượng cao, vừa đánh giá đúng năng lực học sinh, vừa khuyến khích tư duy sáng tạo trong học tập Toán học.

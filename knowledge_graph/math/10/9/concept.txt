@@ -1,0 +1,90 @@
+# TÓM TẮT: TÍNH XÁC SUẤT THEO ĐỊNH NGHĨA CỔ ĐIỂN
+
+## I. ĐỊNH NGHĨA CƠ BẢN
+
+### 1. Phép thử ngẫu nhiên
+- **Định nghĩa**: Là một hành động hoặc thí nghiệm mà kết quả không thể dự đoán trước được.
+- **Ví dụ**: Tung đồng xu, tung xúc xắc, rút thẻ bài...
+
+### 2. Không gian mẫu
+- **Định nghĩa**: Tập hợp tất cả các kết quả có thể xảy ra của phép thử, ký hiệu Ω.
+- **Ví dụ**: 
+  - Tung đồng xu: Ω = {S, N}
+  - Tung xúc xắc: Ω = {1, 2, 3, 4, 5, 6}
+
+### 3. Biến cố
+- **Định nghĩa**: Là tập con của không gian mẫu Ω.
+- **Các loại biến cố**:
+  - Biến cố chắc chắn: Ω
+  - Biến cố không thể: ∅
+  - Biến cố đối của A: Ā
+
+## II. ĐỊNH NGHĨA XÁC SUẤT CỔ ĐIỂN
+
+### Công thức cơ bản:
+```
+P(A) = n(A)/n(Ω)
+```
+
+Trong đó:
+- P(A): Xác suất của biến cố A
+- n(A): Số kết quả thuận lợi cho biến cố A
+- n(Ω): Tổng số kết quả có thể xảy ra
+
+### Điều kiện áp dụng:
+- Không gian mẫu là hữu hạn
+- Các kết quả đồng khả năng (có xác suất như nhau)
+
+## III. TÍNH CHẤT CỦA XÁC SUẤT
+
+1. **0 ≤ P(A) ≤ 1** với mọi biến cố A
+2. **P(Ω) = 1** (xác suất biến cố chắc chắn)
+3. **P(∅) = 0** (xác suất biến cố không thể)
+4. **P(Ā) = 1 - P(A)** (xác suất biến cố đối)
+
+## IV. CÔNG THỨC TÍNH XÁC SUẤT
+
+### 1. Quy tắc cộng xác suất:
+- Nếu A và B xung khắc: **P(A ∪ B) = P(A) + P(B)**
+- Trường hợp tổng quát: **P(A ∪ B) = P(A) + P(B) - P(A ∩ B)**
+
+### 2. Quy tắc nhân xác suất:
+- Nếu A và B độc lập: **P(A ∩ B) = P(A) × P(B)**
+
+## V. DẠNG BÀI TẬP CHÍNH
+
+### Dạng 1: Tính xác suất cơ bản
+- **Phương pháp**: 
+  - Xác định không gian mẫu Ω
+  - Xác định biến cố A
+  - Áp dụng công thức P(A) = n(A)/n(Ω)
+
+### Dạng 2: Bài toán tung xúc xắc
+- **Ví dụ**: Tung hai xúc xắc, tính xác suất tổng hai mặt bằng 7
+- **Cách giải**: n(Ω) = 36, liệt kê các trường hợp thuận lợi
+
+### Dạng 3: Bài toán rút thẻ, bi
+- **Phương pháp**: Sử dụng tổ hợp C(n,k) để đếm
+- **Công thức**: P(A) = C(m,k)/C(n,k) với m ≤ n
+
+### Dạng 4: Bài toán xếp vị trí
+- **Phương pháp**: Sử dụng hoán vị và tổ hợp
+- **Lưu ý**: Phân biệt có thứ tự và không có thứ tự
+
+### Dạng 5: Xác suất của biến cố đối
+- **Phương pháp**: P(A) = 1 - P(Ā)
+- **Khi nào dùng**: Khi tính P(Ā) dễ hơn P(A)
+
+## VI. CÔNG THỨC TỔ HỢP CẦN NHỚ
+
+- **Hoán vị**: P(n) = n!
+- **Chỉnh hợp**: A(n,k) = n!/(n-k)!
+- **Tổ hợp**: C(n,k) = n!/[k!(n-k)!]
+
+## VII. LƯU Ý QUAN TRỌNG
+
+1. Luôn kiểm tra điều kiện đồng khả năng
+2. Xác định rõ không gian mẫu
+3. Phân biệt "có thứ tự" và "không có thứ tự"
+4. Sử dụng biến cố đối khi cần thiết
+5. Kiểm tra kết quả: 0 ≤ P(A) ≤ 1

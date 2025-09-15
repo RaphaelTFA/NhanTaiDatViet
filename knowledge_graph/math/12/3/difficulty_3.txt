@@ -1,0 +1,126 @@
+# HƯỚNG DẪN SINH ĐỀ MỨC ĐỘ VẬN DỤNG
+## Chủ đề: Các số đặc trưng đo mức độ phân tán của mẫu số liệu ghép nhóm
+
+### I. KHUNG KIẾN THỨC CẦN VẬN DỤNG
+
+**Các công thức cần nắm vững:**
+- Phương sai: $s^2 = \frac{1}{n}\sum_{i=1}^k n_i(x_i - \bar{x})^2$ hoặc $s^2 = \frac{1}{n}\sum_{i=1}^k n_i x_i^2 - \bar{x}^2$
+- Độ lệch chuẩn: $s = \sqrt{s^2}$
+- Khoảng biến thiên: $R = x_{max} - x_{min}$
+- Khoảng tứ phân vị: $\Delta_Q = Q_3 - Q_1$
+
+### II. CẤU TRÚC SINH ĐỀ MỨC VẬN DỤNG
+
+#### **Dạng 1: Ứng dụng thực tế - So sánh mức độ phân tán**
+
+**Mẫu câu hỏi:**
+```
+Một công ty sản xuất có hai ca làm việc. Để đánh giá hiệu quả sản xuất, 
+người ta thống kê số sản phẩm làm được trong 40 ngày của mỗi ca:
+
+Ca sáng:
+| Số sản phẩm | [50;60) | [60;70) | [70;80) | [80;90) | [90;100] |
+|-------------|---------|---------|---------|---------|----------|
+| Số ngày     |    4    |    8    |   16    |    8    |    4     |
+
+Ca chiều:
+| Số sản phẩm | [50;60) | [60;70) | [70;80) | [80;90) | [90;100] |
+|-------------|---------|---------|---------|---------|----------|
+| Số ngày     |    2    |   10    |   16    |   10    |    2     |
+
+a) Tính độ lệch chuẩn của mỗi ca.
+b) Ca nào có năng suất ổn định hơn? Giải thích.
+c) Nếu công ty muốn chọn ca có năng suất vừa cao vừa ổn định, 
+   nên chọn ca nào?
+```
+
+#### **Dạng 2: Phân tích và so sánh dữ liệu**
+
+**Mẫu câu hỏi:**
+```
+Điểm kiểm tra Toán của hai lớp 12A và 12B được thống kê:
+
+Lớp 12A (n₁ = 45):
+| Điểm       | [0;2) | [2;4) | [4;6) | [6;8) | [8;10] |
+|------------|-------|-------|-------|-------|--------|
+| Số học sinh|   2   |   5   |   15  |   18  |   5    |
+
+Lớp 12B có điểm trung bình 6,4 và độ lệch chuẩn 1,8.
+
+a) Tính điểm trung bình và độ lệch chuẩn của lớp 12A.
+b) So sánh mức độ đồng đều về học lực của hai lớp.
+c) Nếu ghép hai lớp thành một khối, hãy ước tính độ lệch chuẩn 
+   của khối (biết lớp 12B có 40 học sinh).
+```
+
+#### **Dạng 3: Ứng dụng trong kinh tế - tài chính**
+
+**Mẫu câu hỏi:**
+```
+Một ngân hàng thống kê thu nhập hàng tháng (triệu đồng) của 
+khách hàng vay vốn:
+
+| Thu nhập    | [10;15) | [15;20) | [20;25) | [25;30) | [30;35] |
+|-------------|---------|---------|---------|---------|---------|
+| Số khách hàng|   25   |   40    |   60    |   35    |   15    |
+
+a) Tính các số đặc trưng đo mức độ phân tán.
+b) Ngân hàng quy định chỉ cho vay khách hàng có thu nhập 
+   trong khoảng [x̄ - s; x̄ + s]. Tính tỷ lệ khách hàng đủ điều kiện.
+c) Nếu thu nhập của mỗi khách hàng tăng 20%, hãy tính độ lệch 
+   chuẩn mới.
+```
+
+#### **Dạng 4: Kết hợp với xác suất**
+
+**Mẫu câu hỏi:**
+```
+Khảo sát thời gian chờ xe buýt (phút) tại một trạm:
+
+| Thời gian  | [0;5)  | [5;10) | [10;15) | [15;20) | [20;25] |
+|------------|--------|--------|---------|---------|---------|
+| Tần số     |   0,1  |  0,25  |   0,3   |  0,25   |  0,1    |
+
+a) Lập bảng phân bố tần số cho 200 lần quan sát.
+b) Tính phương sai và độ lệch chuẩn.
+c) Tính xác suất thời gian chờ nằm trong khoảng [x̄ - 2s; x̄ + 2s].
+d) Nhận xét về mức độ tập trung của dữ liệu.
+```
+
+### III. TIÊU CHÍ ĐÁNH GIÁ MỨC ĐỘ VẬN DỤNG
+
+#### **Về nội dung:**
+- ✅ Tình huống thực tế (sản xuất, giáo dục, kinh tế)
+- ✅ Yêu cầu phân tích, so sánh, đánh giá
+- ✅ Kết hợp nhiều số đặc trưng
+- ✅ Có yêu cầu giải thích ý nghĩa thực tế
+
+#### **Về kỹ năng:**
+- ✅ Tính toán chính xác (2-3 bước)
+- ✅ Phân tích mối quan hệ giữa các đại lượng
+- ✅ Ứng dụng công thức vào tình huống cụ thể
+- ✅ Kết hợp với kiến thức khác (xác suất, hàm số)
+
+### IV. GỢI Ý MỞ RỘNG
+
+#### **Biến thể nâng cao:**
+1. **Dữ liệu bị khuyết:** Cho một phần thông tin, tìm giá trị còn lại
+2. **So sánh 3 nhóm:** Tăng độ phức tạp phân tích
+3. **Ứng dụng quy tắc 68-95-99.7:** Kết hợp với phân phối chuẩn
+4. **Tối ưu hóa:** Tìm giá trị làm cực trị của độ lệch chuẩn
+
+#### **Lưu ý khi ra đề:**
+- Số liệu phải hợp lý với thực tế
+- Tính toán không quá phức tạp nhưng đủ thách thức
+- Câu hỏi phụ tăng dần độ khó
+- Có yêu cầu giải thích, nhận xét
+
+### V. ĐÁP ÁN THAM KHẢO (cho Dạng 1)
+
+**a) Tính độ lệch chuẩn:**
+- Ca sáng: x̄₁ = 75, s₁ ≈ 12,25
+- Ca chiều: x̄₂ = 75, s₂ ≈ 10,95
+
+**b) Ca chiều ổn định hơn** (s₂ < s₁)
+
+**c) Chọn ca chiều** (cùng năng suất nhưng ổn định hơn)

@@ -1,0 +1,128 @@
+# HƯỚNG DẪN SINH ĐỀ MỨC THÔNG HIỂU
+## Chủ đề: Ứng dụng đạo hàm để khảo sát và vẽ đồ thị hàm số - Lớp 12
+
+---
+
+## I. KHUNG KIẾN THỨC CẦN ĐÁNH GIÁ
+
+### 1. Các khái niệm cơ bản cần thông hiểu:
+- Tập xác định, giới hạn và tính liên tục
+- Đạo hàm cấp 1, cấp 2 và ý nghĩa hình học
+- Điểm cực trị, điểm uốn
+- Khoảng đồng biến, nghịch biến
+- Khoảng lồi, lõm của đồ thị
+- Tiệm cận đứng, tiệm cận ngang
+
+### 2. Các kỹ năng cần đánh giá:
+- Tính đạo hàm và xét dấu đạo hàm
+- Lập bảng biến thiên
+- Xác định tính chất hàm số từ đồ thị
+- Chuyển đổi giữa bảng biến thiên và đồ thị
+- Giải thích mối liên hệ giữa f(x), f'(x), f''(x)
+
+---
+
+## II. CÁC DẠNG CÂU HỎI THEO MỨC THÔNG HIỂU
+
+### **DẠNG 1: PHÂN TÍCH VÀ GIẢI THÍCH CÁC KHÁI NIỆM**
+
+#### Mẫu câu 1.1:
+*Cho hàm số y = x³ - 3x² + 2. Giải thích vì sao hàm số có hai điểm cực trị và xác định tọa độ các điểm đó.*
+
+**Hướng dẫn sinh đề:**
+- Chọn hàm bậc 3 có hệ số a > 0, phương trình f'(x) = 0 có 2 nghiệm phân biệt
+- Yêu cầu giải thích điều kiện tồn tại cực trị
+- Tính toán cụ thể tọa độ các điểm cực trị
+
+#### Mẫu câu 1.2:
+*Cho hàm số y = (x+1)/(x-2). So sánh và phân tích sự khác biệt giữa tiệm cận đứng và tiệm cận ngang của đồ thị hàm số này.*
+
+**Hướng dẫn sinh đề:**
+- Chọn hàm phân thức đơn giản có cả tiệm cận đứng và ngang
+- Yêu cầu giải thích bản chất của từng loại tiệm cận
+- So sánh ý nghĩa hình học
+
+### **DẠNG 2: ÁP DỤNG CÔNG THỨC VÀ ĐỊNH LÝ CƠ BẢN**
+
+#### Mẫu câu 2.1:
+*Cho hàm số y = x⁴ - 2x² + 1. Áp dụng quy tắc xét dấu đạo hàm để tìm khoảng đồng biến, nghịch biến của hàm số.*
+
+**Hướng dẫn sinh đề:**
+- Chọn hàm bậc 4 trùng phương đơn giản
+- Phương trình f'(x) = 0 có 3 nghiệm dễ tính
+- Yêu cầu lập bảng xét dấu và kết luận
+
+#### Mẫu câu 2.2:
+*Tìm giá trị tham số m để hàm số y = x³ - 3mx² + 3x - 1 có cực đại tại x = 1.*
+
+**Hướng dẫn sinh đề:**
+- Sử dụng điều kiện f'(1) = 0 và f''(1) < 0
+- Tính toán đơn giản, 1-2 bước giải
+- Kiểm tra điều kiện cực đại
+
+### **DẠNG 3: NHẬN BIẾT MỐI LIÊN HỆ GIỮA CÁC KHÁI NIỆM**
+
+#### Mẫu câu 3.1:
+*Cho đồ thị hàm số y = f(x). Dựa vào đồ thị, hãy nhận xét về dấu của f'(x) và f''(x) trên các khoảng khác nhau.*
+
+**Hướng dẫn sinh đề:**
+- Vẽ đồ thị hàm bậc 3 có đầy đủ các tính chất
+- Yêu cầu liên hệ giữa độ dốc tiếp tuyến và dấu f'(x)
+- Liên hệ giữa độ cong và dấu f''(x)
+
+#### Mẫu câu 3.2:
+*Giải thích mối quan hệ giữa điểm uốn của đồ thị hàm số y = f(x) và đạo hàm cấp hai f''(x).*
+
+**Hướng dẫn sinh đề:**
+- Cho ví dụ cụ thể với hàm bậc 3
+- Yêu cầu giải thích điều kiện f''(x) = 0 và f'''(x) ≠ 0
+- Liên hệ với sự thay đổi tính lồi, lõm
+
+### **DẠNG 4: CHUYỂN ĐỔI GIỮA CÁC BIỂU DIỄN**
+
+#### Mẫu câu 4.1:
+*Cho bảng biến thiên của hàm số y = f(x). Vẽ dáng điệu đồ thị và cho biết số nghiệm của phương trình f(x) = k theo tham số k.*
+
+**Hướng dẫn sinh đề:**
+- Cho bảng biến thiên hàm bậc 3 đơn giản
+- Yêu cầu vẽ đồ thị từ bảng biến thiên
+- Biện luận số nghiệm bằng phương pháp đồ thị
+
+#### Mẫu câu 4.2:
+*Cho đồ thị hàm số y = f'(x). Lập bảng biến thiên của hàm số y = f(x).*
+
+**Hướng dẫn sinh đề:**
+- Cho đồ thị f'(x) là parabol đơn giản
+- Yêu cầu xét dấu f'(x) từ đồ thị
+- Lập bảng biến thiên của f(x)
+
+---
+
+## III. TIÊU CHÍ ĐÁNH GIÁ VÀ PHÂN LOẠI ĐỘ KHÓ
+
+### **Mức độ phù hợp:**
+- ✅ Sử dụng 1-2 công thức cơ bản
+- ✅ Yêu cầu giải thích, phân tích
+- ✅ Kết hợp tối đa 2 khái niệm
+- ✅ Tính toán không quá phức tạp
+
+### **Các hàm số phù hợp cho mức Thông hiểu:**
+1. **Hàm bậc 3:** y = ax³ + bx² + cx + d (a ≠ 0)
+2. **Hàm trùng phương:** y = ax⁴ + bx² + c (a ≠ 0)
+3. **Hàm phân thức:** y = (ax+b)/(cx+d) (c ≠ 0, ad-bc ≠ 0)
+
+### **Từ khóa chỉ dẫn trong đề:**
+- "Giải thích vì sao..."
+- "So sánh và phân tích..."
+- "Áp dụng quy tắc... để tìm..."
+- "Dựa vào đồ thị, hãy nhận xét..."
+- "Lập bảng... từ..."
+
+---
+
+## IV. LƯU Ý KHI SINH ĐỀ
+
+1. **Tránh:** Tính toán phức tạp, biến đổi kỹ thuật cao
+2. **Chú trọng:** Hiểu bản chất khái niệm, mối liên hệ giữa các đại lượng
+3. **Cân bằng:** Giữa lý thuyết và tính toán
+4. **Đảm bảo:** Học sinh có thể giải trong 8-12 phút/câu

@@ -1,0 +1,16 @@
+**Yêu cầu của thể loại 'Nhận biết':**
+*   Câu hỏi kiểm tra khả năng nhớ, nhận ra các khái niệm, định nghĩa, công thức cơ bản
+*   Học sinh chỉ cần áp dụng trực tiếp định nghĩa hoặc công thức đã học
+*   Không yêu cầu phân tích, tổng hợp hay vận dụng phức tạp
+*   Có thể trả lời ngắn gọn hoặc chọn đáp án
+
+**Yêu cầu của nội dung:**
+*   Nhắc lại được định nghĩa và tính chất cơ bản của chủ đề
+*   Nêu ra được những công thức cơ bản, dễ nhận thấy trong SGK
+*   Những câu hỏi có tính chất đơn giản, dễ dàng để nhận biết, phù hợp với học sinh trung bình. (5 *   6 điểm) 
+
+Hướng dẫn tạo câu hỏi:
+*   Sử dụng các động từ: "Tính", "Xác định", "Cho biết", "Tìm", "Nhận biết"
+*   Tập trung vào việc nhớ và áp dụng trực tiếp công thức
+*   Tránh các bài toán yêu cầu biến đổi phức tạp hoặc nhiều bước
+*   Có thể đưa ra các lựa chọn rõ ràng, dễ phân biệt

@@ -1,0 +1,76 @@
+**Mục tiêu:** Đánh giá độ phù hợp của một văn bản toán học (ví dụ: một bài toán, một phần lý thuyết, một ví dụ minh họa) với độ khó đã xác định trước (Nhận biết, Thông hiểu, Vận dụng, Vận dụng cao) trong chương trình toán cấp 3.
+
+**1. Xác định Độ khó Mục tiêu của Văn bản:**
+Trước khi bắt đầu chấm điểm, hãy đảm bảo bạn đã biết độ khó mà văn bản này được gán (ví dụ: "Đây là một bài toán Nhận biết"), chủ đề của văn bản, và cả khối lớp học.
+
+**2. Tiêu chí Chấm điểm cho từng Mức độ Khó:**
+**A. Mức độ "Nhận biết" (nếu mức độ yêu cầu không phải "Nhận biết", vui lòng bỏ qua phần này) **
+
+*   **Đặc điểm:** Chỉ yêu cầu ghi nhớ, nhắc lại kiến thức, công thức, định nghĩa cơ bản. Không yêu cầu suy luận, phân tích, tổng hợp. Thường là các câu hỏi trực tiếp, một bước. Dễ dàng tìm thấy câu trả lời trong sách giáo khoa hoặc tài liệu cơ bản.
+*   **Điểm đánh giá phù hợp (tối đa 10 điểm):**
+    *   **10 điểm:** Văn bản hoàn toàn phù hợp, chỉ chứa yêu cầu ghi nhớ hoặc nhận diện kiến thức cơ bản một cách trực tiếp.
+    *   **6 - 8 điểm:** Văn bản chủ yếu là nhận biết nhưng có một chút liên kết thông tin rất đơn giản, không đáng kể.
+    *   **2 - 4 điểm:** Văn bản có yếu tố nhận biết nhưng đã xen kẽ yêu cầu thông hiểu hoặc vận dụng.
+    *   **0 điểm:** Văn bản không phù hợp với mức nhận biết.
+
+**B. Mức độ "Thông hiểu" (nếu mức độ yêu cầu không phải "Thông hiểu", vui lòng bỏ qua phần này)**
+
+*   **Đặc điểm:** Yêu cầu giải thích, diễn đạt lại kiến thức bằng ngôn ngữ của bản thân. Vận dụng trực tiếp một hoặc vài công thức/định lý vào tình huống cụ thể (thường là tình huống quen thuộc). Thực hiện các phép tính, biến đổi cơ bản.
+*   **Điểm đánh giá phù hợp (tối đa 2.5 điểm):**
+    *   **10 điểm:** Văn bản hoàn toàn phù hợp, yêu cầu giải thích, minh họa hoặc vận dụng trực tiếp kiến thức đã học vào tình huống quen thuộc.
+    *   **6 - 8 điểm:** Văn bản chủ yếu là thông hiểu nhưng có thể đòi hỏi một chút kết nối kiến thức từ hai phần nhỏ, hoặc một bước biến đổi không hoàn toàn trực tiếp.
+    *   **2 - 4 điểm** Văn bản có yếu tố thông hiểu nhưng đã xen kẽ yêu cầu vận dụng hoặc vận dụng cao.
+    *   **0 điểm:** Văn bản không phù hợp với mức thông hiểu.
+
+**C. Mức độ "Vận dụng" (nếu mức độ yêu cầu không phải "Vận dụng", vui lòng bỏ qua phần này)**
+
+*   **Đặc điểm:** Yêu cầu sử dụng kiến thức, kỹ năng đã học trong các tình huống mới hoặc phức tạp hơn. Thực hiện các quy trình giải quyết vấn đề nhiều bước. Phân tích bài toán, xác định các công cụ cần sử dụng, lập kế hoạch giải quyết. Kết nối kiến thức từ hai hoặc nhiều phần của chương trình. Có yếu tố suy luận logic, giải quyết vấn đề.
+*   **Điểm đánh giá phù hợp (tối đa 2.5 điểm):**
+    *   **10 điểm:** Văn bản hoàn toàn phù hợp, yêu cầu áp dụng kiến thức, kỹ năng vào tình huống mới hoặc giải quyết vấn đề có nhiều bước, cần kết nối kiến thức từ hai đến ba chuyên đề khác nhau.
+    *   **6 - 8 điểm:** Văn bản chủ yếu là vận dụng nhưng có thể chứa một phần yêu cầu khá quen thuộc hoặc có một bước nào đó khá phức tạp, gần với vận dụng cao.
+    *   **2 - 4 điểm** Văn bản có yếu tố vận dụng nhưng đã xen kẽ yêu cầu vận dụng cao một cách rõ rệt.
+    *   **0 điểm:** Văn bản không phù hợp với mức vận dụng.
+
+**D. Mức độ "Vận dụng cao" (nếu mức độ yêu cầu không phải "Vận dụng cao", vui lòng bỏ qua phần này)**
+
+*   **Đặc điểm:** Yêu cầu giải quyết các vấn đề phức tạp, đòi hỏi tư duy sáng tạo, độc lập. Phân tích sâu sắc bài toán, phát hiện các mối quan hệ ẩn, đặt ra giả thuyết và kiểm tra. Kết nối kiến thức từ nhiều chương, nhiều lĩnh vực toán học. Giải quyết các bài toán có nhiều cách tiếp cận, không có lời giải trực tiếp.
+*   **Điểm đánh giá phù hợp (tối đa 2.5 điểm):**
+    *   **10 điểm:** Văn bản hoàn toàn phù hợp, yêu cầu giải quyết vấn đề phức tạp, đòi hỏi tư duy sáng tạo, kết nối nhiều kiến thức sâu rộng, có thể có nhiều trường hợp cần xét hoặc cần biến đổi khéo léo.
+    *   **6 - 8 điểm:** Văn bản chủ yếu là vận dụng cao nhưng các bước giải có thể không quá "bí hiểm" hoặc có thể áp dụng một số kỹ thuật quen thuộc ở mức độ nâng cao.
+    *   **2 - 4 điểm** Văn bản có yếu tố vận dụng cao nhưng có thể giải quyết bằng các bước thông thường của vận dụng.
+    *   **0 điểm:** Văn bản không phù hợp với mức vận dụng cao.
+
+**3. Quy trình Chấm điểm tổng thể:**
+
+1.  **Đọc kỹ văn bản và Xác định độ khó mục tiêu.**
+2.  **Đánh giá mức độ phù hợp:** Dựa trên các tiêu chí chi tiết ở Mục 2, hãy xem xét văn bản **phù hợp đến mức nào** so với độ khó mục tiêu. Cân nhắc xem văn bản đó thuộc đúng loại độ khó hay đang "lệch" sang độ khó thấp hơn/cao hơn.
+3.  **Gán điểm dựa trên mức độ phù hợp:** Dựa trên các mức điểm 0 - 10 cho từng tiêu chí, hãy xác định điểm cho văn bản đó.
+4.  **Viết nhận xét (quan trọng):** Giải thích lý do bạn gán điểm, chỉ ra những điểm mạnh (phù hợp) và điểm yếu (chưa phù hợp) của văn bản so với độ khó mục tiêu. Đề xuất cải thiện nếu cần.
+
+**4. Tổng điểm:**
+*(Dựa trên đánh giá của bạn về mức độ phù hợp của văn bản với độ khó mục tiêu)*
+[**_CHỈ ĐIỀN MỘT LẦN VÀO ĐÂY SAU KHI HOÀN THÀNH ĐÁNH GIÁ_**]
+**Tổng điểm: x/10** (Ví dụ: 7.5/10)
+
+**5. Định dạng chấm**
+*   **Văn bản:** [Văn bản cần được chấm]
+*   **Độ khó mục tiêu:** [Mức độ khó cần được thực hiện]
+*   **Đánh giá:** [Đánh giá cần thiết]
+*   **Nhận xét:** [Những điều văn bản cần sửa đổi]
+*   **Tổng điểm: [Tổng điểm đưa ra (x/10)]*
+
+**Ví dụ Minh họa:**
+
+*   **Văn bản:** "Tính đạo hàm của hàm số $y = x^3 - 2x + 1$."
+*   **Độ khó mục tiêu:** Nhận biết
+*   **Đánh giá:** Văn bản này vượt quá mức nhận biết vì yêu cầu áp dụng quy tắc tính đạo hàm (thông hiểu). Nếu độ khó mục tiêu là "Nhận biết" thì văn bản này không phù hợp.
+*   **Nhận xét:** Văn bản yêu cầu áp dụng quy tắc đạo hàm cơ bản, thuộc mức độ Thông hiểu chứ không phải Nhận biết. Do đó, nó chưa phù hợp với độ khó mục tiêu đã đặt ra.
+*   **Tổng điểm: 2/10**
+
+---
+
+*   **Văn bản:** "Cho hàm số $y = x^4 - 2x^2 + 3$. Tìm tất cả các giá trị của tham số m để phương trình $x^4 - 2x^2 + 3 = m$ có đúng 4 nghiệm phân biệt."
+*   **Độ khó mục tiêu:** Vận dụng cao
+*   **Đánh giá:** Bài toán này đòi hỏi khảo sát sự biến thiên của hàm trùng phương, vẽ bảng biến thiên hoặc đồ thị để xác định số nghiệm của phương trình dựa vào đường thẳng $y=m$. Đây là một dạng bài điển hình của vận dụng cao.
+*   **Nhận xét:** Bài toán đòi hỏi phân tích hàm số, dựa vào đồ thị để xác định số nghiệm, cần tư duy kết nối kiến thức về khảo sát hàm số và số nghiệm của phương trình. Đây là một bài toán vận dụng cao hoàn toàn phù hợp với độ khó mục tiêu.
+*   **Tổng điểm: 9.5/10**

@@ -1,0 +1,134 @@
+# HƯỚNG DẪN SINH ĐỀ: CÁC SỐ ĐẶC TRƯNG ĐO XU THẾ TRUNG TÂM CỦA MẪU SỐ LIỆU GHÉP NHÓM
+**Cấp độ: THÔNG HIỂU - Lớp 11**
+
+## I. KIẾN THỨC CẦN NẮM VỮNG
+
+### 1. Các số đặc trưng chính:
+- **Số trung bình cộng**: $\overline{x} = \frac{\sum_{i=1}^{k} n_i x_i}{\sum_{i=1}^{k} n_i}$
+- **Trung vị (Me)**: Giá trị chia mẫu thành 2 phần bằng nhau
+- **Mốt (Mo)**: Giá trị xuất hiện nhiều nhất (nhóm có tần số cao nhất)
+
+### 2. Mối quan hệ giữa các số đặc trưng:
+- So sánh và phân tích ý nghĩa của từng số đặc trưng
+- Tác động của các giá trị bất thường đến từng số đặc trưng
+
+## II. PHÂN LOẠI DẠNG BÀI VÀ HƯỚNG DẪN SINH ĐỀ
+
+### **DẠNG 1: TÍNH TOÁN CÁC SỐ ĐẶC TRƯNG**
+
+#### Cấu trúc đề:
+- **Đề bài**: Cho bảng phân bố tần số của mẫu số liệu ghép nhóm
+- **Yêu cầu**: Tính số trung bình, trung vị, mốt
+
+#### Template sinh đề:
+```
+Cho bảng phân bố tần số về [chủ đề thực tế]:
+
+| [Khoảng giá trị] | [a₁, a₂) | [a₂, a₃) | ... | [aₖ₋₁, aₖ) |
+|------------------|----------|----------|-----|-------------|
+| Tần số           | n₁       | n₂       | ... | nₖ          |
+
+a) Tính số trung bình cộng của mẫu số liệu
+b) Tìm trung vị của mẫu số liệu
+c) Xác định nhóm chứa mốt
+```
+
+#### Ví dụ cụ thể:
+**Bài 1**: Điều tra điểm thi môn Toán của 50 học sinh, ta có bảng sau:
+
+| Điểm | [4, 5) | [5, 6) | [6, 7) | [7, 8) | [8, 9) | [9, 10) |
+|------|--------|--------|--------|--------|--------|---------|
+| Tần số| 3      | 8      | 15     | 12     | 8      | 4       |
+
+a) Tính điểm trung bình của 50 học sinh
+b) Tìm trung vị của mẫu số liệu
+c) Xác định nhóm chứa mốt
+
+### **DẠNG 2: SO SÁNH VÀ PHÂN TÍCH**
+
+#### Template sinh đề:
+```
+Cho hai mẫu số liệu ghép nhóm về cùng một vấn đề:
+- Mẫu A: [bảng dữ liệu 1]
+- Mẫu B: [bảng dữ liệu 2]
+
+a) Tính các số đặc trưng của mỗi mẫu
+b) So sánh và nhận xét về xu thế trung tâm của hai mẫu
+c) Giải thích ý nghĩa của kết quả trong thực tế
+```
+
+#### Ví dụ cụ thể:
+**Bài 2**: So sánh chiều cao của học sinh hai lớp 11A và 11B:
+
+**Lớp 11A:**
+| Chiều cao (cm) | [150, 155) | [155, 160) | [160, 165) | [165, 170) | [170, 175) |
+|----------------|------------|------------|------------|------------|------------|
+| Tần số         | 4          | 10         | 12         | 8          | 6          |
+
+**Lớp 11B:**
+| Chiều cao (cm) | [150, 155) | [155, 160) | [160, 165) | [165, 170) | [170, 175) |
+|----------------|------------|------------|------------|------------|------------|
+| Tần số         | 2          | 8          | 18         | 10         | 2          |
+
+a) Tính chiều cao trung bình của mỗi lớp
+b) So sánh trung vị của hai lớp
+c) Lớp nào có chiều cao đồng đều hơn? Giải thích
+
+### **DẠNG 3: ỨNG DỤNG VÀ GIẢI THÍCH**
+
+#### Template sinh đề:
+```
+Dựa vào bảng số liệu đã cho:
+a) Tính các số đặc trưng
+b) Giải thích ý nghĩa của từng số đặc trưng trong bối cảnh bài toán
+c) Đưa ra nhận xét/kết luận phù hợp
+```
+
+#### Ví dụ cụ thể:
+**Bài 3**: Thống kê thu nhập hàng tháng của 100 công nhân:
+
+| Thu nhập (triệu đồng) | [5, 7) | [7, 9) | [9, 11) | [11, 13) | [13, 15) |
+|----------------------|--------|--------|---------|----------|----------|
+| Số công nhân         | 15     | 25     | 35      | 20       | 5        |
+
+a) Tính thu nhập trung bình của 100 công nhân
+b) Tìm trung vị và giải thích ý nghĩa
+c) Nếu là quản lý, bạn sẽ dùng số nào để báo cáo thu nhập đại diện? Vì sao?
+
+### **DẠNG 4: BÀI TOÁN TỔNG HỢP**
+
+#### Template sinh đề:
+```
+Cho thông tin về mẫu số liệu có một số đặc điểm đặc biệt:
+- Một số nhóm có tần số bằng tham số
+- Biết trước một số đặc trưng
+- Yêu cầu tìm tham số hoặc so sánh
+```
+
+#### Ví dụ cụ thể:
+**Bài 4**: Khảo sát thời gian làm bài tập của học sinh:
+
+| Thời gian (phút) | [10, 20) | [20, 30) | [30, 40) | [40, 50) | [50, 60) |
+|------------------|----------|----------|----------|----------|----------|
+| Tần số           | 5        | x        | 15       | y        | 3        |
+
+Biết tổng số học sinh là 40 và thời gian trung bình là 32 phút.
+a) Tìm x và y
+b) Tính trung vị của mẫu số liệu
+c) So sánh số trung bình và trung vị, rút ra nhận xét
+
+## III. TIÊU CHÍ ĐÁNH GIÁ MỨC THÔNG HIỂU
+
+### Học sinh cần thể hiện:
+1. **Tính toán chính xác** các công thức cơ bản
+2. **Giải thích được ý nghĩa** của từng số đặc trưng
+3. **So sánh và phân tích** kết quả một cách hợp lý
+4. **Liên hệ với thực tế** qua cách diễn đạt và kết luận
+
+### Mức độ yêu cầu:
+- Áp dụng 1-2 công thức chính
+- Kết hợp tối đa 2-3 khái niệm
+- Có phân tích, so sánh cơ bản
+- Không yêu cầu biến đổi phức tạp
+
+**Lưu ý**: Điều chỉnh độ khó bằng cách thay đổi số liệu, số nhóm, hoặc thêm điều kiện ràng buộc phù hợp với từng đối tượng học sinh.

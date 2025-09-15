@@ -1,0 +1,62 @@
+Dựa trên chương VII "Quan hệ vuông góc trong không gian" của SGK Toán 11 (Kết nối tri thức), tôi xin tóm tắt các kiến thức chính:
+
+## I. ĐƯỜNG THẲNG VUÔNG GÓC VỚI MẶT PHẲNG
+
+### Định nghĩa:
+- Đường thẳng d vuông góc với mặt phẳng (P) nếu d vuông góc với mọi đường thẳng nằm trong (P)
+
+### Định lý quan trọng:
+- **Định lý 1**: Đường thẳng d ⊥ (P) ⟺ d vuông góc với 2 đường thẳng cắt nhau trong (P)
+- **Định lý 2**: Qua 1 điểm, có duy nhất 1 đường thẳng vuông góc với 1 mặt phẳng cho trước
+- **Định lý 3**: Qua 1 điểm, có duy nhất 1 mặt phẳng vuông góc với 1 đường thẳng cho trước
+
+## II. HAI MẶT PHẲNG VUÔNG GÓC
+
+### Định nghĩa:
+- Hai mặt phẳng vuông góc nếu góc giữa chúng bằng 90°
+
+### Định lý:
+- **(P) ⊥ (Q) ⟺ (P) chứa 1 đường thẳng vuông góc với (Q)**
+
+## III. KHOẢNG CÁCH TRONG KHÔNG GIAN
+
+### Các loại khoảng cách:
+1. **Khoảng cách từ điểm đến mặt phẳng**: Độ dài đường vuông góc từ điểm đến mặt phẳng
+2. **Khoảng cách từ đường thẳng đến mặt phẳng song song**: Khoảng cách từ 1 điểm bất kỳ trên đường thẳng đến mặt phẳng
+3. **Khoảng cách giữa 2 mặt phẳng song song**: Khoảng cách từ 1 điểm bất kỳ trên mặt phẳng này đến mặt phẳng kia
+
+## IV. GÓC TRONG KHÔNG GIAN
+
+### Các loại góc:
+1. **Góc giữa đường thẳng và mặt phẳng**: 
+   - Góc giữa đường thẳng và hình chiếu của nó trên mặt phẳng
+   - 0° ≤ α ≤ 90°
+
+2. **Góc giữa hai mặt phẳng**:
+   - Góc giữa 2 đường thẳng vuông góc với giao tuyến của 2 mặt phẳng
+   - 0° ≤ α ≤ 90°
+
+## V. DẠNG BÀI TẬP CHÍNH
+
+### Dạng 1: Chứng minh quan hệ vuông góc
+- Chứng minh đường thẳng ⊥ mặt phẳng
+- Chứng minh hai mặt phẳng vuông góc
+
+### Dạng 2: Tính khoảng cách
+- Khoảng cách từ điểm đến mặt phẳng
+- Khoảng cách giữa đường thẳng và mặt phẳng
+- Khoảng cách giữa hai mặt phẳng song song
+
+### Dạng 3: Tính góc
+- Góc giữa đường thẳng và mặt phẳng
+- Góc giữa hai mặt phẳng
+
+### Dạng 4: Bài toán tổng hợp
+- Kết hợp nhiều yếu tố: vuông góc, khoảng cách, góc
+- Ứng dụng vào hình học không gian cụ thể (hình chóp, hình lăng trụ)
+
+### Phương pháp giải chung:
+1. Vẽ hình chính xác
+2. Xác định các yếu tố vuông góc
+3. Áp dụng định lý, tính chất
+4. Sử dụng tam giác vuông để tính toán

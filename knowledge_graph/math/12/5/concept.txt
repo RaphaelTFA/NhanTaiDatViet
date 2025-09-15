@@ -1,0 +1,93 @@
+# CHƯƠNG 5: PHƯƠNG PHÁP TỌA ĐỘ TRONG KHÔNG GIAN
+
+## I. HỆ TỌA ĐỘ TRONG KHÔNG GIAN
+
+### 1. Hệ tọa độ Oxyz
+- **Định nghĩa**: Hệ gồm 3 trục Ox, Oy, Oz vuông góc từng đôi một, cắt nhau tại gốc O
+- **Tọa độ điểm**: M(x; y; z) với x, y, z là hình chiếu của M lên các trục
+
+### 2. Vector trong không gian
+- **Tọa độ vector**: $\vec{a} = (a_1; a_2; a_3)$
+- **Các phép toán**:
+  - $\vec{a} + \vec{b} = (a_1 + b_1; a_2 + b_2; a_3 + b_3)$
+  - $k\vec{a} = (ka_1; ka_2; ka_3)$
+  - $\vec{AB} = (x_B - x_A; y_B - y_A; z_B - z_A)$
+
+### 3. Tích vô hướng
+- **Công thức**: $\vec{a}.\vec{b} = a_1b_1 + a_2b_2 + a_3b_3$
+- **Độ dài vector**: $|\vec{a}| = \sqrt{a_1^2 + a_2^2 + a_3^2}$
+- **Góc giữa hai vector**: $\cos(\vec{a}, \vec{b}) = \frac{\vec{a}.\vec{b}}{|\vec{a}|.|\vec{b}|}$
+
+### 4. Tích có hướng
+- **Định nghĩa**: $[\vec{a}, \vec{b}] = \begin{vmatrix} \vec{i} & \vec{j} & \vec{k} \\ a_1 & a_2 & a_3 \\ b_1 & b_2 & b_3 \end{vmatrix}$
+- **Tính chất**: 
+  - $|[\vec{a}, \vec{b}]| = |\vec{a}|.|\vec{b}|.\sin(\vec{a}, \vec{b})$
+  - $[\vec{a}, \vec{b}] \perp \vec{a}$ và $[\vec{a}, \vec{b}] \perp \vec{b}$
+
+## II. PHƯƠNG TRÌNH MẶT PHẲNG
+
+### 1. Phương trình tổng quát
+- **Dạng**: $Ax + By + Cz + D = 0$ (A² + B² + C² ≠ 0)
+- **Vector pháp tuyến**: $\vec{n} = (A; B; C)$
+
+### 2. Các trường hợp đặc biệt
+- Qua 3 điểm A, B, C: $\vec{n} = [\vec{AB}, \vec{AC}]$
+- Qua điểm M₀(x₀; y₀; z₀) có VTPT $\vec{n}$: $A(x-x₀) + B(y-y₀) + C(z-z₀) = 0$
+
+### 3. Khoảng cách và góc
+- **Khoảng cách từ điểm đến mặt phẳng**: $d = \frac{|Ax_0 + By_0 + Cz_0 + D|}{\sqrt{A^2 + B^2 + C^2}}$
+- **Góc giữa hai mặt phẳng**: $\cos\alpha = \frac{|A_1A_2 + B_1B_2 + C_1C_2|}{\sqrt{A_1^2 + B_1^2 + C_1^2}.\sqrt{A_2^2 + B_2^2 + C_2^2}}$
+
+## III. PHƯƠNG TRÌNH ĐƯỜNG THẲNG
+
+### 1. Phương trình tham số
+$$\begin{cases} x = x_0 + at \\ y = y_0 + bt \\ z = z_0 + ct \end{cases}$$
+- Qua điểm M₀(x₀; y₀; z₀), có VTCP $\vec{u} = (a; b; c)$
+
+### 2. Phương trình chính tắc
+$$\frac{x - x_0}{a} = \frac{y - y_0}{b} = \frac{z - z_0}{c}$$ (a, b, c ≠ 0)
+
+### 3. Vị trí tương đối
+- **Đường thẳng và mặt phẳng**:
+  - Song song: $\vec{u}.\vec{n} = 0$ và d không thuộc (P)
+  - Cắt nhau: $\vec{u}.\vec{n} ≠ 0$
+  - Nằm trong: $\vec{u}.\vec{n} = 0$ và d thuộc (P)
+
+## IV. MẶT CẦU
+
+### 1. Phương trình mặt cầu
+- **Dạng chính tắc**: $(x-a)² + (y-b)² + (z-c)² = R²$
+- **Dạng tổng quát**: $x² + y² + z² - 2ax - 2by - 2cz + d = 0$
+- **Tâm**: I(a; b; c), **Bán kính**: $R = \sqrt{a² + b² + c² - d}$
+
+### 2. Vị trí tương đối
+- **Điểm và mặt cầu**: So sánh d(M,I) với R
+- **Đường thẳng và mặt cầu**: So sánh d(I,d) với R
+- **Mặt phẳng và mặt cầu**: So sánh d(I,(P)) với R
+
+## V. DẠNG BÀI TẬP CHÍNH
+
+### 1. Tìm tọa độ điểm, vector
+- Sử dụng điều kiện hình học
+- Áp dụng các phép toán vector
+
+### 2. Viết phương trình mặt phẳng
+- Xác định vector pháp tuyến
+- Tìm một điểm thuộc mặt phẳng
+
+### 3. Viết phương trình đường thẳng
+- Xác định vector chỉ phương
+- Tìm một điểm thuộc đường thẳng
+
+### 4. Tính khoảng cách, góc
+- Khoảng cách giữa các đối tượng hình học
+- Góc giữa đường thẳng, mặt phẳng
+
+### 5. Bài toán mặt cầu
+- Viết phương trình mặt cầu
+- Xác định vị trí tương đối
+- Tìm giao tuyến, tiếp tuyến
+
+### 6. Bài toán tổng hợp
+- Kết hợp nhiều kiến thức
+- Bài toán thực tế có ứng dụng hình học không gian

@@ -1,0 +1,100 @@
+# HƯỚNG DẪN SINH ĐỀ: VECTOR LỚP 10 - MỨC THÔNG HIỂU
+
+## I. KHUNG KIẾN THỨC CẦN ĐÁNH GIÁ
+
+### 1. Khái niệm vector
+- Định nghĩa vector, vector bằng nhau
+- Độ dài vector, vector đơn vị
+- Vector cùng phương, cùng hướng, ngược hướng
+
+### 2. Phép toán vector
+- Phép cộng vector (quy tắc hình bình hành, quy tắc tam giác)
+- Phép trừ vector
+- Phép nhân vector với số thực
+- Tính chất các phép toán
+
+### 3. Tích vô hướng
+- Định nghĩa tích vô hướng
+- Công thức: $\vec{a}.\vec{b} = |\vec{a}|.|\vec{b}|.\cos(\vec{a},\vec{b})$
+- Tính chất của tích vô hướng
+- Điều kiện vuông góc
+
+## II. DẠNG CÂU HỎI VÀ HƯỚNG DẪN SINH ĐỀ
+
+### DẠNG 1: GIẢI THÍCH - PHÂN TÍCH KHÁI NIỆM
+
+**Cấu trúc câu hỏi:**
+- Giải thích khái niệm vector cùng phương, vector bằng nhau
+- Phân tích điều kiện để hai vector vuông góc
+- So sánh phép cộng vector với phép cộng số thực
+
+**Ví dụ:**
+1. *Cho hình thang ABCD có AB // CD. Giải thích tại sao $\vec{AB}$ và $\vec{DC}$ là hai vector cùng phương và phân tích mối quan hệ giữa chúng.*
+
+2. *Phân tích điều kiện để $\vec{a} + \vec{b} = \vec{0}$ và giải thích ý nghĩa hình học.*
+
+### DẠNG 2: ÁP DỤNG CÔNG THỨC Cơ BẢN
+
+**Cấu trúc câu hỏi:**
+- Tính độ dài vector
+- Tính tích vô hướng
+- Áp dụng quy tắc tam giác, hình bình hành
+
+**Ví dụ:**
+1. *Cho tam giác ABC vuông tại A, AB = 3, AC = 4. Tính $\vec{AB}.\vec{AC}$ và $|\vec{BC}|$.*
+
+2. *Cho $|\vec{a}| = 3$, $|\vec{b}| = 4$, góc giữa $\vec{a}$ và $\vec{b}$ là 60°. Tính $|\vec{a} + \vec{b}|$.*
+
+### DẠNG 3: NHẬN BIẾT MỐI LIÊN HỆ
+
+**Cấu trúc câu hỏi:**
+- Mối liên hệ giữa tích vô hướng và độ dài vector
+- Liên hệ giữa vector và hình học
+
+**Ví dụ:**
+1. *Cho hình vuông ABCD cạnh a. Tính và so sánh các tích vô hướng: $\vec{AB}.\vec{AD}$, $\vec{AB}.\vec{AC}$, $\vec{AC}.\vec{BD}$.*
+
+2. *Trong tam giác ABC, nếu $\vec{AB}.\vec{AC} = 0$ thì tam giác có tính chất gì? Giải thích.*
+
+### DẠNG 4: CHUYỂN ĐỔI BIỂU DIỄN
+
+**Cấu trúc câu hỏi:**
+- Chuyển từ biểu diễn hình học sang đại số
+- Biểu diễn vector qua các vector khác
+
+**Ví dụ:**
+1. *Cho hình bình hành ABCD. Biểu diễn $\vec{AC}$ và $\vec{BD}$ theo $\vec{AB}$ và $\vec{AD}$.*
+
+2. *Cho tam giác ABC có trung điểm BC là M. Biểu diễn $\vec{AM}$ theo $\vec{AB}$ và $\vec{AC}$.*
+
+## III. MA TRẬN ĐỀ KIỂM TRA
+
+| Nội dung | Nhận biết | Thông hiểu | Vận dụng | Tổng |
+|----------|-----------|------------|----------|------|
+| Khái niệm vector | 1 câu | **2 câu** | 1 câu | 4 câu |
+| Phép toán vector | 1 câu | **3 câu** | 1 câu | 5 câu |
+| Tích vô hướng | 1 câu | **2 câu** | 1 câu | 4 câu |
+
+## IV. TIÊU CHÍ ĐÁNH GIÁ
+
+### Điểm 7-8 (Khá):
+- Giải thích chính xác các khái niệm cơ bản
+- Áp dụng đúng công thức trong 1-2 bước
+- Nhận biết được mối liên hệ giữa vector và hình học
+- Có thể mắc lỗi nhỏ trong tính toán
+
+### Lưu ý khi sinh đề:
+1. **Độ phức tạp:** Giới hạn 1-2 bước giải, tránh biến đổi phức tạp
+2. **Ngữ cảnh:** Sử dụng các hình cơ bản (tam giác, hình bình hành, hình vuông)
+3. **Số liệu:** Chọn số đẹp, dễ tính toán
+4. **Câu hỏi mở:** Yêu cầu "giải thích", "phân tích", "so sánh" để đánh giá mức độ hiểu
+
+## V. MẪU CÂU HỎI HOÀN CHỈNH
+
+**Câu 1:** Cho hình chữ nhật ABCD có AB = 3, AD = 4.
+a) Tính $\vec{AB}.\vec{AD}$ và giải thích kết quả.
+b) Tính $|\vec{AC}|$ và góc giữa $\vec{AB}$ và $\vec{AC}$.
+
+**Câu 2:** Cho $\vec{a}$ và $\vec{b}$ là hai vector khác $\vec{0}$ thỏa mãn $|\vec{a}| = |\vec{b}| = 1$ và $\vec{a}.\vec{b} = \frac{1}{2}$.
+a) Tìm góc giữa hai vector $\vec{a}$ và $\vec{b}$.
+b) Tính $|\vec{a} - \vec{b}|$.

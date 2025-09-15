@@ -1,0 +1,128 @@
+# HƯỚNG DẪN SINH ĐỀ VẬN DỤNG CAO
+## Chủ đề: Hàm số, đồ thị và ứng dụng - Lớp 10
+
+---
+
+## I. KHUNG KIẾN THỨC CƠ SỞ
+
+### 1. Kiến thức chủ đạo (bắt buộc):
+- Hàm số bậc nhất: y = ax + b
+- Hàm số bậc hai: y = ax² + bx + c
+- Sự biến thiên của hàm số
+- Đồ thị hàm số và phép biến hình đồ thị
+- Tập xác định, tập giá trị
+- Tính đơn điệu của hàm số
+
+### 2. Kiến thức liên quan cần tích hợp:
+- Phương trình, bất phương trình
+- Hệ phương trình
+- Bất đẳng thức
+- Hình học tọa độ
+- Phép biến hình (tịnh tiến, đối xứng)
+
+---
+
+## II. CẤU TRÚC SINH ĐỀ VẬN DỤNG CAO
+
+### Dạng 1: Tích hợp hàm số với hình học tọa độ
+
+**Mẫu sinh đề:**
+> Cho hàm số y = f(x) = ax² + bx + c có đồ thị (P). Biết (P) đi qua điểm A(1,2) và có trục đối xứng x = 2. Đồ thị hàm số g(x) = |f(x)| cắt đường thẳng y = m tại đúng 3 điểm phân biệt có hoành độ lập thành cấp số cộng.
+> 
+> a) Tìm biểu thức f(x)
+> b) Tìm m và chứng minh rằng tổng các hoành độ bằng 6
+
+**Điểm vận dụng cao:**
+- Kết hợp kiến thức hàm bậc 2, đồ thị hàm |f(x)|
+- Phân tích điều kiện cắt tại đúng 3 điểm
+- Sử dụng tính chất cấp số cộng
+- Chứng minh bằng định lý Viète mở rộng
+
+### Dạng 2: Bài toán tối ưu với ràng buộc
+
+**Mẫu sinh đề:**
+> Cho hàm số f(x) = x² - 2mx + m² - 1 với m là tham số.
+> 
+> a) Chứng minh rằng với mọi m, đồ thị hàm số luôn đi qua hai điểm cố định
+> b) Tìm m để hàm số đạt giá trị nhỏ nhất trên đoạn [0,3] bằng -1
+> c) Với điều kiện câu b), xét hàm số h(x) = |f(x)| trên [-1,4]. Tìm GTLN của h(x) và chứng minh bất đẳng thức: h(a) + h(b) ≥ 2h((a+b)/2) với mọi a,b ∈ [-1,4]
+
+**Điểm vận dụng cao:**
+- Phân tích họ đường cong và điểm cố định
+- Bài toán tối ưu có điều kiện
+- Chứng minh tính lồi của hàm số
+- Kết hợp nhiều kiến thức: đạo hàm, bất đẳng thức
+
+### Dạng 3: Phép biến hình và tính chất hàm số
+
+**Mẫu sinh đề:**
+> Cho đồ thị (P): y = x² - 4x + 3
+> 
+> a) Từ (P), qua phép biến hình nào có thể thu được đồ thị (P'): y = x² + 2x + 5?
+> b) Gọi (P₁) là ảnh của (P) qua phép đối xứng trục Ox, (P₂) là ảnh của (P₁) qua phép tịnh tiến theo véc-tơ v⃗(2,-3). Viết phương trình (P₂)
+> c) Tìm điều kiện của a,b để đường thẳng y = ax + b cắt cả ba đồ thị (P), (P₁), (P₂) tại các điểm có hoành độ dương
+
+**Điểm vận dụng cao:**
+- Phân tích và tổng hợp phép biến hình
+- Theo dõi biến đổi qua nhiều bước
+- Điều kiện tồn tại nghiệm với ràng buộc
+
+---
+
+## III. NGUYÊN TẮC SINH ĐỀ VẬN DỤNG CAO
+
+### 1. Về cấu trúc đề:
+- **Câu a**: Thiết lập kiến thức cơ bản (20%)
+- **Câu b**: Vận dụng kết hợp 2-3 kiến thức (40%)  
+- **Câu c**: Tổng hợp, phân tích cao, chứng minh (40%)
+
+### 2. Về độ khó từng câu:
+- Câu a: Khó vừa phải, tạo nền tảng
+- Câu b: Khó, cần suy luận logic
+- Câu c: Rất khó, đòi hỏi tư duy cao
+
+### 3. Các yếu tố tạo độ khó:
+- **Tham số ẩn**: Yêu cầu biện luận theo tham số
+- **Điều kiện ngầm**: Học sinh phải tự phát hiện
+- **Kết hợp kiến thức**: Ít nhất 3 chủ đề khác nhau
+- **Chứng minh**: Đòi hỏi logic và kỹ thuật cao
+
+---
+
+## IV. BANK CÂU HỎI CHUẨN VẬN DỤNG CAO
+
+### Câu hỏi mở đầu (Level 1):
+1. "Cho họ hàm số chứa tham số, tìm điểm cố định"
+2. "Biện luận theo tham số số nghiệm của phương trình"
+3. "Tìm điều kiện để đồ thị có tính chất cho trước"
+
+### Câu hỏi phát triển (Level 2):
+1. "Với điều kiện tìm được, khảo sát tính chất mới"
+2. "Chứng minh bất đẳng thức liên quan đến hàm số"
+3. "Tìm vị trí điểm/đường thẳng thỏa mãn điều kiện tối ưu"
+
+### Câu hỏi đỉnh cao (Level 3):
+1. "Chứng minh tính chất tổng quát từ trường hợp riêng"
+2. "Tìm và chứng minh điều kiện cần và đủ"
+3. "Thiết lập và giải quyết bài toán ngược"
+
+---
+
+## V. CHECKLIST ĐÁNH GIÁ ĐỀ VẬN DỤNG CAO
+
+### ✅ Tiêu chí bắt buộc:
+- [ ] Kiến thức chủ đạo chiếm ≥ 60% câu hỏi
+- [ ] Tích hợp ≥ 3 chủ đề khác nhau
+- [ ] Có ít nhất 1 câu chứng minh
+- [ ] Có tham số hoặc điều kiện biện luận
+- [ ] Đòi hỏi ≥ 4 bước giải logic
+
+### ✅ Tiêu chí nâng cao:
+- [ ] Có yếu tố bất ngờ/không tường minh
+- [ ] Kết nối với thực tế hoặc bài toán tổng quát
+- [ ] Có nhiều cách giải khác nhau
+- [ ] Tạo tiền đề cho kiến thức lớp 11-12
+
+---
+
+**Lưu ý quan trọng**: Mỗi đề Vận dụng cao phải được thiết kế để học sinh giỏi cần 25-30 phút hoàn thành, có ít nhất 1 câu mà chỉ 10-15% học sinh có thể làm được hoàn toàn chính xác.

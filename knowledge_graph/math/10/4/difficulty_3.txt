@@ -1,0 +1,102 @@
+# HƯỚNG DẪN SINH ĐỀ MỨC VẬN DỤNG - CHỦ ĐỀ VECTOR LỚP 10
+
+## I. KHUNG KIẾN THỨC CẦN VẬN DỤNG
+
+### 1. Kiến thức cốt lõi về Vector:
+- Định nghĩa vector, vector cùng phương, vector bằng nhau
+- Các phép toán: cộng, trừ vector, nhân vector với số thực
+- Tọa độ vector trong hệ trục Oxy
+- Độ dài vector và công thức tính
+- Tích vô hướng của hai vector
+- Ứng dụng vector trong hình học phẳng
+
+### 2. Kiến thức liên quan cần kết hợp:
+- Hệ thức lượng trong tam giác
+- Phương trình đường thẳng cơ bản
+- Tính chất hình học của các hình đặc biệt
+- Các bài toán thực tế về chuyển động, lực
+
+## II. CÁC DẠNG BÀI VẬN DỤNG
+
+### **Dạng 1: Vector trong bài toán chuyển động thực tế**
+
+**Khung bài mẫu:**
+Một máy bay khởi hành từ sân bay A và thực hiện hành trình như sau:
+- Giai đoạn 1: Bay theo hướng Đông 300km
+- Giai đoạn 2: Bay theo hướng Bắc 400km  
+- Giai đoạn 3: Bay theo hướng Tây Nam (góc 45° so với hướng Tây) một khoảng x km
+
+**Câu hỏi mức vận dụng:**
+a) Thiết lập hệ tọa độ Oxy thích hợp và biểu diễn vector chuyển dời tổng cộng
+b) Tính khoảng cách từ vị trí cuối đến vị trí ban đầu theo x
+c) Để máy bay cách vị trí ban đầu đúng 200km, tìm giá trị x
+
+### **Dạng 2: Vector trong bài toán lực học**
+
+**Khung bài mẫu:**
+Một vật chịu tác dụng đồng thời của ba lực:
+- $\vec{F_1}$ có độ lớn 50N theo hướng Đông
+- $\vec{F_2}$ có độ lớn 30N theo hướng tạo góc 60° với hướng Bắc
+- $\vec{F_3}$ có độ lớn F₃ theo hướng Tây Nam
+
+**Câu hỏi mức vận dụng:**
+a) Biểu diễn các lực trong hệ tọa độ Oxy
+b) Tính hợp lực của $\vec{F_1}$ và $\vec{F_2}$
+c) Để vật cân bằng, tìm độ lớn và hướng của $\vec{F_3}$
+
+### **Dạng 3: Vector trong bài toán hình học có số liệu thực tế**
+
+**Khung bài mẫu:**
+Một khu đất hình tam giác ABC có:
+- Cạnh AB = 120m
+- Cạnh AC = 150m  
+- Góc BAC = 60°
+
+**Câu hỏi mức vận dụng:**
+a) Tính $\vec{AB}.\vec{AC}$ và độ dài cạnh BC
+b) Tìm tọa độ trọng tâm G của tam giác trong hệ tọa độ có A làm gốc
+c) Một điểm M trên cạnh BC sao cho $\vec{AM} = k\vec{AC} + (1-k)\vec{AB}$. Tìm k để diện tích tam giác AMC bằng 40% diện tích tam giác ABC
+
+### **Dạng 4: Vector trong bài toán định vị GPS**
+
+**Khung bài mẫu:**
+Trên bản đồ với hệ tọa độ km, ba trạm phát sóng được đặt tại:
+- Trạm A(0; 0)
+- Trạm B(60; 0)  
+- Trạm C(30; 40)
+
+Một thiết bị di động M nhận được tín hiệu và xác định được:
+- Khoảng cách đến trạm A là 25km
+- Vector từ M đến B tạo góc 120° với vector từ M đến A
+
+**Câu hỏi mức vận dụng:**
+a) Thiết lập phương trình để tìm tọa độ điểm M
+b) Tính khoảng cách từ M đến trạm C
+c) Xác định trạm nào gần M nhất
+
+## III. TIÊU CHÍ ĐÁNH GIÁ BÀI VẬN DỤNG TỐT
+
+### **Về nội dung:**
+✓ Có bối cảnh thực tế rõ ràng, phù hợp với học sinh lớp 10
+✓ Số liệu hợp lý, không quá phức tạp nhưng đủ thách thức
+✓ Kết hợp ít nhất 2-3 kiến thức vector khác nhau
+✓ Có yếu tố liên môn (Vật lý, Địa lý, Công nghệ)
+
+### **Về mức độ:**
+✓ Cần 2-3 bước giải quyết logic
+✓ Yêu cầu phân tích, lựa chọn phương pháp phù hợp
+✓ Không chỉ áp dụng máy móc công thức
+✓ Có yếu tố suy luận và kiểm tra kết quả
+
+### **Về kỹ thuật ra đề:**
+✓ Câu hỏi có tính logic, từ dễ đến khó
+✓ Dữ liệu cho phép nhiều cách tiếp cận
+✓ Kết quả cuối có thể kiểm tra được
+✓ Thời gian làm bài phù hợp (15-20 phút/bài)
+
+## IV. LƯU Ý KHI SINH ĐỀ
+
+1. **Chọn bối cảnh:** Ưu tiên các tình huống học sinh có thể hình dung được
+2. **Cân bằng độ khó:** Không quá dễ (chỉ thay số) nhưng cũng không quá khó (cần kiến thức nâng cao)
+3. **Kiểm tra tính khả thi:** Đảm bảo bài toán có lời giải và kết quả hợp lý
+4. **Tính ứng dụng:** Thể hiện được giá trị thực tiễn của vector trong đời sống

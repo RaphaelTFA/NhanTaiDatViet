@@ -1,0 +1,124 @@
+# HƯỚNG DẪN SINH ĐỀ MỨC NHẬN BIẾT
+## Chủ đề: Bất phương trình và hệ bất phương trình bậc nhất hai ẩn (Lớp 10)
+
+## I. KIẾN THỨC CƠ BẢN CẦN NHẮC LẠI
+
+### 1. Định nghĩa bất phương trình bậc nhất hai ẩn
+- Dạng tổng quát: ax + by + c > 0 (hoặc ≥, <, ≤)
+- Trong đó: a, b không đồng thời bằng 0
+
+### 2. Nghiệm của bất phương trình
+- Cặp số (x₀; y₀) thỏa mãn bất phương trình
+
+### 3. Miền nghiệm
+- Nửa mặt phẳng được xác định bởi đường thẳng ax + by + c = 0
+
+### 4. Hệ bất phương trình bậc nhất hai ẩn
+- Gồm nhiều bất phương trình bậc nhất hai ẩn
+- Nghiệm là giao của các miền nghiệm
+
+## II. CÁC DẠNG CÂU HỎI MỨC NHẬN BIẾT
+
+### **Dạng 1: Nhận biết bất phương trình bậc nhất hai ẩn**
+
+**Câu hỏi mẫu:**
+1. Cho biết trong các bất phương trình sau, bất phương trình nào là bất phương trình bậc nhất hai ẩn?
+   - A. 2x + 3y - 5 > 0
+   - B. x² + y ≤ 1
+   - C. xy + 2 > 0
+   - D. x + 2 ≥ 0
+
+2. Xác định hệ số a, b, c trong bất phương trình 3x - 2y + 1 ≤ 0
+
+**Hướng dẫn sinh đề:**
+- Đưa ra các phương trình có dạng khác nhau
+- Yêu cầu học sinh nhận biết dạng chuẩn
+- Xác định các hệ số trong bất phương trình
+
+### **Dạng 2: Kiểm tra nghiệm của bất phương trình**
+
+**Câu hỏi mẫu:**
+1. Cho bất phương trình x + 2y - 3 > 0. Xác định cặp số nào sau đây là nghiệm của bất phương trình?
+   - A. (1; 1)
+   - B. (0; 0)
+   - C. (2; 1)
+   - D. (-1; 1)
+
+2. Cho biết điểm M(2; -1) có phải là nghiệm của bất phương trình 2x - y + 1 ≥ 0 không?
+
+**Hướng dẫn sinh đề:**
+- Cho sẵn bất phương trình đơn giản
+- Cho các điểm cụ thể để kiểm tra
+- Yêu cầu thay số trực tiếp
+
+### **Dạng 3: Xác định miền nghiệm**
+
+**Câu hỏi mẫu:**
+1. Tìm phương trình đường thẳng biên của miền nghiệm bất phương trình 2x - y + 3 ≤ 0
+   - A. 2x - y + 3 = 0
+   - B. 2x - y - 3 = 0
+   - C. x - 2y + 3 = 0
+   - D. 2x + y + 3 = 0
+
+2. Cho biết miền nghiệm của bất phương trình x - 2y > 0 nằm ở phía nào so với đường thẳng x - 2y = 0?
+
+**Hướng dẫn sinh đề:**
+- Yêu cầu xác định đường thẳng biên
+- Xác định phía của miền nghiệm
+- Sử dụng điểm thử đơn giản như (0;0)
+
+### **Dạng 4: Nhận biết hệ bất phương trình**
+
+**Câu hỏi mẫu:**
+1. Xác định hệ bất phương trình nào sau đây là hệ bất phương trình bậc nhất hai ẩn?
+   - A. {x + y > 1; x² - y ≤ 0}
+   - B. {2x - y ≥ 0; x + 3y < 2}
+   - C. {xy > 1; x - y ≤ 0}
+   - D. {x + y² > 0; 2x - y < 1}
+
+2. Cho biết hệ bất phương trình sau có mấy bất phương trình?
+   {x + 2y ≥ 1; 2x - y ≤ 3; x ≥ 0}
+
+**Hướng dẫn sinh đề:**
+- Cho các hệ có dạng khác nhau
+- Yêu cầu đếm số bất phương trình
+- Nhận biết dạng chuẩn của hệ
+
+### **Dạng 5: Ứng dụng cơ bản**
+
+**Câu hỏi mẫu:**
+1. Tìm điều kiện để điểm A(1; 2) thuộc miền nghiệm của bất phương trình ax + y - 3 > 0, biết a > 0.
+
+2. Xác định dấu của biểu thức 2x - 3y + 1 tại điểm M(1; 1).
+
+**Hướng dẫn sinh đề:**
+- Cho điểm cụ thể
+- Yêu cầu thay số và tính toán đơn giản
+- Không yêu cầu vẽ hình phức tạp
+
+## III. NGUYÊN TẮC SINH ĐỀ
+
+### **Về nội dung:**
+- Tập trung vào định nghĩa cơ bản
+- Sử dụng số liệu đơn giản
+- Tránh các phép tính phức tạp
+
+### **Về hình thức:**
+- Ưu tiên câu hỏi trắc nghiệm
+- Câu hỏi ngắn, rõ ràng
+- Đáp án dễ phân biệt
+
+### **Về độ khó:**
+- Phù hợp học sinh trung bình (5-6 điểm)
+- Có thể giải trong 2-3 phút
+- Chỉ cần áp dụng trực tiếp công thức
+
+### **Động từ sử dụng:**
+- "Cho biết...", "Xác định...", "Tìm...", "Nhận biết...", "Tính..."
+
+## IV. LƯU Ý KHI SINH ĐỀ
+
+1. **Tránh:** Các bài toán yêu cầu vẽ hình, phân tích phức tạp
+2. **Ưu tiên:** Kiểm tra khả năng nhớ và áp dụng trực tiếp
+3. **Cân bằng:** Các dạng câu hỏi khác nhau trong một đề thi
+4. **Rõ ràng:** Đề bài không gây nhầm lẫn, đáp án chính xác

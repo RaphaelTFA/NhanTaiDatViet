@@ -1,0 +1,98 @@
+# HƯỚNG DẪN SINH ĐỀ MỨC VẬN DỤNG
+## Chủ đề: Ứng dụng đạo hàm để khảo sát và vẽ đồ thị hàm số
+
+### I. KHUNG KIẾN THỨC CẦN VẬN DỤNG
+
+**Kiến thức chính:**
+- Tìm cực trị của hàm số
+- Khảo sát sự biến thiên và vẽ đồ thị
+- Ứng dụng đạo hàm tìm GTLN, GTNN
+
+**Kiến thức kết hợp:**
+- Phương trình, bất phương trình
+- Hình học không gian (thể tích, diện tích)
+- Bài toán tối ưu trong kinh tế
+
+### II. CÁC DẠNG BÀI TẬP VẬN DỤNG
+
+#### **Dạng 1: Bài toán tối ưu hóa trong thực tế**
+
+**Mẫu câu hỏi:**
+Một công ty sản xuất hộp thiếc hình trụ có thể tích 500ml. Chi phí sản xuất đáy và nắp là 0,02 USD/cm², chi phí sản xuất thành hộp là 0,01 USD/cm². Tìm kích thước hộp để chi phí nguyên liệu tối thiểu.
+
+**Hướng dẫn sinh đề:**
+- Chọn bối cảnh thực tế: sản xuất, xây dựng, nông nghiệp
+- Đưa ra ràng buộc cụ thể (thể tích, diện tích, chi phí)
+- Yêu cầu tối ưu hóa một đại lượng khác
+- Sử dụng số liệu thực tế hợp lý
+
+#### **Dạng 2: Bài toán chuyển động và vận tốc**
+
+**Mẫu câu hỏi:**
+Một ô tô chuyển động trên đoạn đường thẳng, quãng đường đi được sau t giây là s(t) = 2t³ - 15t² + 36t (mét). 
+a) Tìm thời điểm vận tốc đạt cực trị
+b) Xác định khoảng thời gian xe chuyển động chậm dần
+c) Tính quãng đường xe đi được trong 6 giây đầu
+
+**Hướng dẫn sinh đề:**
+- Đưa ra hàm quãng đường s(t) bậc 3 hoặc bậc 4
+- Yêu cầu phân tích chuyển động (tăng tốc, giảm tốc)
+- Kết hợp tính quãng đường thực tế
+- Có thể mở rộng với gia tốc
+
+#### **Dạng 3: Bài toán kinh tế (lợi nhuận, chi phí)**
+
+**Mẫu câu hỏi:**
+Một cửa hàng bán áo sơ mi với giá gốc 200.000 đồng/chiếc. Nếu bán với giá x (nghìn đồng), số lượng bán được trong một tháng là q = 800 - 2x (chiếc). Chi phí cố định hàng tháng là 50 triệu đồng.
+a) Lập hàm lợi nhuận theo giá bán
+b) Tìm giá bán để lợi nhuận tối đa
+c) Tính lợi nhuận tối đa đó
+
+**Hướng dẫn sinh đề:**
+- Thiết lập mối quan hệ giữa giá và lượng cầu
+- Tính toán doanh thu, chi phí, lợi nhuận
+- Yêu cầu tìm giá trị tối ưu
+- Sử dụng số liệu kinh tế thực tế
+
+#### **Dạng 4: Bài toán hình học có tham số**
+
+**Mẫu câu hỏi:**
+Cho hình chữ nhật ABCD có AB = 8cm. Điểm M trên cạnh BC sao cho BM = x (0 < x < 6). Nối AM và kéo dài cắt đường thẳng CD tại N. Diện tích tam giác AMN phụ thuộc vào x theo công thức S(x) = 16x/(6-x).
+a) Khảo sát sự biến thiên của S(x)
+b) Tìm vị trí M để diện tích tam giác AMN tối thiểu
+c) Vẽ đồ thị hàm số S(x)
+
+**Hướng dẫn sinh đề:**
+- Xuất phát từ bài toán hình học cụ thể
+- Thiết lập hàm số theo tham số
+- Yêu cầu khảo sát toàn diện
+- Kết hợp vẽ đồ thị
+
+### III. TIÊU CHÍ ĐÁNH GIÁ ĐỘ KHÓ
+
+**Mức độ vừa phải:**
+- 2-3 bước tính toán chính
+- Kết hợp 1-2 kiến thức phụ
+- Số liệu không quá phức tạp
+
+**Mức độ khó:**
+- 3-4 bước tính toán
+- Cần phân tích, lập luận logic
+- Kết hợp nhiều kiến thức
+- Yêu cầu hiểu sâu bản chất
+
+### IV. GỢI Ý THÊM CÁC CHỦ ĐỀ THỰC TẾ
+
+1. **Y học:** Nồng độ thuốc trong máu theo thời gian
+2. **Môi trường:** Tốc độ phân hủy chất thải
+3. **Công nghệ:** Tối ưu hóa băng thông mạng
+4. **Nông nghiệp:** Năng suất cây trồng theo lượng phân bón
+5. **Xây dựng:** Thiết kế cầu, tòa nhà với chi phí tối ưu
+
+### V. LƯU Ý KHI SINH ĐỀ
+
+- Đảm bảo số liệu có thể tính toán được
+- Kết quả cuối cùng nên là số đẹp
+- Ngữ cảnh phải phù hợp với học sinh lớp 12
+- Cân bằng giữa độ khó và thời gian làm bài
+- Có thể chia thành nhiều câu nhỏ để hướng dẫn học sinh

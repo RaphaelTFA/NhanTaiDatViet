@@ -1,0 +1,94 @@
+# HƯỚNG DẪN SINH ĐỀ XÁC SUẤT CÓ ĐIỀU KIỆN - MỨC VẬN DỤNG CAO
+
+## I. KHUNG KIẾN THỨC TÍCH HỢP
+
+### Kiến thức chủ đạo:
+- Xác suất có điều kiện P(A|B) = P(A∩B)/P(B)
+- Công thức nhân xác suất
+- Công thức xác suất đầy đủ
+- Công thức Bayes
+
+### Kiến thức tích hợp:
+- Biến cố độc lập/phụ thuộc
+- Quy tắc cộng, nhân xác suất
+- Phân phối nhị thức
+- Combinatorics (tổ hợp, chỉnh hợp)
+- Hình học không gian (thể tích, diện tích)
+
+## II. CÁC DẠNG BÀI VẬN DỤNG CAO
+
+### **DẠNG 1: KẾT HỢP XÁC SUẤT CÓ ĐIỀU KIỆN VỚI HÌNH HỌC**
+
+**Cấu trúc đề:**
+Cho hình hộp chữ nhật/hình cầu/hình nón chứa các quả cầu màu khác nhau được phân bố theo quy luật hình học. Thực hiện nhiều lần lấy có điều kiện.
+
+**Ví dụ mẫu:**
+"Một hình hộp chữ nhật có kích thước a×b×c được chia thành abc ô vuông đơn vị. Mỗi ô chứa một viên bi, trong đó có x viên đỏ phân bố theo quy luật f(i,j,k) và y viên xanh. Lấy ngẫu nhiên một viên bi từ mặt phẳng z = c, biết rằng viên bi đó không phải màu đỏ. Tính xác suất để viên bi tiếp theo lấy từ mặt phẳng z = c-1 cũng không phải màu đỏ, biết rằng hai lần lấy có liên quan theo hàm g(z₁,z₂)."
+
+### **DẠNG 2: BÀI TOÁN KINH TẾ ĐA TẦNG**
+
+**Cấu trúc đề:**
+Mô hình kinh tế với nhiều giai đoạn, mỗi giai đoạn có các điều kiện ảnh hưởng đến giai đoạn tiếp theo.
+
+**Ví dụ mẫu:**
+"Một công ty có 3 chi nhánh A, B, C. Mỗi tháng, xác suất chi nhánh A, B, C đạt doanh thu mục tiêu lần lượt là p₁, p₂, p₃. Biết rằng:
+- Nếu tháng trước A đạt mục tiêu thì tháng sau xác suất B đạt mục tiêu tăng 20%
+- Nếu cả A và B đạt mục tiêu thì xác suất C đạt mục tiêu tăng theo công thức f(p₁,p₂)
+- Chi nhánh nào đạt mục tiêu sẽ được thưởng theo hàm số g(x)
+Tính xác suất để sau 3 tháng, tổng tiền thưởng vượt quá ngưỡng T cho trước."
+
+### **DẠNG 3: HỆ THỐNG MẠNG PHỨC TẠP**
+
+**Cấu trúc đề:**
+Mạng lưới với nhiều nút, mỗi nút có xác suất hoạt động khác nhau, các nút ảnh hưởng lẫn nhau.
+
+**Ví dụ mẫu:**
+"Một mạng lưới gồm n nút được sắp xếp theo cấu trúc đồ thị G(V,E). Mỗi nút i có xác suất hoạt động pᵢ. Nút i chỉ hoạt động được nếu ít nhất k trong số các nút kề với nó đang hoạt động. Biết rằng tại thời điểm t=0, trạng thái ban đầu được mô tả bởi ma trận A. Tính xác suất để sau thời gian T, nút đích vẫn hoạt động, biết rằng có đúng m nút bị hỏng trong quá trình truyền tín hiệu."
+
+### **DẠNG 4: BÀI TOÁN Y HỌC ĐA BIẾN**
+
+**Cấu trúc đề:**
+Chẩn đoán bệnh với nhiều triệu chứng, test chẩn đoán có độ chính xác khác nhau, kết hợp với yếu tố thời gian.
+
+**Ví dụ mẫu:**
+"Một bệnh X có tỷ lệ mắc trong dân số là p. Bệnh này có n triệu chứng S₁, S₂, ..., Sₙ với xác suất xuất hiện lần lượt là p₁, p₂, ..., pₙ khi mắc bệnh và q₁, q₂, ..., qₙ khi không mắc bệnh. Có k loại test T₁, T₂, ..., Tₖ với độ nhạy và độ đặc hiệu cho trước. Một bệnh nhân có triệu chứng S₁ và S₃, test T₁ cho kết quả dương tính, test T₂ cho kết quả âm tính. Biết rằng hiệu quả của test phụ thuộc vào thời gian và các triệu chứng đã xuất hiện. Tính xác suất bệnh nhân mắc bệnh X."
+
+## III. HƯỚNG DẪN THIẾT KẾ CÂU HỎI
+
+### **Bước 1: Xác định cấu trúc tích hợp**
+1. Chọn 1 chủ đề phụ để tích hợp (hình học, kinh tế, vật lý, sinh học)
+2. Đảm bảo xác suất có điều kiện là công cụ chính để giải quyết
+3. Yêu cầu sử dụng ít nhất 3 công thức khác nhau
+
+### **Bước 2: Thiết kế độ phức tạp**
+1. **Nhiều điều kiện lồng nhau:** A|B, B|C, C|D
+2. **Điều kiện động:** Thay đổi theo thời gian/không gian
+3. **Điều kiện phụ thuộc:** Các biến cố ảnh hưởng qua lại
+
+### **Bước 3: Tạo yếu tố thực tế**
+1. Sử dụng mô hình từ thực tế (y tế, kinh tế, kỹ thuật)
+2. Đưa vào các tham số có ý nghĩa thực tiễn
+3. Yêu cầu giải thích ý nghĩa kết quả
+
+### **Bước 4: Thiết kế câu hỏi phụ**
+1. **Câu a:** Tính xác suất cơ bản có điều kiện
+2. **Câu b:** Tối ưu hóa một tham số
+3. **Câu c:** Phân tích ảnh hưởng của thay đổi điều kiện
+4. **Câu d:** Tổng quát hóa cho trường hợp n biến
+
+## IV. TIÊU CHÍ ĐÁNH GIÁ MỨC ĐỘ VẬN DỤNG CAO
+
+### ✅ **Đạt yêu cầu khi:**
+- Cần sử dụng ít nhất 4-5 công thức khác nhau
+- Có ít nhất 2 lớp điều kiện lồng nhau
+- Yêu cầu phân tích mối quan hệ giữa các biến cố
+- Có yếu tố tối ưu hóa hoặc tìm cực trị
+- Tích hợp kiến thức từ ít nhất 2 chương khác nhau
+
+### ❌ **Chưa đạt yêu cầu khi:**
+- Chỉ áp dụng trực tiếp công thức P(A|B) = P(A∩B)/P(B)
+- Không có sự tích hợp kiến thức
+- Bài toán có thể giải bằng cách thuần túy thay số
+- Thiếu yếu tố phân tích, tổng hợp
+
+Hướng dẫn này sẽ giúp tạo ra những câu hỏi thách thức, đòi hỏi học sinh phải vận dụng linh hoạt và sáng tạo trong việc giải quyết vấn đề.

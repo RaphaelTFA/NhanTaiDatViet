@@ -1,0 +1,88 @@
+# HƯỚNG DẪN SINH ĐỀ - MỨC NHẬN BIẾT
+## Chủ đề: Các quy tắc tính xác suất - Lớp 11
+
+### I. KIẾN THỨC CẦN NHỚ
+
+**1. Định nghĩa xác suất cổ điển:**
+- P(A) = |A|/|Ω| (số kết quả thuận lợi/tổng số kết quả có thể)
+
+**2. Các quy tắc cơ bản:**
+- Quy tắc cộng: P(A ∪ B) = P(A) + P(B) - P(A ∩ B)
+- Nếu A và B xung khắc: P(A ∪ B) = P(A) + P(B)
+- Quy tắc nhân: P(A ∩ B) = P(A) × P(B|A)
+- Nếu A và B độc lập: P(A ∩ B) = P(A) × P(B)
+
+**3. Tính chất:**
+- 0 ≤ P(A) ≤ 1
+- P(Ω) = 1, P(∅) = 0
+- P(Ā) = 1 - P(A)
+
+### II. CÁC DẠNG CÂU HỎI MỨC NHẬN BIẾT
+
+#### **Dạng 1: Nhận biết định nghĩa và công thức**
+
+**Câu 1:** Cho biết công thức tính xác suất của biến cố A trong phép thử có không gian mẫu hữu hạn.
+A. P(A) = |Ω|/|A|
+B. P(A) = |A|/|Ω|
+C. P(A) = |A| × |Ω|
+D. P(A) = |A| + |Ω|
+
+**Câu 2:** Xác định công thức quy tắc cộng xác suất cho hai biến cố A và B bất kỳ.
+A. P(A ∪ B) = P(A) + P(B)
+B. P(A ∪ B) = P(A) + P(B) - P(A ∩ B)
+C. P(A ∪ B) = P(A) × P(B)
+D. P(A ∪ B) = P(A) - P(B)
+
+#### **Dạng 2: Tính toán trực tiếp theo công thức**
+
+**Câu 3:** Gieo một xúc xắc cân đối. Tính xác suất để mặt chấm chẵn xuất hiện.
+A. 1/6    B. 1/3    C. 1/2    D. 2/3
+
+**Câu 4:** Cho P(A) = 0,3. Tính P(Ā).
+A. 0,3    B. 0,7    C. 1,3    D. -0,3
+
+**Câu 5:** Cho hai biến cố xung khắc A và B với P(A) = 0,4 và P(B) = 0,3. Tính P(A ∪ B).
+A. 0,12   B. 0,7    C. 0,1    D. 1,7
+
+#### **Dạng 3: Nhận biết tính chất**
+
+**Câu 6:** Cho biết giá trị nào sau đây có thể là xác suất của một biến cố?
+A. -0,5   B. 1,2    C. 0,8    D. 2
+
+**Câu 7:** Nếu A và B là hai biến cố độc lập với P(A) = 0,6 và P(B) = 0,4, thì P(A ∩ B) bằng:
+A. 0,2    B. 0,24   C. 1      D. 0,1
+
+#### **Dạng 4: Bài toán đơn giản với bài và rút thăm**
+
+**Câu 8:** Trong hộp có 5 viên bi đỏ và 3 viên bi xanh. Lấy ngẫu nhiên 1 viên bi. Tính xác suất để được bi đỏ.
+A. 3/8    B. 5/8    C. 3/5    D. 5/3
+
+**Câu 9:** Rút ngẫu nhiên một lá bài từ bộ bài 52 lá. Tính xác suất rút được lá bài màu đỏ.
+A. 1/4    B. 1/3    C. 1/2    D. 2/3
+
+### III. TEMPLATE SINH ĐỀ
+
+**Mẫu 1 - Nhận biết công thức:**
+"Cho biết/Xác định công thức tính [tên công thức] là gì?"
+
+**Mẫu 2 - Tính toán cơ bản:**
+"Cho [dữ liệu đơn giản]. Tính xác suất của biến cố [mô tả biến cố]."
+
+**Mẫu 3 - Áp dụng tính chất:**
+"Cho P(A) = [số]. Tính P(Ā)/P(A∪B)/P(A∩B)."
+
+**Mẫu 4 - Bài toán thực tế đơn giản:**
+"Trong [tình huống đơn giản]. Tính xác suất [biến cố đơn giản]."
+
+### IV. LƯU Ý KHI SINH ĐỀ
+
+1. **Dữ liệu đầu vào:** Sử dụng số liệu đơn giản, dễ tính
+2. **Kết quả:** Thường là phân số đơn giản hoặc số thập phân có 1-2 chữ số
+3. **Ngôn ngữ:** Rõ ràng, không gây nhầm lẫn
+4. **Đáp án nhiễu:** Tạo từ các sai lầm thường gặp (nhầm công thức, tính sai cơ bản)
+
+**Ví dụ về đáp án nhiễu:**
+- Đảo ngược tử và mẫu số
+- Quên trừ P(A∩B) trong quy tắc cộng  
+- Nhầm giữa quy tắc cộng và nhân
+- Tính sai phép tính cơ bản

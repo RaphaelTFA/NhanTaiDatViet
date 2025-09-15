@@ -1,0 +1,116 @@
+# HƯỚNG DẪN SINH ĐỀ - QUAN HỆ VUÔNG GÓC TRONG KHÔNG GIAN (MỨC THÔNG HIỂU)
+
+## I. KHUNG KIẾN THỨC CẦN NẮMVỮNG
+
+### 1. Đường thẳng vuông góc với mặt phẳng
+- **Định nghĩa**: Đường thẳng d vuông góc với mặt phẳng (P) nếu d vuông góc với mọi đường thẳng nằm trong (P)
+- **Dấu hiệu nhận biết**: d ⊥ (P) ⟺ d vuông góc với 2 đường thẳng cắt nhau trong (P)
+- **Tính chất**: Nếu d ⊥ (P) thì d vuông góc với mọi đường thẳng nằm trong (P)
+
+### 2. Hai mặt phẳng vuông góc
+- **Định nghĩa**: Hai mặt phẳng vuông góc nếu góc giữa chúng bằng 90°
+- **Dấu hiệu nhận biết**: (P) ⊥ (Q) ⟺ (P) chứa đường thẳng vuông góc với (Q)
+- **Tính chất**: Nếu (P) ⊥ (Q) và d ⊂ (P), d ⊥ giao tuyến thì d ⊥ (Q)
+
+### 3. Khoảng cách trong không gian
+- Khoảng cách từ điểm đến đường thẳng
+- Khoảng cách từ điểm đến mặt phẳng
+- Khoảng cách giữa hai đường thẳng song song
+
+## II. CÁC DẠNG BÀI TẬP MỨC THÔNG HIỂU
+
+### DẠNG 1: NHẬN BIẾT VÀ CHỨNG MINH QUAN HỆ VUÔNG GÓC
+
+#### Mẫu đề 1.1:
+**Cho hình chóp S.ABC có SA ⊥ (ABC), ABC là tam giác vuông tại B. Hãy:**
+a) Chỉ ra các cặp đường thẳng vuông góc
+b) Chứng minh BC ⊥ (SAB)
+c) So sánh độ dài SA và SB
+
+*Hướng dẫn sinh đề tương tự:*
+- Thay đổi điều kiện vuông góc (SB ⊥ (ABC), SC ⊥ (ABC))
+- Thay đổi tam giác đáy (tam giác cân, tam giác đều)
+- Thay đổi yêu cầu chứng minh (AB ⊥ (SBC), AC ⊥ (SAB))
+
+#### Mẫu đề 1.2:
+**Cho hình lập phương ABCD.A'B'C'D' cạnh a. Chứng minh:**
+a) AA' ⊥ (ABCD)
+b) (ABB'A') ⊥ (ABCD)
+c) Tính góc giữa AC và (ABB'A')
+
+### DẠNG 2: ỨNG DỤNG TÍNH CHẤT VUÔNG GÓC
+
+#### Mẫu đề 2.1:
+**Cho tứ diện ABCD có AB ⊥ CD, AC ⊥ BD. Chứng minh AD ⊥ BC.**
+
+*Hướng dẫn sinh đề:*
+- Cho 2 cặp cạnh đối vuông góc, chứng minh cặp thứ 3 vuông góc
+- Thay đổi vị trí các cặp cạnh vuông góc
+- Kết hợp với điều kiện về độ dài (AB = CD, AC = BD)
+
+#### Mẫu đề 2.2:
+**Cho hình chóp S.ABCD có đáy ABCD là hình vuông tâm O, SO ⊥ (ABCD).**
+a) Chứng minh AC ⊥ BD và SO ⊥ AC
+b) Tính góc giữa SA và mặt phẳng (ABCD)
+c) So sánh SA và SB
+
+### DẠNG 3: TÍNH TOÁN KHOẢNG CÁCH VÀ GÓC
+
+#### Mẫu đề 3.1:
+**Cho hình chóp S.ABC có SA ⊥ (ABC), SA = 4, tam giác ABC vuông tại B với AB = 3, BC = 4.**
+a) Tính khoảng cách từ A đến mặt phẳng (SBC)
+b) Tính góc giữa SB và mặt phẳng (ABC)
+c) Tính thể tích khối chóp S.ABC
+
+*Hướng dẫn sinh đề:*
+- Thay đổi chiều cao và kích thước đáy
+- Thay đổi hình dạng đáy (tam giác cân, đều, thường)
+- Yêu cầu tính khoảng cách khác (từ B đến (SAC), từ C đến (SAB))
+
+### DẠNG 4: PHÂN TÍCH VÀ SO SÁNH
+
+#### Mẫu đề 4.1:
+**Cho hai mặt phẳng (P) và (Q) vuông góc nhau theo giao tuyến d. Điểm A ∈ (P), điểm B ∈ (Q). Hãy:**
+a) Phân tích vị trí tương đối của AB với d
+b) So sánh khoảng cách từ A đến d và từ A đến (Q)
+c) Giải thích tại sao không thể có AB ⊥ d trong trường hợp tổng quát
+
+## III. NGUYÊN TẮC SINH ĐỀ CHO MỨC THÔNG HIỂU
+
+### 1. Về nội dung:
+- **Tập trung vào 1-2 tính chất chính** trong mỗi câu hỏi
+- **Kết hợp tối đa 2 khái niệm** (VD: vuông góc + khoảng cách)
+- **Sử dụng các hình quen thuộc**: hình chóp, hình lập phương, lăng trụ
+- **Cho điều kiện rõ ràng**, không mơ hồ
+
+### 2. Về độ khó:
+- **1-2 bước giải** cho mỗi câu hỏi nhỏ
+- **Áp dụng trực tiếp** định nghĩa, tính chất
+- **Không yêu cầu kỹ thuật cao** như dựng hình phức tạp
+- **Cho đủ dữ kiện** để giải quyết bài toán
+
+### 3. Về hình thức câu hỏi:
+- **Chứng minh quan hệ vuông góc** (50%)
+- **Tính toán góc, khoảng cách** (30%)
+- **Phân tích, so sánh, giải thích** (20%)
+
+### 4. Về cấu trúc đề:
+- **Câu a**: Nhận biết, áp dụng trực tiếp
+- **Câu b**: Chứng minh sử dụng tính chất
+- **Câu c**: Tính toán hoặc so sánh
+
+## IV. LƯU Ý KHI SINH ĐỀ
+
+### ✅ NÊN:
+- Sử dụng các hình cơ bản, quen thuộc
+- Cho điều kiện vuông góc rõ ràng từ đầu
+- Yêu cầu giải thích, phân tích ngắn gọn
+- Kết hợp hình học và tính toán đơn giản
+
+### ❌ TRÁNH:
+- Hình phức tạp, nhiều điều kiện
+- Yêu cầu dựng hình khó
+- Tính toán phức tạp, nhiều bước
+- Câu hỏi mơ hồ, không rõ ràng
+
+Đây là framework hoàn chỉnh để sinh đề ở mức Thông hiểu cho chủ đề Quan hệ vuông góc trong không gian, phù hợp với học sinh khá giỏi lớp 11.

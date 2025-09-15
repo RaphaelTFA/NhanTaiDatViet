@@ -1,0 +1,127 @@
+# HƯỚNG DẪN SINH ĐỀ - MỨC THÔNG HIỂU
+## Chủ đề: Các số đặc trưng đo mức độ phân tán của mẫu số liệu ghép nhóm (Lớp 12)
+
+---
+
+## I. KHUNG KIẾN THỨC CẦN ĐẢM BẢO
+
+### 1. Các khái niệm cơ bản:
+- **Khoảng biến thiên (R)**: R = xmax - xmin
+- **Khoảng tứ phân vị (IQR)**: IQR = Q₃ - Q₁
+- **Phương sai (s²)**: s² = (1/n)Σnᵢ(xᵢ - x̄)²
+- **Độ lệch chuẩn (s)**: s = √s²
+
+### 2. Công thức tính toán:
+- Phương sai: s² = (1/n)Σnᵢxᵢ² - x̄²
+- Tứ phân vị: Q₁, Q₂ (trung vị), Q₃
+- Giá trị đại diện của nhóm: xᵢ = (aᵢ + bᵢ)/2
+
+---
+
+## II. CÁC DẠNG CÂU HỎI MỨC THÔNG HIỂU
+
+### **DẠNG 1: GIẢI THÍCH VÀ PHÂN TÍCH KHÁI NIỆM**
+
+#### Mẫu câu hỏi:
+**Câu 1:** Cho bảng phân bố tần số:
+| Nhóm | [10;15) | [15;20) | [20;25) | [25;30) |
+|------|---------|---------|---------|---------|
+| Tần số| 5       | 8       | 12      | 5       |
+
+a) Giải thích ý nghĩa của độ lệch chuẩn trong bài toán này.
+b) So sánh độ tin cậy giữa khoảng biến thiên và độ lệch chuẩn.
+
+#### Hướng dẫn sinh đề:
+- Đưa ra bảng số liệu có 3-5 nhóm
+- Yêu cầu giải thích ý nghĩa thực tế của các số đặc trưng
+- So sánh ưu nhược điểm giữa các thước đo
+
+---
+
+### **DẠNG 2: ÁP DỤNG CÔNG THỨC CƠ BẢN**
+
+#### Mẫu câu hỏi:
+**Câu 2:** Tính phương sai và độ lệch chuẩn của mẫu số liệu:
+| Nhóm | [0;10) | [10;20) | [20;30) | [30;40) |
+|------|--------|---------|---------|---------|
+| Tần số| 6      | 14      | 20      | 10      |
+
+#### Hướng dẫn sinh đề:
+- Cho bảng có n = 30-60 (để tính toán không quá phức tạp)
+- Các giá trị đại diện nên là số tự nhiên
+- Yêu cầu tính 1-2 số đặc trưng trong một câu
+
+---
+
+### **DẠNG 3: NHẬN BIẾT MỐI LIÊN HỆ**
+
+#### Mẫu câu hỏi:
+**Câu 3:** Cho hai mẫu số liệu A và B có cùng trung bình x̄ = 25:
+- Mẫu A: s₁ = 3,2
+- Mẫu B: s₂ = 5,8
+
+Phân tích mối liên hệ giữa độ lệch chuẩn và mức độ phân tán. Mẫu nào ổn định hơn?
+
+#### Hướng dẫn sinh đề:
+- Cho 2-3 mẫu có cùng một đặc trưng (trung bình hoặc trung vị)
+- Yêu cầu so sánh mức độ phân tán
+- Liên hệ với thực tế (điểm thi, thu nhập, nhiệt độ...)
+
+---
+
+### **DẠNG 4: CHUYỂN ĐỔI BIỂU DIỄN**
+
+#### Mẫu câu hỏi:
+**Câu 4:** Từ biểu đồ histogram sau, lập bảng tần số và tính IQR:
+[Mô tả biểu đồ với 4 cột có độ cao 4, 7, 9, 5]
+
+#### Hướng dẫn sinh đề:
+- Cho biểu đồ đơn giản, yêu cầu chuyển thành bảng
+- Hoặc cho bảng, yêu cầu vẽ box plot
+- Từ đồ thị suy ra thông tin để tính toán
+
+---
+
+## III. CÁC NGUYÊN TẮC SINH ĐỀ
+
+### **1. Về dữ liệu:**
+- Số nhóm: 4-6 nhóm
+- Cỡ mẫu: n = 30-80
+- Khoảng cách đều nhau: 5, 10, hoặc 20
+- Tần số từ 3-20 cho mỗi nhóm
+
+### **2. Về độ khó:**
+- **Dễ (30%)**: Áp dụng trực tiếp công thức
+- **Trung bình (50%)**: Kết hợp 2 bước tính toán
+- **Khó (20%)**: Phân tích, so sánh, giải thích
+
+### **3. Về phân bố điểm:**
+- Tính toán: 60%
+- Giải thích, phân tích: 25%
+- So sánh, nhận xét: 15%
+
+---
+
+## IV. MẪU ĐỀ THAM KHẢO
+
+**Câu 1 (2đ):** Tính độ lệch chuẩn của bảng số liệu:
+| Điểm | [5;6) | [6;7) | [7;8) | [8;9) | [9;10] |
+|------|-------|-------|-------|-------|--------|
+| Số HS| 3     | 7     | 15    | 20    | 5      |
+
+**Câu 2 (3đ):** 
+a) Tính Q₁, Q₃ và IQR
+b) Giải thích ý nghĩa của IQR trong bài toán về điểm số
+
+**Câu 3 (2đ):** So sánh mức độ ổn định giữa hai lớp A và B biết:
+- Lớp A: x̄ₐ = 7,2; sₐ = 1,1
+- Lớp B: x̄ᵦ = 7,0; sᵦ = 0,8
+
+---
+
+## V. LƯU Ý KHI SINH ĐỀ
+
+1. **Đảm bảo tính thực tế:** Dữ liệu nên gắn với tình huống cụ thể
+2. **Cân bằng kỹ năng:** Vừa tính toán, vừa phân tích
+3. **Độ khó phù hợp:** Không quá dễ nhưng không cần kỹ thuật cao
+4. **Thời gian hợp lý:** Mỗi câu 8-12 phút để hoàn thành

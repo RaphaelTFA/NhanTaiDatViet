@@ -1,0 +1,116 @@
+# HƯỚNG DẪN SINH ĐỀ TOÁN 11: GIỚI HẠN - HÀM SỐ LIÊN TỤC (MỨC THÔNG HIỂU)
+
+## I. KHUNG KIẾN THỨC CẦN ĐỀ CẬP
+
+### 1. Giới hạn hàm số
+- Định nghĩa giới hạn tại một điểm và vô cực
+- Các tính chất cơ bản của giới hạn (tổng, hiệu, tích, thương)
+- Giới hạn một bên (trái, phải)
+- Các dạng vô định: 0/0, ∞/∞, ∞-∞
+
+### 2. Hàm số liên tục
+- Định nghĩa tính liên tục tại một điểm
+- Liên tục trên một khoảng
+- Mối liên hệ giữa giới hạn và tính liên tục
+- Các loại gian đoạn
+
+## II. CÁC DẠNG BÀI TẬP MỨC THÔNG HIỂU
+
+### Dạng 1: Tính giới hạn bằng các quy tắc cơ bản
+
+**Cấu trúc đề:**
+```
+Tính các giới hạn sau:
+a) lim(x→2) (x² - 4)/(x - 2)
+b) lim(x→∞) (2x² - 3x + 1)/(x² + x - 1)
+c) lim(x→1⁺) (x - 1)/(|x - 1|)
+```
+
+**Mục tiêu:** Học sinh áp dụng quy tắc khử dạng vô định, so sánh bậc đa thức, hiểu về giới hạn một bên.
+
+### Dạng 2: Phân tích tính liên tục của hàm số
+
+**Cấu trúc đề:**
+```
+Cho hàm số f(x) = {
+    (x² - 1)/(x - 1)  khi x ≠ 1
+    a                 khi x = 1
+}
+
+a) Tìm lim(x→1) f(x)
+b) Tìm a để hàm số liên tục tại x = 1
+c) Giải thích tại sao hàm số liên tục/không liên tục tại điểm đã cho
+```
+
+**Mục tiêu:** Học sinh hiểu mối liên hệ giữa giới hạn và tính liên tục, biết phân tích điều kiện liên tục.
+
+### Dạng 3: So sánh và phân loại các loại gian đoạn
+
+**Cấu trúc đề:**
+```
+Xét tính liên tục của các hàm số sau và phân loại các điểm gián đoạn (nếu có):
+
+a) f(x) = (x + 2)/(x² - 4)
+b) g(x) = [x] (hàm phần nguyên)
+c) h(x) = {
+    sin(x)/x  khi x ≠ 0
+    1         khi x = 0
+}
+```
+
+**Mục tiêu:** Học sinh phân biệt gián đoạn loại 1, loại 2, hiểu đặc điểm của từng loại.
+
+### Dạng 4: Chuyển đổi giữa đồ thị và tính chất
+
+**Cấu trúc đề:**
+```
+Cho đồ thị hàm số y = f(x). Dựa vào đồ thị:
+a) Tìm lim(x→a⁺) f(x), lim(x→a⁻) f(x) tại các điểm đặc biệt
+b) Xác định các điểm liên tục, gián đoạn
+c) Giải thích ý nghĩa hình học của tính liên tục
+```
+
+**Mục tiêu:** Học sinh kết nối giữa biểu diễn đồ thị và khái niệm đại số.
+
+## III. NGUYÊN TẮC SINH ĐỀ
+
+### 1. Về nội dung
+- **Công thức cơ bản:** Sử dụng các quy tắc tính giới hạn đã học
+- **Hệ quả quan trọng:** Điều kiện cần và đủ để hàm số liên tục
+- **Tính chất:** Liên hệ giữa giới hạn trái, phải và tính liên tục
+
+### 2. Về độ khó
+- **1-2 bước giải:** Không yêu cầu biến đổi phức tạp
+- **Kỹ thuật cơ bản:** Phân tích nhân tử, quy đồng, so sánh bậc
+- **Kết hợp khái niệm:** Giới hạn + liên tục, đồ thị + tính chất
+
+### 3. Về tư duy
+- **Giải thích:** Tại sao hàm số liên tục/gián đoạn?
+- **Phân tích:** So sánh các loại gián đoạn
+- **Mối liên hệ:** Giữa giới hạn và tính liên tục
+
+## IV. MẪU ĐỀ THAM KHẢO
+
+**Câu 1 (3 điểm):** Tính các giới hạn sau và giải thích phương pháp sử dụng:
+a) lim(x→3) (x² - 9)/(x - 3)
+b) lim(x→∞) (3x - 1)/(2x + 5)
+
+**Câu 2 (4 điểm):** Cho hàm số f(x) = {(x² - 4)/(x - 2) khi x ≠ 2; a khi x = 2}
+a) Tính lim(x→2) f(x)
+b) Định a để f(x) liên tục tại x = 2
+c) So sánh trường hợp a = 4 và a = 5, hàm số nào liên tục? Vì sao?
+
+**Câu 3 (3 điểm):** Phân tích tính liên tục của g(x) = 1/(x-1) trên ℝ và phân loại điểm gián đoạn.
+
+**Tiêu chí chấm:**
+- Áp dụng đúng công thức: 40%
+- Giải thích, phân tích: 35%  
+- Kết luận chính xác: 25%
+
+## V. LƯU Ý KHI SINH ĐỀ
+
+1. **Cân bằng giữa lý thuyết và tính toán**
+2. **Yêu cầu giải thích ở mỗi bước quan trọng**
+3. **Đưa ra các tình huống để học sinh so sánh**
+4. **Kết hợp nhiều cách biểu diễn (công thức, đồ thị, bảng)**
+5. **Tránh các phép biến đổi quá phức tạp**

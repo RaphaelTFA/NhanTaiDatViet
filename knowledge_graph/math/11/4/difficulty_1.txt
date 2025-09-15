@@ -1,0 +1,111 @@
+# HƯỚNG DẪN SINH ĐỀ - QUAN HỆ SONG SONG TRONG KHÔNG GIAN (MỨC NHẬN BIẾT)
+
+## I. KIẾN THỨC CẦN KIỂM TRA
+
+### 1. Đường thẳng song song với mặt phẳng
+- **Định nghĩa**: Đường thẳng song song với mặt phẳng khi không có điểm chung
+- **Định lý**: Đường thẳng song song với mặt phẳng ⟺ song song với một đường thẳng nằm trong mặt phẳng đó
+
+### 2. Hai mặt phẳng song song
+- **Định nghĩa**: Hai mặt phẳng song song khi không có điểm chung
+- **Định lý**: Hai mặt phẳng song song ⟺ mặt phẳng này chứa hai đường thẳng cắt nhau cùng song song với mặt phẳng kia
+
+### 3. Tính chất cơ bản
+- Tính chất bắc cầu của quan hệ song song
+- Giao tuyến của hai mặt phẳng với mặt phẳng thứ ba
+
+## II. CÁC DẠNG CÂU HỎI MỨC NHẬN BIẾT
+
+### **DẠNG 1: Nhận biết định nghĩa**
+
+**Mẫu câu hỏi:**
+1. "Cho biết định nghĩa đường thẳng song song với mặt phẳng"
+2. "Xác định khái niệm hai mặt phẳng song song"
+3. "Nhận biết điều kiện để đường thẳng song song với mặt phẳng"
+
+**Ví dụ cụ thể:**
+> **Câu 1:** Đường thẳng d song song với mặt phẳng (P) khi:
+> A. d nằm trong (P)
+> B. d và (P) không có điểm chung
+> C. d cắt (P) tại một điểm
+> D. d vuông góc với (P)
+
+### **DẠNG 2: Áp dụng trực tiếp định lý**
+
+**Mẫu câu hỏi:**
+1. "Tìm điều kiện để hai mặt phẳng song song"
+2. "Xác định vị trí tương đối giữa đường thẳng và mặt phẳng"
+3. "Cho biết tính chất của hai mặt phẳng song song"
+
+**Ví dụ cụ thể:**
+> **Câu 2:** Cho hai đường thẳng a, b cắt nhau và cùng song song với mặt phẳng (Q). Mặt phẳng (P) chứa a và b. Kết luận nào đúng?
+> A. (P) ≡ (Q)
+> B. (P) ∩ (Q) = ∅
+> C. (P) // (Q)
+> D. (P) ⊥ (Q)
+
+### **DẠNG 3: Nhận biết trong hình học cụ thể**
+
+**Mẫu câu hỏi:**
+1. "Xác định các cặp cạnh song song trong hình hộp"
+2. "Tìm các mặt song song trong hình lăng trụ"
+3. "Nhận biết đường thẳng song song với mặt phẳng trong hình chóp"
+
+**Ví dụ cụ thể:**
+> **Câu 3:** Cho hình hộp ABCD.A'B'C'D'. Cặp mặt phẳng nào song song?
+> A. (ABCD) và (AA'B'B)
+> B. (ABCD) và (A'B'C'D')
+> C. (ABB'A') và (ADD'A')
+> D. (ABCD) và (ABB'A')
+
+### **DẠNG 4: Tính chất cơ bản**
+
+**Mẫu câu hỏi:**
+1. "Cho biết tính chất bắc cầu của quan hệ song song"
+2. "Xác định giao tuyến khi có hai mặt phẳng song song"
+3. "Tìm mối quan hệ giữa các đường thẳng song song"
+
+**Ví dụ cụ thể:**
+> **Câu 4:** Nếu đường thẳng a // mặt phẳng (P) và (P) // (Q), thì:
+> A. a ⊂ (Q)
+> B. a // (Q) hoặc a ⊂ (Q)
+> C. a ∩ (Q) ≠ ∅
+> D. a ⊥ (Q)
+
+## III. QUY TRÌNH SINH CÂU HỎI
+
+### **Bước 1: Chọn kiến thức cần kiểm tra**
+- Định nghĩa cơ bản
+- Định lý chính
+- Tính chất đơn giản
+
+### **Bước 2: Xây dựng tình huống**
+- Sử dụng hình học quen thuộc (hình hộp, lăng trụ, chóp)
+- Cho trước các yếu tố cơ bản
+- Tránh tình huống phức tạp
+
+### **Bước 3: Đặt câu hỏi**
+- Sử dụng động từ: "Cho biết", "Xác định", "Nhận biết", "Tìm"
+- Yêu cầu áp dụng trực tiếp định nghĩa/định lý
+- Câu hỏi ngắn gọn, rõ ràng
+
+### **Bước 4: Tạo các lựa chọn (nếu trắc nghiệm)**
+- Đáp án đúng rõ ràng
+- Các phương án nhiễu khác biệt rõ ràng
+- Tránh gây nhầm lẫn không cần thiết
+
+## IV. LƯU Ý KHI SINH ĐỀ
+
+### **Cần làm:**
+- Kiểm tra kiến thức thuộc lòng
+- Câu hỏi đơn giản, trực tiếp
+- Phù hợp với học sinh trung bình
+- Có thể trả lời trong thời gian ngắn
+
+### **Tránh:**
+- Yêu cầu chứng minh phức tạp
+- Tính toán nhiều bước
+- Kết hợp nhiều kiến thức
+- Câu hỏi mang tính chất vận dụng cao
+
+Hướng dẫn này giúp tạo ra những câu hỏi phù hợp với mức độ nhận biết, đảm bảo kiểm tra được kiến thức cơ bản mà học sinh cần nắm vững về quan hệ song song trong không gian.

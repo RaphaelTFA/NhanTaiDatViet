@@ -1,0 +1,122 @@
+# HƯỚNG DẪN SINH ĐỀ MỨC THÔNG HIỂU
+## Chủ đề: Phương pháp tọa độ trong mặt phẳng - Lớp 10
+
+## I. KHUNG KIẾN THỨC CẦN ĐÁNH GIÁ
+
+### 1. Hệ tọa độ và tọa độ điểm
+- Xác định tọa độ điểm trên hệ trục tọa độ
+- Biểu diễn điểm trên mặt phẳng tọa độ
+- So sánh vị trí các điểm dựa vào tọa độ
+
+### 2. Véc-tơ trong hệ tọa độ
+- Tọa độ véc-tơ và các phép toán véc-tơ
+- Công thức tính độ dài véc-tơ
+- Điều kiện cùng phương của hai véc-tơ
+
+### 3. Công thức khoảng cách và trung điểm
+- Khoảng cách giữa hai điểm
+- Tọa độ trung điểm của đoạn thẳng
+- Chia đoạn thẳng theo tỉ số cho trước
+
+### 4. Phương trình đường thẳng
+- Véc-tơ chỉ phương và véc-tơ pháp tuyến
+- Phương trình tham số và phương trình tổng quát
+- Chuyển đổi giữa các dạng phương trình
+
+### 5. Phương trình đường tròn
+- Phương trình đường tròn có tâm và bán kính cho trước
+- Nhận dạng phương trình đường tròn từ dạng khai triển
+
+## II. CÁC DẠNG CÂU HỎI MỨC THÔNG HIỂU
+
+### **DẠNG 1: Phân tích và giải thích khái niệm**
+
+**Mẫu câu hỏi:**
+1. "Cho hai điểm A(1;2) và B(3;-1). Giải thích tại sao véc-tơ AB⃗ có tọa độ (2;-3) và tính độ dài của véc-tơ này."
+
+2. "Phân tích sự khác biệt giữa véc-tơ chỉ phương và véc-tơ pháp tuyến của đường thẳng. Cho ví dụ minh họa."
+
+**Hướng dẫn sinh đề:**
+- Yêu cầu học sinh GIẢI THÍCH quy trình tính toán
+- Đưa ra các bước phân tích rõ ràng
+- Kết hợp lý thuyết với ví dụ cụ thể
+
+### **DẠNG 2: Áp dụng công thức cơ bản**
+
+**Mẫu câu hỏi:**
+1. "Cho tam giác ABC với A(2;1), B(-1;3), C(4;-2). Tính chu vi tam giác và tọa độ trọng tâm."
+
+2. "Viết phương trình đường thẳng đi qua điểm M(1;2) và có véc-tơ chỉ phương u⃗(3;-1). Sau đó chuyển về dạng tổng quát."
+
+**Hướng dẫn sinh đề:**
+- Sử dụng 1-2 công thức chính
+- Các phép tính không quá phức tạp
+- Có thể yêu cầu nhiều bước nhưng mỗi bước đơn giản
+
+### **DẠNG 3: So sánh và phân loại**
+
+**Mẫu câu hỏi:**
+1. "So sánh hai phương pháp tìm phương trình đường thẳng: sử dụng véc-tơ chỉ phương và sử dụng véc-tơ pháp tuyến. Áp dụng cho đường thẳng qua A(1;2) và B(3;-1)."
+
+2. "Phân loại vị trí tương đối của điểm M(1;3) với đường tròn (x-2)² + (y+1)² = 9. Giải thích cách phân loại."
+
+**Hướng dẫn sinh đề:**
+- Đưa ra tiêu chí so sánh rõ ràng
+- Yêu cầu phân tích ưu nhược điểm
+- Kết hợp với bài toán cụ thể
+
+### **DẠNG 4: Chuyển đổi biểu diễn**
+
+**Mẫu câu hỏi:**
+1. "Cho phương trình đường thẳng dạng tham số: {x = 1 + 2t; y = -1 + 3t}. Chuyển về dạng tổng quát và vẽ đồ thị."
+
+2. "Từ phương trình x² + y² - 4x + 6y - 3 = 0, xác định tâm và bán kính đường tròn, sau đó vẽ đường tròn trên hệ trục tọa độ."
+
+**Hướng dẫn sinh đề:**
+- Yêu cầu chuyển đổi giữa các dạng
+- Kết hợp biểu diễn hình học
+- Kiểm tra tính đúng đắn của chuyển đổi
+
+### **DẠNG 5: Nhận biết mối liên hệ**
+
+**Mẫu câu hỏi:**
+1. "Cho đường thẳng d: 2x - 3y + 1 = 0 và điểm A(1;2). Tìm mối liên hệ giữa khoảng cách từ A đến d và phương trình đường tròn có tâm A tiếp xúc với d."
+
+2. "Phân tích mối quan hệ giữa điều kiện song song của hai đường thẳng và tọa độ các véc-tơ pháp tuyến của chúng."
+
+**Hướng dẫn sinh đề:**
+- Kết nối nhiều khái niệm đã học
+- Tìm mối quan hệ giữa các yếu tố
+- Áp dụng để giải quyết vấn đề thực tế
+
+## III. NGUYÊN TẮC SINH ĐỀ
+
+### **1. Về nội dung:**
+- Sử dụng số liệu đơn giản, dễ tính toán
+- Kết hợp 2-3 kiến thức trong một câu
+- Tránh các phép tính phức tạp
+
+### **2. Về cấu trúc câu hỏi:**
+- Bắt đầu bằng động từ: "Giải thích", "Phân tích", "So sánh", "Tính toán"
+- Chia thành 2-3 ý nhỏ
+- Có thể yêu cầu minh họa bằng hình vẽ
+
+### **3. Về đáp án:**
+- Có nhiều cách giải hợp lý
+- Chấp nhận sai số nhỏ trong tính toán
+- Đánh giá cao tính logic trong trình bày
+
+### **4. Ví dụ câu hỏi hoàn chỉnh:**
+
+**Câu:** Cho hai đường thẳng d₁: 2x - y + 3 = 0 và d₂: {x = 1 + t; y = 2 + 2t}
+a) Chuyển đường thẳng d₂ về dạng tổng quát và so sánh với d₁
+b) Giải thích vị trí tương đối của hai đường thẳng này
+c) Tìm tọa độ giao điểm (nếu có) và minh họa trên hệ trục tọa độ
+
+**Mục tiêu đánh giá:**
+- Khả năng chuyển đổi dạng phương trình
+- Hiểu biết về vị trí tương đối đường thẳng  
+- Áp dụng công thức tìm giao điểm
+- Kỹ năng biểu diễn hình học
+
+Hướng dẫn này giúp tạo ra các câu hỏi phù hợp với mức độ thông hiểu, đảm bảo học sinh vừa có thể áp dụng kiến thức vừa phải suy luận và phân tích.

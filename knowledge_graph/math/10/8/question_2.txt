@@ -1,0 +1,100 @@
+** Dưới trên là kiểu câu hỏi "trả lời ngắn" ** 
+** Định dạng câu hỏi: (Bắt buộc phải như cấu trúc dưới)**
+```
+1.  [Nội dung câu hỏi]
+... Gợi ý: [Nội dung gợi ý]
++   Phản hồi đúng: [Giải thích chi tiết và phân tích từng bước dựa trên kiến thức Toán]
+-   Phản hồi sai: [Giải thích lỗi sai thường gặp của học sinh]
+= [Đáp án]+-[Sai số, thường bằng 3% đáp án, nếu đáp án bằng 0 thì bắt buộc phải là 0.01]
+```
+Ví dụ: ```
+1. Cho hàm số $f(x) = \frac{x^2 + 1}{x^2 - 2x + 2}$ trên đoạn $[0; 2]$. Một kỹ sư cần tính thể tích nước trong bể chứa có tiết diện ngang thay đổi theo công thức này (đơn vị: $m^2$) dọc theo chiều dài 2m. Biết công thức tính thể tích là $V = \pi \int_0^2 f(x)dx$ (do quay quanh trục Ox), tìm thể tích nước trong bể.
+... Gợi ý: Thực hiện phép chia đa thức và sử dụng phương pháp đổi biến lượng giác để tính tích phân của phần dư.
++   Phản hồi đúng: Thực hiện phép chia $\frac{x^2 + 1}{x^2 - 2x + 2} = 1 + \frac{2x - 1}{x^2 - 2x + 2}$. Biến đổi mẫu thành $(x-1)^2 + 1$, đặt $u = x-1$ để có $\int \frac{2u}{u^2 + 1}du = \ln(u^2 + 1)$ và $\int \frac{-1}{u^2 + 1}du = -\arctan(u)$. Kết quả cuối cùng là $V = \pi[2 + \ln 2 - \frac{\pi}{2}]$.
+-   Phản hồi sai: Học sinh thường quên biến đổi mẫu số thành dạng chuẩn hoặc không thực hiện phép chia đa thức, dẫn đến không tách được tích phân thành các phần đơn giản hơn.
+= 7.283+-0.218
+```
+Phần đáp án BẮT BUỘC chỉ chứa các số và dấu thập phân thôi, không được phép có bất kì một ký hiệu nào khác.
+Khi bạn tạo các câu hỏi trắc nghiệm với kiểu trả lời "trả lời ngắn", có một số yếu tố lý thuyết cần xem xét để đảm bảo câu hỏi hiệu quả và công bằng:
+
+**1. Định nghĩa và Đặc điểm:**
+
+*   **Định nghĩa:** Câu hỏi trả lời ngắn là loại câu hỏi yêu cầu người học cung cấp một câu trả lời súc tích, thường là một từ, một cụm từ, hoặc một vài câu ngắn gọn để trực tiếp trả lời câu hỏi. Chúng khác với câu hỏi trắc nghiệm ở chỗ không cung cấp sẵn các lựa chọn, và khác với câu hỏi tự luận ở chỗ không yêu cầu phân tích sâu rộng hay lập luận phức tạp.
+
+*   **Đặc điểm:**
+    *   **Tập trung:** Nhắm vào một điểm kiến thức cụ thể.
+    *   **Súc tích:** Yêu cầu câu trả lời cô đọng.
+    *   **Đánh giá sự ghi nhớ và hiểu biết cơ bản:** Rất hiệu quả cho các cấp độ đầu của thang Bloom (ghi nhớ, hiểu, áp dụng).
+    *   **Giảm khả năng đoán mò:** Người học phải thực sự biết câu trả lời.
+    *   **Dễ chấm điểm hơn tự luận:** Vì câu trả lời có phạm vi hẹp hơn.
+
+**2. Mục tiêu và Kỹ năng đánh giá:**
+
+Kiểu câu hỏi trả lời ngắn rất phù hợp để đánh giá:
+
+*   **Ghi nhớ (Recall):**
+    *   Các sự kiện, tên, ngày tháng, định nghĩa, thuật ngữ.
+    *   Ví dụ: "Thủ đô của nước Pháp là gì?"
+*   **Hiểu (Comprehension):**
+    *   Giải thích ngắn gọn một khái niệm, quy trình, hoặc mối quan hệ.
+    *   Xác định các thành phần, nguyên nhân, hoặc kết quả.
+    *   Ví dụ: "Giải thích ngắn gọn tại sao lá cây có màu xanh."
+*   **Áp dụng (Application):**
+    *   Sử dụng một công thức hoặc quy tắc đơn giản để tìm ra kết quả.
+    *   Ví dụ: "Nếu a=5 và b=3, giá trị của a+b là bao nhiêu?"
+*   **Kỹ năng tư duy bậc cao (ít hơn so với tự luận):**
+    *   Có thể đòi hỏi tổng hợp thông tin từ nhiều nguồn hoặc phân tích cơ bản, nhưng vẫn trong phạm vi trả lời ngắn gọn.
+    *   Ví dụ: "Liệt kê ba lợi ích chính của năng lượng mặt trời."
+
+**3. Cấu trúc câu hỏi (Question Structure):**
+
+Một câu hỏi trả lời ngắn hiệu quả cần:
+
+*   **Rõ ràng và chính xác:** Người học phải hiểu chính xác điều gì được yêu cầu. Tránh các câu hỏi mơ hồ có thể có nhiều câu trả lời đúng.
+    *   **Tốt:** "Ai đã phát minh ra bóng đèn điện?"
+    *   **Không tốt:** "Nói về phát minh bóng đèn." (Quá rộng, giống tự luận)
+
+*   **Tập trung vào một điểm duy nhất:** Mỗi câu hỏi nên có một câu trả lời đúng cụ thể.
+    *   **Tốt:** "Tên khoa học của loài người là gì?"
+    *   **Không tốt:** "Nêu tên loài người và một số đặc điểm của nó." (Hai yêu cầu khác nhau)
+
+*   **Ngôn ngữ đơn giản và dễ hiểu:** Tránh các từ ngữ phức tạp hoặc thuật ngữ chuyên ngành không cần thiết nếu đó không phải là trọng tâm câu hỏi.
+
+*   **Chỉ rõ loại câu trả lời mong muốn (nếu cần):** Để tránh mơ hồ, bạn có thể chỉ rõ định dạng hoặc độ dài.
+    *   Ví dụ: "Nêu tên (một từ) nguyên tố hóa học có ký hiệu 'O'."
+    *   Ví dụ: "Trong hai câu, giải thích ngắn gọn nguyên lý hoạt động của động cơ hơi nước."
+
+**4. Ưu điểm:**
+
+*   **Giảm thiểu đoán mò:** Người học phải biết câu trả lời thực sự.
+*   **Dễ tạo hơn câu hỏi trắc nghiệm tốt:** Không cần phải nghĩ ra các phương án gây nhiễu hợp lý.
+*   **Đánh giá mức độ hiểu sâu hơn so với trắc nghiệm:** Buộc người học phải tự tổng hợp và diễn đạt.
+*   **Khuyến khích học tập tích cực:** Khuyến khích người học học để hiểu và nhớ lại, không chỉ nhận diện.
+*   **Thời gian trả lời nhanh:** Thường mất ít thời gian hơn tự luận.
+*   **Chấm điểm khách quan hơn tự luận:** Vì câu trả lời có ít biến thể hơn.
+
+**5. Nhược điểm:**
+
+*   **Chấm điểm tốn thời gian hơn trắc nghiệm:** Cần người đọc và đánh giá từng câu trả lời.
+*   **Chấm điểm có thể kém khách quan hơn trắc nghiệm:** Dù tốt hơn tự luận, vẫn có thể có sự khác biệt nhỏ giữa những người chấm khác nhau về cách chấp nhận các câu trả lời gần đúng hoặc các cách diễn đạt khác nhau.
+*   **Không đánh giá kỹ năng tư duy bậc cao nhất:** Không phù hợp để đánh giá khả năng phân tích phức tạp, đánh giá phê phán hay sáng tạo.
+*   **Có thể khó khăn cho những người học có kỹ năng diễn đạt kém:** Ngay cả khi họ biết câu trả lời, họ có thể gặp khó khăn trong việc trình bày súc tích.
+*   **Khó chuẩn hóa:** Đảm bảo tất cả các câu trả lời đúng đều được chấp nhận và các câu trả lời sai đều bị từ chối có thể phức tạp.
+
+**6. Hướng dẫn chấm điểm:**
+
+*   **Tạo hướng dẫn chấm điểm (Rubric) chi tiết:** Đây là yếu tố then chốt để đảm bảo tính khách quan và công bằng.
+    *   Liệt kê tất cả các từ khóa hoặc khái niệm chính phải có trong câu trả lời.
+    *   Xác định các câu trả lời thay thế được chấp nhận.
+    *   Quyết định cách xử lý lỗi chính tả/ngữ pháp (có trừ điểm không, nếu có thì bao nhiêu).
+    *   Chỉ rõ điểm tối đa cho mỗi câu hỏi.
+*   **Chấm theo từng câu hỏi thay vì từng bài:** Đọc tất cả các câu trả lời cho câu hỏi 1, sau đó tất cả các câu trả lời cho câu hỏi 2, v.v. Điều này giúp duy trì sự nhất quán trong việc chấm điểm cho một câu hỏi cụ thể.
+*   **Che tên người học:** Để tránh sự thiên vị vô thức.
+
+**Ví dụ về câu hỏi trả lời ngắn:**
+
+*   **Ghi nhớ:** "Tên của đại dương lớn nhất thế giới là gì?" (Đáp án: Thái Bình Dương)
+*   **Hiểu:** "Kể tên hai loại nguồn năng lượng tái tạo." (Đáp án: Gió, Mặt trời, Thủy điện, Sinh khối...)
+*   **Áp dụng:** "Một tam giác có các cạnh là 3cm, 4cm, 5cm. Đây là loại tam giác gì?" (Đáp án: Tam giác vuông)
+
+Bằng cách hiểu rõ lý thuyết và các nguyên tắc này, bạn có thể thiết kế các câu hỏi trả lời ngắn hiệu quả để đánh giá chính xác kiến thức và sự hiểu biết của người học.

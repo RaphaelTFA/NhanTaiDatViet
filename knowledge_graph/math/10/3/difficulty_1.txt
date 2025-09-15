@@ -1,0 +1,108 @@
+# HƯỚNG DẪN SINH ĐỀ MỨC NHẬN BIẾT
+## Chủ đề: Hệ thức lượng trong tam giác - Lớp 10
+
+### I. KIẾN THỨC CẦN NHẬN BIẾT
+
+**1. Định lý cosin:**
+- $a^2 = b^2 + c^2 - 2bc\cos A$
+- $b^2 = a^2 + c^2 - 2ac\cos B$ 
+- $c^2 = a^2 + b^2 - 2ab\cos C$
+
+**2. Định lý sin:**
+- $\frac{a}{\sin A} = \frac{b}{\sin B} = \frac{c}{\sin C} = 2R$
+
+**3. Công thức tính diện tích:**
+- $S = \frac{1}{2}bc\sin A = \frac{1}{2}ac\sin B = \frac{1}{2}ab\sin C$
+- $S = \frac{abc}{4R}$ (công thức Hero có thể đề cập)
+
+### II. CÁC DẠNG CÂU HỎI MỨC NHẬN BIẾT
+
+#### **Dạng 1: Nhận biết công thức**
+
+**Câu hỏi mẫu:**
+1. Trong tam giác ABC có các cạnh a, b, c đối diện với các góc A, B, C. Định lý cosin được phát biểu như thế nào?
+
+2. Cho biết công thức định lý sin trong tam giác ABC.
+
+3. Xác định công thức tính diện tích tam giác theo hai cạnh và góc xen giữa.
+
+#### **Dạng 2: Áp dụng trực tiếp công thức đơn giản**
+
+**Câu hỏi mẫu:**
+
+**Câu 1:** Cho tam giác ABC có $a = 3$, $b = 4$, $C = 60°$. Tính cạnh c.
+- A. $c = \sqrt{13}$
+- B. $c = \sqrt{37}$ 
+- C. $c = 5$
+- D. $c = 7$
+
+**Câu 2:** Cho tam giác ABC có $a = 6$, $A = 30°$, $R = 6$. Tìm bán kính đường tròn ngoại tiếp.
+- A. $R = 3$
+- B. $R = 6$ 
+- C. $R = 12$
+- D. $R = 9$
+
+**Câu 3:** Cho tam giác ABC có $a = 5$, $b = 6$, $C = 30°$. Tính diện tích tam giác.
+- A. $S = 15$
+- B. $S = 7.5$
+- C. $S = 30$
+- D. $S = 10$
+
+#### **Dạng 3: Nhận biết mối quan hệ cơ bản**
+
+**Câu hỏi mẫu:**
+
+**Câu 1:** Trong tam giác ABC, nếu $C = 90°$ thì định lý cosin trở thành:
+- A. $c^2 = a^2 + b^2$
+- B. $c^2 = a^2 - b^2$
+- C. $c^2 = 2ab$
+- D. $c = a + b$
+
+**Câu 2:** Cho tam giác ABC có $\frac{a}{\sin A} = 10$. Tìm bán kính đường tròn ngoại tiếp.
+- A. $R = 5$
+- B. $R = 10$
+- C. $R = 20$
+- D. $R = 15$
+
+### III. TEMPLATE SINH CÂU HỎI
+
+#### **Template 1: Tính toán trực tiếp**
+```
+Cho tam giác ABC có [cho 2 cạnh và 1 góc xen giữa]. 
+Tính [cạnh còn lại/diện tích].
+```
+
+#### **Template 2: Nhận biết công thức**
+```
+Trong tam giác ABC, [điều kiện đặc biệt]. 
+Cho biết [công thức nào được áp dụng].
+```
+
+#### **Template 3: Trắc nghiệm nhận biết**
+```
+Cho tam giác ABC có [dữ liệu đơn giản]. 
+Tìm [đại lượng cần tìm].
+[4 phương án rõ ràng, khác biệt]
+```
+
+### IV. LƯU Ý KHI SINH ĐỀ
+
+1. **Dữ liệu cho:**
+   - Sử dụng số liệu đơn giản, "đẹp"
+   - Góc thường cho: 30°, 45°, 60°, 90°, 120°
+   - Cạnh là số nguyên hoặc căn đơn giản
+
+2. **Mức độ tính toán:**
+   - Chỉ cần thay số vào công thức
+   - Tối đa 2-3 phép tính đơn giản
+   - Kết quả "đẹp", dễ kiểm tra
+
+3. **Phương án nhiễu:**
+   - Rõ ràng, khác biệt đáng kể
+   - Có thể là kết quả sai khi nhầm công thức
+   - Tránh gây nhầm lẫn về mặt tính toán
+
+4. **Ngôn ngữ đề bài:**
+   - Ngắn gọn, rõ ràng
+   - Sử dụng ký hiệu chuẩn
+   - Tránh câu văn phức tạp

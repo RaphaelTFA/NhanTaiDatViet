@@ -1,0 +1,76 @@
+# TÓM TẮT: CÁC SỐ ĐẶC TRƯNG CỦA MẪU SỐ LIỆU KHÔNG GHÉP NHÓM
+
+## I. CÁC ĐỊNH NGHĨA CHÍNH
+
+### 1. Số trung bình cộng (Mean)
+**Định nghĩa:** Cho mẫu số liệu có n giá trị: x₁, x₂, ..., xₙ
+- **Công thức:** $\bar{x} = \frac{x_1 + x_2 + ... + x_n}{n} = \frac{1}{n}\sum_{i=1}^{n}x_i$
+
+### 2. Trung vị (Median)
+**Định nghĩa:** Là giá trị đứng giữa của mẫu số liệu đã được sắp xếp theo thứ tự tăng dần
+- **Nếu n lẻ:** $M_e = x_{\frac{n+1}{2}}$
+- **Nếu n chẵn:** $M_e = \frac{x_{\frac{n}{2}} + x_{\frac{n}{2}+1}}{2}$
+
+### 3. Mốt (Mode)
+**Định nghĩa:** Là giá trị xuất hiện nhiều nhất trong mẫu số liệu
+
+### 4. Tứ phân vị
+- **Tứ phân vị thứ nhất (Q₁):** Trung vị của nửa dưới dữ liệu
+- **Tứ phân vị thứ hai (Q₂):** Chính là trung vị (Mₑ)
+- **Tứ phân vị thứ ba (Q₃):** Trung vị của nửa trên dữ liệu
+
+### 5. Khoảng biến thiên (Range)
+**Công thức:** R = x_max - x_min
+
+### 6. Khoảng tứ phân vị
+**Công thức:** IQR = Q₃ - Q₁
+
+### 7. Phương sai (Variance)
+**Công thức:** $s^2 = \frac{1}{n}\sum_{i=1}^{n}(x_i - \bar{x})^2$
+
+### 8. Độ lệch chuẩn (Standard Deviation)
+**Công thức:** $s = \sqrt{s^2} = \sqrt{\frac{1}{n}\sum_{i=1}^{n}(x_i - \bar{x})^2}$
+
+## II. CÔNG THỨC TÍNH NHANH
+
+### Phương sai (công thức rút gọn):
+$s^2 = \frac{1}{n}\sum_{i=1}^{n}x_i^2 - \bar{x}^2$
+
+### Với số liệu có tần số:
+- **Số trung bình:** $\bar{x} = \frac{\sum_{i=1}^{k}x_i \cdot n_i}{n}$
+- **Phương sai:** $s^2 = \frac{\sum_{i=1}^{k}x_i^2 \cdot n_i}{n} - \bar{x}^2$
+
+## III. CÁC DẠNG BÀI TẬP CHÍNH
+
+### Dạng 1: Tính các số đặc trưng cơ bản
+- Tính số trung bình cộng
+- Tìm trung vị, mốt
+- Tính khoảng biến thiên
+
+### Dạng 2: Tính phương sai và độ lệch chuẩn
+- Áp dụng công thức trực tiếp
+- Sử dụng công thức rút gọn
+
+### Dạng 3: Tìm tứ phân vị
+- Xác định Q₁, Q₂, Q₃
+- Tính khoảng tứ phân vị
+
+### Dạng 4: Bài toán có tham số
+- Tìm giá trị tham số khi biết số trung bình
+- Tìm tham số khi biết phương sai
+
+### Dạng 5: So sánh độ phân tán
+- So sánh phương sai, độ lệch chuẩn
+- Nhận xét về độ ổn định của mẫu số liệu
+
+### Dạng 6: Biểu đồ hộp (Box plot)
+- Vẽ biểu đồ hộp từ các tứ phân vị
+- Phân tích dữ liệu từ biểu đồ hộp
+
+## IV. LƯU Ý QUAN TRỌNG
+
+1. **Khi tính trung vị:** Phải sắp xếp dữ liệu theo thứ tự tăng dần
+2. **Phương sai và độ lệch chuẩn:** Đo lường độ phân tán của dữ liệu
+3. **Ý nghĩa:** 
+   - Độ lệch chuẩn càng nhỏ → dữ liệu càng ít phân tán
+   - Khoảng tứ phân vị chứa 50% dữ liệu ở giữa

@@ -1,0 +1,88 @@
+# HƯỚNG DẪN SINH ĐỀ MỨC VẬN DỤNG
+## Chủ đề: Quan hệ vuông góc trong không gian - Lớp 11
+
+### I. KHUNG KIẾN THỨC CẦN VẬN DỤNG
+
+**1. Kiến thức cốt lõi:**
+- Đường thẳng vuông góc với mặt phẳng
+- Hai mặt phẳng vuông góc
+- Khoảng cách từ điểm đến mặt phẳng
+- Góc giữa đường thẳng và mặt phẳng
+
+**2. Kiến thức liên kết:**
+- Hình học phẳng (tam giác, tứ giác)
+- Lượng giác cơ bản
+- Hệ tọa độ trong không gian (nếu đã học)
+
+### II. CẤU TRÚC SINH ĐỀ
+
+#### **Dạng 1: Ứng dụng trong kiến trúc và xây dựng**
+
+**Khung câu hỏi:**
+- Bài toán về mái nhà, cầu thang, tháp
+- Tính góc nghiêng, chiều cao, khoảng cách
+- Sử dụng số liệu thực tế về góc an toàn, tiêu chuẩn xây dựng
+
+**Ví dụ sinh đề:**
+"Một mái nhà có dạng hình tam giác ABC với AB = 8m, AC = 8m, BC = 6m. Người thợ dựng cột chống DE vuông góc với mặt phẳng (ABC) tại trung điểm D của BC, với DE = 4m. Biết rằng theo tiêu chuẩn xây dựng, góc nghiêng của mái so với mặt đất phải từ 30° đến 45°."
+
+**Yêu cầu đa bước:**
+1. Tính chiều cao từ A đến BC
+2. Tính góc giữa mặt phẳng (ADE) và mặt phẳng (ABC)  
+3. Kiểm tra mái nhà có đạt tiêu chuẩn không
+
+#### **Dạng 2: Ứng dụng trong đo đạc và địa lý**
+
+**Khung câu hỏi:**
+- Bài toán về độ cao núi, tháp viễn thông
+- Tính khoảng cách thực tế không thể đo trực tiếp
+- Kết hợp với góc nâng, góc hạ
+
+**Ví dụ sinh đề:**
+"Từ hai điểm A và B cách nhau 100m trên mặt đất phẳng, người ta quan sát đỉnh C của một tòa tháp. Góc nâng từ A là 30°, từ B là 45°. Biết A, B và chân tháp H thẳng hàng."
+
+**Yêu cầu đa bước:**
+1. Tính chiều cao tháp CH
+2. Tính khoảng cách AH, BH
+3. Tính góc giữa mặt phẳng (ABC) và mặt đất
+
+#### **Dạng 3: Ứng dụng trong công nghệ và sản xuất**
+
+**Khung câu hỏi:**
+- Bài toán về máy móc, robot công nghiệp
+- Tính góc xoay, vị trí tối ưu
+- Kiểm tra điều kiện kỹ thuật
+
+### III. TIÊU CHÍ SINH SỐ LIỆU
+
+**1. Số liệu hình học:**
+- Cạnh: 2-10m (số nguyên hoặc bội của √2, √3)
+- Góc: 30°, 45°, 60° (thuận lợi cho tính toán)
+- Tỷ lệ: 3:4:5, 1:1:√2, 1:√3:2
+
+**2. Số liệu thực tế:**
+- Chiều cao nhà: 3-15m
+- Góc mái nhà: 25°-50° 
+- Khoảng cách đo đạc: 50-500m
+- Độ chính xác: 1-2 chữ số thập phân
+
+### IV. QUY TRÌNH THIẾT KẾ CÂU HỎI
+
+**Bước 1:** Chọn tình huống thực tế
+**Bước 2:** Xác định mối quan hệ vuông góc cần vận dụng
+**Bước 3:** Thiết kế 2-3 câu hỏi liên kết tăng dần độ khó
+**Bước 4:** Tích hợp kiến thức liên quan (lượng giác, hình học phẳng)
+**Bước 5:** Kiểm tra tính khả thi và độ chính xác
+
+### V. BIỂU ĐIỂM THAM KHẢO
+
+- **Bước 1 (30%):** Nhận dạng mối quan hệ vuông góc
+- **Bước 2 (40%):** Áp dụng công thức, tính toán
+- **Bước 3 (30%):** Phân tích, kết luận
+
+### VI. LƯU Ý QUAN TRỌNG
+
+- Đảm bảo tính thực tế của số liệu
+- Câu hỏi phải có ý nghĩa trong thực tiễn
+- Kết quả cuối cùng cần hợp lý với thực tế
+- Tránh tính toán quá phức tạp ảnh hưởng đến thời gian làm bài

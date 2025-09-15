@@ -1,0 +1,16 @@
+**Yêu cầu của thể loại 'Thông hiểu':**
+*   Yêu cầu học sinh giải thích, phân tích, so sánh, phân loại các khái niệm và tính chất
+*   Áp dụng công thức, định lý để giải quyết bài toán cơ bản
+*   Nhận biết mối liên hệ giữa các khái niệm đã học
+*   Chuyển đổi biểu diễn giữa các dạng khác nhau (đồ thị, công thức, bảng giá trị)
+
+**Về nội dung kiến thức:**
+*   Những hệ quả được đề cập đến trong, những tính chất của các hàm các công thức của chủ đề
+*   Áp dụng được các công thức của chủ đề không quá khó, tuy nhiên cũng không dễ để sử dụng 
+*   Kiến thức ở tầm trung, phù hợp với học sinh khá (7 *   8) điểm
+
+**Về độ phức tạp:**
+*   Sử dụng 1-2 bước giải hoặc áp dụng 1-2 công thức
+*   Không yêu cầu biến đổi phức tạp hay kỹ thuật cao
+*   Tập trung vào việc hiểu và áp dụng đúng khái niệm, tính chất cơ bản
+*   Có thể kết hợp nhiều khái niệm nhưng ở mức độ cơ bản

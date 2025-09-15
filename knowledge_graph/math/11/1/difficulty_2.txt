@@ -1,0 +1,126 @@
+# HƯỚNG DẪN SINH ĐỀ CẤP ĐỘ THÔNG HIỂU
+## CHỦ ĐỀ: HÀM SỐ LƯỢNG GIÁC - PHƯƠNG TRÌNH LƯỢNG GIÁC (LỚP 11)
+
+## I. KHUNG KIẾN THỨC CẦN ĐÁNH GIÁ
+
+### 1. Hàm số lượng giác
+- Tính chất cơ bản: tập xác định, tập giá trị, tính chẵn lẻ, chu kỳ
+- Đồ thị các hàm số: y = sin x, y = cos x, y = tan x, y = cot x
+- Biến đổi đồ thị: y = a.sin(bx + c) + d
+
+### 2. Phương trình lượng giác cơ bản
+- sin x = m, cos x = m, tan x = m, cot x = m
+- Công thức nghiệm và điều kiện có nghiệm
+
+### 3. Một số phương trình lượng giác đơn giản
+- Phương trình quy về cơ bản (1-2 bước)
+- Sử dụng công thức cộng, nhân đôi cơ bản
+
+## II. CÁC DẠNG CÂU HỎI MỨC THÔNG HIỂU
+
+### DẠNG 1: PHÂN TÍCH TÍNH CHẤT HÀM SỐ
+
+**Cấu trúc câu hỏi:**
+- So sánh tính chất của các hàm số lượng giác
+- Giải thích sự thay đổi tính chất khi biến đổi hàm số
+- Phân tích mối liên hệ giữa đồ thị và tính chất
+
+**Ví dụ mẫu:**
+> Cho hàm số y = 2sin(3x - π/4) + 1. Hãy xác định và giải thích:
+> a) Chu kỳ của hàm số so với hàm y = sin x
+> b) Tập giá trị và so sánh với hàm gốc
+> c) Sự dịch chuyển của đồ thị
+
+**Hướng dẫn sinh đề:**
+- Thay đổi hệ số a, b, c, d trong y = a.sin(bx + c) + d
+- Yêu cầu học sinh giải thích từng thay đổi
+- Kết hợp 2-3 yếu tố để so sánh
+
+### DẠNG 2: CHUYỂN ĐỔI BIỂU DIỄN
+
+**Cấu trúc câu hỏi:**
+- Từ đồ thị xác định công thức hàm số
+- Từ bảng giá trị lập phương trình
+- Từ tính chất vẽ đồ thị
+
+**Ví dụ mẫu:**
+> Quan sát đồ thị hàm số y = f(x) (cho sẵn). Biết f(x) có dạng y = a.cos(bx + c).
+> a) Xác định các tham số a, b, c
+> b) Viết phương trình đường thẳng y = k để phương trình f(x) = k có đúng 3 nghiệm trên [0; 2π]
+
+**Hướng dẫn sinh đề:**
+- Cho đồ thị rõ ràng với các điểm đặc biệt
+- Yêu cầu xác định 2-3 tham số
+- Kết hợp với việc đếm nghiệm
+
+### DẠNG 3: ÁP DỤNG CÔNG THỨC GIẢI PHƯƠNG TRÌNH
+
+**Cấu trúc câu hỏi:**
+- Phương trình quy về cơ bản sau 1-2 bước
+- Sử dụng công thức cộng, công thức nhân đôi đơn giản
+- Phân tích số nghiệm trên khoảng cho trước
+
+**Ví dụ mẫu:**
+> Giải phương trình: 2sin(2x + π/3) = √3
+> a) Đưa về phương trình cơ bản
+> b) Viết công thức nghiệm tổng quát
+> c) Tìm nghiệm thuộc khoảng [0; π]
+
+**Hướng dẫn sinh đề:**
+- Dùng hệ số đơn giản: 2, √2, √3, 1/2
+- Góc đặc biệt: π/6, π/4, π/3, π/2
+- Yêu cầu tìm nghiệm trên khoảng cụ thể
+
+### DẠNG 4: PHÂN TÍCH MỐI LIÊN HỆ
+
+**Cấu trúc câu hỏi:**
+- Liên hệ giữa nghiệm của phương trình và giao điểm đồ thị
+- Mối quan hệ giữa tham số và số nghiệm
+- So sánh các phương trình tương tự
+
+**Ví dụ mẫu:**
+> Cho phương trình cos x = m - 1
+> a) Phân tích điều kiện để phương trình có nghiệm
+> b) Với giá trị nào của m thì phương trình có nghiệm x ∈ [0; π/2]?
+> c) So sánh với phương trình sin x = m - 1
+
+**Hướng dẫn sinh đề:**
+- Cho tham số đơn giản
+- Yêu cầu phân tích điều kiện
+- So sánh 2 trường hợp tương tự
+
+## III. TIÊU CHÍ ĐÁNH GIÁ MỨC THÔNG HIỂU
+
+### Kiến thức (40%):
+- Nắm vững tính chất cơ bản các hàm số lượng giác
+- Hiểu công thức nghiệm phương trình cơ bản
+- Biết công thức biến đổi đơn giản
+
+### Kỹ năng (40%):
+- Áp dụng đúng công thức trong 1-2 bước
+- Chuyển đổi giữa các dạng biểu diễn
+- Phân tích tính chất từ công thức
+
+### Tư duy (20%):
+- Giải thích được mối liên hệ giữa các khái niệm
+- So sánh và phân loại được các trường hợp
+- Nhận biết được cấu trúc bài toán
+
+## IV. LƯU Ý KHI SINH ĐỀ
+
+### Về độ khó:
+- Sử dụng góc và số đặc biệt
+- Không quá 2 bước biến đổi
+- Tránh các kỹ thuật phức tạp
+
+### Về hình thức:
+- Kết hợp nhiều câu hỏi nhỏ
+- Yêu cầu giải thích, phân tích
+- Cho sẵn một phần thông tin
+
+### Về nội dung:
+- Tập trung vào ý nghĩa của các tham số
+- Kết hợp lý thuyết và bài tập
+- Liên hệ thực tế đơn giản (dao động điều hòa)
+
+**Mức điểm phù hợp:** 7-8 điểm cho học sinh khá, giỏi.

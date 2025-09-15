@@ -1,0 +1,107 @@
+# HƯỚNG DẪN SINH ĐỀ MỨC NHẬN BIẾT
+## Chủ đề: Hàm số lượng giác - Phương trình lượng giác (Lớp 11)
+
+## I. KIẾN THỨC CẦN NHẮC LẠI
+
+### 1. Định nghĩa cơ bản
+- Giá trị lượng giác của góc trên đường tròn lượng giác
+- Chu kỳ của các hàm số lượng giác: sin, cos, tan, cot
+- Tập xác định và tập giá trị của các hàm số lượng giác
+
+### 2. Công thức cơ bản cần nhớ
+- Phương trình lượng giác cơ bản:
+  + sin x = a (|a| ≤ 1)
+  + cos x = a (|a| ≤ 1)  
+  + tan x = a
+  + cot x = a
+
+## II. CÁC DẠNG CÂU HỎI MỨC NHẬN BIẾT
+
+### DẠNG 1: Nhận biết chu kỳ và tính chất hàm số lượng giác
+
+**Mẫu câu hỏi:**
+1. **Cho biết** chu kỳ của hàm số y = sin x là:
+   A. π    B. 2π    C. π/2    D. 4π
+
+2. **Xác định** tập giá trị của hàm số y = cos x:
+   A. ℝ    B. [-1; 1]    C. (0; +∞)    D. [-π; π]
+
+3. **Tìm** tập xác định của hàm số y = tan x:
+   A. ℝ    B. ℝ \ {π/2 + kπ, k ∈ ℤ}    C. ℝ \ {kπ, k ∈ ℤ}    D. [-1; 1]
+
+### DẠNG 2: Tính giá trị lượng giác cơ bản
+
+**Mẫu câu hỏi:**
+1. **Tính** giá trị của sin(π/6):
+   A. 1/2    B. √3/2    C. √2/2    D. 1
+
+2. **Cho biết** giá trị của cos(π/3) bằng:
+   A. √3/2    B. 1/2    C. √2/2    D. 0
+
+3. **Tính** tan(π/4):
+   A. 0    B. 1    C. √3    D. 1/√3
+
+### DẠNG 3: Nhận biết nghiệm của phương trình lượng giác đơn giản
+
+**Mẫu câu hỏi:**
+1. **Tìm** nghiệm của phương trình sin x = 1:
+   A. x = π/2 + k2π    B. x = π + k2π    C. x = kπ    D. x = π/4 + kπ
+
+2. **Xác định** nghiệm của phương trình cos x = 0:
+   A. x = kπ    B. x = π/2 + kπ    C. x = π/4 + kπ    D. x = 2kπ
+
+3. **Cho biết** nghiệm của phương trình tan x = 1 là:
+   A. x = π/3 + kπ    B. x = π/4 + kπ    C. x = π/6 + kπ    D. x = π/2 + kπ
+
+### DẠNG 4: Nhận biết tính chẵn, lẻ và chu kỳ
+
+**Mẫu câu hỏi:**
+1. **Nhận biết** hàm số y = sin x là:
+   A. Hàm chẵn    B. Hàm lẻ    C. Không chẵn không lẻ    D. Vừa chẵn vừa lẻ
+
+2. **Cho biết** hàm số y = cos x là:
+   A. Hàm chẵn    B. Hàm lẻ    C. Không chẵn không lẻ    D. Vừa chẵn vừa lẻ
+
+### DẠNG 5: Xác định dấu của giá trị lượng giác
+
+**Mẫu câu hỏi:**
+1. **Xác định** dấu của sin(3π/4):
+   A. Dương    B. Âm    C. Bằng 0    D. Không xác định
+
+2. **Cho biết** dấu của cos(5π/6):
+   A. Dương    B. Âm    C. Bằng 0    D. Không xác định
+
+## III. HƯỚNG DẪN SINH ĐỀ
+
+### Bước 1: Lựa chọn nội dung
+- Chọn 2-3 dạng từ 5 dạng trên
+- Mỗi dạng tạo 2-3 câu hỏi
+- Đảm bảo câu hỏi bao quát các hàm số sin, cos, tan, cot
+
+### Bước 2: Cấu trúc câu hỏi
+- Sử dụng động từ nhận biết: "Tính", "Xác định", "Cho biết", "Tìm", "Nhận biết"
+- Đáp án rõ ràng, không gây nhầm lẫn
+- Các phương án nhiễu hợp lý
+
+### Bước 3: Kiểm tra độ khó
+- Học sinh có thể áp dụng trực tiếp công thức
+- Không yêu cầu biến đổi phức tạp
+- Phù hợp với học sinh trung bình (5-6 điểm)
+
+### Bước 4: Đáp án và lời giải
+- Cung cấp đáp án chính xác
+- Lời giải ngắn gọn, áp dụng trực tiếp công thức
+- Ghi rõ công thức sử dụng
+
+## IV. VÍ DỤ ĐỀ HOÀN CHỈNH
+
+**Câu 1:** Chu kỳ của hàm số y = cos x là:
+A. π    B. 2π    C. π/2    D. 4π
+
+**Câu 2:** Giá trị của sin(π/2) bằng:
+A. 0    B. 1    C. -1    D. 1/2
+
+**Câu 3:** Nghiệm của phương trình cos x = -1 là:
+A. x = π + k2π    B. x = π/2 + k2π    C. x = kπ    D. x = 2kπ
+
+**Đáp án:** 1-B, 2-B, 3-A

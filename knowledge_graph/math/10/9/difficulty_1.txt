@@ -1,0 +1,116 @@
+# HƯỚNG DẪN SINH ĐỀ - MỨC NHẬN BIẾT
+## Chủ đề: Tính xác suất theo định nghĩa cổ điển - Lớp 10
+
+---
+
+## I. KIẾN THỨC CƠ BẢN CẦN NHẮC LẠI
+
+### 1. Định nghĩa xác suất cổ điển
+- **Công thức**: P(A) = n(A)/n(Ω)
+- Trong đó:
+  - n(A): số kết quả thuận lợi cho biến cố A
+  - n(Ω): tổng số kết quả có thể xảy ra (không gian mẫu)
+
+### 2. Tính chất cơ bản
+- 0 ≤ P(A) ≤ 1
+- P(Ω) = 1 (xác suất của biến cố chắc chắn)
+- P(∅) = 0 (xác suất của biến cố không thể)
+
+---
+
+## II. CÁC DẠNG CÂU HỎI MỨC NHẬN BIẾT
+
+### **Dạng 1: Nhận biết định nghĩa và công thức**
+
+**Mẫu câu hỏi:**
+1. **Cho biết** công thức tính xác suất theo định nghĩa cổ điển
+2. **Xác định** giá trị đúng của xác suất biến cố A, biết n(A) = 3, n(Ω) = 12
+3. **Nhận biết** điều kiện để áp dụng được định nghĩa xác suất cổ điển
+
+**Ví dụ cụ thể:**
+> Xác suất của một biến cố A được tính theo công thức nào?
+> A. P(A) = n(Ω)/n(A)
+> B. P(A) = n(A)/n(Ω) 
+> C. P(A) = n(A) × n(Ω)
+> D. P(A) = n(A) - n(Ω)
+
+---
+
+### **Dạng 2: Tính xác suất đơn giản - Gieo xúc xắc**
+
+**Mẫu câu hỏi:**
+1. **Tính** xác suất xuất hiện mặt 6 khi gieo một xúc xắc
+2. **Tìm** xác suất xuất hiện mặt chẵn khi gieo một xúc xắc
+3. **Xác định** xác suất xuất hiện mặt có số chấm lớn hơn 4
+
+**Ví dụ cụ thể:**
+> Gieo một xúc xắc cân đối. Tính xác suất xuất hiện mặt 3.
+> A. 1/3    B. 1/6    C. 3/6    D. 1/2
+
+---
+
+### **Dạng 3: Tính xác suất đơn giản - Rút thẻ**
+
+**Mẫu câu hỏi:**
+1. **Tính** xác suất rút được thẻ đỏ từ bộ bài 52 lá
+2. **Tìm** xác suất rút được lá át từ bộ bài tiêu chuẩn
+3. **Xác định** xác suất rút được lá bích
+
+**Ví dụ cụ thể:**
+> Từ bộ bài 52 lá, rút ngẫu nhiên 1 lá. Tính xác suất rút được lá K.
+> A. 1/13    B. 4/52    C. 1/52    D. 4/13
+
+---
+
+### **Dạng 4: Đếm đơn giản - Bi trong hộp**
+
+**Mẫu câu hỏi:**
+1. **Tính** xác suất lấy được bi đỏ từ hộp có 5 bi đỏ, 3 bi xanh
+2. **Tìm** xác suất lấy được bi xanh từ hộp có 10 bi trong đó có 4 bi xanh
+3. **Xác định** xác suất lấy được bi không phải màu đỏ
+
+**Ví dụ cụ thể:**
+> Một hộp có 6 bi đỏ và 4 bi xanh. Lấy ngẫu nhiên 1 bi. Tính xác suất lấy được bi đỏ.
+> A. 6/4    B. 6/10    C. 4/10    D. 1/6
+
+---
+
+### **Dạng 5: Nhận biết tính chất xác suất**
+
+**Mẫu câu hỏi:**
+1. **Cho biết** giá trị nào sau đây có thể là xác suất của một biến cố?
+2. **Xác định** xác suất của biến cố chắc chắn
+3. **Nhận biết** xác suất của biến cố không thể
+
+**Ví dụ cụ thể:**
+> Giá trị nào sau đây KHÔNG thể là xác suất của một biến cố?
+> A. 0    B. 0.5    C. 1    D. 1.2
+
+---
+
+## III. CÔNG THỨC VÀ KIẾN THỨC CẦN GHI NHỚ
+
+### **Các công thức cơ bản:**
+- P(A) = n(A)/n(Ω)
+- 0 ≤ P(A) ≤ 1
+- P(Ω) = 1
+- P(∅) = 0
+
+### **Các trường hợp thường gặp:**
+- Gieo xúc xắc: n(Ω) = 6
+- Bộ bài 52 lá: 4 chất, mỗi chất 13 lá
+- Đồng xu: n(Ω) = 2
+
+---
+
+## IV. LƯU Ý KHI SINH ĐỀ
+
+1. **Số liệu đơn giản:** Sử dụng các số nhỏ, dễ tính
+2. **Kết quả rõ ràng:** Đáp án không cần rút gọn phức tạp
+3. **Ngữ cảnh quen thuộc:** Sử dụng các tình huống học sinh đã biết
+4. **Tránh bẫy phức tạp:** Không đặt các điều kiện ẩn hoặc nhiều bước suy luận
+
+**Cấu trúc câu hỏi chuẩn:**
+- Mô tả tình huống đơn giản
+- Yêu cầu tính xác suất cụ thể
+- Đưa ra 4 phương án (nếu là trắc nghiệm)

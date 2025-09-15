@@ -1,0 +1,123 @@
+# HƯỚNG DẪN SINH ĐỀ: XÁC SUẤT CÓ ĐIỀU KIỆN - MỨC THÔNG HIỂU
+
+## I. KHUNG KIẾN THỨC CẦN KIỂM TRA
+
+### 1. Khái niệm và công thức cơ bản
+- Định nghĩa xác suất có điều kiện: P(A|B) = P(A∩B)/P(B)
+- Công thức nhân xác suất: P(A∩B) = P(A|B) × P(B)
+- Công thức xác suất đầy đủ
+- Công thức Bayes (dạng cơ bản)
+
+### 2. Mối liên hệ với các khái niệm khác
+- Quan hệ với biến cố độc lập
+- Quan hệ với biến cố xung khắc
+- Ứng dụng trong bài toán thực tế
+
+## II. CÁC DẠNG BÀI TẬP THÔNG HIỂU
+
+### **Dạng 1: Hiểu và áp dụng công thức cơ bản**
+
+#### Mẫu câu hỏi:
+*Cho P(A) = 0,6; P(B) = 0,4; P(A∩B) = 0,2. Tính P(A|B) và P(B|A).*
+
+#### Hướng dẫn sinh đề:
+- Cho trước 2-3 trong 4 giá trị: P(A), P(B), P(A∩B), P(A|B)
+- Yêu cầu tính giá trị còn lại
+- Số liệu nên đơn giản (phân số đơn giản hoặc số thập phân 1-2 chữ số)
+
+**Biến thể:**
+- Cho P(A|B) và P(B), tính P(A∩B)
+- Cho P(A∩B) và P(A|B), tính P(B)
+
+### **Dạng 2: Phân tích tình huống thực tế**
+
+#### Mẫu câu hỏi:
+*Một hộp có 8 viên bi xanh và 12 viên bi đỏ. Lấy ngẫu nhiên 2 viên bi. Tính xác suất viên bi thứ hai màu xanh biết viên bi thứ nhất màu đỏ.*
+
+#### Hướng dẫn sinh đề:
+- Sử dụng tình huống quen thuộc: rút bi, thẻ bài, sản phẩm...
+- Số lượng không quá lớn (dưới 50 đơn vị)
+- Yêu cầu 1-2 bước tính toán
+- Có thể có/không có hoàn lại
+
+**Các tình huống gợi ý:**
+- Rút bi từ hộp
+- Kiểm tra sản phẩm lỗi
+- Chọn học sinh theo giới tính/lớp
+- Bài toán y tế đơn giản
+
+### **Dạng 3: So sánh và phân tích**
+
+#### Mẫu câu hỏi:
+*Cho hai biến cố A, B với P(A) = 0,5; P(B) = 0,6; P(A∩B) = 0,3. So sánh P(A|B) và P(B|A). Nhận xét về mối quan hệ giữa A và B.*
+
+#### Hướng dẫn sinh đề:
+- Yêu cầu tính và so sánh P(A|B) với P(B|A)
+- Hoặc so sánh P(A|B) với P(A)
+- Kết luận về tính độc lập/phụ thuộc
+- Cho số liệu để kết quả có ý nghĩa rõ ràng
+
+### **Dạng 4: Ứng dụng công thức xác suất đầy đủ**
+
+#### Mẫu câu hỏi:
+*Ba máy A, B, C sản xuất tương ứng 50%, 30%, 20% tổng số sản phẩm. Tỷ lệ sản phẩm lỗi của máy A, B, C lần lượt là 2%, 3%, 5%. Tính xác suất chọn được sản phẩm lỗi.*
+
+#### Hướng dẫn sinh đề:
+- Chia không gian mẫu thành 2-3 phần
+- Tỷ lệ phần trăm đơn giản
+- Yêu cầu tính xác suất biến cố qua các "đường"
+- Số liệu cho kết quả không quá phức tạp
+
+### **Dạng 5: Bài toán Bayes cơ bản**
+
+#### Mẫu câu hỏi:
+*Tiếp tục bài toán trên, nếu chọn được sản phẩm lỗi, tính xác suất sản phẩm đó do máy A sản xuất.*
+
+#### Hướng dẫn sinh đề:
+- Dựa trên dạng 4, yêu cầu tính xác suất "ngược"
+- Chỉ cần áp dụng công thức Bayes 1 bước
+- Không yêu cầu biến đổi phức tạp
+
+## III. QUY TẮC SINH SỐ LIỆU
+
+### 1. Về xác suất:
+- Sử dụng phân số tối giản hoặc số thập phân ≤ 3 chữ số thập phân
+- Đảm bảo 0 ≤ P(A) ≤ 1 và các điều kiện tương thích
+- P(A∩B) ≤ min{P(A), P(B)}
+
+### 2. Về số lượng:
+- Số bi, thẻ: từ 10-50
+- Tỷ lệ phần trăm: bội số của 5%
+- Kết quả cuối nên là phân số đẹp hoặc số thập phân đơn giản
+
+### 3. Về tình huống:
+- Chọn bối cảnh phù hợp với lứa tuổi
+- Tránh các con số quá lớn hoặc quá nhỏ
+- Đảm bảo tính thực tế của bài toán
+
+## IV. TIÊU CHÍ ĐÁNH GIÁ MỨC THÔNG HIỂU
+
+### Học sinh cần thể hiện:
+1. **Nhận biết đúng công thức** cần áp dụng
+2. **Hiểu được bản chất** của xác suất có điều kiện
+3. **Áp dụng chính xác** công thức trong 1-2 bước
+4. **Phân tích được** mối quan hệ giữa các biến cố
+5. **Giải thích được** ý nghĩa kết quả
+
+### Không yêu cầu:
+- Chứng minh công thức
+- Biến đổi phức tạp
+- Kết hợp nhiều kiến thức nâng cao
+- Tính toán quá phức tạp
+
+## V. VÍ DỤ HOÀN CHỈNH
+
+**Câu hỏi:** Một lớp có 40 học sinh, trong đó 24 nam và 16 nữ. Có 15 nam và 10 nữ giỏi Toán. Chọn ngẫu nhiên 1 học sinh.
+a) Tính xác suất học sinh được chọn giỏi Toán.
+b) Biết học sinh được chọn là nam, tính xác suất học sinh đó giỏi Toán.
+c) So sánh kết quả câu a và b. Nhận xét.
+
+**Đáp án và thang điểm:**
+- Câu a: P(Giỏi) = 25/40 = 5/8 (0.5đ)
+- Câu b: P(Giỏi|Nam) = 15/24 = 5/8 (1đ)  
+- Câu c: So sánh và kết luận về tính độc lập (0.5đ)

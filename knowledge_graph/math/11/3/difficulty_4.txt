@@ -1,0 +1,122 @@
+# HƯỚNG DẪN SINH ĐỀ VẬN DỤNG CAO
+## Chủ đề: Các số đặc trưng đo xu thế trung tâm của mẫu số liệu ghép nhóm
+
+### I. KHUNG KIẾN THỨC CƠ BẢN CẦN VẬN DỤNG
+
+**Kiến thức chủ đạo:**
+- Số trung bình, trung vị, mốt của mẫu số liệu ghép nhóm
+- Công thức tính các số đặc trưng
+- Ý nghĩa thống kê của từng số đặc trưng
+
+**Kiến thức kết hợp:**
+- Hàm số bậc nhất, bậc hai
+- Bất đẳng thức
+- Hệ phương trình
+- Tối ưu hóa
+- Xác suất thống kê cơ bản
+
+### II. CÁC DẠNG ĐỀ VẬN DỤNG CAO
+
+#### **DẠNG 1: Tối ưu hóa thông số thống kê**
+
+**Mẫu đề:**
+Một công ty khảo sát thu nhập của nhân viên trong 3 tháng liên tiếp. Dữ liệu thu nhập (triệu đồng) được ghép nhóm như sau:
+
+| Nhóm thu nhập | [5;10) | [10;15) | [15;20) | [20;25) | [25;30) |
+|---------------|---------|---------|---------|---------|---------|
+| Tháng 1       | 20      | 35      | 25      | 15      | 5       |
+| Tháng 2       | 15      | 30      | 30      | 20      | 5       |
+| Tháng 3       | a       | b       | 35      | 10      | 5       |
+
+Biết rằng tổng số nhân viên được khảo sát mỗi tháng là 100 người và thu nhập trung bình tháng 3 cao hơn tháng 1 đúng 1,5 triệu đồng.
+
+**Câu hỏi:**
+a) Tìm a, b và tính thu nhập trung bình từng tháng.
+b) Nếu công ty muốn thu nhập trung vị của tháng 3 bằng 18 triệu đồng, hãy điều chỉnh phân phối a, b sao cho tổng |a-15| + |b-30| đạt giá trị nhỏ nhất.
+c) So sánh độ đại diện của số trung bình và trung vị cho dữ liệu các tháng.
+
+#### **DẠNG 2: Mối quan hệ giữa các số đặc trưng**
+
+**Mẫu đề:**
+Kết quả khảo sát điểm thi của hai trường A và B:
+
+**Trường A:**
+| Điểm | [0;2) | [2;4) | [4;6) | [6;8) | [8;10] |
+|------|-------|-------|-------|-------|--------|
+| Tần số| 5     | 15    | 30    | 35    | 15     |
+
+**Trường B:** Có cùng tần số tổng, trung bình cộng bằng trường A, nhưng trung vị lớn hơn 0,5 điểm.
+
+**Câu hỏi:**
+a) Tính các số đặc trưng của trường A.
+b) Thiết kế bảng phân phối cho trường B thỏa mãn điều kiện đã cho.
+c) Nếu ghép hai trường thành một bảng thống kê chung, hãy tính các số đặc trưng mới và so sánh với trung bình của từng trường.
+d) Trường nào có chất lượng đồng đều hơn? Giải thích.
+
+#### **DẠNG 3: Bài toán ngược và điều kiện ràng buộc**
+
+**Mẫu đề:**
+Một nhà sản xuất phân loại sản phẩm theo khối lượng (gram):
+
+| Khối lượng | [98;99) | [99;100) | [100;101) | [101;102) | [102;103] |
+|------------|---------|----------|-----------|-----------|-----------|
+| Tần số     | x       | 2x       | 50        | y         | 10        |
+
+Biết rằng:
+- Tổng sản phẩm là 200 chiếc
+- Khối lượng trung bình là 100,2 gram
+- Trung vị thuộc nhóm [100;101)
+
+**Câu hỏi:**
+a) Tìm x, y và tính chính xác trung vị, mốt.
+b) Nếu chi phí sản xuất tỷ lệ thuận với khối lượng theo công thức C = 1000 + 50m (m là khối lượng trung bình), tính tổng chi phí.
+c) Để mốt và trung vị bằng nhau (sai khác không quá 0,1), cần điều chỉnh phân phối như thế nào với điều kiện tổng sản phẩm và trung bình không đổi?
+
+#### **DẠNG 4: Tích hợp với hàm số và tối ưu**
+
+**Mẫu đề:**
+Doanh thu bán hàng của một cửa hàng trong 6 tháng được thống kê:
+
+| Doanh thu (triệu) | [10;15) | [15;20) | [20;25) | [25;30) | [30;35] |
+|-------------------|---------|---------|---------|---------|---------|
+| Tần số tháng t    | t+5     | 3t      | 25-t    | 15      | t       |
+
+Với t ∈ {1,2,3,4,5,6}
+
+**Câu hỏi:**
+a) Viết hàm số biểu diễn trung bình doanh thu theo tháng f(t).
+b) Tìm tháng có trung bình doanh thu cao nhất và thấp nhất.
+c) Nếu trung vị tháng t phải thỏa mãn: 20 ≤ Me(t) ≤ 25, tìm các tháng phù hợp.
+d) Dự đoán xu hướng doanh thu và đề xuất chiến lược kinh doanh.
+
+### III. HƯỚNG DẪN SINH ĐỀ CHO GIÁO VIÊN
+
+#### **Bước 1: Xác định mục tiêu**
+- Chọn 2-3 kiến thức kết hợp (hàm số, bất đẳng thức, tối ưu...)
+- Xác định các số đặc trưng cần vận dụng
+- Thiết kế tình huống thực tế
+
+#### **Bước 2: Thiết kế dữ liệu**
+- Tạo bảng phân phối với tham số ẩn
+- Đảm bảo có ít nhất 2 điều kiện ràng buộc
+- Dữ liệu phải hợp lý và có ý nghĩa thực tế
+
+#### **Bước 3: Phân cấp câu hỏi**
+- **Câu a:** Tính toán cơ bản kết hợp giải hệ
+- **Câu b:** Vận dụng điều kiện ràng buộc
+- **Câu c:** Tổng hợp, so sánh, tối ưu
+- **Câu d:** Mở rộng, dự đoán, đề xuất
+
+#### **Bước 4: Kiểm tra độ khó**
+- Yêu cầu ít nhất 3-4 bước giải
+- Kết hợp 2-3 công thức khác nhau
+- Có yếu tố suy luận và phân tích
+
+### IV. CHÚ Ý QUAN TRỌNG
+
+1. **Tính thực tế:** Bối cảnh phải gắn liền cuộc sống
+2. **Tính logic:** Các số liệu phải hợp lý
+3. **Độ phân hóa:** Phân biệt rõ học sinh khá-giỏi
+4. **Tính mở rộng:** Có thể phát triển thêm câu hỏi
+
+**Thời gian dự kiến:** 25-30 phút cho một bài hoàn chỉnh.

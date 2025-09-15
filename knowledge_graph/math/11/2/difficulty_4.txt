@@ -1,0 +1,93 @@
+# HƯỚNG DẪN SINH ĐỀ VẬN DỤNG CAO - DÃY SỐ, CẤP SỐ CỘNG, CẤP SỐ NHÂN
+
+## I. KHUNG KIẾN THỨC TRỌNG TÂM
+
+### 1. Kiến thức cốt lõi cần kết hợp:
+- Dãy số: Công thức số hạng tổng quát, tính chất đơn điệu, giới hạn
+- Cấp số cộng: Công thức số hạng tổng quát, tổng n số hạng đầu
+- Cấp số nhân: Công thức số hạng tổng quát, tổng n số hạng đầu, tổng vô hạn
+- Phương trình, bất phương trình (bậc 2, logarithm, mũ)
+- Hàm số và tính chất (cực trị, đơn điệu)
+- Hình học phẳng (tam giác, đường tròn)
+
+### 2. Mức độ tư duy cần đạt:
+- **Phân tích**: Nhận biết mối liên hệ giữa các đại lượng trong đề bài
+- **Tổng hợp**: Kết hợp nhiều công thức và định lý
+- **Sáng tạo**: Đặt ẩn phụ, biến đổi bài toán về dạng quen thuộc
+
+## II. CÁC DẠNG BÀI VẬN DỤNG CAO
+
+### DẠNG 1: KẾT HỢP CẤP SỐ CỘNG - CẤP SỐ NHÂN VỚI PHƯƠNG TRÌNH
+
+**Cấu trúc đề:**
+Cho ba số tạo thành cấp số cộng có tổng bằng S₁. Nếu thêm/bớt các số a, b, c vào ba số đó (theo thứ tự) thì được cấp số nhân có tổng bằng S₂. Tìm các đại lượng hoặc giá trị biểu thức.
+
+**Ví dụ mẫu:**
+"Cho ba số x-d, x, x+d tạo thành cấp số cộng có tổng bằng 15. Nếu lần lượt cộng thêm 1, 3, 11 vào ba số đó thì được cấp số nhân. Tìm x và d, sau đó tính tổng 10 số hạng đầu của cấp số nhân này."
+
+**Phương pháp sinh đề:**
+1. Chọn tổng cấp số cộng: 12, 15, 18, 21...
+2. Chọn các số cộng thêm có dạng: a, b, c với b² - ac = (điều kiện để tạo CSN)
+3. Yêu cầu tính: tổng n số hạng, số hạng thứ k, hoặc điều kiện tham số
+
+### DẠNG 2: CẤP SỐ VỚI ĐIỀU KIỆN CỰC TRỊ
+
+**Cấu trúc đề:**
+Cho cấp số cộng/nhân với tham số. Tìm điều kiện để tổng n số hạng đầu đạt cực trị hoặc thỏa mãn bất đẳng thức.
+
+**Ví dụ mẫu:**
+"Cho cấp số cộng (uₙ) có u₁ = a và công sai d = 2a - 3 (a > 0). Gọi Sₙ là tổng n số hạng đầu.
+a) Tìm a để S₁₀ đạt giá trị nhỏ nhất
+b) Với giá trị a vừa tìm, có bao nhiêu số hạng âm trong dãy?"
+
+**Phương pháp sinh đề:**
+1. Đặt u₁ = f(a), d = g(a) với f, g là hàm bậc nhất
+2. Lập Sₙ theo a, tìm cực trị bằng đạo hàm
+3. Kết hợp điều kiện uₖ > 0 hoặc uₖ < 0
+
+### DẠNG 3: ỨNG DỤNG HÌNH HỌC
+
+**Cấu trúc đề:**
+Các yếu tố hình học (độ dài cạnh, góc, diện tích) tạo thành cấp số.
+
+**Ví dụ mẫu:**
+"Trong tam giác ABC, các cạnh a, b, c theo thứ tự tạo thành cấp số nhân với công bội q > 1. Biết chu vi tam giác bằng 14 và diện tích bằng 6√3.
+a) Tìm độ dài các cạnh
+b) Chứng minh tam giác có một góc bằng 60°"
+
+### DẠNG 4: BÀI TOÁN TỐI ƯU VỚI CẤP SỐ
+
+**Cấu trúc đề:**
+Tìm giá trị lớn nhất/nhỏ nhất của biểu thức liên quan đến cấp số.
+
+**Ví dụ mẫu:**
+"Cho cấp số nhân (uₙ) có u₁ > 0, công bội q > 0 và u₁ + u₂ + u₃ = 26, u₁u₂u₃ = 216.
+Tìm giá trị nhỏ nhất của biểu thức P = u₁²+ u₂² + u₃²"
+
+## III. NGUYÊN TẮC THIẾT KẾ CÂU HỎI
+
+### 1. Cấu trúc nhiều phần:
+- **Phần a**: Tìm các tham số cơ bản (30-40% điểm)
+- **Phần b**: Vận dụng kết quả phần a để giải quyết vấn đề phức tạp (60-70% điểm)
+
+### 2. Độ khó tăng dần:
+- Bắt đầu với việc lập hệ phương trình
+- Kết thúc với yêu cầu chứng minh hoặc tối ưu
+
+### 3. Kết hợp kiến thức:
+- **Bắt buộc**: Cấp số cộng HOẶC cấp số nhân (làm chủ đạo)
+- **Tùy chọn**: Phương trình, bất phương trình, hàm số, hình học
+
+## IV. MẪU ĐỀ THAM KHẢO
+
+**Bài 1**: Cho dãy số (uₙ) với uₙ = an² + bn + c. Biết u₁, u₂, u₃ theo thứ tự tạo thành cấp số cộng có công sai d = 4, còn u₂, u₄, u₈ tạo thành cấp số nhân.
+a) Tìm a, b, c
+b) Tìm số hạng lớn nhất của dãy số
+c) Có bao nhiêu số hạng của dãy số thuộc khoảng (-10; 50)?
+
+**Hướng dẫn chấm**:
+- Phần a: Lập hệ 3 phương trình 3 ẩn (3 điểm)
+- Phần b: Tìm cực trị hàm bậc 2 (2 điểm)  
+- Phần c: Giải bất phương trình bậc 2 (2 điểm)
+
+**Lưu ý**: Mỗi bài cần có ít nhất 3 bước suy luận logic và kết hợp tối thiểu 2-3 chủ đề kiến thức khác nhau.
