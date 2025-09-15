@@ -27,9 +27,9 @@ def startup_event():
 
 @app.post("/math")
 async def generate_math(
-    course: int = Form(2120114),
-    name: str = Form("Test_quiz"),
-    grade: int = Form(10),
+    course: int = Form(...),
+    name: str = Form("Test_quiz"...),
+    grade: int = Form(...),
     file: UploadFile = File(...)
 ):
     if not file.filename.endswith(".csv"):
