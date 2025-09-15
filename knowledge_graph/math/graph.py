@@ -331,6 +331,33 @@ def save_generated_question(grade: int, topic: str, difficulty: str, question_te
         f.write(f"Mức độ: {difficulty}\n")
         f.write(question_text.strip() + "\n")
 
+def reform(file_dir : str, format_path, question_path):
+    with open(file_dir, "r", encoding="utf-8") as f:
+        prompt = f.read()
+    with open(format_path, "r", encoding="utf-8") as f:
+        format_text = f.read()
+    with open(question_path, "r", encoding="utf-8") as f:
+        question_text = f.read()
+    reform_prompt = f"""
+**** Role: Bạn là một nhân vật có khả năng điều chỉnh đề bài rất tốt. ****
+**** Task: Tôi có một file đề Toán khá là tốt có độ khó vừa phải, tuy nhiên về mặt điều chỉnh format, đề trên còn gặp rất nhiều vấn đề khi tôi muốn chuyển chúng từ file txt sang file qti (text2qti). Vì vậy, tôi muốn bạn hỗ trợ tôi điều này.
+**** Lưu ý: **** Không thêm bất kì một yếu tố nào ngoài lề vào prompt mới, kể cả bình luận và tiêu đề, và cả những đánh dấu của tôi
+**** Hình thức yêu cầu (Format): ****
+{format_text}
+**** Kiểu câu hỏi: ****
+{question_text}
+**** Prompt cần chỉnh sửa: ****
+-------
+{prompt}
+-------
+""" 
+    with open(file_dir, "w", encoding="utf-8") as f:
+        f.write(reform_prompt)
+    response = generate_test(file_dir)
+    with open(file_dir, "w", encoding="utf-8") as f:
+        f.write(response)
+
+
 def math_test(topic: str = "", grade: int = 11, difficulty: str = "Vận dụng",
               question: str = "Short answer", n: int = 1):
     logger.info("Building prompt...")
@@ -342,6 +369,7 @@ def math_test(topic: str = "", grade: int = 11, difficulty: str = "Vận dụng"
         return prompt
     tmp_prompt_path = make_tempfile_with(prompt)
     response_text = generate_test(tmp_prompt_path)
+    reform(tmp_prompt_path)
     processed = postprocess_question(response_text, grade)
     if processed is None:
         logger.warning("Câu hỏi không hợp lệ sau postprocess, lưu bản lỗi.")
