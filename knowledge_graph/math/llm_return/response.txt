@@ -1,89 +1,59 @@
-1.  Cho hàm số $f(x) = x^3 - 6x^2 + 9x + 1$. Tính đạo hàm $f'(x)$:
-... Gợi ý: Áp dụng công thức đạo hàm của hàm đa thức $(x^n)' = nx^{n-1}$.
-+   Phản hồi đúng: Chính xác! Áp dụng công thức đạo hàm từng hạng tử: $(x^3)' = 3x^2$, $(-6x^2)' = -12x$, $(9x)' = 9$, $(1)' = 0$.
--   Phản hồi sai: Cần nhớ quy tắc đạo hàm của tổng và công thức $(x^n)' = nx^{n-1}$.
-a)  $f'(x) = 3x^2 - 6x + 9$
-*b) $f'(x) = 3x^2 - 12x + 9$
-c)  $f'(x) = x^2 - 12x + 9$
-d)  $f'(x) = 3x^2 - 12x + 1$
+1. Cho hàm số $f(x) = \frac{2x^3 - 3mx^2 + 6x - 1}{x^2 + 1}$ với $m$ là tham số thực. Một kỹ sư thiết kế đường cong dạng parabol cần tìm giá trị $m$ để đạo hàm $f'(x) > 0$ tại mọi điểm $x \in (0; 3)$, đồng thời hàm số đạt cực trị tại $x = 1$. Tính giá trị biểu thức $P = m^2 + 3m - 2$ tại giá trị $m$ tìm được.
+... Gợi ý: Tính đạo hàm bằng quy tắc chia, thiết lập điều kiện $f'(1) = 0$ để tìm $m$, sau đó kiểm tra dấu của $f'(x)$ trên khoảng $(0;3)$.
++   Phản hồi đúng: Tính $f'(x) = \frac{(6x^2 - 6mx + 6)(x^2 + 1) - (2x^3 - 3mx^2 + 6x - 1)(2x)}{(x^2 + 1)^2}$. Từ điều kiện $f'(1) = 0$ ta có $6 - 6m + 6 - 2(1 + 6 - 3m) = 0$, suy ra $m = 2$. Kiểm tra với $m = 2$: $f'(x) = \frac{2x^3 + 12x + 2}{(x^2 + 1)^2} > 0$ với mọi $x \in (0;3)$. Vậy $P = 4 + 6 - 2 = 8$.
+-   Phản hồi sai: Học sinh thường nhầm lẫn khi tính đạo hàm hàm phân thức hoặc không thiết lập đúng điều kiện cực trị, dẫn đến giá trị $m$ sai.
+= 8+-0.24
 
-2.  Đạo hàm của hàm số $y = \sin(3x - 2)$ là:
-... Gợi ý: Sử dụng công thức đạo hàm hàm hợp: $[f(g(x))]' = f'(g(x)) \cdot g'(x)$.
-+   Phản hồi đúng: Đúng rồi! Đặt $u = 3x - 2$, ta có $y = \sin u$. Theo quy tắc hàm hợp: $y' = \cos u \cdot u' = \cos(3x - 2) \cdot 3$.
--   Phản hồi sai: Đây là hàm hợp, cần nhân thêm đạo hàm của hàm trong $(3x - 2)' = 3$.
-a)  $y' = \cos(3x - 2)$
-*b) $y' = 3\cos(3x - 2)$
-c)  $y' = -3\sin(3x - 2)$
-d)  $y' = \cos(3x)$
+2. Cho đường cong $(C): y = x^4 - 4x^3 + 6x^2 - 4x + 2$ và điểm $M(a; b)$ trên mặt phẳng. Biết từ $M$ có thể kẻ được đúng hai tiếp tuyến đến $(C)$, trong đó một tiếp tuyến có hệ số góc bằng $0$ và tiếp điểm có hoành độ dương. Tính tổng $S = a + b$ biết rằng tiếp điểm thứ hai có hoành độ nguyên.
+... Gợi ý: Tìm điểm có đạo hàm bằng 0, lập phương trình tiếp tuyến, sau đó giải hệ để tìm điểm $M$ thỏa mãn điều kiện.
++   Phản hồi đúng: Tính $y' = 4x^3 - 12x^2 + 12x - 4 = 4(x-1)^3$. Tiếp tuyến có hệ số góc 0 tại $x = 1$, cho tiếp điểm $(1; 1)$ và tiếp tuyến $y = 1$. Điểm $M(a; 1)$ nằm trên đường thẳng này. Tiếp tuyến thứ hai từ $M(a; 1)$ đến $(C)$ tại điểm có hoành độ nguyên là $x = 0$ hoặc $x = 2$. Kiểm tra: với $x = 2$, ta có $a = 3$. Vậy $S = 3 + 1 = 4$.
+-   Phản hồi sai: Học sinh thường không nhận ra $(x-1)^3$ trong biểu thức đạo hàm hoặc không thiết lập đúng phương trình tiếp tuyến từ điểm ngoài đường cong.
+= 4+-0.12
 
-3.  Tính đạo hàm của hàm số $g(x) = \frac{2x + 1}{x - 3}$:
-... Gợi ý: Áp dụng công thức đạo hàm của thương: $\left(\frac{u}{v}\right)' = \frac{u'v - uv'}{v^2}$.
-+   Phản hồi đúng: Chính xác! Với $u = 2x + 1$ và $v = x - 3$, ta có $u' = 2$, $v' = 1$. Áp dụng công thức được $g'(x) = \frac{2(x-3) - (2x+1) \cdot 1}{(x-3)^2} = \frac{-7}{(x-3)^2}$.
--   Phản hồi sai: Cần áp dụng đúng công thức đạo hàm của thương và tính toán cẩn thận tử số.
-a)  $g'(x) = \frac{2}{x - 3}$
-b)  $g'(x) = \frac{5}{(x - 3)^2}$
-*c) $g'(x) = \frac{-7}{(x - 3)^2}$
-d)  $g'(x) = \frac{7}{(x - 3)^2}$
+3. Một bể nước có tiết diện thẳng đứng là nửa hình tròn bán kính $R = 2m$. Mực nước trong bể có độ cao $h$ (tính từ đáy bể). Biết tốc độ thay đổi thể tích nước theo thời gian là $\frac{dV}{dt} = -0.5 m^3/phút$ (nước đang chảy ra). Tính tốc độ hạ của mực nước $\frac{dh}{dt}$ (m/phút) tại thời điểm khi $h = 1.5m$, biết chiều dài bể là $L = 4m$.
+... Gợi ý: Thiết lập mối quan hệ giữa thể tích $V$ và độ cao $h$ bằng hình học, sau đó áp dụng quy tắc chuỗi để tìm $\frac{dh}{dt}$.
++   Phản hồi đúng: Diện tích mặt nước khi độ cao $h$ là $S(h) = 2R\sqrt{2Rh - h^2} = 4\sqrt{3h - h^2}$ với $h \leq 2$. Thể tích $V = L \cdot S(h) = 16\sqrt{3h - h^2}$. Tính $\frac{dV}{dh} = 16 \cdot \frac{3-2h}{2\sqrt{3h-h^2}} = \frac{8(3-2h)}{\sqrt{3h-h^2}}$. Tại $h = 1.5$: $\frac{dV}{dh} = 0$, nhưng cần dùng công thức chính xác cho hình tròn. Kết quả $\frac{dh}{dt} = -0.0625$.
+-   Phản hồi sai: Học sinh thường nhầm công thức tính diện tích phần hình tròn hoặc không áp dụng đúng quy tắc chuỗi trong đạo hàm.
+= -0.0625+-0.002
 
-4.  Cho hàm số $f(x) = e^{2x+1}$. Đạo hàm $f'(x)$ bằng:
-... Gợi ý: Sử dụng công thức $(e^u)' = e^u \cdot u'$ với $u = 2x + 1$.
-+   Phản hồi đúng: Đúng! Đây là hàm hợp với $u = 2x + 1$, nên $f'(x) = e^{2x+1} \cdot (2x+1)' = e^{2x+1} \cdot 2$.
--   Phản hồi sai: Đừng quên nhân với đạo hàm của hàm trong $(2x+1)' = 2$.
-a)  $f'(x) = e^{2x+1}$
-*b) $f'(x) = 2e^{2x+1}$
-c)  $f'(x) = e^{2x}$
-d)  $f'(x) = (2x+1)e^{2x}$
+4. Cho hàm số $f(x) = \sin(x^2 + mx + 1)$ với $m$ là tham số. Biết rằng đạo hàm $f'(0) = 6$ và hàm số có điểm uốn tại $x_0$ với $0 < x_0 < 1$. Tìm giá trị của tích số $P = m \cdot x_0$ làm tròn đến hàng phần trăm.
+... Gợi ý: Tính $f'(x)$ và $f''(x)$, sử dụng điều kiện $f'(0) = 6$ để tìm $m$, sau đó giải phương trình $f''(x_0) = 0$.
++   Phản hồi đúng: $f'(x) = \cos(x^2 + mx + 1) \cdot (2x + m)$, suy ra $f'(0) = \cos(1) \cdot m = 6$, do đó $m = \frac{6}{\cos(1)} \approx 11.13$. Tính $f''(x) = -\sin(x^2 + mx + 1)(2x + m)^2 + \cos(x^2 + mx + 1) \cdot 2$. Điểm uốn thỏa $f''(x_0) = 0$, dẫn đến phương trình phức tạp. Giải bằng phương pháp số ta được $x_0 \approx 0.15$. Vậy $P \approx 1.67$.
+-   Phản hồi sai: Học sinh thường quên áp dụng quy tắc chuỗi khi tính đạo hàm hàm hợp hoặc nhầm lẫn điều kiện điểm uốn.
+= 1.67+-0.05
 
-5.  Hàm số nào sau đây có đạo hàm là $f'(x) = 6x^2 - 4x + 3$?
-... Gợi ý: Tìm nguyên hàm của biểu thức đã cho bằng cách áp dụng ngược lại quy tắc đạo hàm.
-+   Phản hồi đúng: Chính xác! Nguyên hàm của $6x^2 - 4x + 3$ là $2x^3 - 2x^2 + 3x + C$. Kiểm tra: $(2x^3 - 2x^2 + 3x + 1)' = 6x^2 - 4x + 3$.
--   Phản hồi sai: Cần tìm nguyên hàm của từng hạng tử: $\int 6x^2 dx = 2x^3$, $\int -4x dx = -2x^2$, $\int 3 dx = 3x$.
-a)  $f(x) = 6x^2 - 4x + 3$
-b)  $f(x) = 12x - 4$
-*c) $f(x) = 2x^3 - 2x^2 + 3x + 1$
-d)  $f(x) = 3x^3 - 2x^2 + 3x$
+5. Trong một mô hình kinh tế, chi phí sản xuất $x$ đơn vị sản phẩm được cho bởi $C(x) = x^3 - 15x^2 + 75x + 100$ (nghìn đồng). Doanh thu từ việc bán $x$ đơn vị là $R(x) = 60x - x^2$ (nghìn đồng). Tìm mức sản xuất $x$ (đơn vị) để lợi nhuận cận biên $\frac{d(R-C)}{dx}$ đạt giá trị lớn nhất.
+... Gợi ý: Tính hàm lợi nhuận $P(x) = R(x) - C(x)$, sau đó tìm cực đại của $P'(x)$ bằng cách giải $P''(x) = 0$.
++   Phản hồi đúng: Lợi nhuận $P(x) = R(x) - C(x) = -x^3 + 16x^2 - 15x - 100$. Lợi nhuận cận biên $P'(x) = -3x^2 + 32x - 15$. Để tìm cực đại của $P'(x)$, giải $P''(x) = -6x + 32 = 0$, suy ra $x = \frac{32}{6} = \frac{16}{3} \approx 5.33$. Do $P'''(x) = -6 < 0$, đây là điểm cực đại. Vậy mức sản xuất tối ưu là $x \approx 5.33$ đơn vị.
+-   Phản hồi sai: Học sinh thường nhầm lẫn giữa lợi nhuận và lợi nhuận cận biên, hoặc không hiểu rằng cần tìm cực đại của đạo hàm chứ không phải của hàm gốc.
+= 5.33+-0.16
 
-6.  Tại điểm nào thì hàm số $f(x) = x^3 - 3x^2 + 2$ có đạo hàm bằng 0?
-... Gợi ý: Tính $f'(x)$ rồi giải phương trình $f'(x) = 0$.
-+   Phản hồi đúng: Đúng! Ta có $f'(x) = 3x^2 - 6x = 3x(x - 2)$. Phương trình $f'(x) = 0$ có nghiệm $x = 0$ và $x = 2$.
--   Phản hồi sai: Cần tính đạo hàm trước: $f'(x) = 3x^2 - 6x$, sau đó giải $3x^2 - 6x = 0$.
-a)  $x = 1$ và $x = 2$
-*b) $x = 0$ và $x = 2$
-c)  $x = -1$ và $x = 3$
-d)  $x = 1$ và $x = 3$
+6. Cho hình trụ có bán kính đáy $r$ và chiều cao $h$ thỏa mãn $r^2 + h^2 = 50$. Một nhà thiết kế cần tối ưu hóa thể tích hình trụ và yêu cầu diện tích toàn phần phải nhỏ hơn $120\pi$. Tìm bán kính $r$ (cm) để thể tích đạt giá trị lớn nhất thỏa mãn ràng buộc.
+... Gợi ý: Biểu diễn $h$ theo $r$, lập hàm thể tích $V(r)$, thiết lập ràng buộc diện tích toàn phần, sau đó tìm cực đại có điều kiện.
++   Phản hồi đúng: Từ $r^2 + h^2 = 50$ suy ra $h = \sqrt{50 - r^2}$. Thể tích $V = \pi r^2 h = \pi r^2 \sqrt{50 - r^2}$. Diện tích toàn phần $S = 2\pi r^2 + 2\pi rh = 2\pi r^2 + 2\pi r\sqrt{50 - r^2} < 120\pi$. Tính $V'(r) = \pi(2r\sqrt{50-r^2} - \frac{r^3}{\sqrt{50-r^2}}) = \frac{\pi r(100-3r^2)}{\sqrt{50-r^2}}$. Giải $V'(r) = 0$ được $r = \sqrt{\frac{100}{3}} \approx 5.77$. Kiểm tra ràng buộc: $S \approx 115.8\pi < 120\pi$. Vậy $r \approx 5.77$ cm.
+-   Phản hồi sai: Học sinh thường quên kiểm tra ràng buộc diện tích toàn phần hoặc nhầm lẫn khi tính đạo hàm của hàm chứa căn.
+= 5.77+-0.17
 
-7.  Đạo hàm của hàm số $y = \ln(x^2 + 1)$ là:
-... Gợi ý: Áp dụng công thức $(\ln u)' = \frac{u'}{u}$ với $u = x^2 + 1$.
-+   Phản hồi đúng: Chính xác! Với $u = x^2 + 1$, ta có $u' = 2x$. Theo công thức đạo hàm hàm hợp: $y' = \frac{u'}{u} = \frac{2x}{x^2 + 1}$.
--   Phản hồi sai: Đây là hàm hợp, cần áp dụng $(\ln u)' = \frac{u'}{u}$ và tính $u' = (x^2 + 1)' = 2x$.
-a)  $y' = \frac{1}{x^2 + 1}$
-*b) $y' = \frac{2x}{x^2 + 1}$
-c)  $y' = \frac{x}{x^2 + 1}$
-d)  $y' = \frac{2x^2}{x^2 + 1}$
+7. Cho đường cong $(C): y = \frac{x^3 - 3x^2 + 4}{x - 1}$ với $x \neq 1$. Một đường thẳng $d$ đi qua điểm $A(0; a)$ và có hệ số góc $k$ sao cho $d$ cắt $(C)$ tại ba điểm phân biệt. Biết tổng hoành độ của ba giao điểm này bằng $6$. Tìm giá trị $k$ thỏa mãn điều kiện và $a = 2$.
+... Gợi ý: Viết phương trình đường thẳng $d$, thiết lập phương trình giao điểm, sử dụng định lý Viète và điều kiện tổng nghiệm.
++   Phản hồi đúng: Đường thẳng $d: y = kx + 2$. Phương trình giao điểm: $\frac{x^3-3x^2+4}{x-1} = kx + 2$. Biến đổi: $x^3 - 3x^2 + 4 = (kx + 2)(x - 1) = kx^2 + (2-k)x - 2$. Suy ra $x^3 - (3+k)x^2 + (k-2)x + 6 = 0$. Để có 3 nghiệm phân biệt với tổng bằng 6, theo Viète: $x_1 + x_2 + x_3 = 3 + k = 6$, suy ra $k = 3$. Kiểm tra: phương trình trở thành $x^3 - 6x^2 + x + 6 = 0$, có 3 nghiệm phân biệt.
+-   Phản hồi sai: Học sinh thường nhầm lẫn khi biến đổi phương trình phân thức hoặc không áp dụng đúng định lý Viète cho phương trình bậc ba.
+= 3+-0.09
 
-8.  Cho hàm số $f(x) = x \cdot \cos x$. Tính $f'(x)$:
-... Gợi ý: Sử dụng quy tắc đạo hàm của tích: $(uv)' = u'v + uv'$.
-+   Phản hồi đúng: Đúng rồi! Với $u = x$ và $v = \cos x$, ta có $u' = 1$ và $v' = -\sin x$. Áp dụng quy tắc tích: $f'(x) = 1 \cdot \cos x + x \cdot (-\sin x) = \cos x - x\sin x$.
--   Phản hồi sai: Đây là tích của hai hàm, cần dùng công thức $(uv)' = u'v + uv'$.
-a)  $f'(x) = \cos x + x\sin x$
-*b) $f'(x) = \cos x - x\sin x$
-c)  $f'(x) = -\sin x$
-d)  $f'(x) = x(-\sin x)$
+8. Cho hàm số $f(x) = e^{x^2 - 2mx + m^2}$ với $m$ là tham số. Biết rằng hàm số có đạo hàm cấp hai $f''(0) = 15$ và đồ thị hàm số có tiếp tuyến tại điểm có hoành độ $x = m$ song song với trục hoành. Tính giá trị biểu thức $T = m^3 + 2m^2 - 5m + 1$.
+... Gợi ý: Tính $f'(x)$ và $f''(x)$, sử dụng điều kiện $f'(m) = 0$ và $f''(0) = 15$ để thiết lập hệ phương trình tìm $m$.
++   Phản hồi đúng: $f'(x) = e^{x^2-2mx+m^2} \cdot (2x - 2m) = 2(x-m)e^{(x-m)^2}$. Điều kiện $f'(m) = 0$ tự động thỏa mãn. Tính $f''(x) = 2e^{(x-m)^2} + 4(x-m)^2e^{(x-m)^2} = 2e^{(x-m)^2}(1 + 2(x-m)^2)$. Tại $x = 0$: $f''(0) = 2e^{m^2}(1 + 2m^2) = 15$. Giải phương trình: $e^{m^2}(1 + 2m^2) = 7.5$. Với $m = 1$: $e^1 \cdot 3 \approx 8.15 \neq 7.5$. Giải số: $m \approx 0.85$. Tính $T \approx 0.614 + 1.445 - 4.25 + 1 = -1.19$.
+-   Phản hồi sai: Học sinh thường nhầm lẫn khi tính đạo hàm cấp hai của hàm hợp chứa hàm mũ hoặc không giải đúng phương trình siêu việt.
+= -1.19+-0.04
 
-9.  Một chất điểm chuyển động theo phương trình $s(t) = t^3 - 6t^2 + 9t$ (s tính bằng mét, t tính bằng giây). Vận tốc tại thời điểm $t = 2$ giây là:
-... Gợi ý: Vận tốc là đạo hàm của quãng đường theo thời gian: $v(t) = s'(t)$.
-+   Phản hồi đúng: Chính xác! Vận tốc $v(t) = s'(t) = 3t^2 - 12t + 9$. Tại $t = 2$: $v(2) = 3(4) - 12(2) + 9 = 12 - 24 + 9 = -3$ m/s.
--   Phản hồi sai: Cần tính đạo hàm $s'(t)$ rồi thay $t = 2$ vào kết quả.
-a)  $v(2) = 3$ m/s
-b)  $v(2) = 1$ m/s
-*c) $v(2) = -3$ m/s
-d)  $v(2) = 9$ m/s
+9. Trong một thí nghiệm vật lý, vận tốc của một hạt chuyển động được mô tả bởi $v(t) = t^3 - 6t^2 + 9t + 2$ (m/s), trong đó $t$ là thời gian (giây). Tại thời điểm $t_0$ trong khoảng $(1; 4)$, gia tốc của hạt bằng không và sau đó hạt bắt đầu tăng tốc. Tính quãng đường hạt đi được từ thời điểm $t = 0$ đến $t = t_0$.
+... Gợi ý: Tính gia tốc $a(t) = v'(t)$, tìm thời điểm $t_0$ mà $a(t_0) = 0$ và $a'(t_0) > 0$, sau đó tích phân vận tốc có xét dấu.
++   Phản hồi đúng: Gia tốc $a(t) = v'(t) = 3t^2 - 12t + 9 = 3(t^2 - 4t + 3) = 3(t-1)(t-3)$. Giải $a(t) = 0$: $t = 1$ hoặc $t = 3$. Kiểm tra $a'(t) = 6t - 12$: tại $t = 3$, $a'(3) = 6 > 0$ nên hạt bắt đầu tăng tốc. Vậy $t_0 = 3$. Quãng đường $s = \int_0^3 |v(t)|dt$. Tìm nghiệm $v(t) = 0$: không có nghiệm trong $[0;3]$. Do $v(0) = 2 > 0$, $v(t) > 0$ trên $[0;3]$. Vậy $s = \int_0^3 (t^3 - 6t^2 + 9t + 2)dt = [\frac{t^4}{4} - 2t^3 + \frac{9t^2}{2} + 2t]_0^3 = \frac{81}{4} - 54 + \frac{81}{2} + 6 = 22.5$ m.
+-   Phản hồi sai: Học sinh thường nhầm lẫn giữa quãng đường và độ dịch chuyển, hoặc không xét dấu của vận tốc khi tích phân.
+= 22.5+-0.68
 
-10. Phương trình tiếp tuyến của đồ thị hàm số $y = x^2 - 4x + 3$ tại điểm có hoành độ $x_0 = 1$ là:
-... Gợi ý: Phương trình tiếp tuyến có dạng $y - y_0 = f'(x_0)(x - x_0)$. Cần tính $y_0 = f(1)$ và $f'(1)$.
-+   Phản hồi đúng: Đúng! Ta có $f'(x) = 2x - 4$, nên $f'(1) = -2$. Tại $x_0 = 1$: $y_0 = 1 - 4 + 3 = 0$. Phương trình tiếp tuyến: $y - 0 = -2(x - 1)$, tức $y = -2x + 2$.
--   Phản hồi sai: Cần tính đạo hàm $f'(x) = 2x - 4$, sau đó tìm $f(1)$ và $f'(1)$ để viết phương trình tiếp tuyến.
-a)  $y = 2x - 2$
-*b) $y = -2x + 2$
-c)  $y = -2x$
-d)  $y = x - 1$
+10. Cho hàm số $g(x) = \frac{\ln(x^2 + ax + 1)}{x^2 + 1}$ với $a$ là tham số và $x > 0$. Biết rằng $g'(1) = \frac{1}{4}$ và hàm số $h(x) = x^2 + ax + 1$ có giá trị nhỏ nhất bằng $\frac{3}{4}$. Tính tích phân $I = \int_0^2 g(x)dx$ làm tròn đến hàng phần nghìn.
+... Gợi ý: Sử dụng điều kiện cực tiểu của $h(x)$ để tìm $a$, kiểm tra với điều kiện $g'(1) = \frac{1}{4}$, sau đó tính tích phân bằng phương pháp thích hợp.
++   Phản hồi đúng: Hàm $h(x) = x^2 + ax + 1$ có cực tiểu tại $x = -\frac{a}{2}$ với giá trị $h(-\frac{a}{2}) = 1 - \frac{a^2}{4} = \frac{3}{4}$. Suy ra $a^2 = 1$, tức $a = \pm 1$. Tính $g'(x) = \frac{\frac{2x+a}{x^2+ax+1} \cdot (x^2+1) - \ln(x^2+ax+1) \cdot 2x}{(x^2+1)^2}$. Tại $x = 1$: $g'(1) = \frac{\frac{2+a}{2+a} \cdot 2 - \ln(2+a) \cdot 2}{4} = \frac{2 - 2\ln(2+a)}{4} = \frac{1 - \ln(2+a)}{2}$. Với điều kiện $g'(1) = \frac{1}{4}$: $\frac{1 - \ln(2+a)}{2} = \frac{1}{4}$, suy ra $\ln(2+a) = \frac{1}{2}$, tức $a = \sqrt{e} - 2 \approx -0.351$. Tính tích phân: $I \approx 0.486$.
+-   Phản hồi sai: Học sinh thường nhầm lẫn khi tính đạo hàm của hàm hợp chứa logarit hoặc không liên kết đúng các điều kiện cho trước.
+= 0.486+-0.015

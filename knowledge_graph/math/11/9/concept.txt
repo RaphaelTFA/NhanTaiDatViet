@@ -1,105 +1,212 @@
 # TÓM TẮT CHƯƠNG ĐẠO HÀM - TOÁN 11
 
-## I. ĐỊNH NGHĨA ĐẠO HÀM
+## I. KHÁI NIỆM ĐẠO HÀM
 
-### 1. Định nghĩa đạo hàm tại một điểm
-Cho hàm số y = f(x) xác định trên khoảng (a;b) và x₀ ∈ (a;b).
+### 1. Bài toán dẫn đến khái niệm đạo hàm
 
-**Đạo hàm của hàm số f(x) tại x₀** là:
+**Bài toán 1: Vận tốc tức thời**
+Một vật chuyển động theo phương trình s = s(t). Tại thời điểm t₀, vận tốc tức thời của vật là:
+```
+v(t₀) = lim[Δt→0] [s(t₀ + Δt) - s(t₀)]/Δt
+```
+
+**Bài toán 2: Tiếp tuyến của đường cong**
+Hệ số góc của tiếp tuyến tại điểm M₀(x₀; f(x₀)) trên đồ thị hàm số y = f(x) là:
+```
+k = lim[Δx→0] [f(x₀ + Δx) - f(x₀)]/Δx
+```
+
+### 2. Định nghĩa đạo hàm tại một điểm
+
+Cho hàm số y = f(x) xác định trên khoảng (a; b) chứa điểm x₀.
+
+**Đạo hàm của hàm số f(x) tại điểm x₀** là giới hạn (nếu tồn tại):
 ```
 f'(x₀) = lim[h→0] [f(x₀ + h) - f(x₀)]/h
 ```
-(nếu giới hạn này tồn tại và hữu hạn)
 
-### 2. Định nghĩa hàm đạo hàm
-Nếu f(x) có đạo hàm tại mọi điểm x thuộc (a;b), ta có **hàm đạo hàm**:
+**Các ký hiệu khác:** y'(x₀), df/dx|_{x=x₀}
+
+**Chú ý:** 
+- Nếu giới hạn trên tồn tại và hữu hạn thì ta nói hàm số f(x) có đạo hàm (hay khả vi) tại x₀
+- Nếu f(x) có đạo hàm tại x₀ thì f(x) liên tục tại x₀
+
+### 3. Đạo hàm một bên
+
+**Đạo hàm phải:** f'₊(x₀) = lim[h→0⁺] [f(x₀ + h) - f(x₀)]/h
+
+**Đạo hàm trái:** f'₋(x₀) = lim[h→0⁻] [f(x₀ + h) - f(x₀)]/h
+
+**Định lý:** f'(x₀) tồn tại ⟺ f'₊(x₀) = f'₋(x₀) và cả hai đều hữu hạn
+
+### 4. Hàm đạo hàm
+
+Nếu hàm số f(x) có đạo hàm tại mọi điểm x thuộc khoảng (a; b), ta có **hàm đạo hàm**:
 ```
 f'(x) = lim[h→0] [f(x + h) - f(x)]/h
 ```
 
-## II. CÁC CÔNG THỨC ĐẠO HÀM CƠ BẢN
+## II. QUY TẮC TÍNH ĐẠO HÀM
 
-### 1. Đạo hàm của các hàm số sơ cấp
-- (c)' = 0 (c là hằng số)
-- (x)' = 1
-- (xⁿ)' = n·xⁿ⁻¹ (n ∈ ℝ)
-- (√x)' = 1/(2√x)
-- (1/x)' = -1/x²
+### 1. Đạo hàm của các hàm số cơ bản
 
-### 2. Đạo hàm của các hàm lượng giác
-- (sin x)' = cos x
-- (cos x)' = -sin x
-- (tan x)' = 1/cos²x = 1 + tan²x
-- (cot x)' = -1/sin²x = -(1 + cot²x)
+| Hàm số | Đạo hàm | Điều kiện |
+|--------|---------|-----------|
+| f(x) = c | f'(x) = 0 | c ∈ ℝ |
+| f(x) = x | f'(x) = 1 | |
+| f(x) = xⁿ | f'(x) = nxⁿ⁻¹ | n ∈ ℝ, x > 0 |
+| f(x) = √x | f'(x) = 1/(2√x) | x > 0 |
+| f(x) = 1/x | f'(x) = -1/x² | x ≠ 0 |
 
-### 3. Đạo hàm của hàm số mũ và logarit
-- (eˣ)' = eˣ
-- (aˣ)' = aˣ·ln a (a > 0, a ≠ 1)
-- (ln x)' = 1/x
-- (log_a x)' = 1/(x·ln a) (a > 0, a ≠ 1)
+### 2. Quy tắc tính đạo hàm
 
-## III. CÁC QUY TẮC TÍNH ĐẠO HÀM
-
-### 1. Quy tắc cộng, trừ
+**Quy tắc 1 (Tính chất tuyến tính):**
 ```
 [u(x) ± v(x)]' = u'(x) ± v'(x)
+[ku(x)]' = ku'(x) (k là hằng số)
 ```
 
-### 2. Quy tắc nhân
+**Quy tắc 2 (Đạo hàm tích):**
 ```
-[u(x)·v(x)]' = u'(x)·v(x) + u(x)·v'(x)
-[k·u(x)]' = k·u'(x) (k là hằng số)
-```
-
-### 3. Quy tắc chia
-```
-[u(x)/v(x)]' = [u'(x)·v(x) - u(x)·v'(x)]/[v(x)]²
+[u(x).v(x)]' = u'(x).v(x) + u(x).v'(x)
 ```
 
-### 4. Đạo hàm của hàm hợp
-Nếu y = f(u) và u = g(x), thì:
+**Quy tắc 3 (Đạo hàm thương):**
 ```
-y'_x = y'_u · u'_x
+[u(x)/v(x)]' = [u'(x).v(x) - u(x).v'(x)]/[v(x)]² (v(x) ≠ 0)
 ```
 
-## IV. ĐỊNH LÝ VỀ ĐẠO HÀM
+**Quy tắc 4 (Đạo hàm hàm hợp):**
+Nếu y = f(u), u = g(x) thì:
+```
+y'ₓ = y'ᵤ . u'ₓ
+```
+hay [f(g(x))]' = f'(g(x)).g'(x)
 
-### 1. Định lý về mối liên hệ giữa tính liên tục và khả vi
-Nếu hàm số f(x) có đạo hàm tại x₀ thì f(x) liên tục tại x₀.
+### 3. Đạo hàm của hàm số lượng giác
 
-### 2. Ý nghĩa hình học của đạo hàm
-f'(x₀) là hệ số góc của tiếp tuyến với đồ thị hàm số y = f(x) tại điểm M(x₀; f(x₀)).
+| Hàm số | Đạo hàm | Điều kiện |
+|--------|---------|-----------|
+| sin x | cos x | |
+| cos x | -sin x | |
+| tan x | 1/cos²x = 1 + tan²x | x ≠ π/2 + kπ |
+| cot x | -1/sin²x = -(1 + cot²x) | x ≠ kπ |
+
+### 4. Ví dụ minh họa
+
+**Ví dụ 1:** Tính đạo hàm của f(x) = 3x⁴ - 2x² + 5x - 1
+
+*Giải:*
+f'(x) = (3x⁴)' - (2x²)' + (5x)' - (1)'
+= 3.4x³ - 2.2x + 5 - 0
+= 12x³ - 4x + 5
+
+**Ví dụ 2:** Tính đạo hàm của g(x) = (2x + 1)(x² - 3)
+
+*Giải:*
+Cách 1: g'(x) = (2x + 1)'(x² - 3) + (2x + 1)(x² - 3)'
+= 2(x² - 3) + (2x + 1).2x
+= 2x² - 6 + 4x² + 2x
+= 6x² + 2x - 6
+
+**Ví dụ 3:** Tính đạo hàm của h(x) = sin(2x + 1)
+
+*Giải:*
+Đặt u = 2x + 1, ta có h(x) = sin u
+h'(x) = (sin u)' . u' = cos u . 2 = 2cos(2x + 1)
+
+## III. Ý NGHĨA HÌNH HỌC VÀ VẬT LÝ CỦA ĐẠO HÀM
+
+### 1. Ý nghĩa hình học
+
+**Định lý:** Đạo hàm f'(x₀) chính là hệ số góc của tiếp tuyến với đồ thị hàm số y = f(x) tại điểm M(x₀; f(x₀)).
 
 **Phương trình tiếp tuyến:**
 ```
-y - y₀ = f'(x₀)(x - x₀)
+y = f'(x₀)(x - x₀) + f(x₀)
 ```
 
-### 3. Ý nghĩa vật lý của đạo hàm
-- Vận tốc tức thời: v(t) = s'(t)
-- Gia tốc tức thời: a(t) = v'(t) = s''(t)
+**Phương trình pháp tuyến:**
+```
+y = -1/f'(x₀)(x - x₀) + f(x₀) (f'(x₀) ≠ 0)
+```
 
-## V. CÁC DẠNG BÀI TẬP CHÍNH
+### 2. Ý nghĩa vật lý
+
+- **Vận tốc tức thời:** Nếu s = s(t) là phương trình chuyển động, thì v(t) = s'(t)
+- **Gia tốc tức thời:** a(t) = v'(t) = s''(t)
+
+### 3. Ví dụ ứng dụng
+
+**Ví dụ 1:** Viết phương trình tiếp tuyến của đồ thị hàm số y = x³ - 3x + 1 tại điểm có hoành độ x₀ = 1.
+
+*Giải:*
+- Tại x₀ = 1: y₀ = 1³ - 3.1 + 1 = -1
+- y' = 3x² - 3, nên y'(1) = 3.1² - 3 = 0
+- Phương trình tiếp tuyến: y = 0(x - 1) + (-1) = -1
+
+**Ví dụ 2:** Một vật chuyển động theo phương trình s = t³ - 6t² + 9t (m). Tính vận tốc và gia tốc tại t = 2s.
+
+*Giải:*
+- v(t) = s'(t) = 3t² - 12t + 9
+- a(t) = v'(t) = 6t - 12
+- Tại t = 2: v(2) = 3.4 - 12.2 + 9 = -3 (m/s)
+- a(2) = 6.2 - 12 = 0 (m/s²)
+
+## IV. CÁC DẠNG BÀI TẬP
 
 ### Dạng 1: Tính đạo hàm bằng định nghĩa
-- Sử dụng công thức: f'(x₀) = lim[h→0] [f(x₀ + h) - f(x₀)]/h
-- Tính giới hạn để tìm đạo hàm
 
-### Dạng 2: Tính đạo hàm bằng công thức và quy tắc
-- Áp dụng các công thức đạo hàm cơ bản
-- Sử dụng quy tắc cộng, trừ, nhân, chia
-- Tính đạo hàm hàm hợp
+**Phương pháp:**
+1. Tính f(x₀ + h) - f(x₀)
+2. Lập tỉ số [f(x₀ + h) - f(x₀)]/h
+3. Rút gọn và tính giới hạn khi h → 0
+
+### Dạng 2: Tính đạo hàm bằng công thức
+
+**Phương pháp:** Áp dụng các quy tắc và công thức đạo hàm
 
 ### Dạng 3: Viết phương trình tiếp tuyến
-- Tìm đạo hàm f'(x₀)
-- Viết phương trình: y - y₀ = f'(x₀)(x - x₀)
-- Các trường hợp: tiếp tuyến tại một điểm, tiếp tuyến qua một điểm
 
-### Dạng 4: Ứng dụng đạo hàm trong vật lý
-- Bài toán chuyển động: tính vận tốc, gia tốc
-- Công thức: v = s'(t), a = v'(t) = s''(t)
+**Các trường hợp:**
+- Tiếp tuyến tại một điểm cho trước
+- Tiếp tuyến đi qua một điểm
+- Tiếp tuyến có hệ số góc cho trước
 
-### Dạng 5: Tìm điều kiện để hàm số có đạo hàm
-- Kiểm tra tính liên tục
-- Tính đạo hàm trái và đạo hàm phải
-- So sánh để tìm điều kiện
+### Dạng 4: Tìm điều kiện để hàm số có đạo hàm
+
+**Phương pháp:**
+1. Kiểm tra tính liên tục tại điểm xét
+2. Tính đạo hàm trái và đạo hàm phải
+3. So sánh để tìm điều kiện
+
+### Dạng 5: Ứng dụng đạo hàm trong các bài toán thực tế
+
+**Các loại bài toán:**
+- Chuyển động cơ học
+- Tăng trưởng dân số
+- Biến đổi nhiệt độ
+- Các mô hình kinh tế đơn giản
+
+## V. BÀI TẬP TỔNG HỢP
+
+### Bài tập cơ bản
+
+1. Tính đạo hàm các hàm số:
+   a) f(x) = 2x³ - 5x² + 3x - 7
+   b) g(x) = (x² + 1)(2x - 3)
+   c) h(x) = (3x + 1)/(x - 2)
+
+2. Tìm phương trình tiếp tuyến của y = x² - 4x + 3 tại điểm có hoành độ x = 2.
+
+### Bài tập nâng cao
+
+3. Cho hàm số f(x) = {ax² + b nếu x ≤ 1; 2x + 1 nếu x > 1}. Tìm a, b để f(x) có đạo hàm tại x = 1.
+
+4. Một quả bóng được ném lên theo phương trình h(t) = -5t² + 20t + 2 (m). Tìm thời điểm vận tốc bằng 0 và độ cao tối đa.
+
+### Bài tập thực tế
+
+5. Dân số của một thành phố được mô hình hóa bởi P(t) = 100000(1 + 0.02t) người (t tính bằng năm). Tính tốc độ tăng dân số sau 5 năm.
+
+6. Nhiệt độ của một vật theo thời gian được cho bởi T(t) = 20 + 80e^(-0.1t) (°C). Tính tốc độ thay đổi nhiệt độ tại t = 10 phút.
