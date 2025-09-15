@@ -66,7 +66,7 @@ def evaluate_concept(concept_dir: str, content_dir: str, grade: int, topic: str)
         feedback = next((line for line in lines if "Nhận xét" in line), "")
         concept_update(concept_dir, grade, topic, evaluation, feedback, score)
 
-def evaluate_elo(content_dir: str, grade: int, topic: str, difficulty: str) -> None:
+def evaluate_elo(content_dir: str, grade: int, topic: str) -> None:
     with open(content_dir, "r", encoding="utf-8") as f:
         content = f.read()
     with open("knowledge_graph/math/eval/elo.txt", "r", encoding="utf-8") as f:
@@ -78,7 +78,6 @@ def evaluate_elo(content_dir: str, grade: int, topic: str, difficulty: str) -> N
 ***THÔNG TIN VĂN BẢN CẦN ĐƯỢC CHẤM:***
 *   **Khối học**: {grade}
 *   **Chủ đề**: {topic}
-*   **Mức độ khó cần thiết**: {difficulty}
 *   **Văn bản**: {content}
 """
     response = generate_test_2(prompt)

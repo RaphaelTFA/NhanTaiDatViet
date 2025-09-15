@@ -13,7 +13,7 @@ from datetime import datetime
 from config import TEST_MODE, GEN_PROMPT, NEO4J_URI, NEO4J_USER, NEO4J_PASSWORD
 from neo4j import GraphDatabase
 from handler.task import generate_test
-from knowledge_graph.math.eval.eval import evaluate_difficulty, evaluate_concept
+from knowledge_graph.math.eval.eval import evaluate_difficulty, evaluate_concept, evaluate_elo
 from knowledge_graph.math.postprocess import postprocess_question
 from dotenv import load_dotenv
 
@@ -369,17 +369,19 @@ def math_test(topic: str = "", grade: int = 11, difficulty: str = "Vận dụng"
         return prompt
     tmp_prompt_path = make_tempfile_with(prompt)
     response_text = generate_test(tmp_prompt_path)
-    reform(tmp_prompt_path)
-    processed = postprocess_question(response_text, grade)
-    if processed is None:
-        logger.warning("Câu hỏi không hợp lệ sau postprocess, lưu bản lỗi.")
-        save_generated_question(grade, topic, difficulty, "[INVALID] " + response_text)
-        return response_text
-    response_text = processed
+    reform(tmp_prompt_path, format_path, question_path)
+    # processed = postprocess_question(response_text, grade)
+    # if processed is None:
+    #     logger.warning("Câu hỏi không hợp lệ sau postprocess, lưu bản lỗi.")
+    #     save_generated_question(grade, topic, difficulty, "[INVALID] " + response_text)
+    #     return response_text
+    # response_text = processed
     evaluate_difficulty(difficulty_path, make_tempfile_with(response_text), grade, topic, difficulty)
     evaluate_concept(concept_path, make_tempfile_with(response_text), grade, topic)
     score = evaluate_elo(make_tempfile_with(response_text), grade, topic)
     save_generated_question(grade, topic, difficulty, response_text)
+    with open("knowledge_graph\math\llm_return\response.txt", "w", encoding="utf-8") as f:
+        f.write(str(response_text))
     return response_text, score
 
 # ================== Example run ============================

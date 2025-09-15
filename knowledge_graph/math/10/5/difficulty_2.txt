@@ -1,123 +1,137 @@
+```
 # HƯỚNG DẪN SINH ĐỀ: CÁC SỐ ĐẶC TRƯNG CỦA MẪU SỐ LIỆU KHÔNG GHÉP NHÓM - MỨC THÔNG HIỂU
 
 ## I. KIẾN THỨC CẦN NẮM
 
-### 1. Các số đặc trưng cần biết:
+### Các số đặc trưng cơ bản:
 - **Số trung bình cộng**: $\overline{x} = \frac{x_1 + x_2 + ... + x_n}{n}$
 - **Trung vị (Me)**: Giá trị ở giữa khi sắp xếp theo thứ tự
 - **Mốt (Mo)**: Giá trị xuất hiện nhiều nhất
-- **Tứ phân vị**: Q₁, Q₂ (= Me), Q₃
-- **Phương sai**: $s^2 = \frac{1}{n}\sum_{i=1}^{n}(x_i - \overline{x})^2$
-- **Độ lệch chuẩn**: $s = \sqrt{s^2}$
 - **Khoảng biến thiên**: R = Max - Min
 
-## II. CÁC DẠNG BÀI TẬP MỨC THÔNG HIỂU
+## II. NGUYÊN TẮC SINH ĐỀ MỨC THÔNG HIỂU
 
-### DẠNG 1: TÍNH TOÁN VÀ SO SÁNH CÁC SỐ ĐặC TRƯNG
+### Đặc điểm câu hỏi mức Thông hiểu:
+- **Áp dụng trực tiếp công thức** với dữ liệu đã cho
+- **Tính toán đơn giản**, tối đa 2 bước
+- **Không yêu cầu so sánh phức tạp** hoặc phân tích sâu
+- **Dữ liệu nhỏ, dễ tính** (5-7 giá trị)
 
-**Cấu trúc đề:**
-- Cho mẫu số liệu (5-8 giá trị)
-- Yêu cầu tính 2-3 số đặc trưng
-- So sánh hoặc nhận xét về ý nghĩa
+### Tránh các yếu tố sau (thuộc mức cao hơn):
+- So sánh nhiều số đặc trưng
+- Phân tích ảnh hưởng khi thay đổi dữ liệu
+- Nhận xét về ý nghĩa thực tế phức tạp
+- Tính phương sai và độ lệch chuẩn
+- Tứ phân vị
 
-**Ví dụ mẫu:**
-> Điểm kiểm tra môn Toán của 7 học sinh: 6, 8, 7, 9, 8, 6, 7
+## III. CÁC DẠNG BÀI CHUẨN MỨC THÔNG HIỂU
+
+### DẠNG 1: TÍNH TOÁN CƠ BẢN
+
+**Cấu trúc:**
+- Cho mẫu 5-6 giá trị số nguyên đơn giản
+- Yêu cầu tính 1 số đặc trưng cụ thể
+- Không có câu hỏi phụ phức tạp
+
+**Mẫu:**
+> Điểm kiểm tra của 6 học sinh: 7, 8, 6, 9, 7, 8
 > 
-> a) Tính số trung bình, trung vị và mốt
+> Tính số trung bình cộng của mẫu số liệu trên.
+
+**Hướng dẫn sinh:**
+- Sử dụng số nguyên từ 1-10
+- Mẫu có 5-6 giá trị
+- Chỉ hỏi 1 số đặc trưng
+- Kết quả tính toán đơn giản
+
+### DẠNG 2: TÌM TRUNG VỊ VÀ MỐT
+
+**Cấu trúc:**
+- Cho dãy số có độ dài lẻ hoặc chẵn
+- Yêu cầu sắp xếp và tìm trung vị
+- Hoặc tìm mốt khi có giá trị lặp lại rõ ràng
+
+**Mẫu:**
+> Số lượng sách đọc trong tháng của 7 bạn: 3, 5, 4, 6, 4, 5, 4
 > 
-> b) So sánh ba số đặc trưng trên và nhận xét
-
-**Hướng dẫn sinh đề:**
-- Chọn mẫu có 6-8 giá trị
-- Đảm bảo có mốt rõ ràng (1-2 giá trị lặp lại)
-- Yêu cầu tính 2-3 số đặc trưng cơ bản
-- Thêm câu hỏi so sánh hoặc nhận xét
-
-### DẠNG 2: PHÂN TÍCH ẢNH HƯỞNG CỦA DỮ LIỆU
-
-**Cấu trúc đề:**
-- Cho mẫu số liệu ban đầu
-- Thay đổi 1-2 giá trị hoặc thêm/bớt giá trị
-- So sánh sự thay đổi của các số đặc trưng
-
-**Ví dụ mẫu:**
-> Cân nặng của 6 học sinh (kg): 45, 48, 50, 52, 48, 55
+> a) Tìm mốt của mẫu số liệu
 > 
-> a) Tính trung bình cộng và độ lệch chuẩn
-> 
-> b) Nếu thêm 1 học sinh nặng 60kg, các số đặc trưng thay đổi như thế nào?
+> b) Tìm trung vị của mẫu số liệu
 
-**Hướng dẫn sinh đề:**
-- Mẫu ban đầu 5-6 giá trị
-- Thay đổi đơn giản (thêm 1 giá trị, thay đổi 1 giá trị)
-- So sánh trước và sau thay đổi
-- Yêu cầu giải thích nguyên nhân
+**Hướng dẫn sinh:**
+- Đảm bảo có mốt duy nhất và rõ ràng
+- Với trung vị: dùng số lẻ phần tử để đơn giản
+- Số liệu nhỏ, dễ sắp xếp
 
-### DẠNG 3: ỨNG DỤNG VÀO BÀI TOÁN THỰC TẾ
+### DẠNG 3: CHUYỂN ĐỔI TỪ BẢNG TẦN SỐ
 
-**Cấu trúc đề:**
-- Bối cảnh thực tế (điểm số, nhiệt độ, doanh thu...)
-- Tính toán các số đặc trưng
-- Đưa ra nhận xét, kết luận
+**Cấu trúc:**
+- Cho bảng tần số đơn giản (3-4 giá trị)
+- Yêu cầu tính trung bình hoặc tìm mốt
+- Tổng tần số nhỏ (8-12)
 
-**Ví dụ mẫu:**
-> Nhiệt độ trung bình các ngày trong tuần (°C): 25, 27, 28, 30, 29, 26, 24
-> 
-> a) Tính nhiệt độ trung bình trong tuần
-> 
-> b) Tìm khoảng tứ phân vị và giải thích ý nghĩa
-> 
-> c) Ngày nào có nhiệt độ lệch xa trung bình nhất?
-
-**Hướng dẫn sinh đề:**
-- Chọn bối cảnh quen thuộc với học sinh
-- Số liệu hợp lý với thực tế
-- Kết hợp 2-3 số đặc trưng
-- Có câu hỏi về ý nghĩa thực tế
-
-### DẠNG 4: CHUYỂN ĐỔI BIỂU DIỄN DỮ LIỆU
-
-**Cấu trúc đề:**
-- Cho dữ liệu dạng bảng tần số
-- Chuyển sang dạng liệt kê hoặc ngược lại
-- Tính các số đặc trưng
-
-**Ví dụ mẫu:**
+**Mẫu:**
 > Bảng thống kê số con trong các gia đình:
 > 
-> | Số con | 1 | 2 | 3 | 4 |
-> |--------|---|---|---|---|
-> | Số gia đình | 3 | 5 | 4 | 2 |
+> | Số con | 1 | 2 | 3 |
+> |--------|---|---|---|
+> | Số gia đình | 3 | 5 | 2 |
 > 
-> a) Viết mẫu số liệu dưới dạng liệt kê
+> Tính số trung bình con trong mỗi gia đình.
+
+**Hướng dẫn sinh:**
+- Bảng có 3-4 cột
+- Tần số nhỏ, dễ tính
+- Chỉ yêu cầu 1 phép tính
+
+### DẠNG 4: BÀI TOÁN THỰC TẾ ĐỠN GIẢN
+
+**Cấu trúc:**
+- Bối cảnh quen thuộc (điểm số, cân nặng, nhiệt độ)
+- Dữ liệu thực tế hợp lý
+- Chỉ tính 1 số đặc trưng, không phân tích
+
+**Mẫu:**
+> Nhiệt độ các ngày trong tuần (°C): 25, 27, 26, 28, 26, 24, 26
 > 
-> b) Tính số trung bình và trung vị
+> Tính nhiệt độ trung bình trong tuần.
 
-**Hướng dẫn sinh đề:**
-- Bảng tần số đơn giản (3-4 giá trị khác nhau)
-- Tổng tần số từ 10-15
-- Yêu cầu chuyển đổi biểu diễn
-- Tính 1-2 số đặc trưng
+**Hướng dẫn sinh:**
+- Số liệu hợp lý với thực tế
+- Chỉ hỏi phép tính cơ bản
+- Không yêu cầu giải thích ý nghĩa
 
-## III. TIÊU CHÍ ĐÁNH GIÁ MỨC THÔNG HIỂU
+## IV. QUY TẮC SINH ĐỀ CỤ THỂ
 
-### Học sinh cần thể hiện:
-1. **Hiểu rõ công thức và cách tính** các số đặc trưng
-2. **Giải thích được ý nghĩa** của từng số đặc trưng
-3. **So sánh và phân tích** sự khác biệt giữa các số đặc trưng
-4. **Áp dụng đúng** vào bối cảnh thực tế
-5. **Chuyển đổi** giữa các dạng biểu diễn dữ liệu
+### Về dữ liệu:
+- **Số lượng**: 5-7 giá trị
+- **Loại số**: Số nguyên dương từ 1-20
+- **Kết quả**: Tránh thập phân phức tạp
 
-### Sai lầm thường gặp cần tránh:
-- Nhầm lẫn giữa trung vị và trung bình
-- Quên sắp xếp dữ liệu khi tìm trung vị
-- Tính sai phương sai (quên chia cho n)
-- Không hiểu ý nghĩa thực tế của kết quả
+### Về câu hỏi:
+- **Mỗi bài chỉ hỏi 1-2 số đặc trưng**
+- **Không so sánh** giữa các số đặc trưng
+- **Không phân tích** sự thay đổi dữ liệu
+- **Không yêu cầu nhận xét** về ý nghĩa
 
-## IV. GỢI Ý SINH ĐỀ NHANH
+### Về ngôn ngữ:
+- Dùng động từ: "Tính", "Tìm", "Xác định"
+- Tránh: "So sánh", "Phân tích", "Nhận xét", "Giải thích"
 
-1. **Chọn bối cảnh**: Điểm số, cân nặng, chiều cao, nhiệt độ, doanh thu...
-2. **Số lượng dữ liệu**: 6-10 giá trị
-3. **Độ khó tính toán**: Số nguyên hoặc thập phân đơn giản
-4. **Kết hợp**: 2-3 số đặc trưng trong cùng một bài
-5. **Thêm câu hỏi**: So sánh, nhận xét, giải thích ý nghĩa
+## V. MẪU CÂU HỎI CHUẨN
+
+**Dạng trắc nghiệm:**
+> Cho mẫu số liệu: 2, 4, 3, 5, 4, 6, 4. Trung bình cộng của mẫu số liệu này là:
+> 
+> A. 3,5    B. 4    C. 4,5    D. 5
+
+**Hướng dẫn tạo đáp án nhiễu:**
+- Đáp án sai thường gặp: quên chia cho n, tính sai tổng
+- Dùng các giá trị gần đúng đáp án
+- Bao gồm trung vị hoặc mốt làm nhiễu
+
+**Dạng tự luận:**
+> Cân nặng của 6 học sinh (kg): 40, 42, 41, 43, 41, 44
+> 
+> Tìm mốt và trung vị của mẫu số liệu trên.
+```

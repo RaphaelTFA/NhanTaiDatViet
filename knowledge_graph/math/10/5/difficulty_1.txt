@@ -1,112 +1,111 @@
-# HƯỚNG DẪN SINH ĐỀ MỨC NHẬN BIẾT
+```
+# HƯỚNG DẪN SINH CÂU HỎI TRẮC NGHIỆM MỨC NHẬN BIẾT
 ## Chủ đề: Các số đặc trưng của mẫu số liệu không ghép nhóm - Lớp 10
 
-## I. KIẾN THỨC CƠ BẢN CẦN KIỂM TRA
+## I. ĐỊNH NGHĨA MỨC NHẬN BIẾT
+Câu hỏi mức nhận biết yêu cầu học sinh:
+- Nhớ và nhận ra định nghĩa, công thức đã học
+- Thực hiện phép tính trực tiếp theo công thức cho sẵn
+- Xác định khái niệm cơ bản không cần suy luận phức tạp
 
-### 1. Các khái niệm cần nhận biết:
-- **Số trung bình cộng**: $\bar{x} = \frac{x_1 + x_2 + ... + x_n}{n}$
-- **Trung vị (Median)**: Giá trị đứng giữa khi sắp xếp dữ liệu theo thứ tự tăng dần
-- **Mốt (Mode)**: Giá trị xuất hiện nhiều nhất trong mẫu
-- **Tứ phân vị**: Q₁, Q₂, Q₃
+## II. KIẾN THỨC CẦN KIỂM TRA
+
+### 1. Định nghĩa và công thức cơ bản:
+- **Số trung bình**: $\bar{x} = \frac{x_1 + x_2 + ... + x_n}{n}$
+- **Trung vị**: Số đứng giữa khi sắp xếp theo thứ tự tăng dần
+- **Mốt**: Giá trị xuất hiện nhiều nhất
 - **Phương sai**: $s^2 = \frac{1}{n}\sum_{i=1}^{n}(x_i - \bar{x})^2$
 - **Độ lệch chuẩn**: $s = \sqrt{s^2}$
 
-### 2. Tính chất cơ bản:
-- Q₂ = Trung vị
-- Mốt có thể không tồn tại hoặc có nhiều mốt
+### 2. Tính chất cơ bản cần nhận biết:
+- Trung vị của n số (n lẻ): số thứ (n+1)/2 sau khi sắp xếp
+- Trung vị của n số (n chẵn): trung bình cộng 2 số ở giữa
 - Độ lệch chuẩn luôn không âm
 
-## II. CÁC DẠNG CÂU HỎI MỨC NHẬN BIẾT
+## III. CÁC DẠNG CÂU HỎI VÀ NGUYÊN TẮC THIẾT KẾ
 
 ### **DẠNG 1: Tính số trung bình cộng**
-
-**Khung câu hỏi:**
-- "Tính số trung bình cộng của mẫu số liệu: [dữ liệu đơn giản]"
-- Cho 5-7 số, yêu cầu tính trực tiếp
-
-**Ví dụ mẫu:**
-*Tính số trung bình cộng của mẫu số liệu: 2, 4, 6, 8, 10*
-A. 5    B. 6    C. 7    D. 8
+**Cấu trúc:** Cho 4-6 số nguyên đơn giản, yêu cầu tính trực tiếp
+**Dữ liệu:** Các số từ 1-20, tổng chia hết cho số phần tử
+**Đáp án nhiễu:** 
+- Tổng các số (quên chia n)
+- Tổng chia cho (n-1) hoặc (n+1)
+- Trung vị của dãy số
 
 ### **DẠNG 2: Xác định trung vị**
-
-**Khung câu hỏi:**
-- "Tìm trung vị của mẫu số liệu: [dữ liệu đã sắp xếp hoặc dễ sắp xếp]"
-- Cho số lẻ phần tử để dễ xác định
-
-**Ví dụ mẫu:**
-*Trung vị của mẫu số liệu: 1, 3, 5, 7, 9 là:*
-A. 3    B. 5    C. 7    D. 9
+**Cấu trúc:** Cho dãy 5-7 số, yêu cầu tìm trung vị
+**Dữ liệu:** Ưu tiên số lẻ phần tử, có thể cho sẵn đã sắp xếp hoặc chưa
+**Đáp án nhiễu:**
+- Số trung bình cộng
+- Số đầu tiên hoặc cuối cùng
+- Số ở vị trí sai khi đếm
 
 ### **DẠNG 3: Nhận biết mốt**
+**Cấu trúc:** Cho dãy có một số xuất hiện rõ ràng nhiều nhất
+**Dữ liệu:** 6-8 số, một số xuất hiện ít nhất 3 lần
+**Đáp án nhiễu:**
+- Số xuất hiện nhiều thứ hai
+- Tần số của mốt (thay vì giá trị mốt)
+- Số trung bình hoặc trung vị
 
-**Khung câu hỏi:**
-- "Xác định mốt của mẫu số liệu: [dữ liệu có giá trị lặp rõ ràng]"
-- Thiết kế để có một giá trị xuất hiện nhiều nhất rõ ràng
-
-**Ví dụ mẫu:**
-*Mốt của mẫu số liệu: 2, 3, 3, 4, 5, 3, 6 là:*
-A. 2    B. 3    C. 4    D. 5
-
-### **DẠNG 4: Tính phương sai đơn giản**
-
-**Khung câu hỏi:**
-- "Tính phương sai của mẫu số liệu: [3-4 số đơn giản]"
-- Cho dữ liệu để phép tính không quá phức tạp
-
-**Ví dụ mẫu:**
-*Phương sai của mẫu số liệu: 1, 3, 5 là:*
-A. 2    B. 8/3    C. 3    D. 4
+### **DẠNG 4: Tính phương sai cơ bản**
+**Cấu trúc:** Cho 3-4 số đơn giản, tính phương sai
+**Dữ liệu:** Các số cho kết quả "đẹp", trung bình là số nguyên
+**Đáp án nhiễu:**
+- Độ lệch chuẩn (căn bậc hai của đáp án đúng)
+- Tổng bình phương độ lệch (chưa chia n)
+- Kết quả tính sai công thức
 
 ### **DẠNG 5: Nhận biết công thức**
+**Cấu trúc:** Cho 4 công thức, chọn đúng
+**Đáp án nhiễu:**
+- Công thức thiếu hoặc thừa bước
+- Công thức của khái niệm khác
+- Công thức sai dấu căn hoặc bình phương
 
-**Khung câu hỏi:**
-- "Công thức tính [số đặc trưng] là gì?"
-- Yêu cầu chọn công thức đúng trong các lựa chọn
+## IV. QUY TẮC TẠO DỮ LIỆU
 
-**Ví dụ mẫu:**
-*Công thức tính độ lệch chuẩn là:*
-A. $s = \sqrt{\frac{1}{n}\sum(x_i - \bar{x})^2}$
-B. $s = \frac{1}{n}\sum(x_i - \bar{x})^2$
-C. $s = \frac{1}{n}\sum x_i$
-D. $s = \sqrt{\frac{1}{n}\sum x_i}$
+### **Về số liệu:**
+- Sử dụng 3-7 số nguyên dương từ 1-25
+- Tránh số 0 trừ khi cần thiết cho tính toán
+- Đảm bảo kết quả là số nguyên hoặc phân số đơn giản
+- Sắp xếp ngẫu nhiên (không theo thứ tự) trừ khi đề bài nói rõ
 
-## III. NGUYÊN TẮC THIẾT KẾ
+### **Về tính toán:**
+- Phép chia cho kết quả nguyên hoặc phân số tối giản
+- Tránh số thập phân có nhiều chữ số
+- Phép căn bậc hai cho kết quả nguyên khi có thể
 
-### **1. Về dữ liệu:**
-- Sử dụng 3-7 số liệu
-- Các số nguyên dương, đơn giản (1-20)
-- Tránh số thập phân phức tạp
-- Kết quả tính toán là số "đẹp"
+### **Về đáp án:**
+- 4 lựa chọn A, B, C, D
+- Các đáp án cách đều nhau, không quá gần
+- Đáp án nhiễu phải hợp lý, có thể là kết quả của lỗi tính toán thường gặp
 
-### **2. Về độ khó:**
-- Chỉ yêu cầu áp dụng trực tiếp công thức
-- Không cần biến đổi hay tính toán phức tạp
-- Các phép tính cơ bản (cộng, trừ, nhân, chia đơn giản)
+## V. MẪU CÂU HỎI CHUẨN
 
-### **3. Về đáp án:**
-- 4 lựa chọn rõ ràng, khác biệt
-- Các đáp án sai thường là kết quả tính sai công thức hoặc tính sai số học đơn giản
-- Tránh đáp án quá gần nhau
+**Dạng 1:** Số trung bình cộng của mẫu số liệu: 3, 7, 8, 6 là:
+A. 5    B. 6    C. 7    D. 8
 
-## IV. MẪU CÂU HỎI HOÀN CHỈNH
+**Dạng 2:** Trung vị của mẫu số liệu: 4, 1, 7, 3, 9 là:
+A. 3    B. 4    C. 7    D. 4,8
 
-**Câu 1:** Cho mẫu số liệu: 2, 4, 6, 8. Số trung bình cộng của mẫu là:
-A. 4    B. 5    C. 6    D. 7
+**Dạng 3:** Mốt của mẫu số liệu: 2, 5, 3, 5, 7, 5, 8 là:
+A. 3    B. 5    C. 7    D. 8
 
-**Câu 2:** Trung vị của mẫu số liệu: 10, 20, 30, 40, 50 là:
-A. 20    B. 30    C. 40    D. 25
+**Dạng 4:** Phương sai của mẫu số liệu: 1, 3, 5 là:
+A. 3    B. 8/3    C. 2    D. 4
 
-**Câu 3:** Cho biết mốt của mẫu số liệu: 1, 2, 2, 3, 4, 2, 5
-A. 1    B. 2    C. 3    D. 5
+**Dạng 5:** Công thức tính độ lệch chuẩn của mẫu số liệu là:
+A. $s = \sqrt{\frac{1}{n}\sum_{i=1}^{n}(x_i - \bar{x})^2}$
+B. $s = \frac{1}{n}\sum_{i=1}^{n}(x_i - \bar{x})^2$
+C. $s = \frac{1}{n}\sum_{i=1}^{n}x_i$
+D. $s = \sqrt{\frac{1}{n}\sum_{i=1}^{n}x_i^2}$
 
-**Câu 4:** Phương sai của mẫu số liệu: 0, 2, 4 là:
-A. 2    B. 8/3    C. 3    D. 4
+**Đáp án:** 1-B, 2-B, 3-B, 4-B, 5-A
 
-**Câu 5:** Độ lệch chuẩn được tính bằng:
-A. Căn bậc hai của phương sai
-B. Bình phương của phương sai  
-C. Hai lần phương sai
-D. Nghịch đảo của phương sai
-
-*Đáp án: 1-B, 2-B, 3-B, 4-B, 5-A*
+## VI. KIỂM TRA CHẤT LƯỢNG CÂU HỎI
+- Đảm bảo chỉ cần áp dụng trực tiếp định nghĩa/công thức
+- Không yêu cầu phân tích, so sánh hay suy luận
+- Thời gian giải không quá 2-3 phút/câu
+- Đáp án nhiễu phải có tính thuyết phục cao
+```
