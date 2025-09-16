@@ -2,8 +2,8 @@ from fastapi import FastAPI, UploadFile, File, Form
 from fastapi.responses import FileResponse
 from fastapi.middleware.cors import CORSMiddleware
 from knowledge_graph.math.graph import math_test, create_kg_math, driver_math, DATABASE as database_math, TOPIC_IDX
-from knowledge_graph.math.transfer import transfer as math_transfer
-from knowledge_graph.math.upload_canvas import import_qti as math_import_qti
+from knowledge_graph.math.tools import transfer as math_transfer
+from handler.task import import_qti as math_import_qti
 from config import TEST_MODE
 import pandas as pd
 import os
@@ -29,7 +29,6 @@ def startup_event():
 async def generate_math(
     course: int = Form(...),
     name: str = Form("Test_quiz"),
-    grade: int = Form(...),
     file: UploadFile = File(...)
 ):
     if not file.filename.endswith(".csv"):
@@ -41,7 +40,7 @@ async def generate_math(
     txt_filename = "knowledge_graph/math/llm_return/full_response.txt"
     with open(txt_filename, "w", encoding="utf-8") as f:
         f.write("")
-    sum, cnt = 0, 0
+    sum, cnt, clauto = 0, 0, -1
     with open(txt_filename, "a", encoding="utf-8") as f:
         for row in df.itertuples(index=False):  
             try:
@@ -52,6 +51,7 @@ async def generate_math(
                     question=row.question,
                     n=int(row.n)
                 )
+                clauto = int(row.grade) if clauto < int(row.grade) else clauto
                 sum += score * (row.n)
                 cnt += int(row.n)
             except KeyError as e:
@@ -61,5 +61,5 @@ async def generate_math(
             f.write(result + "\n\n")
     if not TEST_MODE:
         qtifile = math_transfer()
-        math_import_qti(qtifile = qtifile, course_id = str(course), name = name, score = sum / cnt, grade = str(grade))
+        math_import_qti(qtifile = qtifile, course_id = str(course), name = name, score = sum / cnt, grade = str(clauto))
     return FileResponse(txt_filename, media_type='text/plain', filename="response.txt")

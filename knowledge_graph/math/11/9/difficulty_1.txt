@@ -1,120 +1,141 @@
+```
 # HƯỚNG DẪN SINH ĐỀ MỨC NHẬN BIẾT - CHỦ ĐỀ ĐẠO HÀM (LỚP 11)
 
 ## I. KHUNG KIẾN THỨC CẦN KIỂM TRA
 
-### 1. Định nghĩa đạo hàm
-- Định nghĩa đạo hàm tại một điểm
-- Định nghĩa đạo hàm của hàm số
-- Ý nghĩa hình học và vật lý của đạo hàm
+### 1. Định nghĩa và khái niệm đạo hàm
+- Công thức định nghĩa đạo hàm tại một điểm
+- Công thức định nghĩa đạo hàm của hàm số
+- Ý nghĩa hình học của đạo hàm (tiếp tuyến)
+- Ý nghĩa vật lý của đạo hàm (vận tốc tức thời)
 
-### 2. Các công thức đạo hàm cơ bản
-- Đạo hàm của hàm số hằng: (c)' = 0
-- Đạo hàm của hàm số mũ: (x^n)' = nx^(n-1)
-- Đạo hàm của căn: (√x)' = 1/(2√x)
-- Đạo hàm của 1/x: (1/x)' = -1/x²
+### 2. Bảng công thức đạo hàm cơ bản
+- Đạo hàm hàm hằng: (c)' = 0
+- Đạo hàm hàm số mũ: (x^n)' = nx^(n-1)
+- Đạo hàm căn bậc hai: (√x)' = 1/(2√x)
+- Đạo hàm nghịch đảo: (1/x)' = -1/x²
 
 ### 3. Quy tắc tính đạo hàm
-- Quy tắc tổng: (u + v)' = u' + v'
-- Quy tắc tích: (uv)' = u'v + uv'
-- Quy tắc thương: (u/v)' = (u'v - uv')/v²
+- Quy tắc đạo hàm tổng: (u ± v)' = u' ± v'
+- Quy tắc đạo hàm tích: (uv)' = u'v + uv'
+- Quy tắc đạo hàm thương: (u/v)' = (u'v - uv')/v²
+- Quy tắc đạo hàm hàm hợp: [f(g(x))]' = f'(g(x)).g'(x)
 
-## II. DẠNG CÂU HỎI VÀ HƯỚNG DẪN SINH ĐỀ
+## II. DẠNG CÂU HỎI THEO MỨC NHẬN BIẾT
 
-### **Dạng 1: Nhận biết định nghĩa**
+### **Dạng 1: Nhận biết định nghĩa và công thức**
+**YÊU CẦU:** Chỉ hỏi về nhận diện, nhớ lại công thức - KHÔNG tính toán
 
 **Cấu trúc câu hỏi:**
-- "Cho biết định nghĩa đạo hàm của hàm số y = f(x) tại điểm x₀"
-- "Xác định công thức tính đạo hàm tại một điểm"
+- "Công thức định nghĩa đạo hàm... là gì?"
+- "Quy tắc tính đạo hàm của... có dạng như thế nào?"
+- "Biểu thức nào sau đây là công thức đạo hàm của...?"
 
 **Ví dụ mẫu:**
-*Câu 1: Đạo hàm của hàm số y = f(x) tại điểm x₀ được định nghĩa bởi công thức nào sau đây?*
+*Câu 1: Công thức định nghĩa đạo hàm của hàm số y = f(x) tại điểm x₀ là:*
 A. f'(x₀) = lim[h→0] [f(x₀+h) - f(x₀)]/h
-B. f'(x₀) = lim[h→0] [f(x₀+h) + f(x₀)]/h  
+B. f'(x₀) = lim[h→0] [f(x₀+h) + f(x₀)]/h
 C. f'(x₀) = [f(x₀+h) - f(x₀)]/h
 D. f'(x₀) = f(x₀+h) - f(x₀)
 
-### **Dạng 2: Áp dụng trực tiếp công thức cơ bản**
+### **Dạng 2: Nhận biết công thức đạo hàm cơ bản**
+**YÊU CẦU:** Hỏi về công thức, KHÔNG yêu cầu áp dụng tính toán
 
 **Cấu trúc câu hỏi:**
-- "Tính đạo hàm của hàm số y = x^n"
-- "Tìm đạo hàm của hàm số đa thức đơn giản"
+- "Đạo hàm của hàm số y = x^n có công thức là gì?"
+- "Biểu thức đạo hàm của hàm số y = c (c là hằng số) là?"
 
 **Ví dụ mẫu:**
-*Câu 2: Tính đạo hàm của hàm số y = x⁵*
-A. y' = x⁴
-B. y' = 5x⁴
-C. y' = 5x⁵
-D. y' = x⁵
-
-*Câu 3: Cho biết đạo hàm của hàm số y = 3x² - 2x + 1*
-A. y' = 6x - 2
-B. y' = 6x + 2
-C. y' = 3x - 2
-D. y' = 6x² - 2x
+*Câu 2: Đạo hàm của hàm số y = x^n (n ∈ ℕ*) được cho bởi công thức:*
+A. y' = nx^n
+B. y' = nx^(n-1)
+C. y' = x^(n-1)
+D. y' = (n-1)x^n
 
 ### **Dạng 3: Nhận biết quy tắc tính đạo hàm**
+**YÊU CẦU:** Chỉ hỏi về quy tắc, công thức - KHÔNG áp dụng
 
 **Cấu trúc câu hỏi:**
-- "Xác định quy tắc tính đạo hàm của tổng"
-- "Cho biết công thức đạo hàm của tích"
+- "Quy tắc tính đạo hàm của tích hai hàm số là gì?"
+- "Công thức đạo hàm của thương hai hàm số có dạng như thế nào?"
 
 **Ví dụ mẫu:**
-*Câu 4: Quy tắc tính đạo hàm của tích (uv)' là:*
+*Câu 3: Nếu u, v là hai hàm số có đạo hàm thì quy tắc tính đạo hàm của tích uv là:*
 A. (uv)' = u'v'
 B. (uv)' = u'v + uv'
 C. (uv)' = u'v - uv'
-D. (uv)' = (u' + v')(u + v)
+D. (uv)' = u' + v'
 
-### **Dạng 4: Tính đạo hàm đơn giản**
+### **Dạng 4: Nhận biết ý nghĩa của đạo hàm**
+**YÊU CẦU:** Hỏi về ý nghĩa, không tính toán
 
 **Cấu trúc câu hỏi:**
-- "Tính đạo hàm của y = ax + b"
-- "Tìm y' của hàm số y = x^n với n đơn giản"
+- "Ý nghĩa hình học của đạo hàm là gì?"
+- "Trong vật lý, đạo hàm của quãng đường theo thời gian biểu thị điều gì?"
 
 **Ví dụ mẫu:**
-*Câu 5: Tính đạo hàm của hàm số y = 2x + 5*
-A. y' = 2
-B. y' = 2x
-C. y' = 5
-D. y' = 2x + 5
+*Câu 4: Về mặt hình học, đạo hàm f'(x₀) biểu thị:*
+A. Độ dài tiếp tuyến tại điểm có hoành độ x₀
+B. Hệ số góc của tiếp tuyến với đồ thị tại điểm có hoành độ x₀
+C. Khoảng cách từ gốc tọa độ đến tiếp tuyến
+D. Góc tạo bởi tiếp tuyến và trục hoành
 
-*Câu 6: Đạo hàm của hàm số y = x³ tại x = 2 bằng:*
-A. 8
-B. 12
-C. 6
-D. 3
+## III. NGÂN HÀNG CÂU HỎI MẪU THEO DẠNG
 
-## III. NGÂN HÀNG CÂU HỎI MẪU
-
-### **Nhóm A: Định nghĩa và khái niệm (20%)**
-1. Cho biết ý nghĩa hình học của đạo hàm
-2. Xác định điều kiện tồn tại đạo hàm tại một điểm
-3. Nhận biết công thức định nghĩa đạo hàm
+### **Nhóm A: Định nghĩa (25%)**
+1. Nhận biết công thức định nghĩa đạo hàm tại một điểm
+2. Nhận biết công thức định nghĩa đạo hàm của hàm số
+3. Xác định ý nghĩa hình học của đạo hàm
+4. Xác định ý nghĩa vật lý của đạo hàm
 
 ### **Nhóm B: Công thức cơ bản (40%)**
-1. Tính đạo hàm của hàm số hằng
-2. Tính đạo hàm của x^n (n = 1,2,3,4,5)
-3. Tính đạo hàm của √x, 1/x
-4. Tính đạo hàm của hàm đa thức bậc 1, bậc 2
+1. Nhận biết công thức đạo hàm hàm hằng
+2. Nhận biết công thức đạo hàm hàm số mũ y = x^n
+3. Nhận biết công thức đạo hàm y = √x
+4. Nhận biết công thức đạo hàm y = 1/x
+5. Xác định công thức đạo hàm của cy = cf(x)
 
-### **Nhóm C: Quy tắc đơn giản (40%)**
-1. Áp dụng quy tắc tổng với 2 hàm số
-2. Áp dụng quy tắc tích đơn giản
-3. Tính đạo hàm tại một điểm cụ thể
+### **Nhóm C: Quy tắc tính đạo hàm (35%)**
+1. Nhận biết quy tắc đạo hàm tổng (u ± v)'
+2. Nhận biết quy tắc đạo hàm tích (uv)'
+3. Nhận biết quy tắc đạo hàm thương (u/v)'
+4. Xác định điều kiện áp dụng các quy tắc
 
-## IV. LƯU Ý KHI SINH ĐỀ
+## IV. HƯỚNG DẪN TẠO ĐÁP ÁN NHIỄU
 
-### **Độ khó:**
-- Chỉ sử dụng hàm số đa thức bậc thấp (≤3)
-- Hệ số là các số nguyên đơn giản
-- Không kết hợp quá nhiều quy tắc trong 1 câu
+### **Nguyên tắc tạo đáp án sai:**
+- **Lỗi dấu:** Đổi dấu trong công thức (+ thành -, × thành ÷)
+- **Lỗi hệ số:** Thiếu hoặc thừa hệ số trong công thức
+- **Lỗi số mũ:** Sai số mũ trong công thức đạo hàm
+- **Lỗi quy tắc:** Nhầm lẫn giữa các quy tắc (tổng, tích, thương)
 
-### **Đáp án nhiễu:**
-- Tạo đáp án sai từ lỗi thường gặp của học sinh
-- Đáp án đúng phải rõ ràng, không gây nhầm lẫn
+### **Ví dụ đáp án nhiễu chất lượng:**
+*Với câu hỏi về (uv)' = ?*
+- **Đáp án đúng:** u'v + uv'
+- **Đáp án sai A:** u'v' (lỗi nhầm với quy tắc tổng)
+- **Đáp án sai B:** u'v - uv' (lỗi dấu)
+- **Đáp án sai C:** u' + v' (lỗi nhầm hoàn toàn quy tắc)
 
-### **Thời gian:**
-- Mỗi câu học sinh có thể giải trong 1-2 phút
-- Không yêu cầu tính toán phức tạp
+## V. LƯU Ý QUAN TRỌNG KHI SINH ĐỀ
 
-Hướng dẫn này giúp tạo ra các câu hỏi phù hợp với mức độ nhận biết, đảm bảo học sinh có thể áp dụng trực tiếp kiến thức đã học mà không cần suy luận phức tạp.
+### **NGHIÊM CẤM:**
+- Yêu cầu tính toán đạo hàm cụ thể (VD: "Tính y' của y = x²")
+- Yêu cầu tìm giá trị đạo hàm tại điểm (VD: "Tính f'(2)")
+- Yêu cầu áp dụng công thức để giải bài toán
+
+### **CHỈ ĐƯỢC PHÉP:**
+- Hỏi về công thức, quy tắc
+- Hỏi về định nghĩa, ý nghĩa
+- Yêu cầu nhận biết, xác định công thức đúng
+
+### **Ngôn ngữ câu hỏi:**
+- Sử dụng: "Công thức...", "Quy tắc...", "Biểu thức...", "Ý nghĩa..."
+- Tránh: "Tính...", "Tìm...", "Giải...", "Xác định giá trị..."
+
+### **Độ phức tạp:**
+- Chỉ sử dụng hàm số cơ bản: x^n, √x, 1/x, hằng số
+- Không kết hợp nhiều quy tắc trong một câu hỏi
+- Công thức phải được học trong chương trình lớp 11
+
+Hướng dẫn này đảm bảo 100% câu hỏi thuộc mức NHẬN BIẾT thuần túy, tránh hoàn toàn việc tạo ra câu hỏi yêu cầu tính toán.
+```
