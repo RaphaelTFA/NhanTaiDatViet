@@ -10,7 +10,7 @@ from pathlib import Path
 from typing import Dict, Tuple, List
 from datetime import datetime
 
-from config import TEST_MODE, GEN_PROMPT, NEO4J_URI, NEO4J_USER, NEO4J_PASSWORD
+from config import TEST_MODE, GEN_PROMPT, NEO4J_URI, NEO4J_USER, NEO4J_PASSWORD, KG_CREATING
 from neo4j import GraphDatabase
 from handler.task import generate_test
 from knowledge_graph.math.eval.eval import evaluate_difficulty, evaluate_concept, evaluate_elo
@@ -250,14 +250,16 @@ Chủ đề: {DEFAULT_TOPIC[grade][idx-1]}, lớp {grade}.
 def create_kg_math(session, topic_map: Dict[int, List[str]] = DEFAULT_TOPIC):
     logger.info("Start creating KG math")
     for grade in sorted(topic_map.keys()):
-        add_grade(session, grade)
+        if KG_CREATING:
+            add_grade(session, grade)   
         for idx, topic in enumerate(topic_map[grade], start=1):
             TOPIC_IDX[(grade, topic)] = idx
-            tid = add_topic(session, grade, idx, topic)
-            add_concept(session, grade, idx, topic, topic_map)
-            fid = add_format(session, grade, idx)
-            add_questions(session, grade, idx, fid)
-            add_difficulties(session, grade, idx, tid)
+            if KG_CREATING:
+                tid = add_topic(session, grade, idx, topic)
+                add_concept(session, grade, idx, topic, topic_map)
+                fid = add_format(session, grade, idx)
+                add_questions(session, grade, idx, fid)
+                add_difficulties(session, grade, idx, tid)
     logger.info("Finished KG creation")
 
 # ================== Prompt Builder ==========================
@@ -353,7 +355,7 @@ def math_test(topic: str = "", grade: int = 11, difficulty: str = "Vận dụng"
     )
     if TEST_MODE:
         logger.info("TEST_MODE active: return prompt only.")
-        return prompt
+        return prompt, 0
     tmp_prompt_path = make_tempfile_with(prompt)
     response_text = generate_test(tmp_prompt_path)
     reform(tmp_prompt_path, format_path, question_path)

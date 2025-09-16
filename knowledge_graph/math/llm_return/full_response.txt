@@ -1,180 +1,505 @@
-1. Công thức định nghĩa đạo hàm của hàm số $y = f(x)$ tại điểm $x_0$ là:
-... Gợi ý: Đây là công thức giới hạn cơ bản trong định nghĩa đạo hàm.
-+   Phản hồi đúng: Chính xác! Đây là công thức định nghĩa chuẩn của đạo hàm tại một điểm theo định nghĩa giới hạn.
--   Phản hồi sai: Cần nhớ lại định nghĩa đạo hàm thông qua giới hạn của tỉ số biến thiên.
-a) $f'(x_0) = \lim_{h \to 0} \frac{f(x_0 + h) + f(x_0)}{h}$
-b) $f'(x_0) = \frac{f(x_0 + h) - f(x_0)}{h}$
-*c) $f'(x_0) = \lim_{h \to 0} \frac{f(x_0 + h) - f(x_0)}{h}$
-d) $f'(x_0) = f(x_0 + h) - f(x_0)$
 
-2. Đạo hàm của hàm số $y = c$ (với $c$ là hằng số) được cho bởi công thức:
-... Gợi ý: Hàm hằng số có đồ thị là đường thẳng nằm ngang.
-+   Phản hồi đúng: Đúng rồi! Đạo hàm của hàm hằng số luôn bằng 0 vì hàm hằng không có sự thay đổi.
--   Phản hồi sai: Hàm hằng số không thay đổi theo biến, nên đạo hàm bằng 0.
-*a) $y' = 0$
-b) $y' = c$
-c) $y' = 1$
-d) $y' = -c$
+**** Role: Bạn là giáo viên Toán. Hãy tạo 20 câu hỏi cho học sinh. ****
+**** Chủ đề: **** Đạo hàm
+**** Khái niệm và kiến thức (Concept): ****
+# TÓM TẮT CHƯƠNG ĐẠO HÀM - TOÁN 11
 
-3. Đạo hàm của hàm số $y = x^n$ (với $n \in \mathbb{N}^*$) có công thức:
-... Gợi ý: Đây là công thức đạo hàm cơ bản nhất của hàm số mũ.
-+   Phản hồi đúng: Chính xác! Đây là công thức đạo hàm cơ bản của hàm số mũ với số mũ tự nhiên.
--   Phản hồi sai: Cần nhớ quy tắc: số mũ xuống trước, rồi giảm số mũ đi 1.
-a) $y' = nx^n$
-*b) $y' = nx^{n-1}$
-c) $y' = x^{n-1}$
-d) $y' = (n-1)x^n$
+## I. KHÁI NIỆM ĐẠO HÀM
 
-4. Quy tắc tính đạo hàm của tổng hai hàm số $u(x)$ và $v(x)$ là:
-... Gợi ý: Đạo hàm của tổng bằng tổng các đạo hàm.
-+   Phản hồi đúng: Đúng! Quy tắc này cho thấy đạo hàm có tính chất tuyến tính.
--   Phản hồi sai: Đạo hàm có tính chất phân phối đối với phép cộng.
-a) $(u + v)' = u' \cdot v'$
-*b) $(u + v)' = u' + v'$
-c) $(u + v)' = u' - v'$
-d) $(u + v)' = (u \cdot v)'$
+### 1. Bài toán dẫn đến khái niệm đạo hàm
 
-5. Về mặt hình học, đạo hàm $f'(x_0)$ biểu thị:
-... Gợi ý: Liên quan đến độ dốc của tiếp tuyến tại điểm trên đồ thị.
-+   Phản hồi đúng: Chính xác! Đạo hàm tại một điểm cho biết độ dốc của tiếp tuyến tại điểm đó.
--   Phản hồi sai: Đạo hàm liên quan đến hệ số góc, không phải độ dài hay khoảng cách.
-a) Độ dài của tiếp tuyến tại điểm có hoành độ $x_0$
-*b) Hệ số góc của tiếp tuyến với đồ thị tại điểm có hoành độ $x_0$
-c) Khoảng cách từ gốc tọa độ đến tiếp tuyến
-d) Góc tạo bởi tiếp tuyến và trục tung
+**Bài toán 1: Vận tốc tức thời**
+Một vật chuyển động theo phương trình s = s(t). Tại thời điểm t₀, vận tốc tức thời của vật là:
+```
+v(t₀) = lim[Δt→0] [s(t₀ + Δt) - s(t₀)]/Δt
+```
 
-6. Quy tắc tính đạo hàm của tích hai hàm số $u(x)$ và $v(x)$ là:
-... Gợi ý: Quy tắc Leibniz cho tích hai hàm số.
-+   Phản hồi đúng: Đúng! Đây là quy tắc Leibniz, một trong những quy tắc quan trọng nhất trong tính đạo hàm.
--   Phản hồi sai: Đạo hàm của tích không bằng tích các đạo hàm mà phức tạp hơn.
-a) $(u \cdot v)' = u' \cdot v'$
-*b) $(u \cdot v)' = u' \cdot v + u \cdot v'$
-c) $(u \cdot v)' = u' \cdot v - u \cdot v'$
-d) $(u \cdot v)' = u' + v'$
+**Bài toán 2: Tiếp tuyến của đường cong**
+Hệ số góc của tiếp tuyến tại điểm M₀(x₀; f(x₀)) trên đồ thị hàm số y = f(x) là:
+```
+k = lim[Δx→0] [f(x₀ + Δx) - f(x₀)]/Δx
+```
 
-7. Đạo hàm của hàm số $y = \sqrt{x}$ được cho bởi công thức:
-... Gợi ý: Có thể viết $\sqrt{x} = x^{1/2}$ và áp dụng công thức đạo hàm hàm mũ.
-+   Phản hồi đúng: Chính xác! Sử dụng công thức $(x^n)' = nx^{n-1}$ với $n = \frac{1}{2}$.
--   Phản hồi sai: Cần nhớ công thức đạo hàm của hàm căn bậc hai.
-a) $y' = \frac{1}{\sqrt{x}}$
-*b) $y' = \frac{1}{2\sqrt{x}}$
-c) $y' = 2\sqrt{x}$
-d) $y' = \frac{2}{\sqrt{x}}$
+### 2. Định nghĩa đạo hàm tại một điểm
 
-8. Trong vật lý, nếu $s(t)$ là phương trình chuyển động thì đạo hàm $s'(t)$ biểu thị:
-... Gợi ý: Đạo hàm của quãng đường theo thời gian cho ta thông tin về tốc độ.
-+   Phản hồi đúng: Đúng! Đạo hàm bậc nhất của quãng đường theo thời gian chính là vận tốc tức thời.
--   Phản hồi sai: Cần phân biệt giữa vận tốc (đạo hàm bậc nhất) và gia tốc (đạo hàm bậc hai).
-a) Gia tốc tức thời tại thời điểm $t$
-*b) Vận tốc tức thời tại thời điểm $t$
-c) Quãng đường đi được tại thời điểm $t$
-d) Thời gian chuyển động
+Cho hàm số y = f(x) xác định trên khoảng (a; b) chứa điểm x₀.
 
-9. Quy tắc tính đạo hàm của thương hai hàm số $\frac{u(x)}{v(x)}$ (với $v(x) \neq 0$) là:
-... Gợi ý: Công thức này phức tạp hơn quy tắc tích và có mẫu số chứa bình phương.
-+   Phản hồi đúng: Chính xác! Đây là quy tắc tính đạo hàm thương, cần nhớ dấu trừ và mẫu số là bình phương.
--   Phản hồi sai: Quy tắc này khác với quy tắc tích, cần có dấu trừ và mẫu số bình phương.
-a) $\left(\frac{u}{v}\right)' = \frac{u'}{v'}$
-*b) $\left(\frac{u}{v}\right)' = \frac{u'v - uv'}{v^2}$
-c) $\left(\frac{u}{v}\right)' = \frac{u'v + uv'}{v^2}$
-d) $\left(\frac{u}{v}\right)' = \frac{u'v - uv'}{v}$
+**Đạo hàm của hàm số f(x) tại điểm x₀** là giới hạn (nếu tồn tại):
+```
+f'(x₀) = lim[h→0] [f(x₀ + h) - f(x₀)]/h
+```
 
-10. Đạo hàm của hàm số $y = \frac{1}{x}$ (với $x \neq 0$) có công thức:
-... Gợi ý: Có thể viết $\frac{1}{x} = x^{-1}$ và áp dụng công thức đạo hàm hàm mũ.
-+   Phản hồi đúng: Đúng! Sử dụng công thức $(x^n)' = nx^{n-1}$ với $n = -1$.
--   Phản hồi sai: Cần nhớ công thức đạo hàm của hàm nghịch đảo.
-a) $y' = \frac{1}{x^2}$
-*b) $y' = -\frac{1}{x^2}$
-c) $y' = -\frac{1}{x}$
-d) $y' = \frac{2}{x^2}$
+**Các ký hiệu khác:** y'(x₀), df/dx|_{x=x₀}
 
-11. Nếu $c$ là một hằng số và $f(x)$ là một hàm số có đạo hàm, thì đạo hàm của $y = c \cdot f(x)$ là:
-... Gợi ý: Hằng số có thể đưa ra ngoài dấu đạo hàm.
-+   Phản hồi đúng: Chính xác! Hằng số nhân có thể đưa ra ngoài dấu đạo hàm.
--   Phản hồi sai: Hằng số không ảnh hưởng đến việc tính đạo hàm, chỉ nhân với kết quả.
-a) $y' = c$
-b) $y' = f'(x)$
-*c) $y' = c \cdot f'(x)$
-d) $y' = c + f'(x)$
+**Chú ý:** 
+- Nếu giới hạn trên tồn tại và hữu hạn thì ta nói hàm số f(x) có đạo hàm (hay khả vi) tại x₀
+- Nếu f(x) có đạo hàm tại x₀ thì f(x) liên tục tại x₀
 
-12. Quy tắc tính đạo hàm của hiệu hai hàm số $u(x) - v(x)$ là:
-... Gợi ý: Tương tự như quy tắc tổng nhưng với dấu trừ.
-+   Phản hồi đúng: Đúng! Đạo hàm của hiệu bằng hiệu các đạo hàm.
--   Phản hồi sai: Đạo hàm có tính chất tuyến tính đối với cả phép cộng và phép trừ.
-*a) $(u - v)' = u' - v'$
-b) $(u - v)' = u' + v'$
-c) $(u - v)' = u' \cdot v'$
-d) $(u - v)' = (u + v)'$
+### 3. Đạo hàm một bên
 
-13. Điều kiện cần để hàm số $f(x)$ có đạo hàm tại điểm $x_0$ là:
-... Gợi ý: Để có đạo hàm tại một điểm, hàm số phải thỏa mãn điều kiện cơ bản về tính liên tục.
-+   Phản hồi đúng: Chính xác! Tính liên tục là điều kiện cần (nhưng chưa đủ) để có đạo hàm.
--   Phản hồi sai: Hàm số phải liên tục tại điểm đó thì mới có thể có đạo hàm.
-a) $f(x)$ đơn điệu tại $x_0$
-*b) $f(x)$ liên tục tại $x_0$
-c) $f(x)$ dương tại $x_0$
-d) $f(x)$ có giá trị lớn nhất tại $x_0$
+**Đạo hàm phải:** f'₊(x₀) = lim[h→0⁺] [f(x₀ + h) - f(x₀)]/h
 
-14. Ký hiệu nào sau đây KHÔNG phải là cách viết đạo hàm của hàm số $y = f(x)$?
-... Gợi ý: Có nhiều cách ký hiệu đạo hàm, cần phân biệt ký hiệu đúng và sai.
-+   Phản hồi đúng: Đúng! Đây không phải là ký hiệu chuẩn của đạo hàm.
--   Phản hồi sai: Cần nhớ các ký hiệu chuẩn của đạo hàm: $f'(x)$, $y'$, $\frac{df}{dx}$, $\frac{dy}{dx}$.
-a) $f'(x)$
-b) $y'$
-c) $\frac{dy}{dx}$
-*d) $\frac{dx}{dy}$
+**Đạo hàm trái:** f'₋(x₀) = lim[h→0⁻] [f(x₀ + h) - f(x₀)]/h
 
-15. Đạo hàm của hàm số $y = x^3$ theo công thức cơ bản là:
-... Gợi ý: Áp dụng công thức $(x^n)' = nx^{n-1}$ với $n = 3$.
-+   Phản hồi đúng: Chính xác! Áp dụng công thức đạo hàm hàm mũ với $n = 3$.
--   Phản hồi sai: Sử dụng công thức $(x^n)' = nx^{n-1}$ để tính đạo hàm.
-a) $y' = x^2$
-b) $y' = 3x^3$
-*c) $y' = 3x^2$
-d) $y' = 3x^4$
+**Định lý:** f'(x₀) tồn tại ⟺ f'₊(x₀) = f'₋(x₀) và cả hai đều hữu hạn
 
-16. Quy tắc đạo hàm hàm hợp $[f(g(x))]'$ được biểu diễn bởi công thức:
-... Gợi ý: Đây là quy tắc chuỗi (chain rule) trong tính đạo hàm.
-+   Phản hồi đúng: Đúng! Đây là quy tắc chuỗi, một trong những quy tắc quan trọng nhất.
--   Phản hồi sai: Cần nhớ quy tắc chuỗi: đạo hàm hàm ngoài nhân với đạo hàm hàm trong.
-a) $f'(g(x)) + g'(x)$
-*b) $f'(g(x)) \cdot g'(x)$
-c) $f'(x) \cdot g'(x)$
-d) $f(g'(x))$
+### 4. Hàm đạo hàm
 
-17. Hàm số nào sau đây có đạo hàm bằng $0$ tại mọi điểm thuộc tập xác định?
-... Gợi ý: Hàm số nào không thay đổi giá trị thì có đạo hàm bằng 0.
-+   Phản hồi đúng: Chính xác! Hàm hằng số không thay đổi nên có đạo hàm bằng 0 tại mọi điểm.
--   Phản hồi sai: Chỉ có hàm hằng số mới có đạo hàm bằng 0 tại mọi điểm.
-a) $y = x$
-b) $y = x^2$
-*c) $y = 5$
-d) $y = \sqrt{x}$
+Nếu hàm số f(x) có đạo hàm tại mọi điểm x thuộc khoảng (a; b), ta có **hàm đạo hàm**:
+```
+f'(x) = lim[h→0] [f(x + h) - f(x)]/h
+```
 
-18. Trong các công thức sau, công thức nào biểu diễn đạo hàm của hàm số $y = x^2$?
-... Gợi ý: Áp dụng công thức $(x^n)' = nx^{n-1}$ với $n = 2$.
-+   Phản hồi đúng: Đúng! Sử dụng công thức đạo hàm cơ bản của hàm bậc hai.
--   Phản hồi sai: Áp dụng quy tắc $(x^n)' = nx^{n-1}$ để tìm đáp án đúng.
-a) $y' = x$
-*b) $y' = 2x$
-c) $y' = 2x^2$
-d) $y' = x^2$
+## II. QUY TẮC TÍNH ĐẠO HÀM
 
-19. Ý nghĩa vật lý của đạo hàm bậc hai $s''(t)$ trong phương trình chuyển động $s = s(t)$ là:
-... Gợi ý: Đạo hàm bậc hai của quãng đường theo thời gian liên quan đến sự thay đổi vận tốc.
-+   Phản hồi đúng: Chính xác! Đạo hàm bậc hai của quãng đường cho ta gia tốc tức thời.
--   Phản hồi sai: Đạo hàm bậc hai của quãng đường (hay đạo hàm bậc nhất của vận tốc) là gia tốc.
-a) Vận tốc tức thời
-*b) Gia tốc tức thời
-c) Quãng đường đi được
-d) Thời gian chuyển động
+### 1. Đạo hàm của các hàm số cơ bản
 
-20. Điều kiện để áp dụng quy tắc tính đạo hàm thương $\left(\frac{u}{v}\right)' = \frac{u'v - uv'}{v^2}$ là:
-... Gợi ý: Cần chú ý mẫu số trong công thức không được bằng 0.
-+   Phản hồi đúng: Đúng! Mẫu số không được bằng 0 để phép chia có nghĩa.
--   Phản hồi sai: Cần đảm bảo hàm số ở mẫu khác 0 để phép chia có nghĩa.
-a) $u(x) \neq 0$
-*b) $v(x) \neq 0$
-c) $u'(x) \neq 0$
-d) $v'(x) \neq 0$
+| Hàm số | Đạo hàm | Điều kiện |
+|--------|---------|-----------|
+| f(x) = c | f'(x) = 0 | c ∈ ℝ |
+| f(x) = x | f'(x) = 1 | |
+| f(x) = xⁿ | f'(x) = nxⁿ⁻¹ | n ∈ ℝ, x > 0 |
+| f(x) = √x | f'(x) = 1/(2√x) | x > 0 |
+| f(x) = 1/x | f'(x) = -1/x² | x ≠ 0 |
+
+### 2. Quy tắc tính đạo hàm
+
+**Quy tắc 1 (Tính chất tuyến tính):**
+```
+[u(x) ± v(x)]' = u'(x) ± v'(x)
+[ku(x)]' = ku'(x) (k là hằng số)
+```
+
+**Quy tắc 2 (Đạo hàm tích):**
+```
+[u(x).v(x)]' = u'(x).v(x) + u(x).v'(x)
+```
+
+**Quy tắc 3 (Đạo hàm thương):**
+```
+[u(x)/v(x)]' = [u'(x).v(x) - u(x).v'(x)]/[v(x)]² (v(x) ≠ 0)
+```
+
+**Quy tắc 4 (Đạo hàm hàm hợp):**
+Nếu y = f(u), u = g(x) thì:
+```
+y'ₓ = y'ᵤ . u'ₓ
+```
+hay [f(g(x))]' = f'(g(x)).g'(x)
+
+### 3. Đạo hàm của hàm số lượng giác
+
+| Hàm số | Đạo hàm | Điều kiện |
+|--------|---------|-----------|
+| sin x | cos x | |
+| cos x | -sin x | |
+| tan x | 1/cos²x = 1 + tan²x | x ≠ π/2 + kπ |
+| cot x | -1/sin²x = -(1 + cot²x) | x ≠ kπ |
+
+### 4. Ví dụ minh họa
+
+**Ví dụ 1:** Tính đạo hàm của f(x) = 3x⁴ - 2x² + 5x - 1
+
+*Giải:*
+f'(x) = (3x⁴)' - (2x²)' + (5x)' - (1)'
+= 3.4x³ - 2.2x + 5 - 0
+= 12x³ - 4x + 5
+
+**Ví dụ 2:** Tính đạo hàm của g(x) = (2x + 1)(x² - 3)
+
+*Giải:*
+Cách 1: g'(x) = (2x + 1)'(x² - 3) + (2x + 1)(x² - 3)'
+= 2(x² - 3) + (2x + 1).2x
+= 2x² - 6 + 4x² + 2x
+= 6x² + 2x - 6
+
+**Ví dụ 3:** Tính đạo hàm của h(x) = sin(2x + 1)
+
+*Giải:*
+Đặt u = 2x + 1, ta có h(x) = sin u
+h'(x) = (sin u)' . u' = cos u . 2 = 2cos(2x + 1)
+
+## III. Ý NGHĨA HÌNH HỌC VÀ VẬT LÝ CỦA ĐẠO HÀM
+
+### 1. Ý nghĩa hình học
+
+**Định lý:** Đạo hàm f'(x₀) chính là hệ số góc của tiếp tuyến với đồ thị hàm số y = f(x) tại điểm M(x₀; f(x₀)).
+
+**Phương trình tiếp tuyến:**
+```
+y = f'(x₀)(x - x₀) + f(x₀)
+```
+
+**Phương trình pháp tuyến:**
+```
+y = -1/f'(x₀)(x - x₀) + f(x₀) (f'(x₀) ≠ 0)
+```
+
+### 2. Ý nghĩa vật lý
+
+- **Vận tốc tức thời:** Nếu s = s(t) là phương trình chuyển động, thì v(t) = s'(t)
+- **Gia tốc tức thời:** a(t) = v'(t) = s''(t)
+
+### 3. Ví dụ ứng dụng
+
+**Ví dụ 1:** Viết phương trình tiếp tuyến của đồ thị hàm số y = x³ - 3x + 1 tại điểm có hoành độ x₀ = 1.
+
+*Giải:*
+- Tại x₀ = 1: y₀ = 1³ - 3.1 + 1 = -1
+- y' = 3x² - 3, nên y'(1) = 3.1² - 3 = 0
+- Phương trình tiếp tuyến: y = 0(x - 1) + (-1) = -1
+
+**Ví dụ 2:** Một vật chuyển động theo phương trình s = t³ - 6t² + 9t (m). Tính vận tốc và gia tốc tại t = 2s.
+
+*Giải:*
+- v(t) = s'(t) = 3t² - 12t + 9
+- a(t) = v'(t) = 6t - 12
+- Tại t = 2: v(2) = 3.4 - 12.2 + 9 = -3 (m/s)
+- a(2) = 6.2 - 12 = 0 (m/s²)
+
+## IV. CÁC DẠNG BÀI TẬP
+
+### Dạng 1: Tính đạo hàm bằng định nghĩa
+
+**Phương pháp:**
+1. Tính f(x₀ + h) - f(x₀)
+2. Lập tỉ số [f(x₀ + h) - f(x₀)]/h
+3. Rút gọn và tính giới hạn khi h → 0
+
+### Dạng 2: Tính đạo hàm bằng công thức
+
+**Phương pháp:** Áp dụng các quy tắc và công thức đạo hàm
+
+### Dạng 3: Viết phương trình tiếp tuyến
+
+**Các trường hợp:**
+- Tiếp tuyến tại một điểm cho trước
+- Tiếp tuyến đi qua một điểm
+- Tiếp tuyến có hệ số góc cho trước
+
+### Dạng 4: Tìm điều kiện để hàm số có đạo hàm
+
+**Phương pháp:**
+1. Kiểm tra tính liên tục tại điểm xét
+2. Tính đạo hàm trái và đạo hàm phải
+3. So sánh để tìm điều kiện
+
+### Dạng 5: Ứng dụng đạo hàm trong các bài toán thực tế
+
+**Các loại bài toán:**
+- Chuyển động cơ học
+- Tăng trưởng dân số
+- Biến đổi nhiệt độ
+- Các mô hình kinh tế đơn giản
+
+## V. BÀI TẬP TỔNG HỢP
+
+### Bài tập cơ bản
+
+1. Tính đạo hàm các hàm số:
+   a) f(x) = 2x³ - 5x² + 3x - 7
+   b) g(x) = (x² + 1)(2x - 3)
+   c) h(x) = (3x + 1)/(x - 2)
+
+2. Tìm phương trình tiếp tuyến của y = x² - 4x + 3 tại điểm có hoành độ x = 2.
+
+### Bài tập nâng cao
+
+3. Cho hàm số f(x) = {ax² + b nếu x ≤ 1; 2x + 1 nếu x > 1}. Tìm a, b để f(x) có đạo hàm tại x = 1.
+
+4. Một quả bóng được ném lên theo phương trình h(t) = -5t² + 20t + 2 (m). Tìm thời điểm vận tốc bằng 0 và độ cao tối đa.
+
+### Bài tập thực tế
+
+5. Dân số của một thành phố được mô hình hóa bởi P(t) = 100000(1 + 0.02t) người (t tính bằng năm). Tính tốc độ tăng dân số sau 5 năm.
+
+6. Nhiệt độ của một vật theo thời gian được cho bởi T(t) = 20 + 80e^(-0.1t) (°C). Tính tốc độ thay đổi nhiệt độ tại t = 10 phút.
+**** Hình thức (Format): ****
+***Yêu cầu cấu trúc của câu hỏi như sau:***
+
+**I. Các Khái Niệm Chính của `text2qti`:**
+
+*   **Mục đích:** `text2qti` chuyển đổi các file văn bản thuần túy định dạng Markdown thành các bài kiểm tra (quizzes) định dạng QTI (phiên bản 1.2), có thể nhập vào Canvas và các phần mềm giáo dục khác.
+*   **Hỗ trợ loại câu hỏi:** Trắc nghiệm (multiple-choice), Đúng/Sai (true/false), Nhiều đáp án (multiple-answers), Số học (numerical), Trả lời ngắn (short-answer/fill-in-the-blank), Tự luận (essay), và Tải lên file (file-upload).
+*   **Markdown:** Hầu hết văn bản (câu hỏi, lựa chọn, phản hồi) được xử lý dưới dạng Markdown (bao gồm cú pháp cơ bản và một số extensions như smarty, tables, footnotes, v.v.).
+*   **LaTeX Math & siunitx:** Hỗ trợ cơ bản cho công thức toán học LaTeX ($F=ma$) và ký hiệu đơn vị/số khoa học `siunitx` (\num{1.23e5}, \si{m/s}).
+*   **Cấu trúc file:** File văn bản thuần túy (`.txt`) là định dạng đầu vào.
+*   **Lưu ý về biểu thức toán học:** Bắt buộc phải dùng "Latex Math & siunitx", không được dùng kí tự thay thế vì điều ấy được đánh giá vô cùng xấu
+**II. Cấu Trúc Cơ Bản của Câu Hỏi:**
+
+1.  **Câu hỏi:** Bắt đầu bằng một số theo sau là dấu chấm và một hoặc nhiều khoảng trắng/tab (`1. `).
+2.  **Lựa chọn (nếu có):**
+    *   Bắt đầu bằng một chữ cái theo sau là dấu đóng ngoặc đơn và một hoặc nhiều khoảng trắng/tab (`a) `).
+    *   Đáp án đúng được đánh dấu bằng dấu hoa thị (`*c) `).
+    *   Đối với câu hỏi **nhiều đáp án (multiple-answers)**: Sử dụng `[]` hoặc `[ ]` cho đáp án sai và `[*]` cho đáp án đúng.
+
+**III. Các Loại Câu Hỏi Cụ Thể:**
+
+*   **Trắc nghiệm:** `1. Câu hỏi? *a) Đúng b) Sai`
+*   **Nhiều đáp án:** `1. Câu hỏi? [*] Đúng [ ] Sai`
+*   **Số học (Numerical):**
+    *   Bắt đầu bằng dấu bằng (`= `).
+    *   Có thể là giá trị chính xác (`= 5`), khoảng (`= [min, max]`), hoặc sai số (`= ans +- margin` - margin có thể là số hoặc phần trăm).
+    *   Hạn chế: Giá trị tuyệt đối của câu trả lời nhỏ nhất phải >= 0.0001.
+*   **Trả lời ngắn (Short-answer):**
+    *   Bắt đầu bằng dấu hoa thị (`* `).
+    *   Hỗ trợ nhiều đáp án đúng. Đáp án là văn bản thuần túy, một dòng.
+*   **Tự luận (Essay):** Bắt đầu bằng ba dấu gạch dưới trở lên (`____`).
+*   **Tải lên file (File-upload):** Bắt đầu bằng ba dấu mũ trở lên (`^^^^`).
+
+**IV. Định Dạng File và Thụt lề:**
+
+*   **Không thụt lề:** Cú pháp wrapper của `text2qti` (quiz title, question number, answer letter, GROUP/END_GROUP, v.v.).
+*   **Thụt lề:** Nội dung Markdown bên trong các thành phần quiz (nội dung câu hỏi, mô tả, phản hồi, v.v.).
+    *   Mỗi "khối" Markdown phải có cùng mức thụt lề từ dòng đầu tiên trở đi.
+    *   Tab được mở rộng thành 4 khoảng trắng.
+    *   Không gian thụt lề tối thiểu cho dòng tiếp theo là 2 khoảng trắng hoặc 1 tab, nhưng nên khớp với vị trí bắt đầu của văn bản dòng đầu tiên.
+
+***Yêu cầu cần thiết khi đưa ra bài tập***
+* Bạn không được phép đưa ra lời bình luận nào, kể cả dấu "---" hay tương tự như vậy.
+* Bắt buộc CÓ và CHỈ CÓ đầy đủ câu hỏi, đáp án, và gợi ý câu hỏi
+* Không được có bất kì một title, hay đề mục nào cả, tôi chỉ cần câu hỏi bao gồm (câu hỏi, đáp án và gợi ý câu hỏi)
+* Đối với đáp án của trả lời ngắn (Short answer), không được sử dụng các kí tự ngoài các con số la tinh và '+-', yêu cầu câu trả lời phải dưới định dạng Numerical
+
+**** Kiểu câu hỏi (Question - Multiple choice): ****
+** Dưới trên là kiểu câu hỏi "chọn đáp án": **
+** Định dạng câu hỏi: (Bắt buộc phải như cấu trúc dưới, không được phép thay đổi cấu trúc)**
+```
+1.  [Nội dung câu hỏi]
+... Gợi ý: [Nội dung gợi ý]
++   Phản hồi đúng: [Giải thích chi tiết và phân tích từng bước dựa trên kiến thức Toán]
+-   Phản hồi sai: [Giải thích lỗi sai thường gặp của học sinh]
+a)  [Lựa chọn A]
+b)  [Lựa chọn B, bắt buộc phải khác toàn bộ các lựa chọn a]
+*c) [Lựa chọn C, bắt buộc phải khác toàn bộ các lựa chọn a và b]
+d)  [Lựa chọn D, bắt buộc phải khác toàn bộ các lựa chọn a, b và c]
+```
+Ví dụ: ```
+1. Nguyên hàm của hàm số $f(x) = e^x$ là:
+... Gợi ý: Sử dụng bảng nguyên hàm cơ bản của hàm số mũ.
++   Phản hồi đúng: Chính xác! Nguyên hàm của $e^x$ là $e^x + C$ vì $(e^x)' = e^x$.
+-   Phản hồi sai: Cần nhớ công thức nguyên hàm cơ bản: $\int e^x dx = e^x + C$.
+a) $\frac{e^x}{x} + C$
+*b) $e^x + C$
+c) $xe^x + C$
+d) $\frac{e^{x+1}}{x+1} + C$
+```
+Phần đáp án BẮT BUỘC chỉ chứa các số và dấu thập phân thôi, không được phép có bất kì một ký hiệu nào khác.
+Khi bạn tạo các câu hỏi trắc nghiệm với kiểu trả lời "chọn đáp án đúng", có một số yếu tố lý thuyết cần xem xét để đảm bảo câu hỏi hiệu quả và công bằng:
+
+**1. Mục tiêu và Kỹ năng đánh giá:**
+
+*   **Mục tiêu học tập:** Câu hỏi trắc nghiệm nên đánh giá các mục tiêu học tập cụ thể. Bạn muốn người học nhớ lại kiến thức, hiểu khái niệm, áp dụng nguyên tắc, hay phân tích thông tin?
+*   **Các cấp độ nhận thức của Bloom:** Hãy xem xét các cấp độ của thang đo Bloom:
+    *   **Ghi nhớ:** Câu hỏi yêu cầu nhớ lại thông tin cụ thể (ví dụ: "Thủ đô của Việt Nam là gì?").
+    *   **Hiểu:** Câu hỏi yêu cầu giải thích hoặc diễn giải thông tin (ví dụ: "Giải thích sự khác biệt giữa...").
+    *   **Áp dụng:** Câu hỏi yêu cầu sử dụng kiến thức trong một tình huống mới (ví dụ: "Sử dụng công thức X để giải quyết vấn đề Y").
+    *   **Phân tích:** Câu hỏi yêu cầu chia nhỏ thông tin thành các phần và tìm mối quan hệ (ví dụ: "Phân tích nguyên nhân và hậu quả của...").
+    *   **Đánh giá:** Câu hỏi yêu cầu đưa ra phán đoán dựa trên các tiêu chí (ví dụ: "Đánh giá hiệu quả của phương pháp...").
+    *   **Sáng tạo:** (Khó đánh giá bằng trắc nghiệm đơn thuần, thường cần các dạng bài tập khác).
+    *   **Lưu ý:** Trắc nghiệm thường mạnh ở các cấp độ ghi nhớ, hiểu và áp dụng.
+
+**2. Cấu trúc câu hỏi (Item Structure):**
+
+*   **Phần gốc (Stem):** Đây là phần câu hỏi hoặc mệnh đề cần hoàn thành.
+    *   **Rõ ràng và súc tích:** Đảm bảo câu hỏi dễ hiểu, không mơ hồ.
+    *   **Tránh phủ định kép:** "Cái nào *không phải* là *không đúng*?" gây nhầm lẫn.
+    *   **Không chứa manh mối:** Tránh các từ ngữ trong phần gốc gợi ý đáp án.
+    *   **Một vấn đề duy nhất:** Mỗi câu hỏi chỉ nên tập trung vào một vấn đề cốt lõi.
+    *   **Dạng câu hỏi hoặc câu chưa hoàn chỉnh:** Cả hai đều được chấp nhận.
+
+*   **Các lựa chọn (Options/Alternatives):** Gồm một đáp án đúng và các phương án gây nhiễu.
+
+    *   **Đáp án đúng (Key/Correct Answer):**
+        *   **Chính xác:** Phải hoàn toàn đúng và không thể tranh cãi.
+        *   **Không mơ hồ:** Không có cách hiểu nào khác.
+        *   **Ngắn gọn:** Thường ngắn gọn hơn các phương án nhiễu nếu có thể.
+
+    *   **Phương án gây nhiễu (Distractors/Foils):**
+        *   **Hợp lý (Plausible):** Đây là yếu tố quan trọng nhất. Các phương án sai phải có vẻ đúng đối với những người không nắm vững kiến thức.
+        *   **Không quá dễ đoán:** Không quá hiển nhiên là sai.
+        *   **Không quá khó:** Không quá khó đến mức không ai chọn.
+        *   **Cùng một dạng:** Tất cả các lựa chọn nên có cùng cấu trúc ngữ pháp và độ dài tương tự (nếu có thể) để tránh gợi ý đáp án.
+        *   **Tránh các lựa chọn "Tất cả các đáp án trên" hoặc "Không có đáp án nào đúng"** trừ khi bạn có mục đích cụ thể và đảm bảo chúng không làm giảm chất lượng câu hỏi.
+        *   **Dựa trên lỗi phổ biến:** Các phương án nhiễu tốt thường xuất phát từ những hiểu lầm hoặc lỗi sai phổ biến của người học.
+        *   **Số lượng:** Thường là 3-5 lựa chọn (1 đúng, 2-4 nhiễu). Số lượng nhiều hơn có thể làm tăng độ khó do thời gian đọc, nhưng cũng giảm khả năng đoán mò.
+
+**3. Nguyên tắc tâm lý học và đo lường:**
+
+*   **Tính phân biệt (Discrimination):** Câu hỏi có khả năng phân biệt giữa người học biết và người học không biết. Người học giỏi nên trả lời đúng, người học kém nên trả lời sai hoặc chọn phương án nhiễu.
+*   **Độ khó (Difficulty):** Tỷ lệ người trả lời đúng. Độ khó lý tưởng thường nằm trong khoảng 0.4 - 0.7 (40-70% người trả lời đúng). Nếu quá dễ (gần 1.0) hoặc quá khó (gần 0.0), câu hỏi đó ít có giá trị phân biệt.
+*   **Độ tin cậy (Reliability):** Mức độ mà một bài kiểm tra cho ra kết quả nhất quán nếu được lặp lại. Câu hỏi trắc nghiệm tốt góp phần vào độ tin cậy của bài kiểm tra.
+*   **Tính khách quan (Objectivity):** Điểm số không bị ảnh hưởng bởi người chấm. Trắc nghiệm là hình thức chấm điểm khách quan nhất.
+
+**4. Các lỗi cần tránh khi thiết kế câu hỏi:**
+
+*   **Câu hỏi "Bẫy":** Thiết kế để đánh lừa người làm bài hơn là đánh giá kiến thức.
+*   **Ngữ pháp không nhất quán:** Giữa phần gốc và các lựa chọn.
+*   **Sử dụng thuật ngữ chuyên ngành không cần thiết:** Nếu không phải là trọng tâm câu hỏi.
+*   **Trùng lặp ý tưởng:** Các lựa chọn có ý nghĩa tương tự.
+*   **Độ dài khác nhau rõ rệt của các lựa chọn:** Thường đáp án đúng dài hơn hoặc ngắn hơn một cách không tự nhiên.
+*   **Các từ tuyệt đối:** "Luôn luôn," "Không bao giờ," "Tất cả," "Không ai" thường là dấu hiệu của phương án sai.
+*   **Gợi ý từ các câu hỏi khác:** Tránh để đáp án của một câu hỏi xuất hiện trong phần gốc hoặc lựa chọn của câu hỏi khác.
+
+**Ví dụ về một câu hỏi tốt:**
+
+**Phần gốc:** "Động vật nào sau đây là động vật có vú?"
+
+**Lựa chọn:**
+A. Cá voi (Đáp án đúng)
+B. Cá mập (Nhiễu, trông giống cá nhưng là động vật có vú)
+C. Chim cánh cụt (Nhiễu, trông giống động vật nước nhưng là chim)
+D. Rắn (Nhiễu, động vật bò sát)
+
+**Phân tích:**
+*   **Mục tiêu:** Đánh giá khả năng phân loại động vật.
+*   **Phần gốc:** Rõ ràng, súc tích.
+*   **Đáp án đúng:** Chính xác.
+*   **Phương án gây nhiễu:** Hợp lý, dựa trên các đặc điểm ngoại hình hoặc môi trường sống có thể gây nhầm lẫn nếu không hiểu rõ khái niệm "động vật có vú". Tất cả các lựa chọn đều là động vật.
+
+Bằng cách tuân thủ các nguyên tắc này, bạn có thể tạo ra các câu hỏi trắc nghiệm chất lượng cao, đánh giá chính xác kiến thức và kỹ năng của người học.
+**** Mức độ khó (Difficulty - Nhận biết): ****
+```
+# HƯỚNG DẪN SINH ĐỀ MỨC NHẬN BIẾT - CHỦ ĐỀ ĐẠO HÀM (LỚP 11)
+
+## I. KHUNG KIẾN THỨC CẦN KIỂM TRA
+
+### 1. Định nghĩa và khái niệm đạo hàm
+- Công thức định nghĩa đạo hàm tại một điểm
+- Công thức định nghĩa đạo hàm của hàm số
+- Ý nghĩa hình học của đạo hàm (tiếp tuyến)
+- Ý nghĩa vật lý của đạo hàm (vận tốc tức thời)
+
+### 2. Bảng công thức đạo hàm cơ bản
+- Đạo hàm hàm hằng: (c)' = 0
+- Đạo hàm hàm số mũ: (x^n)' = nx^(n-1)
+- Đạo hàm căn bậc hai: (√x)' = 1/(2√x)
+- Đạo hàm nghịch đảo: (1/x)' = -1/x²
+
+### 3. Quy tắc tính đạo hàm
+- Quy tắc đạo hàm tổng: (u ± v)' = u' ± v'
+- Quy tắc đạo hàm tích: (uv)' = u'v + uv'
+- Quy tắc đạo hàm thương: (u/v)' = (u'v - uv')/v²
+- Quy tắc đạo hàm hàm hợp: [f(g(x))]' = f'(g(x)).g'(x)
+
+## II. DẠNG CÂU HỎI THEO MỨC NHẬN BIẾT
+
+### **Dạng 1: Nhận biết định nghĩa và công thức**
+**YÊU CẦU:** Chỉ hỏi về nhận diện, nhớ lại công thức - KHÔNG tính toán
+
+**Cấu trúc câu hỏi:**
+- "Công thức định nghĩa đạo hàm... là gì?"
+- "Quy tắc tính đạo hàm của... có dạng như thế nào?"
+- "Biểu thức nào sau đây là công thức đạo hàm của...?"
+
+**Ví dụ mẫu:**
+*Câu 1: Công thức định nghĩa đạo hàm của hàm số y = f(x) tại điểm x₀ là:*
+A. f'(x₀) = lim[h→0] [f(x₀+h) - f(x₀)]/h
+B. f'(x₀) = lim[h→0] [f(x₀+h) + f(x₀)]/h
+C. f'(x₀) = [f(x₀+h) - f(x₀)]/h
+D. f'(x₀) = f(x₀+h) - f(x₀)
+
+### **Dạng 2: Nhận biết công thức đạo hàm cơ bản**
+**YÊU CẦU:** Hỏi về công thức, KHÔNG yêu cầu áp dụng tính toán
+
+**Cấu trúc câu hỏi:**
+- "Đạo hàm của hàm số y = x^n có công thức là gì?"
+- "Biểu thức đạo hàm của hàm số y = c (c là hằng số) là?"
+
+**Ví dụ mẫu:**
+*Câu 2: Đạo hàm của hàm số y = x^n (n ∈ ℕ*) được cho bởi công thức:*
+A. y' = nx^n
+B. y' = nx^(n-1)
+C. y' = x^(n-1)
+D. y' = (n-1)x^n
+
+### **Dạng 3: Nhận biết quy tắc tính đạo hàm**
+**YÊU CẦU:** Chỉ hỏi về quy tắc, công thức - KHÔNG áp dụng
+
+**Cấu trúc câu hỏi:**
+- "Quy tắc tính đạo hàm của tích hai hàm số là gì?"
+- "Công thức đạo hàm của thương hai hàm số có dạng như thế nào?"
+
+**Ví dụ mẫu:**
+*Câu 3: Nếu u, v là hai hàm số có đạo hàm thì quy tắc tính đạo hàm của tích uv là:*
+A. (uv)' = u'v'
+B. (uv)' = u'v + uv'
+C. (uv)' = u'v - uv'
+D. (uv)' = u' + v'
+
+### **Dạng 4: Nhận biết ý nghĩa của đạo hàm**
+**YÊU CẦU:** Hỏi về ý nghĩa, không tính toán
+
+**Cấu trúc câu hỏi:**
+- "Ý nghĩa hình học của đạo hàm là gì?"
+- "Trong vật lý, đạo hàm của quãng đường theo thời gian biểu thị điều gì?"
+
+**Ví dụ mẫu:**
+*Câu 4: Về mặt hình học, đạo hàm f'(x₀) biểu thị:*
+A. Độ dài tiếp tuyến tại điểm có hoành độ x₀
+B. Hệ số góc của tiếp tuyến với đồ thị tại điểm có hoành độ x₀
+C. Khoảng cách từ gốc tọa độ đến tiếp tuyến
+D. Góc tạo bởi tiếp tuyến và trục hoành
+
+## III. NGÂN HÀNG CÂU HỎI MẪU THEO DẠNG
+
+### **Nhóm A: Định nghĩa (25%)**
+1. Nhận biết công thức định nghĩa đạo hàm tại một điểm
+2. Nhận biết công thức định nghĩa đạo hàm của hàm số
+3. Xác định ý nghĩa hình học của đạo hàm
+4. Xác định ý nghĩa vật lý của đạo hàm
+
+### **Nhóm B: Công thức cơ bản (40%)**
+1. Nhận biết công thức đạo hàm hàm hằng
+2. Nhận biết công thức đạo hàm hàm số mũ y = x^n
+3. Nhận biết công thức đạo hàm y = √x
+4. Nhận biết công thức đạo hàm y = 1/x
+5. Xác định công thức đạo hàm của cy = cf(x)
+
+### **Nhóm C: Quy tắc tính đạo hàm (35%)**
+1. Nhận biết quy tắc đạo hàm tổng (u ± v)'
+2. Nhận biết quy tắc đạo hàm tích (uv)'
+3. Nhận biết quy tắc đạo hàm thương (u/v)'
+4. Xác định điều kiện áp dụng các quy tắc
+
+## IV. HƯỚNG DẪN TẠO ĐÁP ÁN NHIỄU
+
+### **Nguyên tắc tạo đáp án sai:**
+- **Lỗi dấu:** Đổi dấu trong công thức (+ thành -, × thành ÷)
+- **Lỗi hệ số:** Thiếu hoặc thừa hệ số trong công thức
+- **Lỗi số mũ:** Sai số mũ trong công thức đạo hàm
+- **Lỗi quy tắc:** Nhầm lẫn giữa các quy tắc (tổng, tích, thương)
+
+### **Ví dụ đáp án nhiễu chất lượng:**
+*Với câu hỏi về (uv)' = ?*
+- **Đáp án đúng:** u'v + uv'
+- **Đáp án sai A:** u'v' (lỗi nhầm với quy tắc tổng)
+- **Đáp án sai B:** u'v - uv' (lỗi dấu)
+- **Đáp án sai C:** u' + v' (lỗi nhầm hoàn toàn quy tắc)
+
+## V. LƯU Ý QUAN TRỌNG KHI SINH ĐỀ
+
+### **NGHIÊM CẤM:**
+- Yêu cầu tính toán đạo hàm cụ thể (VD: "Tính y' của y = x²")
+- Yêu cầu tìm giá trị đạo hàm tại điểm (VD: "Tính f'(2)")
+- Yêu cầu áp dụng công thức để giải bài toán
+
+### **CHỈ ĐƯỢC PHÉP:**
+- Hỏi về công thức, quy tắc
+- Hỏi về định nghĩa, ý nghĩa
+- Yêu cầu nhận biết, xác định công thức đúng
+
+### **Ngôn ngữ câu hỏi:**
+- Sử dụng: "Công thức...", "Quy tắc...", "Biểu thức...", "Ý nghĩa..."
+- Tránh: "Tính...", "Tìm...", "Giải...", "Xác định giá trị..."
+
+### **Độ phức tạp:**
+- Chỉ sử dụng hàm số cơ bản: x^n, √x, 1/x, hằng số
+- Không kết hợp nhiều quy tắc trong một câu hỏi
+- Công thức phải được học trong chương trình lớp 11
+
+Hướng dẫn này đảm bảo 100% câu hỏi thuộc mức NHẬN BIẾT thuần túy, tránh hoàn toàn việc tạo ra câu hỏi yêu cầu tính toán.
+```
+**** Yêu cầu: Sinh 20 câu hỏi đúng theo các ràng buộc trên. ****
+
 
