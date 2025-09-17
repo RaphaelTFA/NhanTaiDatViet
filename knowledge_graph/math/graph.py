@@ -308,7 +308,7 @@ def build_prompt(topic: str = "", grade: int = 0,
 **** Chủ đề: **** {topic}
 **** Khái niệm và kiến thức (Concept): ****
 {concept_text}
-Để tìm hiểu thêm, bạn có thể truy cập Url: {SGK_LINK[grade][TOPIC_IDX[(grade, topic) - 1]]}
+Để tìm hiểu thêm, bạn có thể truy cập Url: {SGK_LINK[grade][TOPIC_IDX[(grade, topic)]-1]}
 **** Hình thức (Format): ****
 {format_text}
 **** Kiểu câu hỏi (Question - {row['question']}): ****
