@@ -1,0 +1,1620 @@
+1. Đường thẳng d vuông góc với mặt phẳng (P) khi nào?
+   Gợi ý: Sử dụng định nghĩa về đường thẳng vuông góc với mặt phẳng.
++  Phản hồi đúng: Chính xác! Đường thẳng d vuông góc với mặt phẳng (P) khi và chỉ khi d vuông góc với mọi đường thẳng nằm trong (P).
+-  Phản hồi sai: Cần nắm vững định nghĩa: đường thẳng phải vuông góc với tất cả các đường thẳng trong mặt phẳng, không chỉ một hoặc hai đường thẳng.
+a) d vuông góc với một đường thẳng nằm trong (P)
+b) d vuông góc với hai đường thẳng song song nằm trong (P)
+*c) d vuông góc với mọi đường thẳng nằm trong (P)
+d) d song song với một đường thẳng nằm trong (P)
+
+2. Điều kiện nào sau đây đủ để chứng minh đường thẳng d vuông góc với mặt phẳng (P)?
+   Gợi ý: Áp dụng định lý về điều kiện để đường thẳng vuông góc với mặt phẳng.
++  Phản hồi đúng: Đúng! Theo định lý, nếu d vuông góc với hai đường thẳng cắt nhau trong (P) thì d vuông góc với (P).
+-  Phản hồi sai: Nhớ rằng hai đường thẳng phải cắt nhau, không thể là song song hay trùng nhau.
+a) d vuông góc với một đường thẳng trong (P)
+*b) d vuông góc với hai đường thẳng cắt nhau trong (P)
+c) d vuông góc với hai đường thẳng song song trong (P)
+d) d cắt (P) tại một điểm
+
+3. Hai mặt phẳng (P) và (Q) được gọi là vuông góc khi nào?
+   Gợi ý: Sử dụng định nghĩa về hai mặt phẳng vuông góc.
++  Phản hồi đúng: Chính xác! Hai mặt phẳng vuông góc khi góc giữa chúng bằng $90°$.
+-  Phản hồi sai: Góc giữa hai mặt phẳng được đo bằng góc giữa hai đường thẳng vuông góc với giao tuyến của chúng.
+a) Góc giữa chúng bằng $45°$
+b) Góc giữa chúng bằng $60°$
+*c) Góc giữa chúng bằng $90°$
+d) Chúng song song với nhau
+
+4. Trong hình lập phương $ABCD.A'B'C'D'$, đường thẳng nào sau đây vuông góc với mặt phẳng $(ABCD)$?
+   Gợi ý: Xét các cạnh của hình lập phương và tính chất vuông góc.
++  Phản hồi đúng: Đúng! Trong hình lập phương, cạnh $AA'$ vuông góc với mặt đáy $(ABCD)$.
+-  Phản hồi sai: Các cạnh nằm trong mặt phẳng đáy không thể vuông góc với chính mặt phẳng đó.
+a) $AB$
+b) $AC$
+*c) $AA'$
+d) $BD$
+
+5. Cho hình chóp $S.ABC$ có $SA ⊥ (ABC)$. Mệnh đề nào sau đây đúng?
+   Gợi ý: Sử dụng tính chất của đường thẳng vuông góc với mặt phẳng.
++  Phản hồi đúng: Chính xác! Khi $SA ⊥ (ABC)$ thì $SA$ vuông góc với mọi đường thẳng nằm trong $(ABC)$, đặc biệt là $AB$ và $AC$.
+-  Phản hồi sai: Nhớ rằng khi một đường thẳng vuông góc với mặt phẳng thì nó vuông góc với mọi đường thẳng trong mặt phẳng đó.
+*a) $SA ⊥ AB$ và $SA ⊥ AC$
+b) $SA \parallel AB$
+c) $SA$ tạo với $AB$ góc $45°$
+d) $SA$ nằm trong mặt phẳng $(ABC)$
+
+6. Nếu đường thẳng $a ⊥ (P)$ và đường thẳng $b ⊂ (P)$, thì quan hệ giữa $a$ và $b$ là:
+   Gợi ý: Áp dụng định nghĩa đường thẳng vuông góc với mặt phẳng.
++  Phản hồi đúng: Đúng! Theo định nghĩa, nếu $a ⊥ (P)$ thì $a$ vuông góc với mọi đường thẳng nằm trong $(P)$, kể cả $b$.
+-  Phản hồi sai: Khi đường thẳng vuông góc với mặt phẳng, nó sẽ vuông góc với tất cả các đường thẳng trong mặt phẳng đó.
+a) $a \parallel b$
+*b) $a ⊥ b$
+c) $a$ và $b$ chéo nhau
+d) $a$ và $b$ trùng nhau
+
+7. Điều kiện nào sau đây đủ để hai mặt phẳng $(P)$ và $(Q)$ vuông góc?
+   Gợi ý: Sử dụng định lý về điều kiện để hai mặt phẳng vuông góc.
++  Phản hồi đúng: Chính xác! Nếu $(P)$ chứa một đường thẳng vuông góc với $(Q)$ thì $(P) ⊥ (Q)$.
+-  Phản hồi sai: Đường thẳng phải vuông góc với mặt phẳng, không phải song song hay cắt thông thường.
+a) $(P)$ chứa một đường thẳng song song với $(Q)$
+*b) $(P)$ chứa một đường thẳng vuông góc với $(Q)$
+c) $(P)$ và $(Q)$ có giao tuyến
+d) $(P)$ và $(Q)$ song song với nhau
+
+8. Trong hình lăng trụ đứng $ABC.A'B'C'$, mặt phẳng nào sau đây vuông góc với mặt phẳng $(ABC)$?
+   Gợi ý: Xét định nghĩa lăng trụ đứng và tính chất vuông góc.
++  Phản hồi đúng: Đúng! Trong lăng trụ đứng, các mặt bên đều vuông góc với mặt đáy.
+-  Phản hồi sai: Lăng trụ đứng có tính chất đặc biệt là các cạnh bên vuông góc với đáy, do đó các mặt bên vuông góc với đáy.
+a) $(A'B'C')$
+*b) $(ABB'A')$
+c) Không có mặt phẳng nào
+d) Tất cả các mặt phẳng
+
+9. Cho tứ diện $ABCD$ có $AB ⊥ CD$ và $AC ⊥ BD$. Mệnh đề nào sau đây đúng?
+   Gợi ý: Xét tính chất đặc biệt của tứ diện có các cạnh đối vuông góc.
++  Phản hồi đúng: Chính xác! Khi hai cặp cạnh đối của tứ diện vuông góc thì cặp cạnh đối còn lại cũng vuông góc.
+-  Phản hồi sai: Đây là tính chất đặc biệt của tứ diện có hai cặp cạnh đối vuông góc.
+a) $AB \parallel CD$
+b) $AC \parallel BD$
+*c) $AD ⊥ BC$
+d) Tứ diện có tất cả các mặt là tam giác vuông
+
+10. Khoảng cách từ điểm $M$ đến mặt phẳng $(P)$ được xác định bằng:
+    Gợi ý: Sử dụng định nghĩa khoảng cách từ điểm đến mặt phẳng.
++   Phản hồi đúng: Đúng! Khoảng cách từ điểm đến mặt phẳng là độ dài đường vuông góc từ điểm đó đến mặt phẳng.
+-   Phản hồi sai: Khoảng cách ngắn nhất luôn là đường vuông góc, không phải đường xiên hay đường bất kỳ.
+a) Độ dài đoạn thẳng nối $M$ với một điểm bất kỳ trên $(P)$
+*b) Độ dài đường vuông góc hạ từ $M$ xuống $(P)$
+c) Độ dài hình chiếu của $M$ trên $(P)$
+d) Khoảng cách từ $M$ đến giao tuyến của $(P)$ với một mặt phẳng khác
+
+11. Trong hình chóp tứ giác đều $S.ABCD$, đường thẳng $SO$ (với $O$ là tâm hình vuông $ABCD$) có tính chất gì?
+    Gợi ý: Sử dụng tính chất đối xứng của hình chóp tứ giác đều.
++   Phản hồi đúng: Chính xác! Do tính đối xứng của hình chóp tứ giác đều, $SO$ vuông góc với mặt đáy $(ABCD)$.
+-   Phản hồi sai: Tính đối xứng của hình chóp đều đảm bảo đường cao từ đỉnh vuông góc với mặt đáy.
+a) $SO$ song song với $(ABCD)$
+*b) $SO ⊥ (ABCD)$
+c) $SO$ nằm trong $(ABCD)$
+d) $SO$ tạo với $(ABCD)$ góc $45°$
+
+12. Cho hình lập phương cạnh $a$. Khoảng cách từ một đỉnh đến mặt phẳng chứa đáy đối diện bằng:
+    Gợi ý: Sử dụng tính chất hình lập phương và chiều cao.
++   Phản hồi đúng: Đúng! Khoảng cách từ đỉnh đến mặt đáy đối diện chính bằng độ dài cạnh của hình lập phương.
+-   Phản hồi sai: Chiều cao của hình lập phương bằng độ dài cạnh, không phải đường chéo mặt hay đường chéo khối.
+*a) $a$
+b) $a\sqrt{2}$
+c) $a\sqrt{3}$
+d) $2a$
+
+13. Nếu hai mặt phẳng $(P)$ và $(Q)$ vuông góc với nhau, thì:
+    Gợi ý: Sử dụng tính chất của hai mặt phẳng vuông góc.
++   Phản hồi đúng: Chính xác! Khi hai mặt phẳng vuông góc, tồn tại ít nhất một đường thẳng trong mặt phẳng này vuông góc với mặt phẳng kia.
+-   Phản hồi sai: Không phải mọi đường thẳng trong mặt phẳng này đều vuông góc với mặt phẳng kia, chỉ tồn tại ít nhất một đường.
+a) Mọi đường thẳng trong $(P)$ đều vuông góc với $(Q)$
+*b) Tồn tại đường thẳng trong $(P)$ vuông góc với $(Q)$
+c) Không có đường thẳng nào trong $(P)$ vuông góc với $(Q)$
+d) $(P)$ và $(Q)$ song song với nhau
+
+14. Cho hình chóp tam giác đều $S.ABC$. Hình chiếu vuông góc của $S$ lên mặt phẳng $(ABC)$ là:
+    Gợi ý: Sử dụng tính chất đối xứng của hình chóp tam giác đều.
++   Phản hồi đúng: Đúng! Do tính đối xứng, hình chiếu của đỉnh chóp tam giác đều là tâm đường tròn ngoại tiếp đáy.
+-   Phản hồi sai: Tính đối xứng của hình chóp đều quyết định vị trí hình chiếu của đỉnh.
+a) Trọng tâm tam giác $ABC$
+*b) Tâm đường tròn ngoại tiếp tam giác $ABC$
+c) Trực tâm tam giác $ABC$
+d) Một đỉnh của tam giác $ABC$
+
+15. Trong không gian, cho điểm $A$ và mặt phẳng $(P)$ không chứa $A$. Có bao nhiêu đường thẳng qua $A$ và vuông góc với $(P)$?
+    Gợi ý: Áp dụng định lý về tính duy nhất của đường thẳng vuông góc với mặt phẳng.
++   Phản hồi đúng: Chính xác! Qua một điểm cho trước, có duy nhất một đường thẳng vuông góc với một mặt phẳng cho trước.
+-   Phản hồi sai: Đây là tính chất duy nhất được đảm bảo bởi định lý trong hình học không gian.
+a) $0$
+*b) $1$
+c) $2$
+d) Vô số
+
+16. Cho đường thẳng $d$ vuông góc với mặt phẳng $(P)$ tại điểm $H$. Với mọi điểm $M$ thuộc $d$ khác $H$, khoảng cách từ $M$ đến $(P)$ bằng:
+    Gợi ý: Sử dụng định nghĩa khoảng cách và tính chất đường vuông góc.
++   Phản hồi đúng: Đúng! Khi đường thẳng vuông góc với mặt phẳng, khoảng cách từ điểm trên đường thẳng đến mặt phẳng chính là độ dài đoạn thẳng đó.
+-   Phản hồi sai: Do $d$ vuông góc với $(P)$, nên $MH$ chính là khoảng cách từ $M$ đến $(P)$.
+a) $0$
+*b) $MH$
+c) $2MH$
+d) Không xác định được
+
+17. Trong hình hộp chữ nhật $ABCD.A'B'C'D'$, cặp mặt phẳng nào sau đây vuông góc với nhau?
+    Gợi ý: Sử dụng tính chất của hình hộp chữ nhật.
++   Phản hồi đúng: Chính xác! Trong hình hộp chữ nhật, các mặt bên vuông góc với các mặt đáy.
+-   Phản hồi sai: Hình hộp chữ nhật có tính chất đặc biệt là các mặt bên vuông góc với đáy.
+a) $(ABCD)$ và $(A'B'C'D')$
+*b) $(ABCD)$ và $(ABB'A')$
+c) $(ABB'A')$ và $(CDD'C')$
+d) Không có cặp mặt phẳng nào vuông góc
+
+18. Cho hình chóp $S.ABCD$ có đáy $ABCD$ là hình vuông, $SA ⊥ (ABCD)$. Trong các đường thẳng sau, đường thẳng nào vuông góc với $SC$?
+    Gợi ý: Sử dụng tính chất vuông góc và định lý ba đường vuông góc.
++   Phản hồi đúng: Chính xác! Do $SA ⊥ (ABCD)$ và $AC ⊂ (ABCD)$ nên $SA ⊥ AC$, mà $ABCD$ là hình vuông nên $AC ⊥ BD$. Áp dụng định lý ba đường vuông góc, ta có $BD ⊥ SC$.
+-   Phản hồi sai: Cần áp dụng định lý ba đường vuông góc: nếu đường thẳng vuông góc với hình chiếu thì vuông góc với đường xiên.
+a) $AB$
+*b) $BD$
+c) $AD$
+d) $CD$
+
+19. Khoảng cách giữa hai mặt phẳng song song $(P)$ và $(Q)$ được định nghĩa là:
+    Gợi ý: Sử dụng định nghĩa khoảng cách giữa hai mặt phẳng song song.
++   Phản hồi đúng: Đúng! Khoảng cách giữa hai mặt phẳng song song là khoảng cách từ một điểm bất kỳ trên mặt phẳng này đến mặt phẳng kia.
+-   Phản hồi sai: Do hai mặt phẳng song song nên khoảng cách từ mọi điểm trên mặt phẳng này đến mặt phẳng kia đều bằng nhau.
+a) Khoảng cách giữa hai điểm bất kỳ thuộc hai mặt phẳng
+*b) Khoảng cách từ một điểm trên $(P)$ đến $(Q)$
+c) Độ dài giao tuyến của $(P)$ và $(Q)$
+d) Góc giữa $(P)$ và $(Q)$
+
+20. Cho tứ diện $ABCD$ có $AB = CD$, $AC = BD$, $AD = BC$. Tứ diện này có tính chất gì đặc biệt?
+    Gợi ý: Xét tính chất của tứ diện có các cạnh đối bằng nhau.
++   Phản hồi đúng: Chính xác! Tứ diện có các cạnh đối bằng nhau gọi là tứ diện đều cạnh, có tính chất các cạnh đối vuông góc với nhau.
+-   Phản hồi sai: Khi các cạnh đối của tứ diện bằng nhau từng đôi một, các cạnh đối sẽ vuông góc với nhau.
+a) Tất cả các mặt đều là tam giác đều
+b) Tất cả các cạnh đều bằng nhau
+*c) Các cạnh đối vuông góc với nhau từng đôi
+d) Có một mặt là tam giác vuông
+
+1. Cho hình chóp $S.ABC$ có $SA \perp (ABC)$ và tam giác $ABC$ vuông tại $B$. Khẳng định nào sau đây đúng?
+    Gợi ý: Sử dụng định lý về đường thẳng vuông góc với mặt phẳng để xác định các quan hệ vuông góc.
++   Phản hồi đúng: Chính xác! Vì $SA \perp (ABC)$ và $BC \subset (ABC)$ nên $SA \perp BC$. Mà $AB \perp BC$ (do tam giác $ABC$ vuông tại $B$), suy ra $BC \perp (SAB)$.
+-   Phản hồi sai: Cần nhớ rằng nếu đường thẳng vuông góc với mặt phẳng thì nó vuông góc với mọi đường thẳng nằm trong mặt phẳng đó.
+a) $SA \perp BC$ và $AB \perp BC$ nên $BC \perp (SAB)$
+b) $SA \perp AB$ và $BC \perp AB$ nên $AB \perp (SBC)$
+*c) Cả A và B đều đúng
+d) Chỉ có A đúng
+
+2. Trong hình lập phương $ABCD.A'B'C'D'$, mặt phẳng nào sau đây vuông góc với mặt phẳng $(ABCD)$?
+    Gợi ý: Xét các mặt phẳng chứa cạnh vuông góc với mặt phẳng đáy.
++   Phản hồi đúng: Đúng rồi! Mặt phẳng $(ABB'A')$ chứa đường thẳng $AA'$ vuông góc với $(ABCD)$, nên $(ABB'A') \perp (ABCD)$.
+-   Phản hồi sai: Cần áp dụng dấu hiệu nhận biết: hai mặt phẳng vuông góc khi và chỉ khi mặt phẳng này chứa đường thẳng vuông góc với mặt phẳng kia.
+a) $(A'B'C'D')$
+*b) $(ABB'A')$
+c) $(ACC'A')$
+d) Cả B và C
+
+3. Cho tứ diện $ABCD$ có $AB \perp CD$ và $AC \perp BD$. Quan hệ nào sau đây đúng?
+    Gợi ý: Trong tứ diện, nếu hai cặp cạnh đối vuông góc thì cặp cạnh đối thứ ba cũng vuông góc.
++   Phản hồi đúng: Chính xác! Đây là tính chất quan trọng của tứ diện trực giao: nếu hai cặp cạnh đối vuông góc thì cặp thứ ba cũng vuông góc.
+-   Phản hồi sai: Đây là tính chất đặc biệt của tứ diện khi có hai cặp cạnh đối vuông góc, cần ghi nhớ kết quả này.
+a) $AD \perp BC$
+b) $BD \perp AC$
+c) $CD \perp AB$
+*d) Cả A và C đều đúng
+
+4. Cho hình chóp $S.ABCD$ có đáy $ABCD$ là hình vuông tâm $O$, $SO \perp (ABCD)$. Góc giữa $SA$ và mặt phẳng $(ABCD)$ là góc nào?
+    Gợi ý: Góc giữa đường thẳng và mặt phẳng là góc giữa đường thẳng và hình chiếu của nó trên mặt phẳng.
++   Phản hồi đúng: Đúng! Hình chiếu của $SA$ trên $(ABCD)$ là $OA$, nên góc giữa $SA$ và $(ABCD)$ là $\angle SAO$.
+-   Phản hồi sai: Cần xác định đúng hình chiếu của đường thẳng trên mặt phẳng để tìm góc giữa chúng.
+a) $\angle SOA$
+*b) $\angle SAO$
+c) $\angle ASO$
+d) $\angle OAS$
+
+5. Cho hình chóp $S.ABC$ có $SA \perp (ABC)$, $SA = 6$, tam giác $ABC$ vuông tại $B$ với $AB = 8$, $BC = 6$. Độ dài $SB$ bằng?
+    Gợi ý: Sử dụng định lý Pythagoras trong tam giác vuông $SAB$.
++   Phản hồi đúng: Chính xác! Trong tam giác vuông $SAB$ có $SA \perp AB$, áp dụng định lý Pythagoras: $SB^2 = SA^2 + AB^2 = 36 + 64 = 100$, suy ra $SB = 10$.
+-   Phản hồi sai: Cần nhận ra tam giác $SAB$ vuông tại $A$ vì $SA \perp (ABC)$ nên $SA \perp AB$.
+a) $8$
+b) $12$
+*c) $10$
+d) $14$
+
+6. Trong hình lập phương $ABCD.A'B'C'D'$ cạnh $a$, khoảng cách từ điểm $A$ đến mặt phẳng $(BCC'B')$ bằng?
+    Gợi ý: Khoảng cách từ điểm đến mặt phẳng là độ dài đường vuông góc từ điểm đến mặt phẳng.
++   Phản hồi đúng: Đúng rồi! Đường vuông góc từ $A$ đến $(BCC'B')$ có độ dài bằng khoảng cách từ $A$ đến $BC$, chính là $AB = a$.
+-   Phản hồi sai: Cần xác định đường vuông góc từ điểm đến mặt phẳng, đó là đoạn $AB$ vuông góc với mặt phẳng $(BCC'B')$.
+*a) $a$
+b) $a\sqrt{2}$
+c) $a\sqrt{3}$
+d) $\frac{a\sqrt{2}}{2}$
+
+7. Cho hình chóp $S.ABCD$ có đáy là hình thoi tâm $O$, $SO \perp (ABCD)$. Mặt phẳng nào sau đây vuông góc với mặt phẳng $(ABCD)$?
+    Gợi ý: Tìm mặt phẳng chứa đường thẳng $SO$ vuông góc với $(ABCD)$.
++   Phản hồi đúng: Chính xác! Mọi mặt phẳng chứa $SO$ đều vuông góc với $(ABCD)$ vì $SO \perp (ABCD)$.
+-   Phản hồi sai: Cần áp dụng dấu hiệu: mặt phẳng vuông góc với mặt phẳng khác khi chứa đường thẳng vuông góc với mặt phẳng đó.
+a) $(SAC)$
+b) $(SBD)$
+c) $(SAB)$
+*d) Cả A, B và C
+
+8. Cho tam giác $ABC$ vuông tại $A$ và điểm $S$ sao cho $SA \perp (ABC)$. Trong các mệnh đề sau, mệnh đề nào sai?
+    Gợi ý: Kiểm tra từng mệnh đề dựa trên tính chất của đường thẳng vuông góc với mặt phẳng.
++   Phản hồi đúng: Đúng! Vì $AB \perp AC$ và $SA \perp (ABC)$ nên $AB \perp (SAC)$, do đó $AB \perp SC$.
+-   Phản hồi sai: Mệnh đề D đúng vì $AB \perp AC$ và $AB \perp SA$ nên $AB \perp (SAC)$, suy ra $AB \perp SC$.
+a) $SA \perp AB$
+b) $SA \perp BC$
+c) Tam giác $SBC$ vuông tại $A$
+*d) $AB \perp SC$
+
+9. Cho hình chóp $S.ABC$ có $SB \perp (ABC)$ và tam giác $ABC$ đều cạnh $a$. Góc giữa $SA$ và mặt phẳng $(ABC)$ được tính bằng công thức nào?
+    Gợi ý: Xác định hình chiếu của $SA$ trên mặt phẳng $(ABC)$.
++   Phản hồi đúng: Chính xác! Hình chiếu của $SA$ trên $(ABC)$ là $BA$, nên góc cần tìm là $\angle SAB$ với $\cos(\angle SAB) = \frac{AB}{SA}$.
+-   Phản hồi sai: Cần xác định đúng hình chiếu của đường thẳng $SA$ trên mặt phẳng $(ABC)$ là đường thẳng $BA$.
+a) $\cos(\angle SAB) = \frac{SB}{SA}$
+*b) $\cos(\angle SAB) = \frac{AB}{SA}$
+c) $\sin(\angle SAB) = \frac{AB}{SA}$
+d) $\tan(\angle SAB) = \frac{AB}{SB}$
+
+10. Trong hình lăng trụ đứng $ABC.A'B'C'$ có đáy là tam giác vuông tại $C$, cạnh nào vuông góc với mặt phẳng $(BCC'B')$?
+    Gợi ý: Trong lăng trụ đứng, cạnh bên vuông góc với mặt phẳng đáy và các tính chất vuông góc được bảo toàn.
++   Phản hồi đúng: Đúng! Vì $AC \perp BC$ (đáy vuông tại $C$) và $AC \perp CC'$ (lăng trụ đứng) nên $AC \perp (BCC'B')$.
+-   Phản hồi sai: Cần sử dụng tính chất của lăng trụ đứng và điều kiện tam giác đáy vuông tại $C$.
+a) $AB$
+*b) $AC$
+c) $BC$
+d) $A'B'$
+
+11. Cho hình chóp $S.ABCD$ có đáy là hình chữ nhật, $SA \perp (ABCD)$. Mặt phẳng nào sau đây không vuông góc với mặt phẳng $(ABCD)$?
+    Gợi ý: Kiểm tra mặt phẳng nào không chứa đường thẳng $SA$.
++   Phản hồi đúng: Chính xác! Mặt phẳng $(BCD)$ không chứa đường thẳng $SA$ nên không vuông góc với $(ABCD)$.
+-   Phản hồi sai: Mọi mặt phẳng chứa $SA$ đều vuông góc với $(ABCD)$ vì $SA \perp (ABCD)$.
+a) $(SAB)$
+b) $(SAD)$
+c) $(SAC)$
+*d) $(BCD)$
+
+12. Cho tứ diện $ABCD$ có $AB \perp CD$, $AC \perp BD$, $AD \perp BC$. Tứ diện này được gọi là?
+    Gợi ý: Đây là loại tứ diện đặc biệt khi các cặp cạnh đối đều vuông góc.
++   Phản hồi đúng: Đúng! Tứ diện có ba cặp cạnh đối đều vuông góc được gọi là tứ diện trực giao.
+-   Phản hồi sai: Cần nhớ định nghĩa của tứ diện trực giao là tứ diện có các cặp cạnh đối vuông góc với nhau.
+a) Tứ diện đều
+b) Tứ diện vuông
+*c) Tứ diện trực giao
+d) Tứ diện cân
+
+13. Cho hình chóp $S.ABC$ có $SC \perp (ABC)$, $SC = 12$, tam giác $ABC$ có $AB = 5$, $BC = 4$, $CA = 3$. Khoảng cách từ $C$ đến mặt phẳng $(SAB)$ bằng?
+    Gợi ý: Nhận xét tam giác $ABC$ và sử dụng công thức tính khoảng cách.
++   Phản hồi đúng: Chính xác! Tam giác $ABC$ vuông tại $C$ (vì $3^2 + 4^2 = 5^2$). Khoảng cách từ $C$ đến $(SAB)$ bằng khoảng cách từ $C$ đến $AB$ là $\frac{BC \cdot CA}{AB} = \frac{4 \cdot 3}{5} = \frac{12}{5}$.
+-   Phản hồi sai: Cần nhận ra tam giác $ABC$ vuông tại $C$ và tính khoảng cách từ $C$ đến $AB$.
+a) $\frac{24}{5}$
+*b) $\frac{12}{5}$
+c) $\frac{5}{12}$
+d) $4$
+
+14. Trong hình lập phương $ABCD.A'B'C'D'$, góc giữa đường thẳng $AC'$ và mặt phẳng $(ABCD)$ có số đo bằng?
+    Gợi ý: Tìm hình chiếu của $AC'$ trên mặt phẳng $(ABCD)$.
++   Phản hồi đúng: Đúng! Hình chiếu của $AC'$ trên $(ABCD)$ là $AC$. Trong tam giác vuông $ACC'$ có $\tan(\angle C'AC) = \frac{CC'}{AC} = \frac{a}{a\sqrt{2}} = \frac{\sqrt{2}}{2}$.
+-   Phản hồi sai: Cần xác định tam giác vuông $ACC'$ và tính góc $\angle C'AC$.
+a) $30°$
+b) $45°$
+*c) $\arctan(\frac{\sqrt{2}}{2})$
+d) $60°$
+
+15. Cho hình chóp $S.ABCD$ có đáy là hình vuông cạnh $a$, cạnh bên $SA$ vuông góc với đáy và $SA = a$. Khoảng cách từ $A$ đến mặt phẳng $(SBC)$ bằng?
+    Gợi ý: Sử dụng công thức thể tích để tính khoảng cách.
++   Phản hồi đúng: Chính xác! Sử dụng $V_{A.SBC} = \frac{1}{3} \cdot d(A,(SBC)) \cdot S_{SBC}$ và $V_{A.SBC} = V_{S.ABC}$ để tính được $d(A,(SBC)) = \frac{a\sqrt{2}}{2}$.
+-   Phản hồi sai: Cần áp dụng công thức thể tích hoặc phương pháp hình học để tính khoảng cách từ điểm đến mặt phẳng.
+a) $\frac{a}{2}$
+*b) $\frac{a\sqrt{2}}{2}$
+c) $\frac{a\sqrt{3}}{3}$
+d) $a$
+
+16. Cho hai mặt phẳng $(P)$ và $(Q)$ vuông góc nhau theo giao tuyến $d$. Điểm $M \in (P)$, khoảng cách từ $M$ đến $d$ là $h$. Khoảng cách từ $M$ đến $(Q)$ bằng?
+    Gợi ý: Sử dụng tính chất của hai mặt phẳng vuông góc.
++   Phản hồi đúng: Đúng! Khi hai mặt phẳng vuông góc, khoảng cách từ điểm trên mặt phẳng này đến mặt phẳng kia bằng khoảng cách từ điểm đó đến giao tuyến.
+-   Phản hồi sai: Đây là tính chất quan trọng của hai mặt phẳng vuông góc cần ghi nhớ.
+a) $2h$
+*b) $h$
+c) $\frac{h}{2}$
+d) $h\sqrt{2}$
+
+17. Cho hình chóp $S.ABC$ có đáy là tam giác đều cạnh $a$, $SA \perp (ABC)$ và $SA = a\sqrt{3}$. Góc giữa mặt phẳng $(SBC)$ và mặt phẳng $(ABC)$ bằng?
+    Gợi ý: Tìm giao tuyến của hai mặt phẳng và các đường vuông góc với giao tuyến.
++   Phản hồi đúng: Chính xác! Giao tuyến là $BC$, góc giữa hai mặt phẳng là góc giữa $AH$ và $SH$ (với $H$ là trung điểm $BC$). Ta có $\tan$ góc $= \frac{SA}{AH} = \frac{a\sqrt{3}}{\frac{a\sqrt{3}}{2}} = 2$, suy ra góc $= 60°$.
+-   Phản hồi sai: Cần xác định đúng giao tuyến và các đường vuông góc để tính góc giữa hai mặt phẳng.
+a) $30°$
+b) $45°$
+*c) $60°$
+d) $90°$
+
+18. Trong hình lăng trụ đứng $ABC.A'B'C'$ có đáy là tam giác cân tại $A$ với $AB = AC = 5$, $BC = 6$, chiều cao $AA' = 8$. Khoảng cách từ $A'$ đến mặt phẳng $(ABC)$ bằng?
+    Gợi ý: Trong lăng trụ đứng, cạnh bên vuông góc với mặt phẳng đáy.
++   Phản hồi đúng: Đúng! Trong lăng trụ đứng, khoảng cách từ $A'$ đến $(ABC)$ chính là chiều cao lăng trụ.
+-   Phản hồi sai: Cần nhớ rằng trong lăng trụ đứng, các cạnh bên vuông góc với mặt phẳng đáy.
+a) $5$
+b) $6$
+*c) $8$
+d) $4$
+
+19. Cho hình chóp $S.ABCD$ có đáy là hình thang vuông tại $A$ và $D$, $AB = 2a$, $AD = DC = a$, $SA \perp (ABCD)$, $SA = a$. Góc giữa $SC$ và mặt phẳng $(ABCD)$ bằng?
+    Gợi ý: Xác định hình chiếu của $SC$ trên mặt phẳng đáy.
++   Phản hồi đúng: Chính xác! Hình chiếu của $SC$ trên $(ABCD)$ là $AC$. Trong tam giác vuông $ADC$, $AC = a\sqrt{2}$. Trong tam giác vuông $SAC$, $\tan(\angle SCA) = \frac{SA}{AC} = \frac{a}{a\sqrt{2}} = \frac{\sqrt{2}}{2}$.
+-   Phản hồi sai: Cần tính độ dài $AC$ trong tam giác vuông $ADC$ rồi áp dụng vào tam giác vuông $SAC$.
+*a) $\arctan(\frac{\sqrt{2}}{2})$
+b) $30°$
+c) $45°$
+d) $60°$
+
+20. Cho tứ diện $OABC$ có $OA$, $OB$, $OC$ đôi một vuông góc và $OA = a$, $OB = b$, $OC = c$. Khoảng cách từ $O$ đến mặt phẳng $(ABC)$ được tính theo công thức nào?
+    Gợi ý: Sử dụng công thức thể tích tứ diện và diện tích tam giác.
++   Phản hồi đúng: Đúng! Thể tích tứ diện $V = \frac{1}{6}abc$ và diện tích $S_{ABC} = \frac{1}{2}\sqrt{a^2b^2 + b^2c^2 + c^2a^2}$. Từ $V = \frac{1}{3}d \cdot S_{ABC}$ suy ra $d = \frac{abc}{\sqrt{a^2b^2 + b^2c^2 + c^2a^2}}$.
+-   Phản hồi sai: Cần áp dụng công thức thể tích tứ diện và mối quan hệ giữa thể tích, diện tích đáy và chiều cao.
+a) $\frac{abc}{a + b + c}$
+*b) $\frac{abc}{\sqrt{a^2b^2 + b^2c^2 + c^2a^2}}$
+c) $\frac{abc}{\sqrt{a^2 + b^2 + c^2}}$
+d) $\frac{\sqrt{abc}}{a + b + c}$
+
+1. Cho hình chóp $S.ABC$ có đáy $ABC$ là tam giác vuông tại $B$ với $AB = 6$ cm, $BC = 8$ cm. Biết $SA \perp (ABC)$ và $SA = 12$ cm. Khoảng cách từ điểm $S$ đến mặt phẳng $(ABC)$ bằng:
+    Gợi ý: Khoảng cách từ một điểm đến mặt phẳng là độ dài đường vuông góc hạ từ điểm đó đến mặt phẳng.
++   Phản hồi đúng: Chính xác! Vì $SA \perp (ABC)$ nên khoảng cách từ $S$ đến mặt phẳng $(ABC)$ chính là độ dài đoạn $SA = 12$ cm.
+-   Phản hồi sai: Cần nhớ rằng khi đường thẳng vuông góc với mặt phẳng thì độ dài đoạn thẳng đó chính là khoảng cách từ điểm đến mặt phẳng.
+a) 6 cm
+b) 8 cm
+*c) 12 cm
+d) 10 cm
+
+2. Trong hình lập phương $ABCD.A'B'C'D'$ có cạnh $a$, góc giữa đường thẳng $AC'$ và mặt phẳng $(ABCD)$ bằng:
+    Gợi ý: Tìm hình chiếu của $AC'$ lên mặt phẳng $(ABCD)$ và sử dụng định nghĩa góc giữa đường thẳng và mặt phẳng.
++   Phản hồi đúng: Đúng rồi! Hình chiếu của $AC'$ lên $(ABCD)$ là $AC$. Trong tam giác vuông $ACC'$: $\tan(\angle CAC') = \frac{CC'}{AC} = \frac{a}{a\sqrt{2}} = \frac{1}{\sqrt{2}}$, suy ra góc bằng $\arctan(\frac{1}{\sqrt{2}}) \approx 35.26°$.
+-   Phản hồi sai: Cần xác định đúng hình chiếu của đường thẳng lên mặt phẳng, sau đó dùng tỷ số lượng giác để tính góc.
+a) 30°
+*b) $\arctan(\frac{1}{\sqrt{2}})$
+c) 45°
+d) 60°
+
+3. Cho tứ diện $OABC$ có $OA$, $OB$, $OC$ đôi một vuông góc và $OA = 3$, $OB = 4$, $OC = 5$. Khoảng cách từ $O$ đến mặt phẳng $(ABC)$ bằng:
+    Gợi ý: Sử dụng công thức thể tích tứ diện theo hai cách: $V = \frac{1}{3}S_{ABC} \cdot h$ và $V = \frac{1}{6}OA \cdot OB \cdot OC$.
++   Phản hồi đúng: Chính xác! Thể tích tứ diện $V = \frac{1}{6} \cdot 3 \cdot 4 \cdot 5 = 10$. Diện tích tam giác $ABC = 5\sqrt{2}$. Từ $V = \frac{1}{3}S_{ABC} \cdot h$ suy ra $h = \frac{6}{\sqrt{2}} = 3\sqrt{2}$.
+-   Phản hồi sai: Cần tính thể tích tứ diện và diện tích đáy, sau đó dùng công thức liên hệ giữa thể tích và khoảng cách.
+a) $2\sqrt{2}$
+*b) $\frac{6\sqrt{2}}{2}$
+c) $4\sqrt{2}$
+d) $5\sqrt{2}$
+
+4. Cho hình chóp $S.ABCD$ có đáy $ABCD$ là hình vuông cạnh $a$, $SA \perp (ABCD)$ và $SA = a\sqrt{3}$. Góc giữa mặt phẳng $(SBC)$ và mặt phẳng $(ABCD)$ bằng:
+    Gợi ý: Tìm giao tuyến của hai mặt phẳng và dựng các đường vuông góc với giao tuyến trong mỗi mặt phẳng.
++   Phản hồi đúng: Đúng! Giao tuyến là $BC$. Trong $(ABCD)$, dựng $AH \perp BC$ tại $H$. Trong $(SBC)$, ta có $SH$. Góc giữa hai mặt phẳng là $\angle SHA = \arctan(\frac{SA}{AH}) = \arctan(\frac{a\sqrt{3}}{a}) = 60°$.
+-   Phản hồi sai: Cần xác định đúng giao tuyến và dựng các đường vuông góc với giao tuyến để tìm góc giữa hai mặt phẳng.
+a) 30°
+b) 45°
+*c) 60°
+d) 90°
+
+5. Trong không gian, cho đường thẳng $d$ và mặt phẳng $(P)$. Điều kiện nào sau đây là đủ để kết luận $d \perp (P)$?
+    Gợi ý: Sử dụng định lý về điều kiện để đường thẳng vuông góc với mặt phẳng.
++   Phản hồi đúng: Chính xác! Theo định lý, đường thẳng vuông góc với mặt phẳng khi và chỉ khi nó vuông góc với hai đường thẳng cắt nhau trong mặt phẳng đó.
+-   Phản hồi sai: Cần nhớ định lý cơ bản: đường thẳng vuông góc với mặt phẳng khi vuông góc với hai đường thẳng cắt nhau trong mặt phẳng.
+a) $d$ vuông góc với một đường thẳng trong $(P)$
+*b) $d$ vuông góc với hai đường thẳng cắt nhau trong $(P)$
+c) $d$ song song với một đường thẳng vuông góc với $(P)$
+d) $d$ tạo với $(P)$ một góc nhỏ hơn 90°
+
+6. Cho hình lăng trụ đứng $ABC.A'B'C'$ có đáy $ABC$ là tam giác vuông tại $A$ với $AB = 3$, $AC = 4$, $AA' = 5$. Khoảng cách từ $A'$ đến mặt phẳng $(ABC)$ bằng:
+    Gợi ý: Trong lăng trụ đứng, các cạnh bên vuông góc với mặt phẳng đáy.
++   Phản hồi đúng: Đúng rồi! Vì lăng trụ đứng nên $AA' \perp (ABC)$, do đó khoảng cách từ $A'$ đến $(ABC)$ chính là $AA' = 5$.
+-   Phản hồi sai: Trong lăng trụ đứng, các cạnh bên vuông góc với đáy, nên khoảng cách từ điểm trên đáy trên đến đáy dưới bằng chiều cao lăng trụ.
+a) 3
+b) 4
+*c) 5
+d) 6
+
+7. Cho hình chóp $S.ABC$ có $SA = SB = SC = a$ và tam giác $ABC$ đều cạnh $a$. Khoảng cách từ $S$ đến mặt phẳng $(ABC)$ bằng:
+    Gợi ý: Do tính đối xứng, chân đường cao từ $S$ xuống $(ABC)$ là tâm đường tròn ngoại tiếp tam giác $ABC$.
++   Phản hồi đúng: Chính xác! Chân đường cao $H$ là tâm tam giác đều $ABC$. Ta có $AH = \frac{a\sqrt{3}}{3}$. Trong tam giác vuông $SAH$: $SH = \sqrt{SA^2 - AH^2} = \sqrt{a^2 - \frac{a^2}{3}} = \frac{a\sqrt{6}}{3}$.
+-   Phản hồi sai: Cần xác định vị trí chân đường cao và sử dụng định lý Pythagoras trong tam giác vuông.
+a) $\frac{a\sqrt{2}}{2}$
+*b) $\frac{a\sqrt{6}}{3}$
+c) $\frac{a\sqrt{3}}{2}$
+d) $\frac{a}{2}$
+
+8. Trong hình lập phương $ABCD.A'B'C'D'$, góc giữa đường thẳng $AB'$ và mặt phẳng $(ABCD)$ bằng:
+    Gợi ý: Hình chiếu của $AB'$ lên mặt phẳng $(ABCD)$ là đoạn thẳng nào?
++   Phản hồi đúng: Đúng! Hình chiếu của $AB'$ lên $(ABCD)$ là $AB$. Trong tam giác vuông $ABB'$: $\tan(\angle BAB') = \frac{BB'}{AB} = 1$, nên góc bằng 45°.
+-   Phản hồi sai: Cần xác định hình chiếu của đường thẳng lên mặt phẳng và tính góc trong tam giác vuông tương ứng.
+a) 30°
+*b) 45°
+c) 60°
+d) 90°
+
+9. Cho tứ diện $ABCD$ có $AB \perp CD$ và $AC \perp BD$. Khẳng định nào sau đây đúng?
+    Gợi ý: Xét mối quan hệ giữa $AD$ và $BC$ trong tứ diện có các cặp cạnh đối vuông góc.
++   Phản hồi đúng: Chính xác! Trong tứ diện có hai cặp cạnh đối vuông góc thì cặp cạnh đối thứ ba cũng vuông góc. Do đó $AD \perp BC$.
+-   Phản hồi sai: Đây là tính chất đặc biệt của tứ diện: nếu hai cặp cạnh đối vuông góc thì cặp thứ ba cũng vuông góc.
+a) $AD$ song song $BC$
+*b) $AD \perp BC$
+c) $ABCD$ là hình thang
+d) Tứ diện có thể tích bằng 0
+
+10. Cho hình chóp $S.ABCD$ có đáy là hình chữ nhật với $AB = 4$, $BC = 3$, $SA \perp (ABCD)$ và $SA = 5$. Khoảng cách từ $S$ đến đường thẳng $BD$ bằng:
+     Gợi ý: Khoảng cách từ điểm đến đường thẳng bằng khoảng cách từ điểm đó đến hình chiếu của đường thẳng.
++    Phản hồi đúng: Đúng! Khoảng cách từ $S$ đến $BD$ bằng khoảng cách từ $A$ đến $BD$ (vì $SA \perp (ABCD)$). Trong hình chữ nhật, khoảng cách từ $A$ đến $BD$ là $\frac{AB \cdot AD}{BD} = \frac{4 \cdot 3}{5} = \frac{12}{5}$.
+-    Phản hồi sai: Cần hạ đường vuông góc từ điểm xuống mặt phẳng chứa đường thẳng và tính khoảng cách trong mặt phẳng đó.
+a) $\frac{10}{3}$
+*b) $\frac{12}{5}$
+c) $\frac{15}{4}$
+d) 3
+
+11. Trong không gian, nếu hai mặt phẳng $(P)$ và $(Q)$ vuông góc với nhau thì:
+     Gợi ý: Sử dụng định lý về mối quan hệ giữa đường thẳng và mặt phẳng khi hai mặt phẳng vuông góc.
++    Phản hồi đúng: Chính xác! Khi hai mặt phẳng vuông góc, nếu một đường thẳng nằm trong mặt phẳng này và vuông góc với giao tuyến thì nó vuông góc với mặt phẳng kia.
+-    Phản hồi sai: Cần nhớ định lý về quan hệ giữa đường thẳng và mặt phẳng trong trường hợp hai mặt phẳng vuông góc.
+a) Mọi đường thẳng trong $(P)$ đều vuông góc với $(Q)$
+*b) Tồn tại đường thẳng trong $(P)$ vuông góc với $(Q)$
+c) Giao tuyến của chúng vuông góc với cả hai mặt phẳng
+d) Chúng không có điểm chung
+
+12. Cho hình chóp $S.ABC$ có đáy $ABC$ là tam giác vuông cân tại $B$ với $BA = BC = a$, $SB \perp (ABC)$ và $SB = a$. Góc giữa mặt phẳng $(SAC)$ và mặt phẳng $(ABC)$ bằng:
+     Gợi ý: Tìm giao tuyến của hai mặt phẳng và dựng các đường vuông góc với giao tuyến.
++    Phản hồi đúng: Đúng rồi! Giao tuyến là $AC$. Gọi $M$ là trung điểm $AC$, ta có $BM \perp AC$ và $SM \perp AC$. Góc giữa hai mặt phẳng là $\angle SMB$. Trong tam giác vuông $SMB$: $\tan(\angle SMB) = \frac{SB}{BM} = \frac{a}{\frac{a}{\sqrt{2}}} = \sqrt{2}$.
+-    Phản hồi sai: Cần xác định giao tuyến và dựng đúng các đường vuông góc để tìm góc giữa hai mặt phẳng.
+a) 45°
+*b) $\arctan(\sqrt{2})$
+c) 60°
+d) 90°
+
+13. Cho hình lăng trụ tam giác đều $ABC.A'B'C'$ có cạnh đáy bằng $a$ và chiều cao bằng $h$. Khoảng cách giữa hai mặt phẳng $(ABC)$ và $(A'B'C')$ bằng:
+     Gợi ý: Khoảng cách giữa hai mặt phẳng song song bằng khoảng cách từ một điểm thuộc mặt phẳng này đến mặt phẳng kia.
++    Phản hồi đúng: Chính xác! Hai mặt phẳng đáy song song với nhau, khoảng cách giữa chúng chính là chiều cao của lăng trụ, tức là $h$.
+-    Phản hồi sai: Trong lăng trụ, khoảng cách giữa hai mặt đáy song song luôn bằng chiều cao của lăng trụ.
+a) $a$
+*b) $h$
+c) $\frac{a\sqrt{3}}{2}$
+d) $\sqrt{a^2 + h^2}$
+
+14. Cho tứ diện đều $ABCD$ có cạnh $a$. Khoảng cách từ đỉnh $A$ đến mặt phẳng $(BCD)$ bằng:
+     Gợi ý: Trong tứ diện đều, chân đường cao từ một đỉnh đến mặt đối diện là tâm tam giác đều.
++    Phản hồi đúng: Đúng! Chân đường cao $H$ là tâm tam giác đều $BCD$. Khoảng cách từ tâm đến đỉnh tam giác đều cạnh $a$ là $\frac{a\sqrt{3}}{3}$. Sử dụng định lý Pythagoras: $AH = \sqrt{a^2 - \frac{a^2}{3}} = \frac{a\sqrt{6}}{3}$.
+-    Phản hồi sai: Cần tính khoảng cách từ tâm tam giác đều đến đỉnh, sau đó dùng định lý Pythagoras.
+a) $\frac{a\sqrt{2}}{2}$
+b) $\frac{a\sqrt{3}}{3}$
+*c) $\frac{a\sqrt{6}}{3}$
+d) $\frac{a}{2}$
+
+15. Trong hình hộp chữ nhật $ABCD.A'B'C'D'$ có $AB = 3$, $BC = 4$, $AA' = 5$, góc giữa đường thẳng $AC'$ và mặt phẳng $(ABCD)$ bằng:
+     Gợi ý: Hình chiếu của $AC'$ lên $(ABCD)$ là đường chéo đáy $AC$.
++    Phản hồi đúng: Chính xác! Hình chiếu của $AC'$ lên $(ABCD)$ là $AC$. Ta có $AC = \sqrt{3^2 + 4^2} = 5$. Trong tam giác vuông $ACC'$: $\tan(\angle CAC') = \frac{CC'}{AC} = \frac{5}{5} = 1$, nên góc bằng 45°.
+-    Phản hồi sai: Cần tính độ dài đường chéo đáy và sử dụng tỷ số lượng giác trong tam giác vuông.
+a) 30°
+b) $\arctan(\frac{3}{4})$
+*c) 45°
+d) 60°
+
+16. Cho hình chóp $S.ABCD$ có đáy $ABCD$ là hình thoi cạnh $a$, góc $\widehat{ABC} = 60°$, $SO \perp (ABCD)$ với $O$ là tâm hình thoi và $SO = \frac{a\sqrt{3}}{2}$. Góc giữa mặt phẳng $(SAB)$ và mặt phẳng $(ABCD)$ bằng:
+     Gợi ý: Dựng đường vuông góc từ $O$ đến cạnh $AB$ và sử dụng tính chất của hình thoi.
++    Phản hồi đúng: Đúng! Gọi $M$ là trung điểm $AB$, ta có $OM \perp AB$ và $SM \perp AB$. Góc giữa hai mặt phẳng là $\angle SMO$. Trong hình thoi với $\widehat{ABC} = 60°$, ta có $OM = \frac{a\sqrt{3}}{4}$. Do đó $\tan(\angle SMO) = \frac{SO}{OM} = \frac{\frac{a\sqrt{3}}{2}}{\frac{a\sqrt{3}}{4}} = 2$.
+-    Phản hồi sai: Cần xác định đúng khoảng cách từ tâm hình thoi đến cạnh và tính góc trong tam giác vuông.
+a) 30°
+b) 45°
+*c) $\arctan(2)$
+d) 60°
+
+17. Cho hai mặt phẳng $(P)$ và $(Q)$ cắt nhau theo giao tuyến $d$. Nếu đường thẳng $\Delta$ vuông góc với $(P)$ thì:
+     Gợi ý: Sử dụng tính chất của đường thẳng vuông góc với mặt phẳng.
++    Phản hồi đúng: Chính xác! Nếu $\Delta \perp (P)$ thì $\Delta$ vuông góc với mọi đường thẳng nằm trong $(P)$, do đó $\Delta \perp d$ vì $d$ nằm trong $(P)$.
+-    Phản hồi sai: Cần nhớ rằng đường thẳng vuông góc với mặt phẳng thì vuông góc với mọi đường thẳng nằm trong mặt phẳng đó.
+a) $\Delta$ song song với $d$
+*b) $\Delta \perp d$
+c) $\Delta$ nằm trong $(Q)$
+d) $\Delta$ song song với $(Q)$
+
+18. Cho hình chóp tam giác đều $S.ABC$ có cạnh đáy $a$ và chiều cao $h$. Góc giữa cạnh bên $SA$ và mặt phẳng đáy $(ABC)$ bằng:
+     Gợi ý: Hình chiếu của $SA$ lên $(ABC)$ là đoạn thẳng từ $A$ đến chân đường cao.
++    Phản hồi đúng: Đúng! Chân đường cao $H$ là tâm tam giác đều $ABC$. Ta có $AH = \frac{a\sqrt{3}}{3}$. Góc giữa $SA$ và $(ABC)$ là $\angle SAH$. Do đó $\tan(\angle SAH) = \frac{SH}{AH} = \frac{h}{\frac{a\sqrt{3}}{3}} = \frac{3h}{a\sqrt{3}} = \frac{h\sqrt{3}}{a}$.
+-    Phản hồi sai: Cần xác định vị trí chân đường cao và tính khoảng cách từ đỉnh đến tâm tam giác đều.
+a) $\arctan(\frac{h}{a})$
+*b) $\arctan(\frac{h\sqrt{3}}{a})$
+c) $\arctan(\frac{a}{h})$
+d) $\arctan(\frac{a\sqrt{3}}{h})$
+
+19. Trong hình lập phương $ABCD.A'B'C'D'$ cạnh $a$, khoảng cách từ điểm $A$ đến mặt phẳng $(BDD'B')$ bằng:
+     Gợi ý: Mặt phẳng $(BDD'B')$ đi qua tâm hình lập phương và vuông góc với đường chéo $AC$.
++    Phản hồi đúng: Chính xác! Mặt phẳng $(BDD'B')$ là mặt phẳng đi qua hai đường chéo của hình lập phương. Khoảng cách từ $A$ đến mặt phẳng này bằng $\frac{a\sqrt{2}}{2}$ (bằng nửa đường chéo mặt).
+-    Phản hồi sai: Cần sử dụng tính chất đối xứng của hình lập phương và mối quan hệ với đường chéo.
+a) $\frac{a}{2}$
+*b) $\frac{a\sqrt{2}}{2}$
+c) $\frac{a\sqrt{3}}{2}$
+d) $a$
+
+20. Cho hình chóp $S.ABCD$ có đáy là hình vuông cạnh $2a$, $SA \perp (ABCD)$ và $SA = a\sqrt{6}$. Khoảng cách từ điểm $A$ đến mặt phẳng $(SCD)$ bằng:
+     Gợi ý: Sử dụng công thức thể tích tứ diện để tính khoảng cách.
++    Phản hồi đúng: Đúng! Thể tích tứ diện $ASCD$ tính theo hai cách: $V = \frac{1}{3} \cdot S_{SCD} \cdot d(A,(SCD)) = \frac{1}{6} \cdot SA \cdot AC \cdot \sin(\angle SAC)$. Từ đó suy ra khoảng cách cần tìm là $\frac{2a\sqrt{3}}{3}$.
+-    Phản hồi sai: Cần tính thể tích tứ diện và diện tích tam giác trong mặt phẳng để áp dụng công thức khoảng cách.
+a) $\frac{a\sqrt{2}}{2}$
+*b) $\frac{2a\sqrt{3}}{3}$
+c) $\frac{a\sqrt{6}}{2}$
+d) $a\sqrt{2}$
+
+1. Công thức tính xác suất cổ điển của biến cố A trong không gian mẫu hữu hạn là:
+... Gợi ý: Xác suất bằng số kết quả thuận lợi chia cho tổng số kết quả có thể.
++   Phản hồi đúng: Chính xác! Công thức xác suất cổ điển là P(A) = |A|/|Ω|, trong đó |A| là số phần tử của biến cố A và |Ω| là số phần tử của không gian mẫu.
+-   Phản hồi sai: Cần nhớ công thức cơ bản: xác suất = số kết quả thuận lợi chia cho tổng số kết quả có thể.
+a) $P(A) = \frac{|\Omega|}{|A|}$
+*b) $P(A) = \frac{|A|}{|\Omega|}$
+c) $P(A) = |A| \times |\Omega|$
+d) $P(A) = |A| + |\Omega|$
+
+2. Quy tắc cộng xác suất cho hai biến cố A và B bất kỳ là:
+... Gợi ý: Khi tính xác suất hợp của hai biến cố, cần trừ đi phần giao để tránh tính trùng.
++   Phản hồi đúng: Đúng rồi! Quy tắc cộng tổng quát là P(A ∪ B) = P(A) + P(B) - P(A ∩ B) để tránh tính trùng phần giao.
+-   Phản hồi sai: Quy tắc cộng tổng quát phải trừ đi P(A ∩ B) để không tính trùng phần giao của hai biến cố.
+a) $P(A \cup B) = P(A) + P(B)$
+*b) $P(A \cup B) = P(A) + P(B) - P(A \cap B)$
+c) $P(A \cup B) = P(A) \times P(B)$
+d) $P(A \cup B) = P(A) - P(B)$
+
+3. Gieo một xúc xắc cân đối. Xác suất để xuất hiện mặt có số chấm chẵn là:
+... Gợi ý: Xác định các mặt có số chấm chẵn trên xúc xắc 6 mặt.
++   Phản hồi đúng: Chính xác! Các mặt chẵn là 2, 4, 6 (3 mặt). Xác suất = 3/6 = 1/2.
+-   Phản hồi sai: Cần đếm đúng số mặt chẵn (2, 4, 6) và áp dụng công thức P(A) = số kết quả thuận lợi/tổng số kết quả.
+a) $\frac{1}{6}$
+b) $\frac{1}{3}$
+*c) $\frac{1}{2}$
+d) $\frac{2}{3}$
+
+4. Cho $P(A) = 0.3$. Xác suất của biến cố đối $P(\overline{A})$ bằng:
+... Gợi ý: Sử dụng tính chất P(A) + P(Ā) = 1.
++   Phản hồi đúng: Đúng! Theo tính chất biến cố đối: P(Ā) = 1 - P(A) = 1 - 0.3 = 0.7.
+-   Phản hồi sai: Nhớ công thức P(Ā) = 1 - P(A) với A và Ā là hai biến cố đối nhau.
+a) $0.3$
+*b) $0.7$
+c) $1.3$
+d) $-0.3$
+
+5. Cho hai biến cố xung khắc A và B với $P(A) = 0.4$ và $P(B) = 0.3$. Tính $P(A \cup B)$:
+... Gợi ý: Khi hai biến cố xung khắc thì P(A ∩ B) = 0.
++   Phản hồi đúng: Chính xác! Vì A và B xung khắc nên P(A ∩ B) = 0, do đó P(A ∪ B) = P(A) + P(B) = 0.4 + 0.3 = 0.7.
+-   Phản hồi sai: Với hai biến cố xung khắc, ta có P(A ∪ B) = P(A) + P(B) vì P(A ∩ B) = 0.
+a) $0.12$
+*b) $0.7$
+c) $0.1$
+d) $1.7$
+
+6. Giá trị nào sau đây có thể là xác suất của một biến cố?
+... Gợi ý: Xác suất luôn nằm trong khoảng từ 0 đến 1.
++   Phản hồi đúng: Đúng! Xác suất luôn thỏa mãn 0 ≤ P(A) ≤ 1, và 0.8 nằm trong khoảng này.
+-   Phản hồi sai: Xác suất phải thỏa mãn điều kiện 0 ≤ P(A) ≤ 1, không thể âm hoặc lớn hơn 1.
+a) $-0.5$
+b) $1.2$
+*c) $0.8$
+d) $2$
+
+7. Nếu A và B là hai biến cố độc lập với $P(A) = 0.6$ và $P(B) = 0.4$, thì $P(A \cap B)$ bằng:
+... Gợi ý: Với hai biến cố độc lập, P(A ∩ B) = P(A) × P(B).
++   Phản hồi đúng: Chính xác! Vì A và B độc lập nên P(A ∩ B) = P(A) × P(B) = 0.6 × 0.4 = 0.24.
+-   Phản hồi sai: Với hai biến cố độc lập, ta sử dụng quy tắc nhân: P(A ∩ B) = P(A) × P(B).
+a) $0.2$
+*b) $0.24$
+c) $1$
+d) $0.1$
+
+8. Trong hộp có 5 viên bi đỏ và 3 viên bi xanh. Lấy ngẫu nhiên 1 viên bi. Xác suất để được bi đỏ là:
+... Gợi ý: Tính tỷ lệ số bi đỏ trên tổng số bi.
++   Phản hồi đúng: Đúng! Có 5 bi đỏ trong tổng số 8 bi, nên xác suất = 5/8.
+-   Phản hồi sai: Cần đếm đúng số bi đỏ (5) và tổng số bi (5+3=8), rồi áp dụng công thức xác suất.
+a) $\frac{3}{8}$
+*b) $\frac{5}{8}$
+c) $\frac{3}{5}$
+d) $\frac{5}{3}$
+
+9. Rút ngẫu nhiên một lá bài từ bộ bài 52 lá. Xác suất rút được lá bài màu đỏ là:
+... Gợi ý: Trong bộ bài 52 lá có bao nhiêu lá màu đỏ (cơ và rô)?
++   Phản hồi đúng: Chính xác! Có 26 lá màu đỏ (13 cơ + 13 rô) trong 52 lá, nên xác suất = 26/52 = 1/2.
+-   Phản hồi sai: Bộ bài 52 lá có 26 lá màu đỏ (cơ và rô), xác suất = 26/52 = 1/2.
+a) $\frac{1}{4}$
+b) $\frac{1}{3}$
+*c) $\frac{1}{2}$
+d) $\frac{2}{3}$
+
+10. Quy tắc nhân xác suất cho hai biến cố A và B bất kỳ là:
+... Gợi ý: Sử dụng khái niệm xác suất có điều kiện.
++   Phản hồi đúng: Đúng! Quy tắc nhân tổng quát là P(A ∩ B) = P(A) × P(B|A), trong đó P(B|A) là xác suất có điều kiện.
+-   Phản hồi sai: Quy tắc nhân sử dụng xác suất có điều kiện: P(A ∩ B) = P(A) × P(B|A).
+a) $P(A \cap B) = P(A) + P(B)$
+*b) $P(A \cap B) = P(A) \times P(B|A)$
+c) $P(A \cap B) = P(A) - P(B)$
+d) $P(A \cap B) = \frac{P(A)}{P(B)}$
+
+11. Gieo đồng thời hai xúc xắc cân đối. Xác suất để tổng số chấm bằng 7 là:
+... Gợi ý: Liệt kê các cặp số có tổng bằng 7.
++   Phản hồi đúng: Chính xác! Có 6 cặp: (1,6), (2,5), (3,4), (4,3), (5,2), (6,1) trong tổng 36 kết quả, nên xác suất = 6/36 = 1/6.
+-   Phản hồi sai: Cần liệt kê tất cả các cặp có tổng bằng 7 và chia cho tổng số kết quả (36).
+a) $\frac{1}{12}$
+*b) $\frac{1}{6}$
+c) $\frac{1}{4}$
+d) $\frac{1}{3}$
+
+12. Cho $P(A) = 0.5$, $P(B) = 0.3$ và $P(A \cap B) = 0.1$. Tính $P(A \cup B)$:
+... Gợi ý: Áp dụng quy tắc cộng xác suất.
++   Phản hồi đúng: Đúng! Áp dụng quy tắc cộng: P(A ∪ B) = P(A) + P(B) - P(A ∩ B) = 0.5 + 0.3 - 0.1 = 0.7.
+-   Phản hồi sai: Sử dụng công thức P(A ∪ B) = P(A) + P(B) - P(A ∩ B) và thay số.
+a) $0.8$
+*b) $0.7$
+c) $0.9$
+d) $0.4$
+
+13. Xác suất của biến cố chắc chắn $\Omega$ bằng:
+... Gợi ý: Biến cố chắc chắn luôn xảy ra.
++   Phản hồi đúng: Chính xác! Biến cố chắc chắn Ω luôn xảy ra nên P(Ω) = 1.
+-   Phản hồi sai: Biến cố chắc chắn là biến cố luôn xảy ra, do đó có xác suất bằng 1.
+a) $0$
+*b) $1$
+c) $0.5$
+d) Không xác định
+
+14. Trong hộp có 10 quả cầu được đánh số từ 1 đến 10. Lấy ngẫu nhiên 1 quả. Xác suất để được số chia hết cho 3 là:
+... Gợi ý: Tìm các số từ 1 đến 10 chia hết cho 3.
++   Phản hồi đúng: Đúng! Các số chia hết cho 3 là: 3, 6, 9 (3 số). Xác suất = 3/10.
+-   Phản hồi sai: Cần tìm đúng các số chia hết cho 3 trong khoảng từ 1 đến 10.
+a) $\frac{1}{10}$
+b) $\frac{2}{10}$
+*c) $\frac{3}{10}$
+d) $\frac{4}{10}$
+
+15. Cho hai biến cố A và B với $P(A) = 0.6$, $P(B) = 0.4$. Nếu A và B độc lập, thì $P(A \cup B)$ bằng:
+... Gợi ý: Với biến cố độc lập, tìm P(A ∩ B) trước rồi áp dụng quy tắc cộng.
++   Phản hồi đúng: Chính xác! Vì A, B độc lập nên P(A ∩ B) = 0.6 × 0.4 = 0.24. Do đó P(A ∪ B) = 0.6 + 0.4 - 0.24 = 0.76.
+-   Phản hồi sai: Với biến cố độc lập, tính P(A ∩ B) = P(A) × P(B), rồi dùng quy tắc cộng.
+a) $0.24$
+*b) $0.76$
+c) $1$
+d) $0.2$
+
+16. Xác suất của biến cố không thể $\emptyset$ bằng:
+... Gợi ý: Biến cố không thể không bao giờ xảy ra.
++   Phản hồi đúng: Đúng! Biến cố không thể ∅ không bao giờ xảy ra nên P(∅) = 0.
+-   Phản hồi sai: Biến cố không thể là biến cố không bao giờ xảy ra, do đó có xác suất bằng 0.
+*a) $0$
+b) $1$
+c) $0.5$
+d) Không xác định
+
+17. Rút ngẫu nhiên một thẻ từ hộp chứa 12 thẻ đánh số từ 1 đến 12. Xác suất để được số nguyên tố là:
+... Gợi ý: Tìm các số nguyên tố từ 1 đến 12.
++   Phản hồi đúng: Chính xác! Các số nguyên tố từ 1 đến 12 là: 2, 3, 5, 7, 11 (5 số). Xác suất = 5/12.
+-   Phản hồi sai: Cần nhớ định nghĩa số nguyên tố và liệt kê đúng các số nguyên tố từ 1 đến 12.
+a) $\frac{4}{12}$
+*b) $\frac{5}{12}$
+c) $\frac{6}{12}$
+d) $\frac{7}{12}$
+
+18. Cho $P(A) = 0.7$ và $P(B) = 0.8$. Giá trị nhỏ nhất có thể của $P(A \cap B)$ là:
+... Gợi ý: Sử dụng bất đẳng thức P(A) + P(B) - 1 ≤ P(A ∩ B).
++   Phản hồi đúng: Đúng! Theo bất đẳng thức cơ bản, P(A ∩ B) ≥ P(A) + P(B) - 1 = 0.7 + 0.8 - 1 = 0.5.
+-   Phản hồi sai: Sử dụng bất đẳng thức P(A ∩ B) ≥ P(A) + P(B) - 1 để tìm giá trị nhỏ nhất.
+a) $0$
+b) $0.1$
+c) $0.3$
+*d) $0.5$
+
+19. Gieo một đồng xu cân đối 2 lần. Xác suất để được ít nhất 1 mặt sấp là:
+... Gợi ý: Sử dụng biến cố đối: "ít nhất 1 sấp" đối với "không có sấp nào".
++   Phản hồi đúng: Chính xác! P(ít nhất 1 sấp) = 1 - P(không có sấp) = 1 - P(2 mặt ngửa) = 1 - (1/2)² = 1 - 1/4 = 3/4.
+-   Phản hồi sai: Sử dụng biến cố đối để tính: P(ít nhất 1 sấp) = 1 - P(tất cả ngửa).
+a) $\frac{1}{4}$
+b) $\frac{1}{2}$
+*c) $\frac{3}{4}$
+d) $1$
+
+20. Trong lớp có 15 học sinh nam và 10 học sinh nữ. Chọn ngẫu nhiên 1 học sinh. Xác suất để được học sinh nữ là:
+... Gợi ý: Tính tỷ lệ số học sinh nữ trên tổng số học sinh.
++   Phản hồi đúng: Đúng! Có 10 học sinh nữ trong tổng số 25 học sinh, nên xác suất = 10/25 = 2/5.
+-   Phản hồi sai: Cần đếm đúng tổng số học sinh (15+10=25) và áp dụng công thức xác suất.
+a) $\frac{1}{5}$
+*b) $\frac{2}{5}$
+c) $\frac{3}{5}$
+d) $\frac{2}{3}$
+
+1. Cho hai biến cố A và B với $P(A) = 0,6$; $P(B) = 0,4$; $P(A \cap B) = 0,24$. Hai biến cố A và B có mối quan hệ như thế nào?
+    Gợi ý: Kiểm tra điều kiện độc lập bằng cách so sánh $P(A \cap B)$ với $P(A) \times P(B)$.
++   Phản hồi đúng: Chính xác! Vì $P(A \cap B) = 0,24 = 0,6 \times 0,4 = P(A) \times P(B)$ nên A và B độc lập.
+-   Phản hồi sai: Cần kiểm tra điều kiện độc lập: Hai biến cố A và B độc lập khi và chỉ khi $P(A \cap B) = P(A) \times P(B)$.
+a) A và B xung khắc
+b) A và B không độc lập
+*c) A và B độc lập
+d) A và B đối nhau
+
+2. Trong một lớp học có 30 học sinh, có 18 em thích môn Toán, 20 em thích môn Lý, 12 em thích cả hai môn. Xác suất để một học sinh được chọn ngẫu nhiên thích ít nhất một trong hai môn là:
+    Gợi ý: Sử dụng quy tắc cộng xác suất: $P(A \cup B) = P(A) + P(B) - P(A \cap B)$.
++   Phản hồi đúng: Đúng rồi! $P(A \cup B) = \frac{18}{30} + \frac{20}{30} - \frac{12}{30} = \frac{26}{30} = \frac{13}{15}$.
+-   Phản hồi sai: Khi tính xác suất hợp của hai biến cố, cần trừ đi phần giao để tránh tính trùng lặp.
+a) $\frac{2}{3}$
+*b) $\frac{13}{15}$
+c) $\frac{19}{30}$
+d) $\frac{4}{5}$
+
+3. Một hộp chứa 6 bi đỏ và 4 bi xanh. Lấy liên tiếp 2 bi không hoàn lại. Xác suất để bi thứ nhất là đỏ và bi thứ hai là xanh là:
+    Gợi ý: Sử dụng quy tắc nhân: $P(A \cap B) = P(A) \times P(B|A)$.
++   Phản hồi đúng: Chính xác! $P(\text{đỏ đầu, xanh sau}) = \frac{6}{10} \times \frac{4}{9} = \frac{24}{90} = \frac{4}{15}$.
+-   Phản hồi sai: Lưu ý rằng sau khi lấy bi thứ nhất, tổng số bi còn lại thay đổi.
+a) $\frac{6}{25}$
+*b) $\frac{4}{15}$
+c) $\frac{2}{9}$
+d) $\frac{1}{4}$
+
+4. Cho $P(A) = 0,7$ và $P(A|B) = 0,8$. Nếu $P(B) = 0,5$ thì $P(A \cap B)$ bằng:
+    Gợi ý: Sử dụng định nghĩa xác suất có điều kiện: $P(A|B) = \frac{P(A \cap B)}{P(B)}$.
++   Phản hồi đúng: Đúng! Từ $P(A|B) = \frac{P(A \cap B)}{P(B)}$ suy ra $P(A \cap B) = P(A|B) \times P(B) = 0,8 \times 0,5 = 0,4$.
+-   Phản hồi sai: Công thức xác suất có điều kiện là $P(A|B) = \frac{P(A \cap B)}{P(B)}$, từ đó tính được $P(A \cap B)$.
+a) 0,35
+*b) 0,4
+c) 0,6
+d) 1,6
+
+5. Tung một đồng xu cân đối hai lần. Gọi A là biến cố "lần đầu ra mặt ngửa", B là biến cố "lần thứ hai ra mặt sấp". Khẳng định nào sau đây đúng?
+    Gợi ý: Xét tính độc lập của hai lần tung đồng xu.
++   Phản hồi đúng: Chính xác! Hai lần tung độc lập nhau nên $P(A \cap B) = P(A) \times P(B) = \frac{1}{2} \times \frac{1}{2} = \frac{1}{4}$.
+-   Phản hồi sai: Kết quả của lần tung thứ nhất không ảnh hưởng đến lần tung thứ hai nên hai biến cố độc lập.
+a) A và B xung khắc
+b) $P(A|B) = 0$
+*c) $P(A \cap B) = \frac{1}{4}$
+d) $P(A \cup B) = 1$
+
+6. Trong một khảo sát, xác suất để một người thích cà phê là 0,6, thích trà là 0,5, thích cả hai là 0,3. Xác suất để người đó không thích đồ uống nào là:
+    Gợi ý: Tính $P(A \cup B)$ trước, sau đó tìm $P(\overline{A \cup B}) = 1 - P(A \cup B)$.
++   Phản hồi đúng: Đúng! $P(A \cup B) = 0,6 + 0,5 - 0,3 = 0,8$, nên $P(\overline{A \cup B}) = 1 - 0,8 = 0,2$.
+-   Phản hồi sai: Biến cố "không thích đồ uống nào" là biến cố đối của "thích ít nhất một đồ uống".
+a) 0,1
+*b) 0,2
+c) 0,3
+d) 0,4
+
+7. Một cửa hàng nhập hàng từ hai nhà cung cấp A và B với tỷ lệ 60% và 40%. Tỷ lệ hàng tốt từ A là 90%, từ B là 80%. Xác suất để một sản phẩm ngẫu nhiên là hàng tốt là:
+    Gợi ý: Áp dụng công thức xác suất toàn phần.
++   Phản hồi đúng: Chính xác! $P(\text{tốt}) = 0,6 \times 0,9 + 0,4 \times 0,8 = 0,54 + 0,32 = 0,86$.
+-   Phản hồi sai: Sử dụng công thức xác suất toàn phần: $P(A) = P(A|B_1)P(B_1) + P(A|B_2)P(B_2)$.
+a) 0,84
+*b) 0,86
+c) 0,88
+d) 0,90
+
+8. Cho hai biến cố A và B sao cho $P(A) = 0,4$, $P(B) = 0,7$, $P(A \cup B) = 0,9$. Giá trị của $P(A \cap B)$ là:
+    Gợi ý: Sử dụng công thức $P(A \cup B) = P(A) + P(B) - P(A \cap B)$.
++   Phản hồi đúng: Đúng! Từ công thức quy tắc cộng: $P(A \cap B) = P(A) + P(B) - P(A \cup B) = 0,4 + 0,7 - 0,9 = 0,2$.
+-   Phản hồi sai: Biến đổi công thức quy tắc cộng để tìm $P(A \cap B) = P(A) + P(B) - P(A \cup B)$.
+a) 0,1
+*b) 0,2
+c) 0,3
+d) 0,28
+
+9. Trong một lớp có 25 học sinh, 15 em giỏi Toán, 12 em giỏi Văn. Biết có 5 em giỏi cả hai môn. Chọn ngẫu nhiên một học sinh giỏi Toán, xác suất để em đó cũng giỏi Văn là:
+    Gợi ý: Tính xác suất có điều kiện $P(\text{Văn}|\text{Toán})$.
++   Phản hồi đúng: Chính xác! $P(\text{Văn}|\text{Toán}) = \frac{P(\text{Văn} \cap \text{Toán})}{P(\text{Toán})} = \frac{5/25}{15/25} = \frac{5}{15} = \frac{1}{3}$.
+-   Phản hồi sai: Xác suất có điều kiện được tính bằng $P(A|B) = \frac{P(A \cap B)}{P(B)}$.
+a) $\frac{1}{5}$
+b) $\frac{1}{4}$
+*c) $\frac{1}{3}$
+d) $\frac{2}{5}$
+
+10. Gieo một xúc xắc cân đối hai lần. Gọi A là biến cố "tổng hai mặt bằng 7", B là biến cố "lần đầu ra mặt 3". Xác suất $P(A|B)$ bằng:
+     Gợi ý: Khi lần đầu ra mặt 3, tìm xác suất để tổng bằng 7.
++    Phản hồi đúng: Đúng! Nếu lần đầu ra 3, để tổng bằng 7 thì lần hai phải ra 4. $P(A|B) = \frac{1}{6}$.
+-    Phản hồi sai: Điều kiện B đã xảy ra, cần tìm xác suất A xảy ra trong điều kiện này.
+a) $\frac{1}{36}$
+*b) $\frac{1}{6}$
+c) $\frac{1}{3}$
+d) $\frac{1}{2}$
+
+11. Một hộp có 8 viên bi gồm 5 bi trắng và 3 bi đen. Lấy ngẫu nhiên 2 bi không hoàn lại. Xác suất để hai bi cùng màu là:
+     Gợi ý: Tính xác suất lấy được 2 bi trắng cộng với xác suất lấy được 2 bi đen.
++    Phản hồi đúng: Đúng! $P = \frac{5}{8} \times \frac{4}{7} + \frac{3}{8} \times \frac{2}{7} = \frac{20}{56} + \frac{6}{56} = \frac{26}{56} = \frac{13}{28}$.
+-    Phản hồi sai: Biến cố "cùng màu" gồm hai trường hợp: cả hai trắng hoặc cả hai đen.
+a) $\frac{3}{14}$
+b) $\frac{5}{14}$
+*c) $\frac{13}{28}$
+d) $\frac{1}{2}$
+
+12. Cho $P(A) = 0,3$, $P(B) = 0,5$, $P(A \cap B) = 0,1$. Xác suất $P(B|A)$ bằng:
+     Gợi ý: Sử dụng định nghĩa xác suất có điều kiện.
++    Phản hồi đúng: Chính xác! $P(B|A) = \frac{P(A \cap B)}{P(A)} = \frac{0,1}{0,3} = \frac{1}{3}$.
+-    Phản hồi sai: Công thức xác suất có điều kiện: $P(B|A) = \frac{P(A \cap B)}{P(A)}$.
+a) $\frac{1}{5}$
+b) $\frac{1}{4}$
+*c) $\frac{1}{3}$
+d) $\frac{2}{5}$
+
+13. Một trường có 60% học sinh nam và 40% học sinh nữ. Tỷ lệ học sinh nam thích thể thao là 80%, học sinh nữ thích thể thao là 60%. Chọn ngẫu nhiên một học sinh thích thể thao, xác suất để đó là học sinh nam là:
+     Gợi ý: Sử dụng công thức Bayes sau khi tính xác suất toàn phần.
++    Phản hồi đúng: Đúng! $P(\text{nam}|\text{thể thao}) = \frac{0,6 \times 0,8}{0,6 \times 0,8 + 0,4 \times 0,6} = \frac{0,48}{0,72} = \frac{2}{3}$.
+-    Phản hồi sai: Đây là bài toán áp dụng công thức Bayes để tìm xác suất nguyên nhân.
+a) $\frac{3}{5}$
+*b) $\frac{2}{3}$
+c) $\frac{4}{5}$
+d) $\frac{3}{4}$
+
+14. Cho hai biến cố A và B với $P(A) = 0,6$, $P(B) = 0,4$, $P(A \cup B) = 0,8$. Hai biến cố A và B có tính chất gì?
+     Gợi ý: Tính $P(A \cap B)$ rồi so sánh với $P(A) \times P(B)$.
++    Phản hồi đúng: Đúng! $P(A \cap B) = 0,6 + 0,4 - 0,8 = 0,2 \neq 0,24 = P(A) \times P(B)$, nên không độc lập.
+-    Phản hồi sai: Hai biến cố độc lập khi và chỉ khi $P(A \cap B) = P(A) \times P(B)$.
+a) Độc lập
+*b) Không độc lập
+c) Xung khắc
+d) Đối nhau
+
+15. Một túi có 12 quả bóng gồm 7 quả đỏ và 5 quả xanh. Lấy ngẫu nhiên 3 quả. Xác suất để có ít nhất 1 quả đỏ là:
+     Gợi ý: Sử dụng biến cố đối: $P(\text{ít nhất 1 đỏ}) = 1 - P(\text{cả 3 đều xanh})$.
++    Phản hồi đúng: Chính xác! $P = 1 - \frac{5}{12} \times \frac{4}{11} \times \frac{3}{10} = 1 - \frac{60}{1320} = 1 - \frac{1}{22} = \frac{21}{22}$.
+-    Phản hồi sai: Dùng biến cố đối sẽ đơn giản hơn việc tính trực tiếp các trường hợp có 1, 2, hoặc 3 quả đỏ.
+a) $\frac{19}{22}$
+b) $\frac{20}{22}$
+*c) $\frac{21}{22}$
+d) $\frac{7}{12}$
+
+16. Trong một kỳ thi, xác suất để thí sinh A đỗ là 0,8, thí sinh B đỗ là 0,7. Biết kết quả thi của hai thí sinh độc lập. Xác suất để có đúng một thí sinh đỗ là:
+     Gợi ý: "Đúng một thí sinh đỗ" có nghĩa là "A đỗ và B trượt" hoặc "A trượt và B đỗ".
++    Phản hồi đúng: Chính xác! $P = 0,8 \times 0,3 + 0,2 \times 0,7 = 0,24 + 0,14 = 0,38$.
+-    Phản hồi sai: Biến cố "đúng một thí sinh đỗ" gồm hai trường hợp xung khắc.
+a) 0,34
+*b) 0,38
+c) 0,42
+d) 0,56
+
+17. Có 3 hộp bi: Hộp 1 có 4 bi đỏ và 2 bi xanh, Hộp 2 có 3 bi đỏ và 3 bi xanh, Hộp 3 có 2 bi đỏ và 4 bi xanh. Chọn ngẫu nhiên một hộp rồi lấy một bi. Xác suất để lấy được bi đỏ là:
+     Gợi ý: Áp dụng công thức xác suất toàn phần với 3 hộp có xác suất chọn bằng nhau.
++    Phản hồi đúng: Đúng! $P = \frac{1}{3} \times \frac{4}{6} + \frac{1}{3} \times \frac{3}{6} + \frac{1}{3} \times \frac{2}{6} = \frac{1}{3} \times \frac{9}{6} = \frac{1}{2}$.
+-    Phản hồi sai: Mỗi hộp có xác suất được chọn là $\frac{1}{3}$, sau đó tính xác suất lấy bi đỏ từ mỗi hộp.
+a) $\frac{5}{12}$
+*b) $\frac{1}{2}$
+c) $\frac{7}{12}$
+d) $\frac{2}{3}$
+
+18. Cho $P(A) = 0,4$, $P(\overline{A} \cap B) = 0,3$, $P(\overline{B}) = 0,6$. Xác suất $P(A \cap B)$ bằng:
+     Gợi ý: Sử dụng $P(B) = 1 - P(\overline{B})$ và $P(B) = P(A \cap B) + P(\overline{A} \cap B)$.
++    Phản hồi đúng: Chính xác! $P(B) = 1 - 0,6 = 0,4$. Do đó $P(A \cap B) = P(B) - P(\overline{A} \cap B) = 0,4 - 0,3 = 0,1$.
+-    Phản hồi sai: Biến cố B được phân tích thành hai phần xung khắc: $(A \cap B)$ và $(\overline{A} \cap B)$.
+*a) 0,1
+b) 0,2
+c) 0,3
+d) 0,7
+
+19. Một công ty sản xuất có 2 máy A và B. Máy A sản xuất 60% tổng sản lượng với tỷ lệ lỗi 2%. Máy B sản xuất 40% với tỷ lệ lỗi 3%. Lấy ngẫu nhiên một sản phẩm bị lỗi, xác suất để nó do máy A sản xuất là:
+     Gợi ý: Sử dụng công thức Bayes sau khi tính xác suất sản phẩm lỗi.
++    Phản hồi đúng: Đúng! $P(\text{A}|\text{lỗi}) = \frac{0,6 \times 0,02}{0,6 \times 0,02 + 0,4 \times 0,03} = \frac{0,012}{0,024} = \frac{1}{2}$.
+-    Phản hồi sai: Đây là bài toán áp dụng công thức Bayes để tìm xác suất nguyên nhân gây ra sản phẩm lỗi.
+a) $\frac{2}{5}$
+*b) $\frac{1}{2}$
+c) $\frac{3}{5}$
+d) $\frac{2}{3}$
+
+20. Gieo đồng thời 2 đồng xu cân đối. Gọi A là biến cố "có ít nhất một mặt ngửa", B là biến cố "hai mặt khác nhau". Xác suất $P(A \cap B)$ bằng:
+     Gợi ý: Liệt kê không gian mẫu và xác định các biến cố A, B, sau đó tìm giao.
++    Phản hồi đúng: Chính xác! $A \cap B$ là biến cố "có đúng một mặt ngửa", có 2 kết quả thuận lợi trong 4 kết quả. $P(A \cap B) = \frac{1}{2}$.
+-    Phản hồi sai: Không gian mẫu có 4 kết quả: NN, NS, SN, SS. Xác định từng biến cố rồi tìm giao.
+a) $\frac{1}{4}$
+*b) $\frac{1}{2}$
+c) $\frac{3}{4}$
+d) 1
+
+1. Một hệ thống phân tích máu tự động có độ chính xác 96% khi phát hiện bệnh tiểu đường và 94% khi xác định người khỏe mạnh. Biết tỷ lệ mắc bệnh tiểu đường trong dân số là 8%. Nếu một người được xét nghiệm cho kết quả dương tính, xác suất người đó thực sự mắc bệnh là bao nhiêu?
+... Gợi ý: Sử dụng công thức Bayes để tính xác suất có điều kiện ngược.
++   Phản hồi đúng: Áp dụng công thức Bayes: P(Bệnh|Dương tính) = P(Dương tính|Bệnh) × P(Bệnh) / P(Dương tính). Trong đó P(Dương tính) = P(Dương tính|Bệnh) × P(Bệnh) + P(Dương tính|Khỏe) × P(Khỏe) = 0.96 × 0.08 + 0.06 × 0.92 = 0.1328. Vậy P(Bệnh|Dương tính) = (0.96 × 0.08) / 0.1328 ≈ 0.58.
+-   Phản hồi sai: Lưu ý phân biệt giữa P(Dương tính|Bệnh) và P(Bệnh|Dương tính). Cần sử dụng công thức xác suất toàn phần để tính P(Dương tính) trước.
+a) 0.42
+*b) 0.58
+c) 0.75
+d) 0.96
+
+2. Công ty sản xuất smartphone có ba dây chuyền A, B, C với sản lượng lần lượt là 45%, 35%, 20% và tỷ lệ lỗi tương ứng là 2%, 3%, 1%. Biết một sản phẩm bị lỗi, xác suất nó được sản xuất từ dây chuyền B là bao nhiêu?
+... Gợi ý: Sử dụng công thức Bayes với các biến cố điều kiện.
++   Phản hồi đúng: Tính P(B|Lỗi) = P(Lỗi|B) × P(B) / P(Lỗi). Trong đó P(Lỗi) = 0.02×0.45 + 0.03×0.35 + 0.01×0.20 = 0.0215. Vậy P(B|Lỗi) = (0.03×0.35) / 0.0215 ≈ 0.49.
+-   Phản hồi sai: Cần tính xác suất lỗi tổng thể bằng công thức xác suất toàn phần trước khi áp dụng Bayes.
+a) 0.35
+*b) 0.49
+c) 0.56
+d) 0.03
+
+3. Trong một cuộc khảo sát giáo dục, 70% học sinh học chuyên Toán và trong nhóm này 80% đạt điểm Tiếng Anh ≥ 8. Nhóm học sinh không chuyên Toán có 60% đạt điểm Tiếng Anh ≥ 8. Xác suất để một học sinh ngẫu nhiên đạt điểm Tiếng Anh ≥ 8 là bao nhiêu?
+... Gợi ý: Áp dụng công thức xác suất toàn phần.
++   Phản hồi đúng: P(TA≥8) = P(TA≥8|Toán) × P(Toán) + P(TA≥8|Không Toán) × P(Không Toán) = 0.8×0.7 + 0.6×0.3 = 0.56 + 0.18 = 0.74.
+-   Phản hồi sai: Không thể chỉ lấy trung bình đơn giản. Phải tính theo trọng số của từng nhóm.
+a) 0.68
+b) 0.70
+*c) 0.74
+d) 0.80
+
+4. Hệ thống bảo mật ngân hàng có 3 lớp độc lập: lớp 1 chặn 90% tấn công, lớp 2 chặn 85% tấn công còn lại, lớp 3 chặn 75% tấn công cuối cùng. Xác suất một cuộc tấn công vượt qua cả 3 lớp bảo mật là bao nhiêu?
+... Gợi ý: Tính xác suất vượt qua từng lớp rồi nhân với nhau do các lớp độc lập.
++   Phản hồi đúng: Xác suất vượt qua lớp 1: 0.1, lớp 2: 0.15, lớp 3: 0.25. Do độc lập nên xác suất vượt qua cả 3 lớp = 0.1 × 0.15 × 0.25 = 0.00375.
+-   Phản hồi sai: Lưu ý các lớp bảo mật hoạt động độc lập, nên áp dụng quy tắc nhân cho biến cố độc lập.
+a) 0.0025
+*b) 0.00375
+c) 0.005
+d) 0.01
+
+5. Trong kỳ thi THPT, thống kê cho thấy 65% học sinh chọn tổ hợp khoa học tự nhiên. Trong nhóm này, 85% đạt điểm Toán ≥ 7. Nhóm còn lại có 55% đạt điểm Toán ≥ 7. Biết một học sinh đạt điểm Toán ≥ 7, xác suất học sinh đó học tổ hợp khoa học tự nhiên là bao nhiêu?
+... Gợi ý: Sử dụng công thức Bayes để tính xác suất ngược.
++   Phản hồi đúng: P(TN) = 0.65, P(T≥7|TN) = 0.85, P(T≥7|XH) = 0.55. P(T≥7) = 0.85×0.65 + 0.55×0.35 = 0.745. P(TN|T≥7) = (0.85×0.65)/0.745 ≈ 0.74.
+-   Phản hồi sai: Cần tính xác suất đạt điểm Toán ≥ 7 chung trước khi áp dụng Bayes.
+a) 0.65
+*b) 0.74
+c) 0.85
+d) 0.92
+
+6. Một công ty kiểm định chất lượng sản phẩm bằng 2 bước độc lập. Bước 1 phát hiện 95% lỗi, bước 2 phát hiện 88% lỗi còn lại. Biết tỷ lệ sản phẩm lỗi ban đầu là 12%. Xác suất một sản phẩm bị lỗi nhưng không bị phát hiện là bao nhiêu?
+... Gợi ý: Tính xác suất sản phẩm lỗi và vượt qua cả 2 bước kiểm định.
++   Phản hồi đúng: Xác suất sản phẩm lỗi vượt qua bước 1: 0.05, vượt qua bước 2: 0.12. Xác suất lỗi nhưng không phát hiện = 0.12 × 0.05 × 0.12 = 0.0072.
+-   Phản hồi sai: Lưu ý phải nhân với tỷ lệ sản phẩm lỗi ban đầu và xác suất vượt qua cả 2 bước.
+a) 0.006
+*b) 0.0072
+c) 0.008
+d) 0.01
+
+7. Trong một nghiên cứu y tế, test A phát hiện 92% ca bệnh thực, test B phát hiện 88% ca bệnh thực. Khi làm cả 2 test độc lập trên cùng một bệnh nhân, xác suất ít nhất một test phát hiện ra bệnh (biết bệnh nhân mắc bệnh) là bao nhiêu?
+... Gợi ý: Sử dụng quy tắc cộng hoặc tính xác suất biến cố đối.
++   Phản hồi đúng: P(A∪B) = P(A) + P(B) - P(A∩B) = 0.92 + 0.88 - 0.92×0.88 = 1.8 - 0.8096 = 0.9904. Hoặc 1 - P(cả 2 đều không phát hiện) = 1 - 0.08×0.12 = 0.9904.
+-   Phản hồi sai: Không thể cộng trực tiếp 0.92 + 0.88 vì có phần giao nhau. Cần trừ đi P(A∩B).
+a) 0.96
+*b) 0.9904
+c) 0.9936
+d) 1.0
+
+8. Một hệ thống AI phân loại email có 3 bộ lọc nối tiếp. Bộ lọc 1 chặn 80% spam, bộ lọc 2 chặn 70% spam còn lại, bộ lọc 3 chặn 60% spam cuối cùng. Biết 40% email là spam, xác suất một email spam vượt qua cả 3 bộ lọc là bao nhiêu?
+... Gợi ý: Tính xác suất spam vượt qua từng bộ lọc liên tiếp.
++   Phản hồi đúng: Xác suất spam vượt qua lọc 1: 0.2, vượt qua lọc 2: 0.3, vượt qua lọc 3: 0.4. Xác suất spam vượt qua cả 3: 0.4 × 0.2 × 0.3 × 0.4 = 0.0096.
+-   Phản hồi sai: Cần nhân với tỷ lệ email spam ban đầu và xác suất vượt qua từng bộ lọc liên tiếp.
+a) 0.008
+*b) 0.0096
+c) 0.012
+d) 0.024
+
+9. Trong một công ty, 60% nhân viên là nam và 40% là nữ. Tỷ lệ nhân viên nam có bằng đại học là 75%, tỷ lệ nhân viên nữ có bằng đại học là 85%. Chọn ngẫu nhiên một nhân viên có bằng đại học, xác suất đó là nhân viên nữ là bao nhiêu?
+... Gợi ý: Áp dụng công thức Bayes với điều kiện có bằng đại học.
++   Phản hồi đúng: P(ĐH) = 0.75×0.6 + 0.85×0.4 = 0.79. P(Nữ|ĐH) = (0.85×0.4)/0.79 = 0.34/0.79 ≈ 0.43.
+-   Phản hồi sai: Cần tính tỷ lệ nhân viên có bằng đại học chung trước khi áp dụng Bayes.
+a) 0.40
+*b) 0.43
+c) 0.57
+d) 0.85
+
+10. Hệ thống radar của sân bay có 2 trạm độc lập A và B. Trạm A phát hiện 95% máy bay, trạm B phát hiện 90% máy bay. Xác suất cả 2 trạm đều không phát hiện một máy bay là bao nhiêu?
+... Gợi ý: Tính xác suất không phát hiện của từng trạm rồi nhân với nhau.
++   Phản hồi đúng: Xác suất trạm A không phát hiện: 0.05, trạm B không phát hiện: 0.10. Do độc lập nên xác suất cả 2 đều không phát hiện = 0.05 × 0.10 = 0.005.
+-   Phản hồi sai: Lưu ý tính xác suất biến cố đối (không phát hiện) rồi áp dụng quy tắc nhân cho biến cố độc lập.
+a) 0.001
+b) 0.003
+*c) 0.005
+d) 0.015
+
+11. Trong một thí nghiệm y học, thuốc A có hiệu quả 80%, thuốc B có hiệu quả 75%. Khi dùng cả 2 thuốc độc lập, xác suất ít nhất một thuốc có hiệu quả là bao nhiêu?
+... Gợi ý: Tính xác suất biến cố đối hoặc sử dụng quy tắc cộng.
++   Phản hồi đúng: Cách 1: 1 - P(cả 2 đều không hiệu quả) = 1 - 0.2×0.25 = 1 - 0.05 = 0.95. Cách 2: P(A∪B) = 0.8 + 0.75 - 0.8×0.75 = 0.95.
+-   Phản hồi sai: Không thể cộng trực tiếp 0.8 + 0.75. Nên dùng biến cố đối để tính đơn giản hơn.
+a) 0.90
+*b) 0.95
+c) 0.96
+d) 1.0
+
+12. Một factory sản xuất linh kiện điện tử với 3 máy: máy X (30% sản lượng, 1% lỗi), máy Y (45% sản lượng, 2% lỗi), máy Z (25% sản lượng, 3% lỗi). Xác suất một linh kiện ngẫu nhiên không bị lỗi là bao nhiêu?
+... Gợi ý: Sử dụng công thức xác suất toàn phần với biến cố đối.
++   Phản hồi đúng: P(không lỗi) = P(không lỗi|X)×P(X) + P(không lỗi|Y)×P(Y) + P(không lỗi|Z)×P(Z) = 0.99×0.3 + 0.98×0.45 + 0.97×0.25 = 0.98.
+-   Phản hồi sai: Phải tính xác suất không lỗi của từng máy rồi áp dụng công thức xác suất toàn phần.
+a) 0.975
+*b) 0.98
+c) 0.985
+d) 0.99
+
+13. Trong kỳ thi tuyển sinh, trường A nhận 40% hồ sơ với tỷ lệ đỗ 70%, trường B nhận 35% hồ sơ với tỷ lệ đỗ 60%, trường C nhận 25% hồ sơ với tỷ lệ đỗ 80%. Biết một thí sinh đỗ đại học, xác suất thí sinh đó thi vào trường C là bao nhiêu?
+... Gợi ý: Sử dụng công thức Bayes với điều kiện đỗ đại học.
++   Phản hồi đúng: P(đỗ) = 0.7×0.4 + 0.6×0.35 + 0.8×0.25 = 0.69. P(C|đỗ) = (0.8×0.25)/0.69 = 0.2/0.69 ≈ 0.29.
+-   Phản hồi sai: Cần tính xác suất đỗ đại học chung của cả 3 trường trước khi áp dụng Bayes.
+a) 0.25
+*b) 0.29
+c) 0.33
+d) 0.80
+
+14. Hệ thống phát hiện virus máy tính có 2 scanner độc lập A và B. Scanner A phát hiện 85% virus, scanner B phát hiện 80% virus. Xác suất cả 2 scanner đều phát hiện được virus là bao nhiêu?
+... Gợi ý: Áp dụng quy tắc nhân cho biến cố độc lập.
++   Phản hồi đúng: Do A và B độc lập nên P(A∩B) = P(A) × P(B) = 0.85 × 0.80 = 0.68.
+-   Phản hồi sai: Đây là biến cố giao của 2 sự kiện độc lập, áp dụng quy tắc nhân đơn giản.
+a) 0.65
+*b) 0.68
+c) 0.82
+d) 0.85
+
+15. Trong một cuộc khảo sát sức khỏe, 25% dân số mắc bệnh A, 30% mắc bệnh B. Biết 10% dân số mắc cả 2 bệnh. Xác suất một người ngẫu nhiên mắc ít nhất một trong 2 bệnh là bao nhiêu?
+... Gợi ý: Sử dụng quy tắc cộng xác suất.
++   Phản hồi đúng: P(A∪B) = P(A) + P(B) - P(A∩B) = 0.25 + 0.30 - 0.10 = 0.45.
+-   Phản hồi sai: Không thể cộng trực tiếp P(A) + P(B) vì có phần giao nhau cần trừ đi.
+a) 0.40
+*b) 0.45
+c) 0.55
+d) 0.65
+
+16. Một công ty bảo hiểm thống kê: 70% khách hàng nam, 30% khách hàng nữ. Tỷ lệ gặp tai nạn trong nam giới là 8%, trong nữ giới là 5%. Xác suất một khách hàng ngẫu nhiên gặp tai nạn là bao nhiêu?
+... Gợi ý: Áp dụng công thức xác suất toàn phần.
++   Phản hồi đúng: P(tai nạn) = P(tai nạn|nam) × P(nam) + P(tai nạn|nữ) × P(nữ) = 0.08×0.7 + 0.05×0.3 = 0.056 + 0.015 = 0.071.
+-   Phản hồi sai: Cần tính theo trọng số của từng nhóm khách hàng, không thể lấy trung bình đơn giản.
+a) 0.065
+*b) 0.071
+c) 0.075
+d) 0.080
+
+17. Hệ thống backup dữ liệu có 3 server độc lập với độ tin cậy lần lượt là 99%, 98%, 97%. Xác suất cả 3 server đều hoạt động bình thường là bao nhiêu?
+... Gợi ý: Các server hoạt động độc lập, áp dụng quy tắc nhân.
++   Phản hồi đúng: Do các server độc lập nên xác suất cả 3 đều hoạt động = 0.99 × 0.98 × 0.97 = 0.9411.
+-   Phản hồi sai: Đây là biến cố giao của 3 sự kiện độc lập, cần nhân các xác suất lại.
+a) 0.94
+*b) 0.9411
+c) 0.9467
+d) 0.98
+
+18. Trong nghiên cứu gen, test phát hiện đột biến có độ nhạy 90% và độ đặc hiệu 95%. Tỷ lệ đột biến trong dân số là 2%. Nếu test cho kết quả âm tính, xác suất người đó thực sự không có đột biến là bao nhiêu?
+... Gợi ý: Tính P(không đột biến | âm tính) bằng công thức Bayes.
++   Phản hồi đúng: P(âm tính) = P(âm tính|không đột biến)×P(không đột biến) + P(âm tính|đột biến)×P(đột biến) = 0.95×0.98 + 0.1×0.02 = 0.933. P(không đột biến|âm tính) = (0.95×0.98)/0.933 ≈ 0.9978.
+-   Phản hồi sai: Cần phân biệt độ đặc hiệu và giá trị dự báo âm tính. Sử dụng Bayes để tính chính xác.
+a) 0.95
+b) 0.98
+*c) 0.9978
+d) 0.999
+
+19. Trong sản xuất ô tô, dây chuyền lắp ráp có 4 trạm kiểm tra chất lượng độc lập. Mỗi trạm phát hiện 80% lỗi. Xác suất một lỗi không bị phát hiện bởi bất kỳ trạm nào là bao nhiêu?
+... Gợi ý: Tính xác suất lỗi vượt qua cả 4 trạm kiểm tra.
++   Phản hồi đúng: Xác suất lỗi không bị phát hiện ở mỗi trạm là 0.2. Do các trạm độc lập nên xác suất vượt qua cả 4 trạm = 0.2^4 = 0.0016.
+-   Phản hồi sai: Cần tính xác suất biến cố đối (không phát hiện) rồi lũy thừa cho 4 trạm độc lập.
+a) 0.0008
+*b) 0.0016
+c) 0.0032
+d) 0.008
+
+20. Trong điều trị bệnh tim, phương pháp A thành công 75%, phương pháp B thành công 70%. Bác sĩ quyết định dùng cả 2 phương pháp độc lập. Xác suất ít nhất một phương pháp thành công là bao nhiêu?
+... Gợi ý: Sử dụng biến cố đối để tính đơn giản hơn.
++   Phản hồi đúng: Xác suất cả 2 phương pháp đều thất bại = 0.25 × 0.30 = 0.075. Vậy xác suất ít nhất một phương pháp thành công = 1 - 0.075 = 0.925.
+-   Phản hồi sai: Dùng biến cố đối sẽ đơn giản hơn việc áp dụng công thức P(A∪B) = P(A) + P(B) - P(A∩B).
+a) 0.90
+*b) 0.925
+c) 0.95
+d) 0.975
+
+1. Công thức định nghĩa đạo hàm của hàm số $y = f(x)$ tại điểm $x_0$ là:
+... Gợi ý: Đạo hàm tại một điểm được định nghĩa thông qua giới hạn của tỉ số gia.
++   Phản hồi đúng: Chính xác! Đây là công thức cơ bản định nghĩa đạo hàm tại một điểm thông qua giới hạn.
+-   Phản hồi sai: Cần nhớ công thức định nghĩa đạo hàm: $f'(x_0) = \lim_{h \to 0} \frac{f(x_0 + h) - f(x_0)}{h}$.
+a) $f'(x_0) = \lim_{h \to 0} \frac{f(x_0 + h) + f(x_0)}{h}$
+b) $f'(x_0) = \frac{f(x_0 + h) - f(x_0)}{h}$
+*c) $f'(x_0) = \lim_{h \to 0} \frac{f(x_0 + h) - f(x_0)}{h}$
+d) $f'(x_0) = f(x_0 + h) - f(x_0)$
+
+2. Đạo hàm của hàm số hằng $y = c$ (với $c$ là hằng số) là:
+... Gợi ý: Hàm hằng có đồ thị là đường thẳng nằm ngang.
++   Phản hồi đúng: Đúng rồi! Đạo hàm của hàm hằng luôn bằng 0 vì hàm hằng không thay đổi.
+-   Phản hồi sai: Hàm hằng có đạo hàm bằng 0 vì tốc độ biến thiên của nó bằng 0.
+*a) $y' = 0$
+b) $y' = c$
+c) $y' = 1$
+d) $y' = -c$
+
+3. Công thức đạo hàm của hàm số $y = x^n$ (với $n \in \mathbb{N}^*$) là:
+... Gợi ý: Đây là công thức cơ bản nhất trong bảng đạo hàm.
++   Phản hồi đúng: Chính xác! Đây là công thức đạo hàm cơ bản của hàm số mũ.
+-   Phản hồi sai: Công thức đạo hàm của $x^n$ là $nx^{n-1}$, không phải các biểu thức khác.
+a) $y' = nx^n$
+*b) $y' = nx^{n-1}$
+c) $y' = x^{n-1}$
+d) $y' = (n-1)x^n$
+
+4. Quy tắc tính đạo hàm của tổng hai hàm số $u(x)$ và $v(x)$ là:
+... Gợi ý: Đạo hàm của tổng bằng tổng các đạo hàm.
++   Phản hồi đúng: Đúng! Đạo hàm của tổng bằng tổng các đạo hàm từng thành phần.
+-   Phản hồi sai: Quy tắc đạo hàm tổng: $(u + v)' = u' + v'$.
+a) $(u + v)' = u'v'$
+*b) $(u + v)' = u' + v'$
+c) $(u + v)' = u'v + uv'$
+d) $(u + v)' = \frac{u'v - uv'}{v^2}$
+
+5. Về mặt hình học, đạo hàm $f'(x_0)$ biểu thị:
+... Gợi ý: Liên quan đến đường tiếp tuyến của đồ thị hàm số.
++   Phản hồi đúng: Chính xác! Đạo hàm tại một điểm chính là hệ số góc của tiếp tuyến tại điểm đó.
+-   Phản hồi sai: Đạo hàm biểu thị hệ số góc của tiếp tuyến, không phải độ dài hay khoảng cách.
+a) Độ dài tiếp tuyến tại điểm có hoành độ $x_0$
+*b) Hệ số góc của tiếp tuyến với đồ thị tại điểm có hoành độ $x_0$
+c) Khoảng cách từ gốc tọa độ đến tiếp tuyến
+d) Góc tạo bởi tiếp tuyến và trục tung
+
+6. Quy tắc tính đạo hàm của tích hai hàm số $u(x)$ và $v(x)$ là:
+... Gợi ý: Quy tắc này phức tạp hơn quy tắc đạo hàm tổng.
++   Phản hồi đúng: Đúng! Đây là quy tắc Leibniz cho đạo hàm của tích hai hàm số.
+-   Phản hồi sai: Quy tắc đạo hàm tích: $(uv)' = u'v + uv'$.
+a) $(uv)' = u'v'$
+*b) $(uv)' = u'v + uv'$
+c) $(uv)' = u'v - uv'$
+d) $(uv)' = u' + v'$
+
+7. Đạo hàm của hàm số $y = \sqrt{x}$ được cho bởi công thức:
+... Gợi ý: Có thể viết $\sqrt{x} = x^{1/2}$ để áp dụng công thức đạo hàm hàm mũ.
++   Phản hồi đúng: Chính xác! Đây là công thức đạo hàm của hàm căn bậc hai.
+-   Phản hồi sai: Công thức đạo hàm của $\sqrt{x}$ là $\frac{1}{2\sqrt{x}}$.
+a) $y' = \frac{1}{\sqrt{x}}$
+*b) $y' = \frac{1}{2\sqrt{x}}$
+c) $y' = 2\sqrt{x}$
+d) $y' = -\frac{1}{2\sqrt{x}}$
+
+8. Trong vật lý, nếu $s(t)$ là phương trình chuyển động thì đạo hàm $s'(t)$ biểu thị:
+... Gợi ý: Đạo hàm của quãng đường theo thời gian.
++   Phản hồi đúng: Đúng! Đạo hàm của quãng đường theo thời gian chính là vận tốc tức thời.
+-   Phản hồi sai: $s'(t)$ biểu thị vận tốc tức thời, không phải gia tốc hay quãng đường.
+a) Gia tốc tức thời tại thời điểm $t$
+*b) Vận tốc tức thời tại thời điểm $t$
+c) Quãng đường đi được trong thời gian $t$
+d) Thời gian chuyển động
+
+9. Quy tắc tính đạo hàm của thương hai hàm số $\frac{u(x)}{v(x)}$ (với $v(x) \neq 0$) là:
+... Gợi ý: Quy tắc này có dạng phân số với tử số phức tạp.
++   Phản hồi đúng: Chính xác! Đây là quy tắc đạo hàm thương của hai hàm số.
+-   Phản hồi sai: Quy tắc đạo hàm thương: $\left(\frac{u}{v}\right)' = \frac{u'v - uv'}{v^2}$.
+a) $\left(\frac{u}{v}\right)' = \frac{u'}{v'}$
+b) $\left(\frac{u}{v}\right)' = \frac{u'v + uv'}{v^2}$
+*c) $\left(\frac{u}{v}\right)' = \frac{u'v - uv'}{v^2}$
+d) $\left(\frac{u}{v}\right)' = u'v - uv'$
+
+10. Đạo hàm của hàm số $y = \frac{1}{x}$ (với $x \neq 0$) là:
+... Gợi ý: Có thể viết $\frac{1}{x} = x^{-1}$ để áp dụng công thức đạo hàm hàm mũ.
++   Phản hồi đúng: Đúng! Đây là công thức đạo hàm của hàm nghịch đảo.
+-   Phản hồi sai: Công thức đạo hàm của $\frac{1}{x}$ là $-\frac{1}{x^2}$.
+a) $y' = \frac{1}{x^2}$
+*b) $y' = -\frac{1}{x^2}$
+c) $y' = -\frac{1}{x}$
+d) $y' = \frac{2}{x^3}$
+
+11. Điều kiện để hàm số có đạo hàm tại một điểm là gì?
+... Gợi ý: Liên quan đến sự tồn tại của giới hạn trong định nghĩa đạo hàm.
++   Phản hồi đúng: Chính xác! Giới hạn phải tồn tại và hữu hạn để hàm số có đạo hàm.
+-   Phản hồi sai: Hàm số có đạo hàm khi giới hạn trong định nghĩa đạo hàm tồn tại và hữu hạn.
+a) Hàm số phải liên tục tại điểm đó
+*b) Giới hạn trong định nghĩa đạo hàm phải tồn tại và hữu hạn
+c) Hàm số phải là hàm đa thức
+d) Hàm số phải có giá trị dương
+
+12. Quy tắc đạo hàm của hàm hợp $[f(g(x))]'$ được biểu thị như thế nào?
+... Gợi ý: Quy tắc dây chuyền (chain rule) trong tính đạo hàm.
++   Phản hồi đúng: Đúng! Đây là quy tắc dây chuyền để tính đạo hàm hàm hợp.
+-   Phản hồi sai: Quy tắc đạo hàm hàm hợp: $[f(g(x))]' = f'(g(x)) \cdot g'(x)$.
+a) $[f(g(x))]' = f'(x) \cdot g'(x)$
+*b) $[f(g(x))]' = f'(g(x)) \cdot g'(x)$
+c) $[f(g(x))]' = f'(g(x)) + g'(x)$
+d) $[f(g(x))]' = f(g'(x))$
+
+13. Nếu $c$ là một hằng số và $f(x)$ có đạo hàm thì $[c \cdot f(x)]'$ bằng:
+... Gợi ý: Hằng số có thể đưa ra ngoài khi tính đạo hàm.
++   Phản hồi đúng: Chính xác! Hằng số có thể đưa ra ngoài dấu đạo hàm.
+-   Phản hồi sai: Đạo hàm của $c \cdot f(x)$ là $c \cdot f'(x)$.
+a) $c \cdot f(x)$
+*b) $c \cdot f'(x)$
+c) $f'(x)$
+d) $c + f'(x)$
+
+14. Ký hiệu nào sau đây KHÔNG phải là ký hiệu của đạo hàm?
+... Gợi ý: Có nhiều cách ký hiệu đạo hàm khác nhau.
++   Phản hồi đúng: Đúng! $f''(x)$ là ký hiệu đạo hàm cấp hai, không phải đạo hàm cấp một.
+-   Phản hồi sai: Các ký hiệu $f'(x)$, $y'$, $\frac{df}{dx}$ đều là ký hiệu đạo hàm cấp một.
+a) $f'(x)$
+b) $y'$
+c) $\frac{df}{dx}$
+*d) $f''(x)$
+
+15. Trong các hàm số sau, hàm nào có đạo hàm bằng $0$ tại mọi điểm thuộc tập xác định?
+... Gợi ý: Hàm số không thay đổi có đạo hàm bằng $0$.
++   Phản hồi đúng: Chính xác! Hàm hằng có đạo hàm bằng $0$ tại mọi điểm.
+-   Phản hồi sai: Chỉ có hàm hằng $y = 5$ có đạo hàm bằng $0$ tại mọi điểm.
+a) $y = x$
+b) $y = x^2$
+*c) $y = 5$
+d) $y = \sqrt{x}$
+
+16. Để tính đạo hàm của hiệu hai hàm số $u(x) - v(x)$, ta áp dụng quy tắc nào?
+... Gợi ý: Hiệu cũng được tính tương tự như tổng.
++   Phản hồi đúng: Đúng! Đạo hàm của hiệu bằng hiệu các đạo hàm.
+-   Phản hồi sai: Quy tắc đạo hàm hiệu: $(u - v)' = u' - v'$.
+*a) $(u - v)' = u' - v'$
+b) $(u - v)' = u'v - uv'$
+c) $(u - v)' = u' + v'$
+d) $(u - v)' = u'v'$
+
+17. Biểu thức nào sau đây biểu diễn đúng công thức định nghĩa đạo hàm của hàm số $y = f(x)$?
+... Gợi ý: Đạo hàm hàm số là giới hạn tại mọi điểm $x$ thuộc tập xác định.
++   Phản hồi đúng: Chính xác! Đây là công thức định nghĩa đạo hàm của hàm số.
+-   Phản hồi sai: Công thức định nghĩa đạo hàm hàm số: $f'(x) = \lim_{h \to 0} \frac{f(x + h) - f(x)}{h}$.
+a) $f'(x) = \frac{f(x + h) - f(x)}{h}$
+*b) $f'(x) = \lim_{h \to 0} \frac{f(x + h) - f(x)}{h}$
+c) $f'(x) = \lim_{h \to 0} [f(x + h) - f(x)]$
+d) $f'(x) = f(x + h) - f(x)$
+
+18. Nếu hàm số $f(x)$ có đạo hàm tại điểm $x_0$ thì điều gì xảy ra với tính liên tục của $f(x)$ tại $x_0$?
+... Gợi ý: Mối quan hệ giữa khả vi và liên tục.
++   Phản hồi đúng: Đúng! Hàm số khả vi tại một điểm thì nhất định liên tục tại điểm đó.
+-   Phản hồi sai: Nếu hàm số có đạo hàm tại một điểm thì nó liên tục tại điểm đó.
+a) $f(x)$ có thể gián đoạn tại $x_0$
+*b) $f(x)$ nhất định liên tục tại $x_0$
+c) Không thể kết luận gì về tính liên tục
+d) $f(x)$ không liên tục tại $x_0$
+
+19. Đạo hàm của hàm số $y = x^3$ theo công thức cơ bản có dạng:
+... Gợi ý: Áp dụng công thức đạo hàm $y = x^n$.
++   Phản hồi đúng: Chính xác! Áp dụng công thức $(x^n)' = nx^{n-1}$ với $n = 3$.
+-   Phản hồi sai: Công thức đạo hàm $x^3$ là $3x^2$.
+a) $y' = x^2$
+b) $y' = 3x^3$
+*c) $y' = 3x^2$
+d) $y' = x^3$
+
+20. Trong định nghĩa đạo hàm $f'(x_0) = \lim_{h \to 0} \frac{f(x_0 + h) - f(x_0)}{h}$, biến số $h$ có ý nghĩa gì?
+... Gợi ý: $h$ liên quan đến độ biến thiên của biến độc lập.
++   Phản hồi đúng: Đúng! $h$ là gia số của biến độc lập, tiến về $0$ trong giới hạn.
+-   Phản hồi sai: $h$ là gia số của biến độc lập, không phải giá trị hàm số hay hệ số góc.
+*a) Gia số của biến độc lập
+b) Giá trị của hàm số tại $x_0$
+c) Hệ số góc của tiếp tuyến
+d) Gia số của hàm số
+
+1. Đạo hàm của hàm số $f(x) = 3x^4 - 2x^3 + 5x - 7$ là:
+... Gợi ý: Áp dụng quy tắc đạo hàm từng số hạng với công thức $(x^n)' = nx^{n-1}$.
++   Phản hồi đúng: Chính xác! Áp dụng quy tắc đạo hàm: $(3x^4)' = 12x^3$, $(-2x^3)' = -6x^2$, $(5x)' = 5$, và hằng số có đạo hàm bằng 0.
+-   Phản hồi sai: Cần nhớ công thức đạo hàm cơ bản $(x^n)' = nx^{n-1}$ và đạo hàm của hằng số bằng 0.
+a) $12x^3 - 6x^2 - 5$
+b) $3x^3 - 2x^2 + 5x$
+*c) $12x^3 - 6x^2 + 5$
+d) $12x^4 - 6x^3 + 5x$
+
+2. Ý nghĩa hình học của đạo hàm $f'(a)$ tại điểm $x = a$ là:
+... Gợi ý: Liên hệ với khái niệm tiếp tuyến của đồ thị hàm số.
++   Phản hồi đúng: Đúng rồi! Đạo hàm $f'(a)$ chính là hệ số góc của tiếp tuyến với đồ thị hàm số tại điểm có hoành độ $x = a$.
+-   Phản hồi sai: Cần hiểu rằng đạo hàm tại một điểm có ý nghĩa hình học là hệ số góc của tiếp tuyến tại điểm đó.
+a) Độ dài của tiếp tuyến tại điểm $(a, f(a))$
+*b) Hệ số góc của tiếp tuyến tại điểm $(a, f(a))$
+c) Khoảng cách từ gốc tọa độ đến điểm $(a, f(a))$
+d) Góc tạo bởi tiếp tuyến và trục hoành
+
+3. Đạo hàm của hàm số $g(x) = \sin(3x + 2)$ là:
+... Gợi ý: Sử dụng quy tắc đạo hàm hàm hợp với $(\sin u)' = \cos u \cdot u'$.
++   Phản hồi đúng: Chính xác! Đặt $u = 3x + 2$, ta có $g'(x) = \cos(3x + 2) \cdot (3x + 2)' = 3\cos(3x + 2)$.
+-   Phản hồi sai: Đây là hàm hợp, cần nhớ công thức $(\sin u)' = \cos u \cdot u'$ với $u = 3x + 2$.
+a) $\cos(3x + 2)$
+*b) $3\cos(3x + 2)$
+c) $-3\sin(3x + 2)$
+d) $\cos(3x)$
+
+4. Cho hàm số $f(x) = x^3 - 3x^2 + 2$. Giá trị của $f'(1)$ là:
+... Gợi ý: Tính đạo hàm của $f(x)$ rồi thay $x = 1$.
++   Phản hồi đúng: Đúng! Ta có $f'(x) = 3x^2 - 6x$, nên $f'(1) = 3(1)^2 - 6(1) = -3$.
+-   Phản hồi sai: Cần tính đạo hàm trước: $f'(x) = 3x^2 - 6x$, sau đó thay $x = 1$.
+a) $0$
+b) $3$
+*c) $-3$
+d) $6$
+
+5. Đạo hàm của hàm số $h(x) = \frac{2x + 1}{x - 3}$ là:
+... Gợi ý: Áp dụng quy tắc đạo hàm thương $\left(\frac{u}{v}\right)' = \frac{u'v - uv'}{v^2}$.
++   Phản hồi đúng: Chính xác! Với $u = 2x + 1$, $v = x - 3$, ta có $h'(x) = \frac{2(x-3) - (2x+1)(1)}{(x-3)^2} = \frac{-7}{(x-3)^2}$.
+-   Phản hồi sai: Đây là hàm phân thức, cần sử dụng quy tắc đạo hàm thương.
+a) $\frac{2}{x-3}$
+b) $\frac{-5}{(x-3)^2}$
+*c) $\frac{-7}{(x-3)^2}$
+d) $\frac{7}{(x-3)^2}$
+
+6. Một vật chuyển động theo phương trình $s(t) = 2t^3 - 6t^2 + 4t$ (mét). Vận tốc của vật tại thời điểm $t = 2$ giây là:
+... Gợi ý: Vận tốc là đạo hàm của quãng đường theo thời gian $v(t) = s'(t)$.
++   Phản hồi đúng: Đúng! Ta có $v(t) = s'(t) = 6t^2 - 12t + 4$, nên $v(2) = 6(4) - 12(2) + 4 = 4$ m/s.
+-   Phản hồi sai: Vận tốc tức thời là đạo hàm của phương trình chuyển động theo thời gian.
+a) $8$ m/s
+*b) $4$ m/s
+c) $0$ m/s
+d) $12$ m/s
+
+7. Hàm số nào sau đây có đạo hàm bằng $2x + 3$?
+... Gợi ý: Tìm hàm số mà khi lấy đạo hàm sẽ cho kết quả $2x + 3$.
++   Phản hồi đúng: Chính xác! $(x^2 + 3x)' = 2x + 3$. Hằng số $C$ không ảnh hưởng đến đạo hàm.
+-   Phản hồi sai: Cần tìm hàm số mà đạo hàm của nó bằng $2x + 3$, tức là nguyên hàm của $2x + 3$.
+a) $2x^2 + 3x$
+*b) $x^2 + 3x + 5$
+c) $x^2 + 3$
+d) $2x + 3x^2$
+
+8. Đạo hàm của hàm số $f(x) = \cos(2x)$ là:
+... Gợi ý: Sử dụng công thức $(\cos u)' = -\sin u \cdot u'$ với hàm hợp.
++   Phản hồi đúng: Đúng! Với $u = 2x$, ta có $f'(x) = -\sin(2x) \cdot (2x)' = -2\sin(2x)$.
+-   Phản hồi sai: Đây là hàm hợp lượng giác, cần nhớ $(\cos u)' = -\sin u \cdot u'$.
+a) $-\sin(2x)$
+*b) $-2\sin(2x)$
+c) $2\sin(2x)$
+d) $\sin(2x)$
+
+9. Phương trình tiếp tuyến của đồ thị hàm số $y = x^2 - 4x + 3$ tại điểm có hoành độ $x_0 = 1$ là:
+... Gợi ý: Phương trình tiếp tuyến có dạng $y = f'(x_0)(x - x_0) + f(x_0)$.
++   Phản hồi đúng: Chính xác! Tại $x_0 = 1$: $y_0 = 0$, $y' = 2x - 4$ nên $y'(1) = -2$. Tiếp tuyến: $y = -2(x-1) + 0 = -2x + 2$.
+-   Phản hồi sai: Cần tính tọa độ tiếp điểm và hệ số góc tiếp tuyến từ đạo hàm.
+a) $y = -2x + 3$
+*b) $y = -2x + 2$
+c) $y = 2x - 2$
+d) $y = -x + 1$
+
+10. Tại điểm nào hàm số $f(x) = x^3 - 3x + 1$ có đạo hàm bằng 0?
+... Gợi ý: Giải phương trình $f'(x) = 0$.
++   Phản hồi đúng: Đúng! $f'(x) = 3x^2 - 3 = 0 \Rightarrow x^2 = 1 \Rightarrow x = \pm 1$.
+-   Phản hồi sai: Cần tính đạo hàm $f'(x) = 3x^2 - 3$ và giải phương trình $f'(x) = 0$.
+a) $x = 0$
+*b) $x = \pm 1$
+c) $x = 1$
+d) $x = 3$
+
+11. Đạo hàm của hàm số $g(x) = (x^2 + 1)(2x - 3)$ là:
+... Gợi ý: Sử dụng quy tắc đạo hàm tích $(uv)' = u'v + uv'$.
++   Phản hồi đúng: Chính xác! $(x^2 + 1)' = 2x$, $(2x - 3)' = 2$. Vậy $g'(x) = 2x(2x-3) + (x^2+1)(2) = 6x^2 - 6x + 2$.
+-   Phản hồi sai: Đây là tích hai hàm số, cần áp dụng quy tắc $(uv)' = u'v + uv'$.
+a) $4x^2 - 6x$
+b) $2x^2 + 2x - 3$
+*c) $6x^2 - 6x + 2$
+d) $4x^3 + 2x - 3$
+
+12. Cho hàm số $f(x) = \sqrt{x}$. Giá trị $f'(4)$ là:
+... Gợi ý: Viết $\sqrt{x} = x^{1/2}$ và áp dụng công thức $(x^n)' = nx^{n-1}$.
++   Phản hồi đúng: Đúng! $f'(x) = \frac{1}{2\sqrt{x}}$, nên $f'(4) = \frac{1}{2\sqrt{4}} = \frac{1}{4}$.
+-   Phản hồi sai: Cần nhớ công thức $(\sqrt{x})' = \frac{1}{2\sqrt{x}}$ hoặc $(x^{1/2})' = \frac{1}{2}x^{-1/2}$.
+a) $2$
+*b) $\frac{1}{4}$
+c) $\frac{1}{2}$
+d) $4$
+
+13. Đạo hàm của hàm số $h(x) = x^2\sin x$ là:
+... Gợi ý: Đây là tích của hai hàm số, sử dụng quy tắc $(uv)' = u'v + uv'$.
++   Phản hồi đúng: Chính xác! $(x^2)' = 2x$, $(\sin x)' = \cos x$. Vậy $h'(x) = 2x\sin x + x^2\cos x$.
+-   Phản hồi sai: Cần áp dụng quy tắc đạo hàm tích cho $u = x^2$ và $v = \sin x$.
+a) $2x\cos x$
+*b) $2x\sin x + x^2\cos x$
+c) $x^2\cos x$
+d) $2x\sin x - x^2\cos x$
+
+14. Nếu $f(x) = 3x^2 - 2x + 1$, thì $f'(0)$ bằng:
+... Gợi ý: Tính đạo hàm của $f(x)$ rồi thay $x = 0$.
++   Phản hồi đúng: Đúng! $f'(x) = 6x - 2$, nên $f'(0) = 6(0) - 2 = -2$.
+-   Phản hồi sai: Cần tính đạo hàm trước khi thay giá trị $x = 0$.
+a) $1$
+b) $0$
+*c) $-2$
+d) $3$
+
+15. Đạo hàm của hàm số $f(x) = \tan x$ là:
+... Gợi ý: Sử dụng công thức đạo hàm cơ bản của hàm lượng giác hoặc viết $\tan x = \frac{\sin x}{\cos x}$.
++   Phản hồi đúng: Chính xác! $(\tan x)' = \frac{1}{\cos^2 x} = \sec^2 x$.
+-   Phản hồi sai: Cần nhớ công thức đạo hàm cơ bản $(\tan x)' = \frac{1}{\cos^2 x}$.
+a) $\cos x$
+b) $-\sin x$
+c) $\sec x$
+*d) $\frac{1}{\cos^2 x}$
+
+16. Hàm số $f(x) = |x|$ có đạo hàm tại $x = 0$ không?
+... Gợi ý: Kiểm tra đạo hàm trái và đạo hàm phải tại $x = 0$.
++   Phản hồi đúng: Đúng! Đạo hàm trái tại 0 là $-1$, đạo hàm phải tại 0 là $1$. Do chúng khác nhau nên hàm số không có đạo hàm tại $x = 0$.
+-   Phản hồi sai: Cần kiểm tra sự tồn tại của đạo hàm bằng cách so sánh đạo hàm trái và phải.
+*a) Không, vì đạo hàm trái và phải tại 0 khác nhau
+b) Có, và bằng 0
+c) Có, và bằng 1
+d) Có, và bằng -1
+
+17. Cho hàm số $f(x) = x^4 - 4x^2$. Tại những điểm nào đạo hàm của hàm số bằng 0?
+... Gợi ý: Tính $f'(x)$ và giải phương trình $f'(x) = 0$.
++   Phản hồi đúng: Chính xác! $f'(x) = 4x^3 - 8x = 4x(x^2 - 2) = 0$. Vậy $x = 0, x = \pm\sqrt{2}$.
+-   Phản hồi sai: Cần tính đạo hàm và phân tích thành nhân tử để tìm nghiệm.
+a) $x = 0$ và $x = 2$
+*b) $x = 0$, $x = \sqrt{2}$ và $x = -\sqrt{2}$
+c) $x = 2$ và $x = -2$
+d) Chỉ có $x = 0$
+
+18. Gia tốc của vật chuyển động theo phương trình $s(t) = t^3 - 3t^2 + 2t$ tại thời điểm $t = 1$ là:
+... Gợi ý: Gia tốc là đạo hàm bậc hai của quãng đường: $a(t) = s''(t)$.
++   Phản hồi đúng: Đúng! $v(t) = s'(t) = 3t^2 - 6t + 2$, $a(t) = v'(t) = 6t - 6$. Vậy $a(1) = 0$.
+-   Phản hồi sai: Gia tốc là đạo hàm bậc hai của phương trình chuyển động.
+*a) $0$
+b) $-1$
+c) $6$
+d) $3$
+
+19. Đạo hàm của hàm số $f(x) = (2x + 1)^3$ là:
+... Gợi ý: Sử dụng quy tắc đạo hàm hàm hợp với $u = 2x + 1$.
++   Phản hồi đúng: Chính xác! Đặt $u = 2x + 1$, ta có $f'(x) = 3(2x + 1)^2 \cdot (2x + 1)' = 6(2x + 1)^2$.
+-   Phản hồi sai: Đây là hàm hợp, cần áp dụng quy tắc $(u^n)' = nu^{n-1} \cdot u'$.
+a) $3(2x + 1)^2$
+*b) $6(2x + 1)^2$
+c) $(2x + 1)^2$
+d) $6x(2x + 1)$
+
+20. Cho đồ thị hàm số $y = f(x)$ có tiếp tuyến tại điểm $A(1, 2)$ song song với đường thẳng $y = 3x + 1$. Giá trị $f'(1)$ là:
+... Gợi ý: Hai đường thẳng song song có cùng hệ số góc.
++   Phản hồi đúng: Đúng! Tiếp tuyến song song với $y = 3x + 1$ nên có cùng hệ số góc. Do đó $f'(1) = 3$.
+-   Phản hồi sai: Hệ số góc của tiếp tuyến chính là giá trị đạo hàm tại điểm tiếp xúc.
+a) $1$
+b) $2$
+*c) $3$
+d) $4$
+
+1. Một công ty sản xuất máy tính có hàm chi phí sản xuất $x$ chiếc máy tính trong một tháng là $C(x) = 0.1x^3 - 6x^2 + 200x + 80000$ (đơn vị: nghìn đồng), với $x \in [20, 150]$. Chi phí biên tại mức sản xuất 40 chiếc là bao nhiêu?
+... Gợi ý: Chi phí biên chính là đạo hàm của hàm chi phí tại điểm đó.
++   Phản hồi đúng: Chính xác! Chi phí biên $C'(x) = 0.3x^2 - 12x + 200$. Tại $x = 40$: $C'(40) = 0.3(40)^2 - 12(40) + 200 = 480 - 480 + 200 = 200$ nghìn đồng.
+-   Phản hồi sai: Cần tính đạo hàm của hàm chi phí rồi thay $x = 40$ vào biểu thức đạo hàm.
+a)  120
+b)  180
+*c) 200
+d)  250
+
+2. Một viên bi được ném thẳng đứng lên cao từ mặt đất với phương trình chuyển động $h(t) = -5t^2 + 30t$ (mét), trong đó $t$ là thời gian (giây). Vận tốc của viên bi tại thời điểm $t = 2$ giây là:
+... Gợi ý: Vận tốc là đạo hàm bậc nhất của phương trình chuyển động.
++   Phản hồi đúng: Đúng rồi! Vận tốc $v(t) = h'(t) = -10t + 30$. Tại $t = 2$: $v(2) = -10(2) + 30 = 10$ m/s.
+-   Phản hồi sai: Vận tốc tức thời bằng đạo hàm của phương trình chuyển động theo thời gian.
+a)  5
+*b) 10
+c)  15
+d)  20
+
+3. Doanh thu của một cửa hàng theo thời gian $t$ tháng được mô tả bởi $R(t) = -t^3 + 12t^2 + 60t + 1000$ (triệu đồng). Tốc độ tăng doanh thu nhanh nhất tại thời điểm nào trong năm đầu tiên?
+... Gợi ý: Tìm cực trị của đạo hàm bậc nhất để xác định thời điểm tăng trưởng nhanh nhất.
++   Phản hồi đúng: Chính xác! $R'(t) = -3t^2 + 24t + 60$. $R''(t) = -6t + 24 = 0$ khi $t = 4$ tháng là thời điểm tăng trưởng nhanh nhất.
+-   Phản hồi sai: Cần tìm điểm cực đại của đạo hàm bậc nhất bằng cách giải phương trình $R''(t) = 0$.
+a)  2
+b)  3
+*c) 4
+d)  5
+
+4. Một bồn nước hình trụ có bán kính đáy $R = 3$ m. Nước được bơm vào với tốc độ $2$ m³/phút. Tốc độ thay đổi mực nước trong bồn là:
+... Gợi ý: Sử dụng công thức thể tích hình trụ và quy tắc đạo hàm hàm hợp.
++   Phản hồi đúng: Đúng! Thể tích $V = \pi R^2 h = 9\pi h$. Do $\frac{dV}{dt} = 2$ và $\frac{dV}{dt} = 9\pi \frac{dh}{dt}$, nên $\frac{dh}{dt} = \frac{2}{9\pi}$ m/phút.
+-   Phản hồi sai: Áp dụng quy tắc chuỗi: $\frac{dV}{dt} = \frac{dV}{dh} \cdot \frac{dh}{dt}$ với $V = \pi R^2 h$.
+a)  $\frac{1}{9\pi}$
+*b) $\frac{2}{9\pi}$
+c)  $\frac{1}{3\pi}$
+d)  $\frac{2}{3\pi}$
+
+5. Hàm số $f(x) = x^3 - 6x^2 + 9x + 2$ có đạo hàm tại điểm $x = 1$ bằng:
+... Gợi ý: Áp dụng công thức đạo hàm của đa thức.
++   Phản hồi đúng: Chính xác! $f'(x) = 3x^2 - 12x + 9$. Tại $x = 1$: $f'(1) = 3(1)^2 - 12(1) + 9 = 3 - 12 + 9 = 0$.
+-   Phản hồi sai: Tính đạo hàm từng số hạng rồi thay giá trị $x = 1$.
+*a) 0
+b)  3
+c)  6
+d)  9
+
+6. Phương trình tiếp tuyến của đồ thị hàm số $y = x^2 - 4x + 3$ tại điểm có hoành độ $x_0 = 3$ là:
+... Gợi ý: Phương trình tiếp tuyến có dạng $y = f'(x_0)(x - x_0) + f(x_0)$.
++   Phản hồi đúng: Đúng! Tại $x_0 = 3$: $y_0 = 9 - 12 + 3 = 0$ và $y'(3) = 2(3) - 4 = 2$. Phương trình tiếp tuyến: $y = 2(x - 3) + 0 = 2x - 6$.
+-   Phản hồi sai: Cần tính $f(x_0)$ và $f'(x_0)$ rồi áp dụng công thức tiếp tuyến.
+a)  $y = x - 3$
+*b) $y = 2x - 6$
+c)  $y = 2x - 3$
+d)  $y = x - 6$
+
+7. Một khối cầu đang được thổi phồng với tốc độ thay đổi bán kính $3$ cm/phút. Khi bán kính $r = 5$ cm, tốc độ thay đổi thể tích là:
+... Gợi ý: Thể tích khối cầu $V = \frac{4}{3}\pi r^3$, sử dụng quy tắc đạo hàm hàm hợp.
++   Phản hồi đúng: Chính xác! $\frac{dV}{dr} = 4\pi r^2$. Tại $r = 5$: $\frac{dV}{dt} = 4\pi (5)^2 \cdot 3 = 300\pi$ cm³/phút.
+-   Phản hồi sai: Áp dụng $\frac{dV}{dt} = \frac{dV}{dr} \cdot \frac{dr}{dt}$ với $V = \frac{4}{3}\pi r^3$.
+a)  $100\pi$
+b)  $200\pi$
+*c) $300\pi$
+d)  $400\pi$
+
+8. Hàm số $g(x) = \sin(2x + \frac{\pi}{3})$ có đạo hàm là:
+... Gợi ý: Sử dụng quy tắc đạo hàm hàm hợp với hàm lượng giác.
++   Phản hồi đúng: Đúng! Áp dụng quy tắc chuỗi: $g'(x) = \cos(2x + \frac{\pi}{3}) \cdot (2x + \frac{\pi}{3})' = 2\cos(2x + \frac{\pi}{3})$.
+-   Phản hồi sai: Đạo hàm của $\sin u$ là $\cos u \cdot u'$.
+a)  $\cos(2x + \frac{\pi}{3})$
+*b) $2\cos(2x + \frac{\pi}{3})$
+c)  $-2\sin(2x + \frac{\pi}{3})$
+d)  $-\cos(2x + \frac{\pi}{3})$
+
+9. Một công ty có hàm lợi nhuận $P(x) = -x^2 + 100x - 2000$ (triệu đồng), trong đó $x$ là số sản phẩm (trăm chiếc). Lợi nhuận biên tại mức sản xuất $30$ trăm chiếc là:
+... Gợi ý: Lợi nhuận biên là đạo hàm của hàm lợi nhuận.
++   Phản hồi đúng: Chính xác! $P'(x) = -2x + 100$. Tại $x = 30$: $P'(30) = -2(30) + 100 = 40$ triệu đồng.
+-   Phản hồi sai: Tính đạo hàm của hàm lợi nhuận rồi thay $x = 30$.
+*a) 40
+b)  60
+c)  70
+d)  100
+
+10. Hàm số $h(x) = \frac{x^2 + 1}{x - 2}$ có đạo hàm tại $x = 3$ bằng:
+... Gợi ý: Sử dụng quy tắc đạo hàm của thương hai hàm số.
++   Phản hồi đúng: Đúng! $h'(x) = \frac{(2x)(x-2) - (x^2+1)(1)}{(x-2)^2} = \frac{x^2-4x-1}{(x-2)^2}$. Tại $x = 3$: $h'(3) = \frac{9-12-1}{1} = -4$.
+-   Phản hồi sai: Áp dụng công thức $(\frac{u}{v})' = \frac{u'v - uv'}{v^2}$.
+a)  -8
+b)  -6
+*c) -4
+d)  -2
+
+11. Nhiệt độ của một vật theo thời gian được mô tả bởi $T(t) = 25 + 75e^{-0.2t}$ (°C), với $t$ là thời gian (phút). Tốc độ giảm nhiệt độ tại $t = 5$ phút là:
+... Gợi ý: Tốc độ thay đổi nhiệt độ là đạo hàm của hàm nhiệt độ.
++   Phản hồi đúng: Chính xác! $T'(t) = 75 \cdot (-0.2) \cdot e^{-0.2t} = -15e^{-0.2t}$. Tại $t = 5$: $|T'(5)| = 15e^{-1} \approx 5.5$ °C/phút.
+-   Phản hồi sai: Đạo hàm của $e^{-0.2t}$ là $-0.2e^{-0.2t}$.
+a)  4.2
+*b) 5.5
+c)  6.8
+d)  7.1
+
+12. Ô tô chuyển động với phương trình vận tốc $v(t) = 3t^2 - 18t + 24$ (m/s). Gia tốc của ô tô tại thời điểm $t = 4$ giây là:
+... Gợi ý: Gia tốc là đạo hàm của vận tốc theo thời gian.
++   Phản hồi đúng: Đúng! Gia tốc $a(t) = v'(t) = 6t - 18$. Tại $t = 4$: $a(4) = 6(4) - 18 = 6$ m/s².
+-   Phản hồi sai: Gia tốc tức thời bằng đạo hàm của hàm vận tốc.
+a)  0
+b)  3
+*c) 6
+d)  12
+
+13. Hàm số $f(x) = x^4 - 8x^2 + 16$ có đạo hàm bằng 0 tại những điểm nào?
+... Gợi ý: Giải phương trình $f'(x) = 0$ để tìm các điểm dừng.
++   Phản hồi đúng: Chính xác! $f'(x) = 4x^3 - 16x = 4x(x^2 - 4) = 4x(x-2)(x+2) = 0$. Nghiệm: $x = 0, x = 2, x = -2$.
+-   Phản hồi sai: Tính đạo hàm rồi giải phương trình $f'(x) = 0$.
+a)  $x = 0$
+b)  $x = \pm 2$
+*c) $x = 0, x = \pm 2$
+d)  $x = \pm 4$
+
+14. Một hồ chứa nước hình nón úp ngược có bán kính miệng hồ $6$ m và chiều sâu $8$ m. Nước chảy vào với tốc độ $4$ m³/phút. Khi mực nước cao $4$ m, tốc độ dâng của mực nước là:
+... Gợi ý: Sử dụng tỉ lệ hình học và quy tắc đạo hàm hàm hợp.
++   Phản hồi đúng: Đúng! Từ tỉ lệ $\frac{r}{h} = \frac{6}{8} = \frac{3}{4}$, suy ra $r = \frac{3h}{4}$. $V = \frac{1}{3}\pi r^2 h = \frac{3\pi h^3}{16}$. $\frac{dV}{dh} = \frac{9\pi h^2}{16}$. Tại $h = 4$: $\frac{dh}{dt} = \frac{4}{\frac{9\pi \cdot 16}{16}} = \frac{4}{9\pi}$ m/phút.
+-   Phản hồi sai: Thiết lập mối quan hệ giữa $r$ và $h$, rồi tính thể tích theo $h$.
+a)  $\frac{2}{9\pi}$
+*b) $\frac{4}{9\pi}$
+c)  $\frac{1}{3\pi}$
+d)  $\frac{8}{9\pi}$
+
+15. Đạo hàm của hàm số $y = \tan(3x - \frac{\pi}{4})$ là:
+... Gợi ý: Sử dụng công thức đạo hàm của hàm tang và quy tắc chuỗi.
++   Phận hồi đúng: Chính xác! $(\tan u)' = \frac{1}{\cos^2 u} \cdot u' = (1 + \tan^2 u) \cdot u'$. Do đó $y' = 3(1 + \tan^2(3x - \frac{\pi}{4})) = \frac{3}{\cos^2(3x - \frac{\pi}{4})}$.
+-   Phản hồi sai: Đạo hàm của $\tan u$ là $\frac{1}{\cos^2 u} \cdot u'$.
+a)  $\frac{1}{\cos^2(3x - \frac{\pi}{4})}$
+b)  $3\tan(3x - \frac{\pi}{4})$
+*c) $\frac{3}{\cos^2(3x - \frac{\pi}{4})}$
+d)  $3(1 + \tan(3x - \frac{\pi}{4}))$
+
+16. Chi phí trung bình để sản xuất $x$ sản phẩm là $\overline{C}(x) = \frac{x^2 + 100x + 2500}{x}$ (nghìn đồng). Chi phí trung bình biên tại mức sản xuất $50$ sản phẩm là:
+... Gợi ý: Tính đạo hàm của hàm chi phí trung bình.
++   Phản hồi đúng: Đúng! $\overline{C}(x) = x + 100 + \frac{2500}{x}$, nên $\overline{C}'(x) = 1 - \frac{2500}{x^2}$. Tại $x = 50$: $\overline{C}'(50) = 1 - \frac{2500}{2500} = 0$.
+-   Phản hồi sai: Viết lại hàm số rồi áp dụng công thức đạo hàm.
+*a) 0
+b)  0.5
+c)  1
+d)  1.5
+
+17. Một chất điểm chuyển động trên trục Ox với phương trình $x(t) = 2t^3 - 15t^2 + 36t - 20$ (cm). Chất điểm dừng lại tại những thời điểm nào?
+... Gợi ý: Chất điểm dừng lại khi vận tốc bằng 0.
++   Phản hồi đúng: Chính xác! Vận tốc $v(t) = x'(t) = 6t^2 - 30t + 36 = 6(t^2 - 5t + 6) = 6(t-2)(t-3) = 0$. Nghiệm: $t = 2$ và $t = 3$ giây.
+-   Phản hồi sai: Giải phương trình $v(t) = x'(t) = 0$.
+a)  $t = 1, t = 4$
+*b) $t = 2, t = 3$
+c)  $t = 1, t = 6$
+d)  $t = 3, t = 4$
+
+18. Hàm số $f(x) = (x^2 + 1)^3$ có đạo hàm tại $x = 1$ bằng:
+... Gợi ý: Sử dụng quy tắc đạo hàm hàm hợp với hàm lũy thừa.
++   Phản hồi đúng: Đúng! $f'(x) = 3(x^2 + 1)^2 \cdot 2x = 6x(x^2 + 1)^2$. Tại $x = 1$: $f'(1) = 6(1)(1 + 1)^2 = 6 \cdot 4 = 24$.
+-   Phản hồi sai: Áp dụng công thức $(u^n)' = nu^{n-1} \cdot u'$.
+a)  12
+b)  18
+*c) 24
+d)  36
+
+19. Dân số của một thành phố sau $t$ năm được mô tả bởi $P(t) = 500000(1 + 0.03t)$ người. Tốc độ tăng dân số của thành phố là:
+... Gợi ý: Tốc độ tăng dân số là đạo hàm của hàm dân số theo thời gian.
++   Phản hồi đúng: Chính xác! $P'(t) = 500000 \cdot 0.03 = 15000$ người/năm. Tốc độ tăng dân số không đổi.
+-   Phản hồi sai: Đạo hàm của hàm tuyến tính $at + b$ là $a$.
+a)  10000
+*b) 15000
+c)  20000
+d)  30000
+
+20. Một tấm kim loại hình vuông có cạnh tăng với tốc độ $2$ mm/phút. Khi cạnh hình vuông dài $10$ cm, tốc độ tăng diện tích là:
+... Gợi ý: Diện tích hình vuông $S = a^2$, sử dụng quy tắc đạo hàm hàm hợp.
++   Phản hồi đúng: Đúng! $\frac{dS}{da} = 2a$. Với $a = 10$ cm = 100 mm và $\frac{da}{dt} = 2$ mm/phút: $\frac{dS}{dt} = 2 \cdot 100 \cdot 2 = 400$ mm²/phút.
+-   Phản hồi sai: Áp dụng $\frac{dS}{dt} = \frac{dS}{da} \cdot \frac{da}{dt}$ với $S = a^2$.
+a)  200
+b)  300
+*c) 400
+d)  500
+

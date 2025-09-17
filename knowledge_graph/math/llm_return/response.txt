@@ -1,179 +1,179 @@
-1. Công thức định nghĩa đạo hàm của hàm số $y = f(x)$ tại điểm $x_0$ là:
-... Gợi ý: Đây là công thức giới hạn cơ bản trong định nghĩa đạo hàm.
-+   Phản hồi đúng: Chính xác! Đây là công thức định nghĩa chuẩn của đạo hàm tại một điểm theo định nghĩa giới hạn.
--   Phản hồi sai: Cần nhớ lại định nghĩa đạo hàm thông qua giới hạn của tỉ số biến thiên.
-a) $f'(x_0) = \lim_{h \to 0} \frac{f(x_0 + h) + f(x_0)}{h}$
-b) $f'(x_0) = \frac{f(x_0 + h) - f(x_0)}{h}$
-*c) $f'(x_0) = \lim_{h \to 0} \frac{f(x_0 + h) - f(x_0)}{h}$
-d) $f'(x_0) = f(x_0 + h) - f(x_0)$
+1. Cho hàm số $y = x^3 - 3x^2 + 2$. Tại sao hàm số này có đúng hai điểm cực trị?
+    Gợi ý: Xét dấu đạo hàm cấp nhất và áp dụng quy tắc tìm cực trị.
++   Phản hồi đúng: Chính xác! Vì $f'(x) = 3x^2 - 6x = 3x(x-2)$ có hai nghiệm phân biệt $x = 0$ và $x = 2$, đạo hàm đổi dấu qua cả hai nghiệm này nên có đúng hai điểm cực trị.
+-   Phản hồi sai: Cần tính $f'(x)$, giải $f'(x) = 0$ và xét dấu đạo hàm để xác định số điểm cực trị.
+a) Vì đây là hàm bậc ba nên luôn có hai điểm cực trị
+*b) Vì phương trình $f'(x) = 0$ có hai nghiệm phân biệt và $f'(x)$ đổi dấu qua mỗi nghiệm
+c) Vì hàm số có đạo hàm cấp hai khác không
+d) Vì hàm số liên tục trên toàn bộ tập số thực
 
-2. Đạo hàm của hàm số $y = c$ (với $c$ là hằng số) được cho bởi công thức:
-... Gợi ý: Hàm hằng số có đồ thị là đường thẳng nằm ngang.
-+   Phản hồi đúng: Đúng rồi! Đạo hàm của hàm hằng số luôn bằng 0 vì hàm hằng không có sự thay đổi.
--   Phản hồi sai: Hàm hằng số không thay đổi theo biến, nên đạo hàm bằng 0.
-*a) $y' = 0$
-b) $y' = c$
-c) $y' = 1$
-d) $y' = -c$
+2. Cho hàm số $y = \frac{x+1}{x-2}$. Sự khác biệt cơ bản giữa tiệm cận đứng và tiệm cận ngang của đồ thị hàm số này là gì?
+    Gợi ý: Xét giới hạn của hàm số khi $x \to 2$ và khi $x \to \pm\infty$.
++   Phản hồi đúng: Đúng! Tiệm cận đứng $x = 2$ xuất hiện do mẫu số bằng 0, còn tiệm cận ngang $y = 1$ xuất hiện do giới hạn hữu hạn khi $x \to \pm\infty$.
+-   Phản hồi sai: Cần phân biệt nguyên nhân tạo thành: tiệm cận đứng do điểm gián đoạn, tiệm cận ngang do hành vi ở vô cực.
+a) Tiệm cận đứng song song với trục hoành, tiệm cận ngang song song với trục tung
+*b) Tiệm cận đứng tạo bởi điểm gián đoạn, tiệm cận ngang tạo bởi giới hạn hữu hạn ở vô cực
+c) Tiệm cận đứng có phương trình dạng $y = a$, tiệm cận ngang có phương trình dạng $x = b$
+d) Không có sự khác biệt, cả hai đều là đường thẳng mà đồ thị hàm số tiến tới
 
-3. Đạo hàm của hàm số $y = x^n$ (với $n \in \mathbb{N}^*$) có công thức:
-... Gợi ý: Đây là công thức đạo hàm cơ bản nhất của hàm số mũ.
-+   Phản hồi đúng: Chính xác! Đây là công thức đạo hàm cơ bản của hàm số mũ với số mũ tự nhiên.
--   Phản hồi sai: Cần nhớ quy tắc: số mũ xuống trước, rồi giảm số mũ đi 1.
-a) $y' = nx^n$
-*b) $y' = nx^{n-1}$
-c) $y' = x^{n-1}$
-d) $y' = (n-1)x^n$
+3. Cho hàm số $y = x^4 - 2x^2 + 1$. Áp dụng quy tắc xét dấu đạo hàm, hàm số nghịch biến trên khoảng nào?
+    Gợi ý: Tính $f'(x)$, giải phương trình $f'(x) = 0$ và lập bảng xét dấu.
++   Phản hồi đúng: Chính xác! $f'(x) = 4x^3 - 4x = 4x(x^2-1) = 4x(x-1)(x+1)$ âm trên $(-1;0)$ và $(1;+\infty)$.
+-   Phản hồi sai: Cần tính đạo hàm, tìm nghiệm và xét dấu trên từng khoảng để xác định khoảng nghịch biến.
+a) $(-\infty; -1)$ và $(0; 1)$
+*b) $(-1; 0)$ và $(1; +\infty)$
+c) $(-\infty; 0)$ và $(1; +\infty)$
+d) $(-1; 1)$
 
-4. Quy tắc tính đạo hàm của tổng hai hàm số $u(x)$ và $v(x)$ là:
-... Gợi ý: Đạo hàm của tổng bằng tổng các đạo hàm.
-+   Phản hồi đúng: Đúng! Quy tắc này cho thấy đạo hàm có tính chất tuyến tính.
--   Phản hồi sai: Đạo hàm có tính chất phân phối đối với phép cộng.
-a) $(u + v)' = u' \cdot v'$
-*b) $(u + v)' = u' + v'$
-c) $(u + v)' = u' - v'$
-d) $(u + v)' = (u \cdot v)'$
+4. Để hàm số $y = x^3 - 3mx^2 + 3x - 1$ có cực đại tại $x = 1$, giá trị của tham số $m$ phải thỏa mãn điều kiện nào?
+    Gợi ý: Sử dụng điều kiện cần và đủ cho cực đại: $f'(1) = 0$ và $f''(1) < 0$.
++   Phản hồi đúng: Đúng! Từ $f'(1) = 0$ ta có $m = 1$, và kiểm tra $f''(1) = -6 < 0$ xác nhận có cực đại.
+-   Phản hồi sai: Cần áp dụng điều kiện $f'(1) = 0$ để tìm $m$, sau đó kiểm tra $f''(1) < 0$.
+a) $m > 1$
+*b) $m = 1$
+c) $m < 1$
+d) $m \neq 1$
 
-5. Về mặt hình học, đạo hàm $f'(x_0)$ biểu thị:
-... Gợi ý: Liên quan đến độ dốc của tiếp tuyến tại điểm trên đồ thị.
-+   Phản hồi đúng: Chính xác! Đạo hàm tại một điểm cho biết độ dốc của tiếp tuyến tại điểm đó.
--   Phản hồi sai: Đạo hàm liên quan đến hệ số góc, không phải độ dài hay khoảng cách.
-a) Độ dài của tiếp tuyến tại điểm có hoành độ $x_0$
-*b) Hệ số góc của tiếp tuyến với đồ thị tại điểm có hoành độ $x_0$
-c) Khoảng cách từ gốc tọa độ đến tiếp tuyến
-d) Góc tạo bởi tiếp tuyến và trục tung
+5. Cho đồ thị hàm số $y = f(x)$ đi qua điểm $(0,2)$ và có $f'(0) = -3$. Phương trình tiếp tuyến tại điểm này có dạng nào?
+    Gợi ý: Sử dụng công thức phương trình tiếp tuyến $y - y_0 = f'(x_0)(x - x_0)$.
++   Phản hồi đúng: Chính xác! Áp dụng công thức tiếp tuyến tại $(0,2)$ với hệ số góc $-3$.
+-   Phản hồi sai: Phương trình tiếp tuyến có dạng $y - y_0 = f'(x_0)(x - x_0)$ với $(x_0, y_0) = (0, 2)$.
+a) $y = -3x$
+*b) $y = -3x + 2$
+c) $y = 3x + 2$
+d) $y = -3x - 2$
 
-6. Quy tắc tính đạo hàm của tích hai hàm số $u(x)$ và $v(x)$ là:
-... Gợi ý: Quy tắc Leibniz cho tích hai hàm số.
-+   Phản hồi đúng: Đúng! Đây là quy tắc Leibniz, một trong những quy tắc quan trọng nhất trong tính đạo hàm.
--   Phản hồi sai: Đạo hàm của tích không bằng tích các đạo hàm mà phức tạp hơn.
-a) $(u \cdot v)' = u' \cdot v'$
-*b) $(u \cdot v)' = u' \cdot v + u \cdot v'$
-c) $(u \cdot v)' = u' \cdot v - u \cdot v'$
-d) $(u \cdot v)' = u' + v'$
+6. Cho hàm số $y = x^3 - 3x + 1$. Điểm uốn của đồ thị hàm số có tọa độ là?
+    Gợi ý: Điểm uốn thỏa mãn $f''(x) = 0$ và $f'''(x) \neq 0$.
++   Phản hồi đúng: Đúng! Từ $f''(x) = 6x = 0$ suy ra $x = 0$, và $f(0) = 1$, $f'''(0) = 6 \neq 0$.
+-   Phản hồi sai: Cần tính $f''(x)$, giải $f''(x) = 0$ và kiểm tra $f'''(x) \neq 0$ tại nghiệm đó.
+a) $(1, -1)$
+b) $(-1, 3)$
+*c) $(0, 1)$
+d) $(0, -1)$
 
-7. Đạo hàm của hàm số $y = \sqrt{x}$ được cho bởi công thức:
-... Gợi ý: Có thể viết $\sqrt{x} = x^{1/2}$ và áp dụng công thức đạo hàm hàm mũ.
-+   Phản hồi đúng: Chính xác! Sử dụng công thức $(x^n)' = nx^{n-1}$ với $n = \frac{1}{2}$.
--   Phản hồi sai: Cần nhớ công thức đạo hàm của hàm căn bậc hai.
-a) $y' = \frac{1}{\sqrt{x}}$
-*b) $y' = \frac{1}{2\sqrt{x}}$
-c) $y' = 2\sqrt{x}$
-d) $y' = \frac{2}{\sqrt{x}}$
+7. Hàm số $y = \frac{2x-1}{x+1}$ có tiệm cận ngang là đường thẳng nào?
+    Gợi ý: Tính $\lim_{x \to +\infty} \frac{2x-1}{x+1}$ và $\lim_{x \to -\infty} \frac{2x-1}{x+1}$.
++   Phản hồi đúng: Chính xác! Khi $x \to \pm\infty$, ta có $\lim \frac{2x-1}{x+1} = \lim \frac{2-\frac{1}{x}}{1+\frac{1}{x}} = 2$.
+-   Phản hồi sai: Tiệm cận ngang tìm bằng cách tính giới hạn của hàm số khi $x \to \pm\infty$.
+a) $y = 1$
+*b) $y = 2$
+c) $y = -1$
+d) $y = 0$
 
-8. Trong vật lý, nếu $s(t)$ là phương trình chuyển động thì đạo hàm $s'(t)$ biểu thị:
-... Gợi ý: Đạo hàm của quãng đường theo thời gian cho ta thông tin về tốc độ.
-+   Phản hồi đúng: Đúng! Đạo hàm bậc nhất của quãng đường theo thời gian chính là vận tốc tức thời.
--   Phản hồi sai: Cần phân biệt giữa vận tốc (đạo hàm bậc nhất) và gia tốc (đạo hàm bậc hai).
-a) Gia tốc tức thời tại thời điểm $t$
-*b) Vận tốc tức thời tại thời điểm $t$
-c) Quãng đường đi được tại thời điểm $t$
-d) Thời gian chuyển động
+8. Cho hàm số $y = x^4 - 4x^2 + 3$. Hàm số có bao nhiêu điểm cực trị?
+    Gợi ý: Tính $f'(x)$, giải $f'(x) = 0$ và xét dấu đạo hàm.
++   Phản hồi đúng: Đúng! $f'(x) = 4x^3 - 8x = 4x(x^2-2)$ có 3 nghiệm và đổi dấu qua cả 3 nghiệm.
+-   Phản hồi sai: Cần giải $f'(x) = 0$ và xét dấu đạo hàm để đếm số điểm cực trị.
+a) 1
+b) 2
+*c) 3
+d) 4
 
-9. Quy tắc tính đạo hàm của thương hai hàm số $\frac{u(x)}{v(x)}$ (với $v(x) \neq 0$) là:
-... Gợi ý: Công thức này phức tạp hơn quy tắc tích và có mẫu số chứa bình phương.
-+   Phản hồi đúng: Chính xác! Đây là quy tắc tính đạo hàm thương, cần nhớ dấu trừ và mẫu số là bình phương.
--   Phản hồi sai: Quy tắc này khác với quy tắc tích, cần có dấu trừ và mẫu số bình phương.
-a) $\left(\frac{u}{v}\right)' = \frac{u'}{v'}$
-*b) $\left(\frac{u}{v}\right)' = \frac{u'v - uv'}{v^2}$
-c) $\left(\frac{u}{v}\right)' = \frac{u'v + uv'}{v^2}$
-d) $\left(\frac{u}{v}\right)' = \frac{u'v - uv'}{v}$
+9. Cho hàm số $y = f(x)$ có $f'(x) > 0$ trên khoảng $(a,b)$. Điều này có ý nghĩa gì đối với đồ thị hàm số?
+    Gợi ý: Liên hệ giữa dấu của đạo hàm và tính đồng biến, nghịch biến.
++   Phản hồi đúng: Chính xác! Khi $f'(x) > 0$ thì hàm số đồng biến, tức đồ thị đi lên từ trái sang phải.
+-   Phản hồi sai: Dấu của $f'(x)$ cho biết chiều biến thiên của hàm số: dương thì đồng biến, âm thì nghịch biến.
+a) Đồ thị có điểm cực đại trên $(a,b)$
+*b) Đồ thị đi lên từ trái sang phải trên $(a,b)$
+c) Đồ thị có tiệm cận đứng trên $(a,b)$
+d) Đồ thị đi xuống từ trái sang phải trên $(a,b)$
 
-10. Đạo hàm của hàm số $y = \frac{1}{x}$ (với $x \neq 0$) có công thức:
-... Gợi ý: Có thể viết $\frac{1}{x} = x^{-1}$ và áp dụng công thức đạo hàm hàm mũ.
-+   Phản hồi đúng: Đúng! Sử dụng công thức $(x^n)' = nx^{n-1}$ với $n = -1$.
--   Phản hồi sai: Cần nhớ công thức đạo hàm của hàm nghịch đảo.
-a) $y' = \frac{1}{x^2}$
-*b) $y' = -\frac{1}{x^2}$
-c) $y' = -\frac{1}{x}$
-d) $y' = \frac{2}{x^2}$
+10. Hàm số $y = -x^3 + 3x^2 - 2$ đạt cực tiểu tại điểm nào?
+     Gợi ý: Tìm nghiệm của $f'(x) = 0$ và xét dấu đạo hàm hoặc dùng đạo hàm cấp hai.
++    Phản hồi đúng: Đúng! $f'(x) = -3x^2 + 6x = -3x(x-2)$, đạo hàm đổi dấu từ âm sang dương tại $x = 2$.
+-    Phản hồi sai: Cần giải $f'(x) = 0$ và xét dấu đạo hàm để xác định điểm cực tiểu.
+a) $x = 0$
+*b) $x = 2$
+c) $x = 1$
+d) $x = -1$
 
-11. Nếu $c$ là một hằng số và $f(x)$ là một hàm số có đạo hàm, thì đạo hàm của $y = c \cdot f(x)$ là:
-... Gợi ý: Hằng số có thể đưa ra ngoài dấu đạo hàm.
-+   Phản hồi đúng: Chính xác! Hằng số nhân có thể đưa ra ngoài dấu đạo hàm.
--   Phản hồi sai: Hằng số không ảnh hưởng đến việc tính đạo hàm, chỉ nhân với kết quả.
-a) $y' = c$
-b) $y' = f'(x)$
-*c) $y' = c \cdot f'(x)$
-d) $y' = c + f'(x)$
+11. Cho hàm số $y = x^2 + \frac{1}{x}$ với $x \neq 0$. Hàm số đồng biến trên khoảng nào?
+     Gợi ý: Tính $f'(x) = 2x - \frac{1}{x^2}$ và xét dấu trên từng khoảng.
++    Phản hồi đúng: Chính xác! $f'(x) = 2x - \frac{1}{x^2} > 0$ khi $2x^3 > 1$, tức $x > \frac{1}{\sqrt[3]{2}}$.
+-    Phản hồi sai: Cần tính đạo hàm và xét dấu, chú ý hàm số không xác định tại $x = 0$.
+a) $(-\infty; 0)$
+b) $(0; 1)$
+*c) $(\frac{1}{\sqrt[3]{2}}; +\infty)$
+d) $(-1; 0)$ và $(1; +\infty)$
 
-12. Quy tắc tính đạo hàm của hiệu hai hàm số $u(x) - v(x)$ là:
-... Gợi ý: Tương tự như quy tắc tổng nhưng với dấu trừ.
-+   Phản hồi đúng: Đúng! Đạo hàm của hiệu bằng hiệu các đạo hàm.
--   Phản hồi sai: Đạo hàm có tính chất tuyến tính đối với cả phép cộng và phép trừ.
-*a) $(u - v)' = u' - v'$
-b) $(u - v)' = u' + v'$
-c) $(u - v)' = u' \cdot v'$
-d) $(u - v)' = (u + v)'$
+12. Đồ thị hàm số $y = f(x)$ có điểm uốn tại $x = 1$. Điều gì xảy ra với $f''(x)$ tại điểm này?
+     Gợi ý: Xét định nghĩa điểm uốn và mối liên hệ với đạo hàm cấp hai.
++    Phản hồi đúng: Đúng! Tại điểm uốn, $f''(x) = 0$ và đạo hàm cấp hai đổi dấu qua điểm đó.
+-    Phản hồi sai: Điểm uốn là nơi đồ thị thay đổi tính lồi/lõm, tương ứng với $f''(x)$ đổi dấu.
+a) $f''(1) > 0$
+*b) $f''(1) = 0$ và $f''(x)$ đổi dấu qua $x = 1$
+c) $f''(1) < 0$
+d) $f''(1)$ không xác định
 
-13. Điều kiện cần để hàm số $f(x)$ có đạo hàm tại điểm $x_0$ là:
-... Gợi ý: Để có đạo hàm tại một điểm, hàm số phải thỏa mãn điều kiện cơ bản về tính liên tục.
-+   Phản hồi đúng: Chính xác! Tính liên tục là điều kiện cần (nhưng chưa đủ) để có đạo hàm.
--   Phản hồi sai: Hàm số phải liên tục tại điểm đó thì mới có thể có đạo hàm.
-a) $f(x)$ đơn điệu tại $x_0$
-*b) $f(x)$ liên tục tại $x_0$
-c) $f(x)$ dương tại $x_0$
-d) $f(x)$ có giá trị lớn nhất tại $x_0$
+13. Cho bảng biến thiên của hàm số $y = f(x)$ cho biết hàm số tăng trên $(-\infty; 1)$ và giảm trên $(1; +\infty)$. Kết luận nào đúng về điểm $x = 1$?
+     Gợi ý: Dựa vào định nghĩa điểm cực trị thông qua sự biến thiên của hàm số.
++    Phản hồi đúng: Chính xác! Hàm số chuyển từ tăng sang giảm tại $x = 1$ nên đây là điểm cực đại.
+-    Phản hồi sai: Khi hàm số chuyển từ tăng sang giảm tại một điểm thì điểm đó là cực đại.
+a) $x = 1$ là điểm cực tiểu
+*b) $x = 1$ là điểm cực đại
+c) $x = 1$ là điểm uốn
+d) Không thể kết luận gì về $x = 1$
 
-14. Ký hiệu nào sau đây KHÔNG phải là cách viết đạo hàm của hàm số $y = f(x)$?
-... Gợi ý: Có nhiều cách ký hiệu đạo hàm, cần phân biệt ký hiệu đúng và sai.
-+   Phản hồi đúng: Đúng! Đây không phải là ký hiệu chuẩn của đạo hàm.
--   Phản hồi sai: Cần nhớ các ký hiệu chuẩn của đạo hàm: $f'(x)$, $y'$, $\frac{df}{dx}$, $\frac{dy}{dx}$.
-a) $f'(x)$
-b) $y'$
-c) $\frac{dy}{dx}$
-*d) $\frac{dx}{dy}$
+14. Hàm số $y = \frac{x^2 - 1}{x}$ có tiệm cận đứng tại đường thẳng nào?
+     Gợi ý: Tìm giá trị làm cho mẫu số bằng 0 và tử số khác 0.
++    Phản hồi đúng: Đúng! Mẫu số bằng 0 khi $x = 0$, và tử số $x^2 - 1 = -1 \neq 0$ tại $x = 0$.
+-    Phản hồi sai: Tiệm cận đứng xuất hiện tại giá trị làm mẫu số bằng 0 mà tử số khác 0.
+*a) $x = 0$
+b) $x = 1$
+c) $x = -1$
+d) $y = 0$
 
-15. Đạo hàm của hàm số $y = x^3$ theo công thức cơ bản là:
-... Gợi ý: Áp dụng công thức $(x^n)' = nx^{n-1}$ với $n = 3$.
-+   Phản hồi đúng: Chính xác! Áp dụng công thức đạo hàm hàm mũ với $n = 3$.
--   Phản hồi sai: Sử dụng công thức $(x^n)' = nx^{n-1}$ để tính đạo hàm.
-a) $y' = x^2$
-b) $y' = 3x^3$
-*c) $y' = 3x^2$
-d) $y' = 3x^4$
+15. Cho hàm số $y = x^3 + ax^2 + bx + c$. Để đồ thị hàm số có điểm uốn tại gốc tọa độ $O(0,0)$, các hệ số $a$, $b$, $c$ phải thỏa mãn điều kiện gì?
+     Gợi ý: Sử dụng điều kiện điểm uốn và điều kiện đồ thị đi qua gốc tọa độ.
++    Phản hồi đúng: Chính xác! Từ $f(0) = 0$ suy ra $c = 0$, từ $f''(0) = 0$ suy ra $2a = 0$ nên $a = 0$.
+-    Phản hồi sai: Cần dùng điều kiện $f(0) = 0$ và $f''(0) = 0$ để tìm mối liên hệ giữa các hệ số.
+a) $a = 0, c \neq 0$
+*b) $a = 0, c = 0$
+c) $a \neq 0, c = 0$
+d) $a = c = b = 0$
 
-16. Quy tắc đạo hàm hàm hợp $[f(g(x))]'$ được biểu diễn bởi công thức:
-... Gợi ý: Đây là quy tắc chuỗi (chain rule) trong tính đạo hàm.
-+   Phản hồi đúng: Đúng! Đây là quy tắc chuỗi, một trong những quy tắc quan trọng nhất.
--   Phản hồi sai: Cần nhớ quy tắc chuỗi: đạo hàm hàm ngoài nhân với đạo hàm hàm trong.
-a) $f'(g(x)) + g'(x)$
-*b) $f'(g(x)) \cdot g'(x)$
-c) $f'(x) \cdot g'(x)$
-d) $f(g'(x))$
+16. Đồ thị hàm số $y = f'(x)$ cắt trục hoành tại hai điểm $x = -1$ và $x = 2$. Điều gì có thể kết luận về hàm số $y = f(x)$?
+     Gợi ý: Liên hệ giữa nghiệm của $f'(x) = 0$ và các điểm đặc biệt của $f(x)$.
++    Phản hồi đúng: Đúng! Nghiệm của $f'(x) = 0$ là các điểm tới hạn, có thể là cực trị của $f(x)$.
+-    Phản hồi sai: Khi $f'(x) = 0$ thì $x$ là điểm tới hạn, có thể là cực đại hoặc cực tiểu của $f(x)$.
+a) $f(x)$ có tiệm cận đứng tại $x = -1$ và $x = 2$
+*b) $f(x)$ có thể có cực trị tại $x = -1$ và $x = 2$
+c) $f(x)$ có điểm uốn tại $x = -1$ và $x = 2$
+d) $f(x) = 0$ tại $x = -1$ và $x = 2$
 
-17. Hàm số nào sau đây có đạo hàm bằng $0$ tại mọi điểm thuộc tập xác định?
-... Gợi ý: Hàm số nào không thay đổi giá trị thì có đạo hàm bằng 0.
-+   Phản hồi đúng: Chính xác! Hàm hằng số không thay đổi nên có đạo hàm bằng 0 tại mọi điểm.
--   Phản hồi sai: Chỉ có hàm hằng số mới có đạo hàm bằng 0 tại mọi điểm.
-a) $y = x$
-b) $y = x^2$
-*c) $y = 5$
-d) $y = \sqrt{x}$
+17. Cho hàm số $y = x^4 - 4x^3 + 6x^2 - 4x + 1$. Tại sao có thể khẳng định đây là hàm số có cực tiểu tổng thể?
+     Gợi ý: Xét dấu hệ số của số hạng bậc cao nhất và hành vi của hàm số ở vô cực.
++    Phản hồi đúng: Chính xác! Vì hệ số của $x^4$ dương và bậc chẵn nên $\lim_{x \to \pm\infty} f(x) = +\infty$.
+-    Phản hồi sai: Hàm bậc chẵn với hệ số dương của số hạng bậc cao nhất có giới hạn $+\infty$ ở cả hai phía.
+a) Vì hàm số có đạo hàm dương trên toàn bộ tập xác định
+*b) Vì hệ số của $x^4$ dương nên hàm số tiến tới $+\infty$ khi $x \to \pm\infty$
+c) Vì tất cả các hệ số đều dương
+d) Vì đây là hàm đa thức bậc chẵn
 
-18. Trong các công thức sau, công thức nào biểu diễn đạo hàm của hàm số $y = x^2$?
-... Gợi ý: Áp dụng công thức $(x^n)' = nx^{n-1}$ với $n = 2$.
-+   Phản hồi đúng: Đúng! Sử dụng công thức đạo hàm cơ bản của hàm bậc hai.
--   Phản hồi sai: Áp dụng quy tắc $(x^n)' = nx^{n-1}$ để tìm đáp án đúng.
-a) $y' = x$
-*b) $y' = 2x$
-c) $y' = 2x^2$
-d) $y' = x^2$
+18. Cho hàm số $y = \frac{2x+3}{x-1}$. Phép biến đổi nào giúp xác định tiệm cận của đồ thị hàm số một cách dễ dàng nhất?
+     Gợi ý: Thực hiện phép chia đa thức để viết lại hàm số dưới dạng khác.
++    Phản hồi đúng: Đúng! Chia tử cho mẫu: $y = 2 + \frac{5}{x-1}$, dễ thấy tiệm cận ngang $y = 2$ và đứng $x = 1$.
+-    Phản hồi sai: Chia đa thức tử số cho mẫu số để tách phần nguyên và phần phân số.
+a) Phân tích tử số và mẫu số thành nhân tử
+*b) Thực hiện phép chia để viết $y = 2 + \frac{5}{x-1}$
+c) Tính đạo hàm của hàm số
+d) Tìm tập xác định của hàm số
 
-19. Ý nghĩa vật lý của đạo hàm bậc hai $s''(t)$ trong phương trình chuyển động $s = s(t)$ là:
-... Gợi ý: Đạo hàm bậc hai của quãng đường theo thời gian liên quan đến sự thay đổi vận tốc.
-+   Phản hồi đúng: Chính xác! Đạo hàm bậc hai của quãng đường cho ta gia tốc tức thời.
--   Phản hồi sai: Đạo hàm bậc hai của quãng đường (hay đạo hàm bậc nhất của vận tốc) là gia tốc.
-a) Vận tốc tức thời
-*b) Gia tốc tức thời
-c) Quãng đường đi được
-d) Thời gian chuyển động
+19. Hàm số $y = x^3 - 3x^2 + 3x - 1$ có đặc điểm gì về số điểm cực trị?
+     Gợi ý: Tính $f'(x)$ và xét phương trình $f'(x) = 0$.
++    Phản hồi đúng: Chính xác! $f'(x) = 3x^2 - 6x + 3 = 3(x-1)^2 \geq 0$, chỉ bằng 0 tại $x = 1$ nhưng không đổi dấu.
+-    Phản hồi sai: Cần tính đạo hàm và kiểm tra xem có đổi dấu tại nghiệm của $f'(x) = 0$ hay không.
+*a) Không có điểm cực trị
+b) Có một điểm cực trị
+c) Có hai điểm cực trị
+d) Có ba điểm cực trị
 
-20. Điều kiện để áp dụng quy tắc tính đạo hàm thương $\left(\frac{u}{v}\right)' = \frac{u'v - uv'}{v^2}$ là:
-... Gợi ý: Cần chú ý mẫu số trong công thức không được bằng 0.
-+   Phản hồi đúng: Đúng! Mẫu số không được bằng 0 để phép chia có nghĩa.
--   Phản hồi sai: Cần đảm bảo hàm số ở mẫu khác 0 để phép chia có nghĩa.
-a) $u(x) \neq 0$
-*b) $v(x) \neq 0$
-c) $u'(x) \neq 0$
-d) $v'(x) \neq 0$
+20. Cho đồ thị hàm số $y = f(x)$ lồi trên khoảng $(a,b)$. Điều này tương đương với điều kiện nào về đạo hàm cấp hai?
+     Gợi ý: Liên hệ giữa tính lồi của đồ thị và dấu của đạo hàm cấp hai.
++    Phản hồi đúng: Đúng! Đồ thị lồi tương đương với $f''(x) > 0$, đồ thị cong lên trên.
+-    Phản hồi sai: Tính lồi/lõm của đồ thị được xác định bởi dấu của đạo hàm cấp hai.
+a) $f'(x) > 0$ trên $(a,b)$
+*b) $f''(x) > 0$ trên $(a,b)$
+c) $f'(x) < 0$ trên $(a,b)$
+d) $f''(x) < 0$ trên $(a,b)$

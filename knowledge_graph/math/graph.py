@@ -381,8 +381,8 @@ def math_test(topic: str = "", grade: int = 11, difficulty: str = "Vận dụng"
     response_text = generate_test(tmp_prompt_path)
     recalc(file_dir=tmp_prompt_path, grade=grade, topic=topic)
     reform(file_dir=tmp_prompt_path, format_path=format_path, question_path=question_path)
-    evaluate_difficulty(difficulty_path, make_tempfile_with(response_text), grade, topic, difficulty)
-    evaluate_concept(concept_path, make_tempfile_with(response_text), grade, topic)
+    # evaluate_difficulty(difficulty_path, make_tempfile_with(response_text), grade, topic, difficulty)
+    # evaluate_concept(concept_path, make_tempfile_with(response_text), grade, topic)
     score = evaluate_elo(make_tempfile_with(response_text), grade, topic)
     with open("knowledge_graph/math/llm_return/response.txt", "w", encoding="utf-8") as f:
         f.write(str(response_text))

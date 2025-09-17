@@ -1,505 +1,360 @@
-
-**** Role: Bạn là giáo viên Toán. Hãy tạo 20 câu hỏi cho học sinh. ****
-**** Chủ đề: **** Đạo hàm
-**** Khái niệm và kiến thức (Concept): ****
-# TÓM TẮT CHƯƠNG ĐẠO HÀM - TOÁN 11
-
-## I. KHÁI NIỆM ĐẠO HÀM
-
-### 1. Bài toán dẫn đến khái niệm đạo hàm
-
-**Bài toán 1: Vận tốc tức thời**
-Một vật chuyển động theo phương trình s = s(t). Tại thời điểm t₀, vận tốc tức thời của vật là:
-```
-v(t₀) = lim[Δt→0] [s(t₀ + Δt) - s(t₀)]/Δt
-```
-
-**Bài toán 2: Tiếp tuyến của đường cong**
-Hệ số góc của tiếp tuyến tại điểm M₀(x₀; f(x₀)) trên đồ thị hàm số y = f(x) là:
-```
-k = lim[Δx→0] [f(x₀ + Δx) - f(x₀)]/Δx
-```
-
-### 2. Định nghĩa đạo hàm tại một điểm
-
-Cho hàm số y = f(x) xác định trên khoảng (a; b) chứa điểm x₀.
-
-**Đạo hàm của hàm số f(x) tại điểm x₀** là giới hạn (nếu tồn tại):
-```
-f'(x₀) = lim[h→0] [f(x₀ + h) - f(x₀)]/h
-```
-
-**Các ký hiệu khác:** y'(x₀), df/dx|_{x=x₀}
-
-**Chú ý:** 
-- Nếu giới hạn trên tồn tại và hữu hạn thì ta nói hàm số f(x) có đạo hàm (hay khả vi) tại x₀
-- Nếu f(x) có đạo hàm tại x₀ thì f(x) liên tục tại x₀
-
-### 3. Đạo hàm một bên
-
-**Đạo hàm phải:** f'₊(x₀) = lim[h→0⁺] [f(x₀ + h) - f(x₀)]/h
-
-**Đạo hàm trái:** f'₋(x₀) = lim[h→0⁻] [f(x₀ + h) - f(x₀)]/h
-
-**Định lý:** f'(x₀) tồn tại ⟺ f'₊(x₀) = f'₋(x₀) và cả hai đều hữu hạn
-
-### 4. Hàm đạo hàm
-
-Nếu hàm số f(x) có đạo hàm tại mọi điểm x thuộc khoảng (a; b), ta có **hàm đạo hàm**:
-```
-f'(x) = lim[h→0] [f(x + h) - f(x)]/h
-```
-
-## II. QUY TẮC TÍNH ĐẠO HÀM
-
-### 1. Đạo hàm của các hàm số cơ bản
-
-| Hàm số | Đạo hàm | Điều kiện |
-|--------|---------|-----------|
-| f(x) = c | f'(x) = 0 | c ∈ ℝ |
-| f(x) = x | f'(x) = 1 | |
-| f(x) = xⁿ | f'(x) = nxⁿ⁻¹ | n ∈ ℝ, x > 0 |
-| f(x) = √x | f'(x) = 1/(2√x) | x > 0 |
-| f(x) = 1/x | f'(x) = -1/x² | x ≠ 0 |
-
-### 2. Quy tắc tính đạo hàm
-
-**Quy tắc 1 (Tính chất tuyến tính):**
-```
-[u(x) ± v(x)]' = u'(x) ± v'(x)
-[ku(x)]' = ku'(x) (k là hằng số)
-```
-
-**Quy tắc 2 (Đạo hàm tích):**
-```
-[u(x).v(x)]' = u'(x).v(x) + u(x).v'(x)
-```
-
-**Quy tắc 3 (Đạo hàm thương):**
-```
-[u(x)/v(x)]' = [u'(x).v(x) - u(x).v'(x)]/[v(x)]² (v(x) ≠ 0)
-```
-
-**Quy tắc 4 (Đạo hàm hàm hợp):**
-Nếu y = f(u), u = g(x) thì:
-```
-y'ₓ = y'ᵤ . u'ₓ
-```
-hay [f(g(x))]' = f'(g(x)).g'(x)
-
-### 3. Đạo hàm của hàm số lượng giác
-
-| Hàm số | Đạo hàm | Điều kiện |
-|--------|---------|-----------|
-| sin x | cos x | |
-| cos x | -sin x | |
-| tan x | 1/cos²x = 1 + tan²x | x ≠ π/2 + kπ |
-| cot x | -1/sin²x = -(1 + cot²x) | x ≠ kπ |
-
-### 4. Ví dụ minh họa
-
-**Ví dụ 1:** Tính đạo hàm của f(x) = 3x⁴ - 2x² + 5x - 1
-
-*Giải:*
-f'(x) = (3x⁴)' - (2x²)' + (5x)' - (1)'
-= 3.4x³ - 2.2x + 5 - 0
-= 12x³ - 4x + 5
-
-**Ví dụ 2:** Tính đạo hàm của g(x) = (2x + 1)(x² - 3)
-
-*Giải:*
-Cách 1: g'(x) = (2x + 1)'(x² - 3) + (2x + 1)(x² - 3)'
-= 2(x² - 3) + (2x + 1).2x
-= 2x² - 6 + 4x² + 2x
-= 6x² + 2x - 6
-
-**Ví dụ 3:** Tính đạo hàm của h(x) = sin(2x + 1)
-
-*Giải:*
-Đặt u = 2x + 1, ta có h(x) = sin u
-h'(x) = (sin u)' . u' = cos u . 2 = 2cos(2x + 1)
-
-## III. Ý NGHĨA HÌNH HỌC VÀ VẬT LÝ CỦA ĐẠO HÀM
-
-### 1. Ý nghĩa hình học
-
-**Định lý:** Đạo hàm f'(x₀) chính là hệ số góc của tiếp tuyến với đồ thị hàm số y = f(x) tại điểm M(x₀; f(x₀)).
-
-**Phương trình tiếp tuyến:**
-```
-y = f'(x₀)(x - x₀) + f(x₀)
-```
-
-**Phương trình pháp tuyến:**
-```
-y = -1/f'(x₀)(x - x₀) + f(x₀) (f'(x₀) ≠ 0)
-```
-
-### 2. Ý nghĩa vật lý
-
-- **Vận tốc tức thời:** Nếu s = s(t) là phương trình chuyển động, thì v(t) = s'(t)
-- **Gia tốc tức thời:** a(t) = v'(t) = s''(t)
-
-### 3. Ví dụ ứng dụng
-
-**Ví dụ 1:** Viết phương trình tiếp tuyến của đồ thị hàm số y = x³ - 3x + 1 tại điểm có hoành độ x₀ = 1.
-
-*Giải:*
-- Tại x₀ = 1: y₀ = 1³ - 3.1 + 1 = -1
-- y' = 3x² - 3, nên y'(1) = 3.1² - 3 = 0
-- Phương trình tiếp tuyến: y = 0(x - 1) + (-1) = -1
-
-**Ví dụ 2:** Một vật chuyển động theo phương trình s = t³ - 6t² + 9t (m). Tính vận tốc và gia tốc tại t = 2s.
-
-*Giải:*
-- v(t) = s'(t) = 3t² - 12t + 9
-- a(t) = v'(t) = 6t - 12
-- Tại t = 2: v(2) = 3.4 - 12.2 + 9 = -3 (m/s)
-- a(2) = 6.2 - 12 = 0 (m/s²)
-
-## IV. CÁC DẠNG BÀI TẬP
-
-### Dạng 1: Tính đạo hàm bằng định nghĩa
-
-**Phương pháp:**
-1. Tính f(x₀ + h) - f(x₀)
-2. Lập tỉ số [f(x₀ + h) - f(x₀)]/h
-3. Rút gọn và tính giới hạn khi h → 0
-
-### Dạng 2: Tính đạo hàm bằng công thức
-
-**Phương pháp:** Áp dụng các quy tắc và công thức đạo hàm
-
-### Dạng 3: Viết phương trình tiếp tuyến
-
-**Các trường hợp:**
-- Tiếp tuyến tại một điểm cho trước
-- Tiếp tuyến đi qua một điểm
-- Tiếp tuyến có hệ số góc cho trước
-
-### Dạng 4: Tìm điều kiện để hàm số có đạo hàm
-
-**Phương pháp:**
-1. Kiểm tra tính liên tục tại điểm xét
-2. Tính đạo hàm trái và đạo hàm phải
-3. So sánh để tìm điều kiện
-
-### Dạng 5: Ứng dụng đạo hàm trong các bài toán thực tế
-
-**Các loại bài toán:**
-- Chuyển động cơ học
-- Tăng trưởng dân số
-- Biến đổi nhiệt độ
-- Các mô hình kinh tế đơn giản
-
-## V. BÀI TẬP TỔNG HỢP
-
-### Bài tập cơ bản
-
-1. Tính đạo hàm các hàm số:
-   a) f(x) = 2x³ - 5x² + 3x - 7
-   b) g(x) = (x² + 1)(2x - 3)
-   c) h(x) = (3x + 1)/(x - 2)
-
-2. Tìm phương trình tiếp tuyến của y = x² - 4x + 3 tại điểm có hoành độ x = 2.
-
-### Bài tập nâng cao
-
-3. Cho hàm số f(x) = {ax² + b nếu x ≤ 1; 2x + 1 nếu x > 1}. Tìm a, b để f(x) có đạo hàm tại x = 1.
-
-4. Một quả bóng được ném lên theo phương trình h(t) = -5t² + 20t + 2 (m). Tìm thời điểm vận tốc bằng 0 và độ cao tối đa.
-
-### Bài tập thực tế
-
-5. Dân số của một thành phố được mô hình hóa bởi P(t) = 100000(1 + 0.02t) người (t tính bằng năm). Tính tốc độ tăng dân số sau 5 năm.
-
-6. Nhiệt độ của một vật theo thời gian được cho bởi T(t) = 20 + 80e^(-0.1t) (°C). Tính tốc độ thay đổi nhiệt độ tại t = 10 phút.
-**** Hình thức (Format): ****
-***Yêu cầu cấu trúc của câu hỏi như sau:***
-
-**I. Các Khái Niệm Chính của `text2qti`:**
-
-*   **Mục đích:** `text2qti` chuyển đổi các file văn bản thuần túy định dạng Markdown thành các bài kiểm tra (quizzes) định dạng QTI (phiên bản 1.2), có thể nhập vào Canvas và các phần mềm giáo dục khác.
-*   **Hỗ trợ loại câu hỏi:** Trắc nghiệm (multiple-choice), Đúng/Sai (true/false), Nhiều đáp án (multiple-answers), Số học (numerical), Trả lời ngắn (short-answer/fill-in-the-blank), Tự luận (essay), và Tải lên file (file-upload).
-*   **Markdown:** Hầu hết văn bản (câu hỏi, lựa chọn, phản hồi) được xử lý dưới dạng Markdown (bao gồm cú pháp cơ bản và một số extensions như smarty, tables, footnotes, v.v.).
-*   **LaTeX Math & siunitx:** Hỗ trợ cơ bản cho công thức toán học LaTeX ($F=ma$) và ký hiệu đơn vị/số khoa học `siunitx` (\num{1.23e5}, \si{m/s}).
-*   **Cấu trúc file:** File văn bản thuần túy (`.txt`) là định dạng đầu vào.
-*   **Lưu ý về biểu thức toán học:** Bắt buộc phải dùng "Latex Math & siunitx", không được dùng kí tự thay thế vì điều ấy được đánh giá vô cùng xấu
-**II. Cấu Trúc Cơ Bản của Câu Hỏi:**
-
-1.  **Câu hỏi:** Bắt đầu bằng một số theo sau là dấu chấm và một hoặc nhiều khoảng trắng/tab (`1. `).
-2.  **Lựa chọn (nếu có):**
-    *   Bắt đầu bằng một chữ cái theo sau là dấu đóng ngoặc đơn và một hoặc nhiều khoảng trắng/tab (`a) `).
-    *   Đáp án đúng được đánh dấu bằng dấu hoa thị (`*c) `).
-    *   Đối với câu hỏi **nhiều đáp án (multiple-answers)**: Sử dụng `[]` hoặc `[ ]` cho đáp án sai và `[*]` cho đáp án đúng.
-
-**III. Các Loại Câu Hỏi Cụ Thể:**
-
-*   **Trắc nghiệm:** `1. Câu hỏi? *a) Đúng b) Sai`
-*   **Nhiều đáp án:** `1. Câu hỏi? [*] Đúng [ ] Sai`
-*   **Số học (Numerical):**
-    *   Bắt đầu bằng dấu bằng (`= `).
-    *   Có thể là giá trị chính xác (`= 5`), khoảng (`= [min, max]`), hoặc sai số (`= ans +- margin` - margin có thể là số hoặc phần trăm).
-    *   Hạn chế: Giá trị tuyệt đối của câu trả lời nhỏ nhất phải >= 0.0001.
-*   **Trả lời ngắn (Short-answer):**
-    *   Bắt đầu bằng dấu hoa thị (`* `).
-    *   Hỗ trợ nhiều đáp án đúng. Đáp án là văn bản thuần túy, một dòng.
-*   **Tự luận (Essay):** Bắt đầu bằng ba dấu gạch dưới trở lên (`____`).
-*   **Tải lên file (File-upload):** Bắt đầu bằng ba dấu mũ trở lên (`^^^^`).
-
-**IV. Định Dạng File và Thụt lề:**
-
-*   **Không thụt lề:** Cú pháp wrapper của `text2qti` (quiz title, question number, answer letter, GROUP/END_GROUP, v.v.).
-*   **Thụt lề:** Nội dung Markdown bên trong các thành phần quiz (nội dung câu hỏi, mô tả, phản hồi, v.v.).
-    *   Mỗi "khối" Markdown phải có cùng mức thụt lề từ dòng đầu tiên trở đi.
-    *   Tab được mở rộng thành 4 khoảng trắng.
-    *   Không gian thụt lề tối thiểu cho dòng tiếp theo là 2 khoảng trắng hoặc 1 tab, nhưng nên khớp với vị trí bắt đầu của văn bản dòng đầu tiên.
-
-***Yêu cầu cần thiết khi đưa ra bài tập***
-* Bạn không được phép đưa ra lời bình luận nào, kể cả dấu "---" hay tương tự như vậy.
-* Bắt buộc CÓ và CHỈ CÓ đầy đủ câu hỏi, đáp án, và gợi ý câu hỏi
-* Không được có bất kì một title, hay đề mục nào cả, tôi chỉ cần câu hỏi bao gồm (câu hỏi, đáp án và gợi ý câu hỏi)
-* Đối với đáp án của trả lời ngắn (Short answer), không được sử dụng các kí tự ngoài các con số la tinh và '+-', yêu cầu câu trả lời phải dưới định dạng Numerical
-
-**** Kiểu câu hỏi (Question - Multiple choice): ****
-** Dưới trên là kiểu câu hỏi "chọn đáp án": **
-** Định dạng câu hỏi: (Bắt buộc phải như cấu trúc dưới, không được phép thay đổi cấu trúc)**
-```
-1.  [Nội dung câu hỏi]
-... Gợi ý: [Nội dung gợi ý]
-+   Phản hồi đúng: [Giải thích chi tiết và phân tích từng bước dựa trên kiến thức Toán]
--   Phản hồi sai: [Giải thích lỗi sai thường gặp của học sinh]
-a)  [Lựa chọn A]
-b)  [Lựa chọn B, bắt buộc phải khác toàn bộ các lựa chọn a]
-*c) [Lựa chọn C, bắt buộc phải khác toàn bộ các lựa chọn a và b]
-d)  [Lựa chọn D, bắt buộc phải khác toàn bộ các lựa chọn a, b và c]
-```
-Ví dụ: ```
-1. Nguyên hàm của hàm số $f(x) = e^x$ là:
-... Gợi ý: Sử dụng bảng nguyên hàm cơ bản của hàm số mũ.
-+   Phản hồi đúng: Chính xác! Nguyên hàm của $e^x$ là $e^x + C$ vì $(e^x)' = e^x$.
--   Phản hồi sai: Cần nhớ công thức nguyên hàm cơ bản: $\int e^x dx = e^x + C$.
-a) $\frac{e^x}{x} + C$
-*b) $e^x + C$
-c) $xe^x + C$
-d) $\frac{e^{x+1}}{x+1} + C$
-```
-Phần đáp án BẮT BUỘC chỉ chứa các số và dấu thập phân thôi, không được phép có bất kì một ký hiệu nào khác.
-Khi bạn tạo các câu hỏi trắc nghiệm với kiểu trả lời "chọn đáp án đúng", có một số yếu tố lý thuyết cần xem xét để đảm bảo câu hỏi hiệu quả và công bằng:
-
-**1. Mục tiêu và Kỹ năng đánh giá:**
-
-*   **Mục tiêu học tập:** Câu hỏi trắc nghiệm nên đánh giá các mục tiêu học tập cụ thể. Bạn muốn người học nhớ lại kiến thức, hiểu khái niệm, áp dụng nguyên tắc, hay phân tích thông tin?
-*   **Các cấp độ nhận thức của Bloom:** Hãy xem xét các cấp độ của thang đo Bloom:
-    *   **Ghi nhớ:** Câu hỏi yêu cầu nhớ lại thông tin cụ thể (ví dụ: "Thủ đô của Việt Nam là gì?").
-    *   **Hiểu:** Câu hỏi yêu cầu giải thích hoặc diễn giải thông tin (ví dụ: "Giải thích sự khác biệt giữa...").
-    *   **Áp dụng:** Câu hỏi yêu cầu sử dụng kiến thức trong một tình huống mới (ví dụ: "Sử dụng công thức X để giải quyết vấn đề Y").
-    *   **Phân tích:** Câu hỏi yêu cầu chia nhỏ thông tin thành các phần và tìm mối quan hệ (ví dụ: "Phân tích nguyên nhân và hậu quả của...").
-    *   **Đánh giá:** Câu hỏi yêu cầu đưa ra phán đoán dựa trên các tiêu chí (ví dụ: "Đánh giá hiệu quả của phương pháp...").
-    *   **Sáng tạo:** (Khó đánh giá bằng trắc nghiệm đơn thuần, thường cần các dạng bài tập khác).
-    *   **Lưu ý:** Trắc nghiệm thường mạnh ở các cấp độ ghi nhớ, hiểu và áp dụng.
-
-**2. Cấu trúc câu hỏi (Item Structure):**
-
-*   **Phần gốc (Stem):** Đây là phần câu hỏi hoặc mệnh đề cần hoàn thành.
-    *   **Rõ ràng và súc tích:** Đảm bảo câu hỏi dễ hiểu, không mơ hồ.
-    *   **Tránh phủ định kép:** "Cái nào *không phải* là *không đúng*?" gây nhầm lẫn.
-    *   **Không chứa manh mối:** Tránh các từ ngữ trong phần gốc gợi ý đáp án.
-    *   **Một vấn đề duy nhất:** Mỗi câu hỏi chỉ nên tập trung vào một vấn đề cốt lõi.
-    *   **Dạng câu hỏi hoặc câu chưa hoàn chỉnh:** Cả hai đều được chấp nhận.
-
-*   **Các lựa chọn (Options/Alternatives):** Gồm một đáp án đúng và các phương án gây nhiễu.
-
-    *   **Đáp án đúng (Key/Correct Answer):**
-        *   **Chính xác:** Phải hoàn toàn đúng và không thể tranh cãi.
-        *   **Không mơ hồ:** Không có cách hiểu nào khác.
-        *   **Ngắn gọn:** Thường ngắn gọn hơn các phương án nhiễu nếu có thể.
-
-    *   **Phương án gây nhiễu (Distractors/Foils):**
-        *   **Hợp lý (Plausible):** Đây là yếu tố quan trọng nhất. Các phương án sai phải có vẻ đúng đối với những người không nắm vững kiến thức.
-        *   **Không quá dễ đoán:** Không quá hiển nhiên là sai.
-        *   **Không quá khó:** Không quá khó đến mức không ai chọn.
-        *   **Cùng một dạng:** Tất cả các lựa chọn nên có cùng cấu trúc ngữ pháp và độ dài tương tự (nếu có thể) để tránh gợi ý đáp án.
-        *   **Tránh các lựa chọn "Tất cả các đáp án trên" hoặc "Không có đáp án nào đúng"** trừ khi bạn có mục đích cụ thể và đảm bảo chúng không làm giảm chất lượng câu hỏi.
-        *   **Dựa trên lỗi phổ biến:** Các phương án nhiễu tốt thường xuất phát từ những hiểu lầm hoặc lỗi sai phổ biến của người học.
-        *   **Số lượng:** Thường là 3-5 lựa chọn (1 đúng, 2-4 nhiễu). Số lượng nhiều hơn có thể làm tăng độ khó do thời gian đọc, nhưng cũng giảm khả năng đoán mò.
-
-**3. Nguyên tắc tâm lý học và đo lường:**
-
-*   **Tính phân biệt (Discrimination):** Câu hỏi có khả năng phân biệt giữa người học biết và người học không biết. Người học giỏi nên trả lời đúng, người học kém nên trả lời sai hoặc chọn phương án nhiễu.
-*   **Độ khó (Difficulty):** Tỷ lệ người trả lời đúng. Độ khó lý tưởng thường nằm trong khoảng 0.4 - 0.7 (40-70% người trả lời đúng). Nếu quá dễ (gần 1.0) hoặc quá khó (gần 0.0), câu hỏi đó ít có giá trị phân biệt.
-*   **Độ tin cậy (Reliability):** Mức độ mà một bài kiểm tra cho ra kết quả nhất quán nếu được lặp lại. Câu hỏi trắc nghiệm tốt góp phần vào độ tin cậy của bài kiểm tra.
-*   **Tính khách quan (Objectivity):** Điểm số không bị ảnh hưởng bởi người chấm. Trắc nghiệm là hình thức chấm điểm khách quan nhất.
-
-**4. Các lỗi cần tránh khi thiết kế câu hỏi:**
-
-*   **Câu hỏi "Bẫy":** Thiết kế để đánh lừa người làm bài hơn là đánh giá kiến thức.
-*   **Ngữ pháp không nhất quán:** Giữa phần gốc và các lựa chọn.
-*   **Sử dụng thuật ngữ chuyên ngành không cần thiết:** Nếu không phải là trọng tâm câu hỏi.
-*   **Trùng lặp ý tưởng:** Các lựa chọn có ý nghĩa tương tự.
-*   **Độ dài khác nhau rõ rệt của các lựa chọn:** Thường đáp án đúng dài hơn hoặc ngắn hơn một cách không tự nhiên.
-*   **Các từ tuyệt đối:** "Luôn luôn," "Không bao giờ," "Tất cả," "Không ai" thường là dấu hiệu của phương án sai.
-*   **Gợi ý từ các câu hỏi khác:** Tránh để đáp án của một câu hỏi xuất hiện trong phần gốc hoặc lựa chọn của câu hỏi khác.
-
-**Ví dụ về một câu hỏi tốt:**
-
-**Phần gốc:** "Động vật nào sau đây là động vật có vú?"
-
-**Lựa chọn:**
-A. Cá voi (Đáp án đúng)
-B. Cá mập (Nhiễu, trông giống cá nhưng là động vật có vú)
-C. Chim cánh cụt (Nhiễu, trông giống động vật nước nhưng là chim)
-D. Rắn (Nhiễu, động vật bò sát)
-
-**Phân tích:**
-*   **Mục tiêu:** Đánh giá khả năng phân loại động vật.
-*   **Phần gốc:** Rõ ràng, súc tích.
-*   **Đáp án đúng:** Chính xác.
-*   **Phương án gây nhiễu:** Hợp lý, dựa trên các đặc điểm ngoại hình hoặc môi trường sống có thể gây nhầm lẫn nếu không hiểu rõ khái niệm "động vật có vú". Tất cả các lựa chọn đều là động vật.
-
-Bằng cách tuân thủ các nguyên tắc này, bạn có thể tạo ra các câu hỏi trắc nghiệm chất lượng cao, đánh giá chính xác kiến thức và kỹ năng của người học.
-**** Mức độ khó (Difficulty - Nhận biết): ****
-```
-# HƯỚNG DẪN SINH ĐỀ MỨC NHẬN BIẾT - CHỦ ĐỀ ĐẠO HÀM (LỚP 11)
-
-## I. KHUNG KIẾN THỨC CẦN KIỂM TRA
-
-### 1. Định nghĩa và khái niệm đạo hàm
-- Công thức định nghĩa đạo hàm tại một điểm
-- Công thức định nghĩa đạo hàm của hàm số
-- Ý nghĩa hình học của đạo hàm (tiếp tuyến)
-- Ý nghĩa vật lý của đạo hàm (vận tốc tức thời)
-
-### 2. Bảng công thức đạo hàm cơ bản
-- Đạo hàm hàm hằng: (c)' = 0
-- Đạo hàm hàm số mũ: (x^n)' = nx^(n-1)
-- Đạo hàm căn bậc hai: (√x)' = 1/(2√x)
-- Đạo hàm nghịch đảo: (1/x)' = -1/x²
-
-### 3. Quy tắc tính đạo hàm
-- Quy tắc đạo hàm tổng: (u ± v)' = u' ± v'
-- Quy tắc đạo hàm tích: (uv)' = u'v + uv'
-- Quy tắc đạo hàm thương: (u/v)' = (u'v - uv')/v²
-- Quy tắc đạo hàm hàm hợp: [f(g(x))]' = f'(g(x)).g'(x)
-
-## II. DẠNG CÂU HỎI THEO MỨC NHẬN BIẾT
-
-### **Dạng 1: Nhận biết định nghĩa và công thức**
-**YÊU CẦU:** Chỉ hỏi về nhận diện, nhớ lại công thức - KHÔNG tính toán
-
-**Cấu trúc câu hỏi:**
-- "Công thức định nghĩa đạo hàm... là gì?"
-- "Quy tắc tính đạo hàm của... có dạng như thế nào?"
-- "Biểu thức nào sau đây là công thức đạo hàm của...?"
-
-**Ví dụ mẫu:**
-*Câu 1: Công thức định nghĩa đạo hàm của hàm số y = f(x) tại điểm x₀ là:*
-A. f'(x₀) = lim[h→0] [f(x₀+h) - f(x₀)]/h
-B. f'(x₀) = lim[h→0] [f(x₀+h) + f(x₀)]/h
-C. f'(x₀) = [f(x₀+h) - f(x₀)]/h
-D. f'(x₀) = f(x₀+h) - f(x₀)
-
-### **Dạng 2: Nhận biết công thức đạo hàm cơ bản**
-**YÊU CẦU:** Hỏi về công thức, KHÔNG yêu cầu áp dụng tính toán
-
-**Cấu trúc câu hỏi:**
-- "Đạo hàm của hàm số y = x^n có công thức là gì?"
-- "Biểu thức đạo hàm của hàm số y = c (c là hằng số) là?"
-
-**Ví dụ mẫu:**
-*Câu 2: Đạo hàm của hàm số y = x^n (n ∈ ℕ*) được cho bởi công thức:*
-A. y' = nx^n
-B. y' = nx^(n-1)
-C. y' = x^(n-1)
-D. y' = (n-1)x^n
-
-### **Dạng 3: Nhận biết quy tắc tính đạo hàm**
-**YÊU CẦU:** Chỉ hỏi về quy tắc, công thức - KHÔNG áp dụng
-
-**Cấu trúc câu hỏi:**
-- "Quy tắc tính đạo hàm của tích hai hàm số là gì?"
-- "Công thức đạo hàm của thương hai hàm số có dạng như thế nào?"
-
-**Ví dụ mẫu:**
-*Câu 3: Nếu u, v là hai hàm số có đạo hàm thì quy tắc tính đạo hàm của tích uv là:*
-A. (uv)' = u'v'
-B. (uv)' = u'v + uv'
-C. (uv)' = u'v - uv'
-D. (uv)' = u' + v'
-
-### **Dạng 4: Nhận biết ý nghĩa của đạo hàm**
-**YÊU CẦU:** Hỏi về ý nghĩa, không tính toán
-
-**Cấu trúc câu hỏi:**
-- "Ý nghĩa hình học của đạo hàm là gì?"
-- "Trong vật lý, đạo hàm của quãng đường theo thời gian biểu thị điều gì?"
-
-**Ví dụ mẫu:**
-*Câu 4: Về mặt hình học, đạo hàm f'(x₀) biểu thị:*
-A. Độ dài tiếp tuyến tại điểm có hoành độ x₀
-B. Hệ số góc của tiếp tuyến với đồ thị tại điểm có hoành độ x₀
-C. Khoảng cách từ gốc tọa độ đến tiếp tuyến
-D. Góc tạo bởi tiếp tuyến và trục hoành
-
-## III. NGÂN HÀNG CÂU HỎI MẪU THEO DẠNG
-
-### **Nhóm A: Định nghĩa (25%)**
-1. Nhận biết công thức định nghĩa đạo hàm tại một điểm
-2. Nhận biết công thức định nghĩa đạo hàm của hàm số
-3. Xác định ý nghĩa hình học của đạo hàm
-4. Xác định ý nghĩa vật lý của đạo hàm
-
-### **Nhóm B: Công thức cơ bản (40%)**
-1. Nhận biết công thức đạo hàm hàm hằng
-2. Nhận biết công thức đạo hàm hàm số mũ y = x^n
-3. Nhận biết công thức đạo hàm y = √x
-4. Nhận biết công thức đạo hàm y = 1/x
-5. Xác định công thức đạo hàm của cy = cf(x)
-
-### **Nhóm C: Quy tắc tính đạo hàm (35%)**
-1. Nhận biết quy tắc đạo hàm tổng (u ± v)'
-2. Nhận biết quy tắc đạo hàm tích (uv)'
-3. Nhận biết quy tắc đạo hàm thương (u/v)'
-4. Xác định điều kiện áp dụng các quy tắc
-
-## IV. HƯỚNG DẪN TẠO ĐÁP ÁN NHIỄU
-
-### **Nguyên tắc tạo đáp án sai:**
-- **Lỗi dấu:** Đổi dấu trong công thức (+ thành -, × thành ÷)
-- **Lỗi hệ số:** Thiếu hoặc thừa hệ số trong công thức
-- **Lỗi số mũ:** Sai số mũ trong công thức đạo hàm
-- **Lỗi quy tắc:** Nhầm lẫn giữa các quy tắc (tổng, tích, thương)
-
-### **Ví dụ đáp án nhiễu chất lượng:**
-*Với câu hỏi về (uv)' = ?*
-- **Đáp án đúng:** u'v + uv'
-- **Đáp án sai A:** u'v' (lỗi nhầm với quy tắc tổng)
-- **Đáp án sai B:** u'v - uv' (lỗi dấu)
-- **Đáp án sai C:** u' + v' (lỗi nhầm hoàn toàn quy tắc)
-
-## V. LƯU Ý QUAN TRỌNG KHI SINH ĐỀ
-
-### **NGHIÊM CẤM:**
-- Yêu cầu tính toán đạo hàm cụ thể (VD: "Tính y' của y = x²")
-- Yêu cầu tìm giá trị đạo hàm tại điểm (VD: "Tính f'(2)")
-- Yêu cầu áp dụng công thức để giải bài toán
-
-### **CHỈ ĐƯỢC PHÉP:**
-- Hỏi về công thức, quy tắc
-- Hỏi về định nghĩa, ý nghĩa
-- Yêu cầu nhận biết, xác định công thức đúng
-
-### **Ngôn ngữ câu hỏi:**
-- Sử dụng: "Công thức...", "Quy tắc...", "Biểu thức...", "Ý nghĩa..."
-- Tránh: "Tính...", "Tìm...", "Giải...", "Xác định giá trị..."
-
-### **Độ phức tạp:**
-- Chỉ sử dụng hàm số cơ bản: x^n, √x, 1/x, hằng số
-- Không kết hợp nhiều quy tắc trong một câu hỏi
-- Công thức phải được học trong chương trình lớp 11
-
-Hướng dẫn này đảm bảo 100% câu hỏi thuộc mức NHẬN BIẾT thuần túy, tránh hoàn toàn việc tạo ra câu hỏi yêu cầu tính toán.
-```
-**** Yêu cầu: Sinh 20 câu hỏi đúng theo các ràng buộc trên. ****
-
+1. Đạo hàm của hàm số $y = x^3 - 2x^2 + 5$ là:
+... Gợi ý: Áp dụng công thức đạo hàm cơ bản $(x^n)' = nx^{n-1}$
++ Phản hồi đúng: Chính xác! Áp dụng công thức đạo hàm: $(x^3)' = 3x^2$, $(-2x^2)' = -4x$, $(5)' = 0$
+- Phản hồi sai: Cần nhớ công thức đạo hàm cơ bản và đạo hàm của hằng số bằng 0
+a) $y' = 3x^2 - 2x + 5$
+b) $y' = x^2 - 4x$
+*c) $y' = 3x^2 - 4x$
+d) $y' = 3x^2 - 2x$
+
+2. Đạo hàm của hàm số $y = \frac{1}{x} + 3x$ là:
+... Gợi ý: Sử dụng công thức $(\frac{1}{x})' = -\frac{1}{x^2}$
++ Phản hồi đúng: Đúng rồi! Ta có $(\frac{1}{x})' = -\frac{1}{x^2}$ và $(3x)' = 3$
+- Phản hồi sai: Lưu ý đạo hàm của $\frac{1}{x}$ có dấu âm
+a) $y' = \frac{1}{x^2} + 3$
+*b) $y' = -\frac{1}{x^2} + 3$
+c) $y' = -\frac{1}{x^2} + 1$
+d) $y' = \frac{1}{x^2} - 3$
+
+3. Nghiệm của phương trình $f'(x) = 0$ với $f(x) = x^2 - 6x + 8$ là:
+... Gợi ý: Tính đạo hàm rồi giải phương trình bậc nhất
++ Phản hồi đúng: Chính xác! $f'(x) = 2x - 6 = 0 \Rightarrow x = 3$
+- Phản hồi sai: Hãy tính đạo hàm trước rồi cho bằng 0
+a) $x = 6$
+b) $x = 2$
+*c) $x = 3$
+d) $x = 8$
+
+4. Hàm số $y = x^3 - 3x^2$ có điểm cực trị tại:
+... Gợi ý: Giải phương trình $y' = 0$
++ Phản hồi đúng: Đúng! $y' = 3x^2 - 6x = 3x(x-2) = 0$ cho $x = 0$ và $x = 2$
+- Phản hồi sai: Cần tính đạo hàm và giải phương trình $y' = 0$
+a) $x = 1$ và $x = 3$
+*b) $x = 0$ và $x = 2$
+c) $x = -1$ và $x = 1$
+d) $x = 2$ và $x = 3$
+
+5. Hàm số $y = x^2 - 4x + 1$ đồng biến trên khoảng:
+... Gợi ý: Tìm khoảng mà $y' > 0$
++ Phản hồi đúng: Chính xác! $y' = 2x - 4 > 0 \Leftrightarrow x > 2$
+- Phản hồi sai: Hàm số đồng biến khi đạo hàm dương
+a) $(-\infty; 2)$
+*b) $(2; +\infty)$
+c) $(-\infty; 4)$
+d) $(4; +\infty)$
+
+6. Dấu của $f'(x) = 3x + 6$ trên khoảng $(-1; +\infty)$ là:
+... Gợi ý: Xét dấu biểu thức bậc nhất
++ Phản hồi đúng: Đúng! $f'(x) = 3x + 6 = 0$ khi $x = -2$, và $3 > 0$ nên $f'(x) > 0$ khi $x > -2$
+- Phản hồi sai: Cần tìm nghiệm của $f'(x) = 0$ rồi xét dấu
+*a) $f'(x) > 0$
+b) $f'(x) < 0$
+c) $f'(x) = 0$
+d) Không xác định
+
+7. Tiệm cận đứng của hàm số $y = \frac{1}{x - 3}$ là:
+... Gợi ý: Tiệm cận đứng tại điểm làm mẫu số bằng 0
++ Phản hồi đúng: Chính xác! Mẫu số bằng 0 khi $x - 3 = 0$, tức $x = 3$
+- Phản hồi sai: Tiệm cận đứng là đường thẳng $x = a$ khi mẫu số bằng 0 tại $x = a$
+a) $x = 0$
+b) $x = 1$
+*c) $x = 3$
+d) $x = -3$
+
+8. Tiệm cận ngang của hàm số $y = \frac{3x + 1}{x - 2}$ là:
+... Gợi ý: So sánh bậc của tử và mẫu, hệ số cao nhất
++ Phản hồi đúng: Đúng! Tử và mẫu cùng bậc 1, tiệm cận ngang là $y = \frac{3}{1} = 3$
+- Phản hồi sai: Khi tử và mẫu cùng bậc, tiệm cận ngang là tỉ số hệ số cao nhất
+a) $y = 1$
+b) $y = 2$
+*c) $y = 3$
+d) $y = 0$
+
+9. Đồ thị hàm số $y = x^2 + 1$ đi qua điểm:
+... Gợi ý: Thay tọa độ điểm vào phương trình hàm số
++ Phản hồi đúng: Chính xác! Khi $x = 1$ thì $y = 1^2 + 1 = 2$
+- Phản hồi sai: Cần thay giá trị $x$ vào hàm số để tính $y$
+a) $(1; 1)$
+*b) $(1; 2)$
+c) $(2; 3)$
+d) $(0; 0)$
+
+10. Tọa độ đỉnh của parabol $y = x^2 - 4x + 5$ là:
+... Gợi ý: Đỉnh parabol $y = ax^2 + bx + c$ có hoành độ $x = -\frac{b}{2a}$
++ Phản hồi đúng: Đúng! $x = -\frac{(-4)}{2 \cdot 1} = 2$, $y = 2^2 - 4 \cdot 2 + 5 = 1$
+- Phản hồi sai: Sử dụng công thức $x = -\frac{b}{2a}$ rồi tính $y$
+a) $(4; 5)$
+*b) $(2; 1)$
+c) $(0; 5)$
+d) $(1; 2)$
+
+11. Đạo hàm của hàm số $y = 2x^3 + x - 7$ là:
+... Gợi ý: Áp dụng công thức đạo hàm từng số hạng
++ Phản hồi đúng: Chính xác! $(2x^3)' = 6x^2$, $(x)' = 1$, $(-7)' = 0$
+- Phản hồi sai: Nhớ rằng đạo hàm của hằng số bằng 0
+*a) $y' = 6x^2 + 1$
+b) $y' = 6x^2 + x$
+c) $y' = 2x^2 + 1$
+d) $y' = 6x^2 + 1 - 7$
+
+12. Hàm số $y = -x^2 + 2x + 3$ nghịch biến trên khoảng:
+... Gợi ý: Tìm khoảng mà $y' < 0$
++ Phản hồi đúng: Đúng! $y' = -2x + 2 < 0 \Leftrightarrow x > 1$
+- Phản hồi sai: Hàm số nghịch biến khi đạo hàm âm
+a) $(-\infty; 1)$
+*b) $(1; +\infty)$
+c) $(-\infty; 2)$
+d) $(2; +\infty)$
+
+13. Nghiệm của phương trình $g'(x) = 0$ với $g(x) = x^2 + 4x - 5$ là:
+... Gợi ý: Tính đạo hàm và cho bằng 0
++ Phản hồi đúng: Chính xác! $g'(x) = 2x + 4 = 0 \Rightarrow x = -2$
+- Phản hồi sai: Tính đạo hàm trước rồi giải phương trình
+a) $x = 4$
+*b) $x = -2$
+c) $x = 2$
+d) $x = -4$
+
+14. Đạo hàm của hàm số $y = \sqrt{x} + 2$ là:
+... Gợi ý: Sử dụng công thức $(\sqrt{x})' = \frac{1}{2\sqrt{x}}$
++ Phản hồi đúng: Đúng! $(\sqrt{x})' = \frac{1}{2\sqrt{x}}$ và $(2)' = 0$
+- Phản hồi sai: Nhớ công thức đạo hàm của căn bậc hai
+*a) $y' = \frac{1}{2\sqrt{x}}$
+b) $y' = \frac{1}{\sqrt{x}}$
+c) $y' = \frac{1}{2\sqrt{x}} + 2$
+d) $y' = 2\sqrt{x}$
+
+15. Tiệm cận đứng của hàm số $y = \frac{x + 1}{x + 2}$ là:
+... Gợi ý: Tìm giá trị làm mẫu số bằng 0
++ Phản hồi đúng: Chính xác! Mẫu số bằng 0 khi $x + 2 = 0$, tức $x = -2$
+- Phản hồi sai: Tiệm cận đứng xuất hiện khi mẫu số bằng 0
+a) $x = 1$
+*b) $x = -2$
+c) $x = 2$
+d) $x = -1$
+
+16. Hàm số $y = x^3 - 6x^2 + 9x$ có cực trị tại:
+... Gợi ý: Giải phương trình $y' = 0$
++ Phản hồi đúng: Đúng! $y' = 3x^2 - 12x + 9 = 3(x^2 - 4x + 3) = 3(x-1)(x-3) = 0$
+- Phản hồi sai: Cần tính đạo hàm và phân tích thành nhân tử
+a) $x = 0$ và $x = 3$
+*b) $x = 1$ và $x = 3$
+c) $x = 2$ và $x = 6$
+d) $x = 1$ và $x = 9$
+
+17. Dấu của $h'(x) = -2x + 6$ trên khoảng $(3; +\infty)$ là:
+... Gợi ý: Xét dấu biểu thức bậc nhất
++ Phản hồi đúng: Chính xác! $h'(x) = -2x + 6 = 0$ khi $x = 3$, và $-2 < 0$ nên $h'(x) < 0$ khi $x > 3$
+- Phản hồi sai: Cần xác định nghiệm và dấu hệ số của $x$
+a) $h'(x) > 0$
+*b) $h'(x) < 0$
+c) $h'(x) = 0$
+d) Không xác định
+
+18. Đồ thị hàm số $y = x^2 - 2x + 3$ đi qua điểm:
+... Gợi ý: Thay tọa độ vào phương trình kiểm tra
++ Phản hồi đúng: Đúng! Khi $x = 0$ thì $y = 0^2 - 2 \cdot 0 + 3 = 3$
+- Phản hồi sai: Thay giá trị $x$ vào hàm số để tính $y$ tương ứng
+a) $(1; 1)$
+b) $(2; 1)$
+*c) $(0; 3)$
+d) $(3; 0)$
+
+19. Tiệm cận ngang của hàm số $y = \frac{2x - 1}{3x + 4}$ là:
+... Gợi ý: Xét tỉ số hệ số cao nhất của tử và mẫu
++ Phản hồi đúng: Chính xác! Tử và mẫu cùng bậc 1, tiệm cận ngang là $y = \frac{2}{3}$
+- Phản hồi sai: Khi bậc tử bằng bậc mẫu, tiệm cận ngang là tỉ số hệ số cao nhất
+a) $y = 1$
+*b) $y = \frac{2}{3}$
+c) $y = 2$
+d) $y = \frac{1}{3}$
+
+20. Hàm số $y = -x^3 + 3x^2 - 2$ có đạo hàm là:
+... Gợi ý: Áp dụng quy tắc đạo hàm của đa thức
++ Phản hồi đúng: Chính xác! $(-x^3)' = -3x^2$, $(3x^2)' = 6x$, $(-2)' = 0$
+- Phản hồi sai: Cần chú ý dấu âm trước $x^3$
+a) $y' = -3x^2 + 3x$
+*b) $y' = -3x^2 + 6x$
+c) $y' = 3x^2 + 6x$
+d) $y' = -x^2 + 6x - 2$
+
+1. Cho hàm số $y = x^3 - 3x^2 + 2$. Tại sao hàm số này có đúng hai điểm cực trị?
+    Gợi ý: Xét dấu đạo hàm cấp nhất và áp dụng quy tắc tìm cực trị.
++   Phản hồi đúng: Chính xác! Vì $f'(x) = 3x^2 - 6x = 3x(x-2)$ có hai nghiệm phân biệt $x = 0$ và $x = 2$, đạo hàm đổi dấu qua cả hai nghiệm này nên có đúng hai điểm cực trị.
+-   Phản hồi sai: Cần tính $f'(x)$, giải $f'(x) = 0$ và xét dấu đạo hàm để xác định số điểm cực trị.
+a) Vì đây là hàm bậc ba nên luôn có hai điểm cực trị
+*b) Vì phương trình $f'(x) = 0$ có hai nghiệm phân biệt và $f'(x)$ đổi dấu qua mỗi nghiệm
+c) Vì hàm số có đạo hàm cấp hai khác không
+d) Vì hàm số liên tục trên toàn bộ tập số thực
+
+2. Cho hàm số $y = \frac{x+1}{x-2}$. Sự khác biệt cơ bản giữa tiệm cận đứng và tiệm cận ngang của đồ thị hàm số này là gì?
+    Gợi ý: Xét giới hạn của hàm số khi $x \to 2$ và khi $x \to \pm\infty$.
++   Phản hồi đúng: Đúng! Tiệm cận đứng $x = 2$ xuất hiện do mẫu số bằng 0, còn tiệm cận ngang $y = 1$ xuất hiện do giới hạn hữu hạn khi $x \to \pm\infty$.
+-   Phản hồi sai: Cần phân biệt nguyên nhân tạo thành: tiệm cận đứng do điểm gián đoạn, tiệm cận ngang do hành vi ở vô cực.
+a) Tiệm cận đứng song song với trục hoành, tiệm cận ngang song song với trục tung
+*b) Tiệm cận đứng tạo bởi điểm gián đoạn, tiệm cận ngang tạo bởi giới hạn hữu hạn ở vô cực
+c) Tiệm cận đứng có phương trình dạng $y = a$, tiệm cận ngang có phương trình dạng $x = b$
+d) Không có sự khác biệt, cả hai đều là đường thẳng mà đồ thị hàm số tiến tới
+
+3. Cho hàm số $y = x^4 - 2x^2 + 1$. Áp dụng quy tắc xét dấu đạo hàm, hàm số nghịch biến trên khoảng nào?
+    Gợi ý: Tính $f'(x)$, giải phương trình $f'(x) = 0$ và lập bảng xét dấu.
++   Phản hồi đúng: Chính xác! $f'(x) = 4x^3 - 4x = 4x(x^2-1) = 4x(x-1)(x+1)$ âm trên $(-1;0)$ và $(1;+\infty)$.
+-   Phản hồi sai: Cần tính đạo hàm, tìm nghiệm và xét dấu trên từng khoảng để xác định khoảng nghịch biến.
+a) $(-\infty; -1)$ và $(0; 1)$
+*b) $(-1; 0)$ và $(1; +\infty)$
+c) $(-\infty; 0)$ và $(1; +\infty)$
+d) $(-1; 1)$
+
+4. Để hàm số $y = x^3 - 3mx^2 + 3x - 1$ có cực đại tại $x = 1$, giá trị của tham số $m$ phải thỏa mãn điều kiện nào?
+    Gợi ý: Sử dụng điều kiện cần và đủ cho cực đại: $f'(1) = 0$ và $f''(1) < 0$.
++   Phản hồi đúng: Đúng! Từ $f'(1) = 0$ ta có $m = 1$, và kiểm tra $f''(1) = -6 < 0$ xác nhận có cực đại.
+-   Phản hồi sai: Cần áp dụng điều kiện $f'(1) = 0$ để tìm $m$, sau đó kiểm tra $f''(1) < 0$.
+a) $m > 1$
+*b) $m = 1$
+c) $m < 1$
+d) $m \neq 1$
+
+5. Cho đồ thị hàm số $y = f(x)$ đi qua điểm $(0,2)$ và có $f'(0) = -3$. Phương trình tiếp tuyến tại điểm này có dạng nào?
+    Gợi ý: Sử dụng công thức phương trình tiếp tuyến $y - y_0 = f'(x_0)(x - x_0)$.
++   Phản hồi đúng: Chính xác! Áp dụng công thức tiếp tuyến tại $(0,2)$ với hệ số góc $-3$.
+-   Phản hồi sai: Phương trình tiếp tuyến có dạng $y - y_0 = f'(x_0)(x - x_0)$ với $(x_0, y_0) = (0, 2)$.
+a) $y = -3x$
+*b) $y = -3x + 2$
+c) $y = 3x + 2$
+d) $y = -3x - 2$
+
+6. Cho hàm số $y = x^3 - 3x + 1$. Điểm uốn của đồ thị hàm số có tọa độ là?
+    Gợi ý: Điểm uốn thỏa mãn $f''(x) = 0$ và $f'''(x) \neq 0$.
++   Phản hồi đúng: Đúng! Từ $f''(x) = 6x = 0$ suy ra $x = 0$, và $f(0) = 1$, $f'''(0) = 6 \neq 0$.
+-   Phản hồi sai: Cần tính $f''(x)$, giải $f''(x) = 0$ và kiểm tra $f'''(x) \neq 0$ tại nghiệm đó.
+a) $(1, -1)$
+b) $(-1, 3)$
+*c) $(0, 1)$
+d) $(0, -1)$
+
+7. Hàm số $y = \frac{2x-1}{x+1}$ có tiệm cận ngang là đường thẳng nào?
+    Gợi ý: Tính $\lim_{x \to +\infty} \frac{2x-1}{x+1}$ và $\lim_{x \to -\infty} \frac{2x-1}{x+1}$.
++   Phản hồi đúng: Chính xác! Khi $x \to \pm\infty$, ta có $\lim \frac{2x-1}{x+1} = \lim \frac{2-\frac{1}{x}}{1+\frac{1}{x}} = 2$.
+-   Phản hồi sai: Tiệm cận ngang tìm bằng cách tính giới hạn của hàm số khi $x \to \pm\infty$.
+a) $y = 1$
+*b) $y = 2$
+c) $y = -1$
+d) $y = 0$
+
+8. Cho hàm số $y = x^4 - 4x^2 + 3$. Hàm số có bao nhiêu điểm cực trị?
+    Gợi ý: Tính $f'(x)$, giải $f'(x) = 0$ và xét dấu đạo hàm.
++   Phản hồi đúng: Đúng! $f'(x) = 4x^3 - 8x = 4x(x^2-2)$ có 3 nghiệm và đổi dấu qua cả 3 nghiệm.
+-   Phản hồi sai: Cần giải $f'(x) = 0$ và xét dấu đạo hàm để đếm số điểm cực trị.
+a) 1
+b) 2
+*c) 3
+d) 4
+
+9. Cho hàm số $y = f(x)$ có $f'(x) > 0$ trên khoảng $(a,b)$. Điều này có ý nghĩa gì đối với đồ thị hàm số?
+    Gợi ý: Liên hệ giữa dấu của đạo hàm và tính đồng biến, nghịch biến.
++   Phản hồi đúng: Chính xác! Khi $f'(x) > 0$ thì hàm số đồng biến, tức đồ thị đi lên từ trái sang phải.
+-   Phản hồi sai: Dấu của $f'(x)$ cho biết chiều biến thiên của hàm số: dương thì đồng biến, âm thì nghịch biến.
+a) Đồ thị có điểm cực đại trên $(a,b)$
+*b) Đồ thị đi lên từ trái sang phải trên $(a,b)$
+c) Đồ thị có tiệm cận đứng trên $(a,b)$
+d) Đồ thị đi xuống từ trái sang phải trên $(a,b)$
+
+10. Hàm số $y = -x^3 + 3x^2 - 2$ đạt cực tiểu tại điểm nào?
+     Gợi ý: Tìm nghiệm của $f'(x) = 0$ và xét dấu đạo hàm hoặc dùng đạo hàm cấp hai.
++    Phản hồi đúng: Đúng! $f'(x) = -3x^2 + 6x = -3x(x-2)$, đạo hàm đổi dấu từ âm sang dương tại $x = 2$.
+-    Phản hồi sai: Cần giải $f'(x) = 0$ và xét dấu đạo hàm để xác định điểm cực tiểu.
+a) $x = 0$
+*b) $x = 2$
+c) $x = 1$
+d) $x = -1$
+
+11. Cho hàm số $y = x^2 + \frac{1}{x}$ với $x \neq 0$. Hàm số đồng biến trên khoảng nào?
+     Gợi ý: Tính $f'(x) = 2x - \frac{1}{x^2}$ và xét dấu trên từng khoảng.
++    Phản hồi đúng: Chính xác! $f'(x) = 2x - \frac{1}{x^2} > 0$ khi $2x^3 > 1$, tức $x > \frac{1}{\sqrt[3]{2}}$.
+-    Phản hồi sai: Cần tính đạo hàm và xét dấu, chú ý hàm số không xác định tại $x = 0$.
+a) $(-\infty; 0)$
+b) $(0; 1)$
+*c) $(\frac{1}{\sqrt[3]{2}}; +\infty)$
+d) $(-1; 0)$ và $(1; +\infty)$
+
+12. Đồ thị hàm số $y = f(x)$ có điểm uốn tại $x = 1$. Điều gì xảy ra với $f''(x)$ tại điểm này?
+     Gợi ý: Xét định nghĩa điểm uốn và mối liên hệ với đạo hàm cấp hai.
++    Phản hồi đúng: Đúng! Tại điểm uốn, $f''(x) = 0$ và đạo hàm cấp hai đổi dấu qua điểm đó.
+-    Phản hồi sai: Điểm uốn là nơi đồ thị thay đổi tính lồi/lõm, tương ứng với $f''(x)$ đổi dấu.
+a) $f''(1) > 0$
+*b) $f''(1) = 0$ và $f''(x)$ đổi dấu qua $x = 1$
+c) $f''(1) < 0$
+d) $f''(1)$ không xác định
+
+13. Cho bảng biến thiên của hàm số $y = f(x)$ cho biết hàm số tăng trên $(-\infty; 1)$ và giảm trên $(1; +\infty)$. Kết luận nào đúng về điểm $x = 1$?
+     Gợi ý: Dựa vào định nghĩa điểm cực trị thông qua sự biến thiên của hàm số.
++    Phản hồi đúng: Chính xác! Hàm số chuyển từ tăng sang giảm tại $x = 1$ nên đây là điểm cực đại.
+-    Phản hồi sai: Khi hàm số chuyển từ tăng sang giảm tại một điểm thì điểm đó là cực đại.
+a) $x = 1$ là điểm cực tiểu
+*b) $x = 1$ là điểm cực đại
+c) $x = 1$ là điểm uốn
+d) Không thể kết luận gì về $x = 1$
+
+14. Hàm số $y = \frac{x^2 - 1}{x}$ có tiệm cận đứng tại đường thẳng nào?
+     Gợi ý: Tìm giá trị làm cho mẫu số bằng 0 và tử số khác 0.
++    Phản hồi đúng: Đúng! Mẫu số bằng 0 khi $x = 0$, và tử số $x^2 - 1 = -1 \neq 0$ tại $x = 0$.
+-    Phản hồi sai: Tiệm cận đứng xuất hiện tại giá trị làm mẫu số bằng 0 mà tử số khác 0.
+*a) $x = 0$
+b) $x = 1$
+c) $x = -1$
+d) $y = 0$
+
+15. Cho hàm số $y = x^3 + ax^2 + bx + c$. Để đồ thị hàm số có điểm uốn tại gốc tọa độ $O(0,0)$, các hệ số $a$, $b$, $c$ phải thỏa mãn điều kiện gì?
+     Gợi ý: Sử dụng điều kiện điểm uốn và điều kiện đồ thị đi qua gốc tọa độ.
++    Phản hồi đúng: Chính xác! Từ $f(0) = 0$ suy ra $c = 0$, từ $f''(0) = 0$ suy ra $2a = 0$ nên $a = 0$.
+-    Phản hồi sai: Cần dùng điều kiện $f(0) = 0$ và $f''(0) = 0$ để tìm mối liên hệ giữa các hệ số.
+a) $a = 0, c \neq 0$
+*b) $a = 0, c = 0$
+c) $a \neq 0, c = 0$
+d) $a = c = b = 0$
+
+16. Đồ thị hàm số $y = f'(x)$ cắt trục hoành tại hai điểm $x = -1$ và $x = 2$. Điều gì có thể kết luận về hàm số $y = f(x)$?
+     Gợi ý: Liên hệ giữa nghiệm của $f'(x) = 0$ và các điểm đặc biệt của $f(x)$.
++    Phản hồi đúng: Đúng! Nghiệm của $f'(x) = 0$ là các điểm tới hạn, có thể là cực trị của $f(x)$.
+-    Phản hồi sai: Khi $f'(x) = 0$ thì $x$ là điểm tới hạn, có thể là cực đại hoặc cực tiểu của $f(x)$.
+a) $f(x)$ có tiệm cận đứng tại $x = -1$ và $x = 2$
+*b) $f(x)$ có thể có cực trị tại $x = -1$ và $x = 2$
+c) $f(x)$ có điểm uốn tại $x = -1$ và $x = 2$
+d) $f(x) = 0$ tại $x = -1$ và $x = 2$
+
+17. Cho hàm số $y = x^4 - 4x^3 + 6x^2 - 4x + 1$. Tại sao có thể khẳng định đây là hàm số có cực tiểu tổng thể?
+     Gợi ý: Xét dấu hệ số của số hạng bậc cao nhất và hành vi của hàm số ở vô cực.
++    Phản hồi đúng: Chính xác! Vì hệ số của $x^4$ dương và bậc chẵn nên $\lim_{x \to \pm\infty} f(x) = +\infty$.
+-    Phản hồi sai: Hàm bậc chẵn với hệ số dương của số hạng bậc cao nhất có giới hạn $+\infty$ ở cả hai phía.
+a) Vì hàm số có đạo hàm dương trên toàn bộ tập xác định
+*b) Vì hệ số của $x^4$ dương nên hàm số tiến tới $+\infty$ khi $x \to \pm\infty$
+c) Vì tất cả các hệ số đều dương
+d) Vì đây là hàm đa thức bậc chẵn
+
+18. Cho hàm số $y = \frac{2x+3}{x-1}$. Phép biến đổi nào giúp xác định tiệm cận của đồ thị hàm số một cách dễ dàng nhất?
+     Gợi ý: Thực hiện phép chia đa thức để viết lại hàm số dưới dạng khác.
++    Phản hồi đúng: Đúng! Chia tử cho mẫu: $y = 2 + \frac{5}{x-1}$, dễ thấy tiệm cận ngang $y = 2$ và đứng $x = 1$.
+-    Phản hồi sai: Chia đa thức tử số cho mẫu số để tách phần nguyên và phần phân số.
+a) Phân tích tử số và mẫu số thành nhân tử
+*b) Thực hiện phép chia để viết $y = 2 + \frac{5}{x-1}$
+c) Tính đạo hàm của hàm số
+d) Tìm tập xác định của hàm số
+
+19. Hàm số $y = x^3 - 3x^2 + 3x - 1$ có đặc điểm gì về số điểm cực trị?
+     Gợi ý: Tính $f'(x)$ và xét phương trình $f'(x) = 0$.
++    Phản hồi đúng: Chính xác! $f'(x) = 3x^2 - 6x + 3 = 3(x-1)^2 \geq 0$, chỉ bằng 0 tại $x = 1$ nhưng không đổi dấu.
+-    Phản hồi sai: Cần tính đạo hàm và kiểm tra xem có đổi dấu tại nghiệm của $f'(x) = 0$ hay không.
+*a) Không có điểm cực trị
+b) Có một điểm cực trị
+c) Có hai điểm cực trị
+d) Có ba điểm cực trị
+
+20. Cho đồ thị hàm số $y = f(x)$ lồi trên khoảng $(a,b)$. Điều này tương đương với điều kiện nào về đạo hàm cấp hai?
+     Gợi ý: Liên hệ giữa tính lồi của đồ thị và dấu của đạo hàm cấp hai.
++    Phản hồi đúng: Đúng! Đồ thị lồi tương đương với $f''(x) > 0$, đồ thị cong lên trên.
+-    Phản hồi sai: Tính lồi/lõm của đồ thị được xác định bởi dấu của đạo hàm cấp hai.
+a) $f'(x) > 0$ trên $(a,b)$
+*b) $f''(x) > 0$ trên $(a,b)$
+c) $f'(x) < 0$ trên $(a,b)$
+d) $f''(x) < 0$ trên $(a,b)$
 

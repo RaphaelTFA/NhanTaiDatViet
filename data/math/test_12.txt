@@ -1,0 +1,1620 @@
+1. Đường thẳng $d$ song song với mặt phẳng $(P)$ khi nào?
+... Gợi ý: Xem xét mối quan hệ giữa đường thẳng và mặt phẳng về số điểm chung.
++   Phản hồi đúng: Đúng! Đường thẳng song song với mặt phẳng khi chúng không có điểm chung nào.
+-   Phản hồi sai: Cần nhớ định nghĩa: đường thẳng song song với mặt phẳng khi không có điểm chung.
+a) Khi $d$ cắt $(P)$ tại một điểm
+b) Khi $d$ nằm trong $(P)$
+*c) Khi $d$ và $(P)$ không có điểm chung
+d) Khi $d$ vuông góc với $(P)$
+
+2. Hai mặt phẳng $(P)$ và $(Q)$ song song với nhau khi nào?
+... Gợi ý: Áp dụng định nghĩa quan hệ song song giữa hai mặt phẳng.
++   Phản hồi đúng: Chính xác! Hai mặt phẳng song song khi chúng không có điểm chung nào.
+-   Phản hồi sai: Hai mặt phẳng song song nghĩa là chúng không cắt nhau, tức không có điểm chung.
+a) Khi $(P)$ và $(Q)$ cắt nhau theo một đường thẳng
+*b) Khi $(P)$ và $(Q)$ không có điểm chung
+c) Khi $(P)$ và $(Q)$ vuông góc với nhau
+d) Khi $(P)$ và $(Q)$ trùng nhau
+
+3. Cho đường thẳng $a$ không nằm trong mặt phẳng $(P)$ và $a$ song song với đường thẳng $b$ nằm trong $(P)$. Kết luận nào đúng?
+... Gợi ý: Sử dụng định lý về điều kiện để đường thẳng song song với mặt phẳng.
++   Phản hồi đúng: Đúng! Theo định lý, nếu đường thẳng không nằm trong mặt phẳng và song song với một đường thẳng trong mặt phẳng đó thì nó song song với mặt phẳng.
+-   Phản hồi sai: Hãy nhớ định lý cơ bản về đường thẳng song song với mặt phẳng.
+a) $a$ cắt $(P)$
+*b) $a$ song song với $(P)$
+c) $a$ nằm trong $(P)$
+d) $a$ vuông góc với $(P)$
+
+4. Trong hình hộp $ABCD.A'B'C'D'$, cặp mặt phẳng nào song song với nhau?
+... Gợi ý: Quan sát cấu trúc của hình hộp và xác định các mặt đối diện.
++   Phản hồi đúng: Chính xác! Trong hình hộp, hai mặt đáy $(ABCD)$ và $(A'B'C'D')$ song song với nhau.
+-   Phản hồi sai: Trong hình hộp, các mặt đối diện song song với nhau.
+a) $(ABCD)$ và $(ABB'A')$
+*b) $(ABCD)$ và $(A'B'C'D')$
+c) $(ABB'A')$ và $(BCC'B')$
+d) $(ABCD)$ và $(ADD'A')$
+
+5. Nếu hai mặt phẳng $(P)$ và $(Q)$ song song thì mọi đường thẳng nằm trong $(P)$ sẽ có vị trí như thế nào với $(Q)$?
+... Gợi ý: Áp dụng tính chất của hai mặt phẳng song song.
++   Phản hồi đúng: Đúng! Khi hai mặt phẳng song song, mọi đường thẳng trong mặt phẳng này đều song song với mặt phẳng kia.
+-   Phản hồi sai: Đây là tính chất quan trọng của hai mặt phẳng song song.
+a) Cắt $(Q)$
+*b) Song song với $(Q)$
+c) Nằm trong $(Q)$
+d) Vuông góc với $(Q)$
+
+6. Cho mặt phẳng $(P)$ chứa hai đường thẳng $a$ và $b$ cắt nhau, cả hai đều song song với mặt phẳng $(Q)$. Quan hệ giữa $(P)$ và $(Q)$ là gì?
+... Gợi ý: Sử dụng định lý về điều kiện để hai mặt phẳng song song.
++   Phản hồi đúng: Chính xác! Theo định lý, nếu mặt phẳng chứa hai đường thẳng cắt nhau cùng song song với mặt phẳng khác thì hai mặt phẳng đó song song.
+-   Phản hồi sai: Hãy nhớ định lý cơ bản về điều kiện hai mặt phẳng song song.
+a) $(P)$ cắt $(Q)$
+*b) $(P)$ song song với $(Q)$
+c) $(P)$ vuông góc với $(Q)$
+d) $(P)$ trùng với $(Q)$
+
+7. Trong hình lăng trụ tam giác $ABC.A'B'C'$, cặp cạnh nào song song với nhau?
+... Gợi ý: Quan sát cấu trúc của lăng trụ và các cạnh bên.
++   Phản hồi đúng: Đúng! Trong lăng trụ, các cạnh bên $AA'$, $BB'$, $CC'$ song song với nhau.
+-   Phản hồi sai: Trong lăng trụ, các cạnh bên luôn song song với nhau.
+a) $AB$ và $A'C'$
+*b) $AA'$ và $BB'$
+c) $AB$ và $BC$
+d) $A'B'$ và $BC$
+
+8. Nếu đường thẳng $d$ song song với mặt phẳng $(P)$ và $d$ nằm trong mặt phẳng $(Q)$ thì giao tuyến của $(P)$ và $(Q)$ có tính chất gì?
+... Gợi ý: Áp dụng định lý về giao tuyến khi có đường thẳng song song với mặt phẳng.
++   Phản hồi đúng: Chính xác! Giao tuyến của hai mặt phẳng sẽ song song với đường thẳng đã cho.
+-   Phản hồi sai: Đây là định lý quan trọng về giao tuyến và đường thẳng song song với mặt phẳng.
+a) Giao tuyến cắt $d$
+*b) Giao tuyến song song với $d$
+c) Giao tuyến trùng với $d$
+d) Giao tuyến vuông góc với $d$
+
+9. Quan hệ song song có tính chất nào sau đây?
+... Gợi ý: Xem xét các tính chất cơ bản của quan hệ song song.
++   Phản hồi đúng: Đúng! Quan hệ song song có tính chất bắc cầu: nếu $a // b$ và $b // c$ thì $a // c$.
+-   Phản hồi sai: Tính chất bắc cầu là tính chất cơ bản của quan hệ song song.
+a) Tính phản xạ
+*b) Tính bắc cầu
+c) Tính đối xứng
+d) Tính phản đối xứng
+
+10. Trong hình chóp $S.ABCD$ có đáy $ABCD$ là hình bình hành, cặp cạnh nào song song?
+... Gợi ý: Sử dụng tính chất của hình bình hành.
++   Phản hồi đúng: Chính xác! Trong hình bình hành $ABCD$, các cặp cạnh đối song song với nhau.
+-   Phản hồi sai: Hình bình hành có tính chất các cặp cạnh đối song song.
+a) $SA$ và $SB$
+*b) $AB$ và $CD$
+c) $SA$ và $BC$
+d) $AB$ và $BC$
+
+11. Cho ba mặt phẳng $(P)$, $(Q)$, $(R)$ sao cho $(P) // (Q)$ và $(Q) // (R)$. Quan hệ giữa $(P)$ và $(R)$ là gì?
+... Gợi ý: Áp dụng tính chất bắc cầu của quan hệ song song.
++   Phản hồi đúng: Đúng! Theo tính chất bắc cầu, nếu $(P) // (Q)$ và $(Q) // (R)$ thì $(P) // (R)$.
+-   Phản hồi sai: Quan hệ song song có tính chất bắc cầu.
+a) $(P)$ cắt $(R)$
+*b) $(P)$ song song với $(R)$
+c) $(P)$ vuông góc với $(R)$
+d) Không thể xác định
+
+12. Đường thẳng $AB$ có vị trí như thế nào với mặt phẳng $(P)$ nếu $A \in (P)$ và $B \notin (P)$?
+... Gợi ý: Xem xét số điểm chung giữa đường thẳng và mặt phẳng.
++   Phản hồi đúng: Chính xác! Nếu đường thẳng có một điểm thuộc mặt phẳng và một điểm không thuộc thì chúng cắt nhau.
+-   Phản hồi sai: Khi đường thẳng có điểm thuộc và không thuộc mặt phẳng thì chúng cắt nhau.
+*a) $AB$ cắt $(P)$
+b) $AB$ song song với $(P)$
+c) $AB$ nằm trong $(P)$
+d) $AB$ vuông góc với $(P)$
+
+13. Trong hình hộp chữ nhật $ABCD.A'B'C'D'$, đường thẳng $AC'$ có vị trí như thế nào với mặt phẳng $(BDD'B')$?
+... Gợi ý: Xác định số điểm chung giữa đường chéo và mặt phẳng chứa đường chéo khác.
++   Phản hồi đúng: Chính xác! Đường chéo $AC'$ cắt mặt phẳng $(BDD'B')$ tại tâm của hình hộp.
+-   Phản hồi sai: Hai đường chéo của hình hộp cắt nhau tại tâm.
+*a) $AC'$ cắt $(BDD'B')$
+b) $AC'$ song song với $(BDD'B')$
+c) $AC'$ nằm trong $(BDD'B')$
+d) $AC'$ vuông góc với $(BDD'B')$
+
+14. Nếu đường thẳng $a // (P)$ và đường thẳng $b \subset (P)$ thì quan hệ giữa $a$ và $b$ có thể là gì?
+... Gợi ý: Xem xét các khả năng vị trí tương đối giữa hai đường thẳng trong không gian.
++   Phản hồi đúng: Đúng! Hai đường thẳng có thể song song hoặc chéo nhau, không thể cắt nhau vì $a$ không thuộc $(P)$.
+-   Phản hồi sai: Vì $a$ không thuộc $(P)$ nên $a$ và $b$ không thể cắt nhau.
+a) Chỉ có thể song song
+*b) Song song hoặc chéo nhau
+c) Chỉ có thể chéo nhau
+d) Cắt nhau
+
+15. Trong định lý về hai mặt phẳng song song, điều kiện "hai đường thẳng cắt nhau" có ý nghĩa gì?
+... Gợi ý: So sánh với trường hợp hai đường thẳng song song.
++   Phản hồi đúng: Chính xác! Nếu chỉ có hai đường thẳng song song thì chúng cùng nằm trong một mặt phẳng, không đủ để xác định mặt phẳng chứa.
+-   Phản hồi sai: Hai đường thẳng cắt nhau mới xác định được một mặt phẳng duy nhất.
+a) Để đảm bảo hai đường thẳng không trùng nhau
+*b) Để xác định duy nhất một mặt phẳng
+c) Để hai đường thẳng không song song
+d) Không có ý nghĩa đặc biệt
+
+16. Cho hình lập phương $ABCD.A'B'C'D'$. Đường thẳng $AB$ có vị trí như thế nào với mặt phẳng $(A'B'C'D')$?
+... Gợi ý: So sánh hướng của cạnh đáy với mặt phẳng đáy trên.
++   Phản hồi đúng: Đúng! Cạnh $AB$ song song với cạnh $A'B'$ nằm trong mặt phẳng $(A'B'C'D')$ nên $AB$ song song với mặt phẳng này.
+-   Phản hồi sai: Sử dụng định lý về đường thẳng song song với mặt phẳng.
+a) $AB$ cắt $(A'B'C'D')$
+*b) $AB$ song song với $(A'B'C'D')$
+c) $AB$ nằm trong $(A'B'C'D')$
+d) $AB$ vuông góc với $(A'B'C'D')$
+
+17. Tính chất nào sau đây của quan hệ song song là SAI?
+... Gợi ý: Kiểm tra từng tính chất một cách cẩn thận.
++   Phản hồi đúng: Chính xác! Quan hệ song song không có tính phản xạ vì một đối tượng không thể song song với chính nó.
+-   Phản hồi sai: Quan hệ song song không có tính phản xạ.
+*a) Có tính phản xạ
+b) Có tính đối xứng
+c) Có tính bắc cầu
+d) Không có tính phản đối xứng
+
+18. Trong hình chóp cụt $ABCD.A'B'C'D'$ (có hai đáy song song), quan hệ giữa mặt phẳng $(ABCD)$ và $(A'B'C'D')$ là gì?
+... Gợi ý: Sử dụng định nghĩa của hình chóp cụt.
++   Phản hồi đúng: Đúng! Theo định nghĩa hình chóp cụt, hai mặt đáy song song với nhau.
+-   Phản hồi sai: Hình chóp cụt có đặc điểm là hai đáy song song.
+a) Hai mặt phẳng cắt nhau
+*b) Hai mặt phẳng song song
+c) Hai mặt phẳng vuông góc
+d) Hai mặt phẳng trùng nhau
+
+19. Cho đường thẳng $d$ song song với mặt phẳng $(P)$. Có bao nhiêu đường thẳng nằm trong $(P)$ và song song với $d$?
+... Gợi ý: Trong mặt phẳng, qua mỗi điểm có duy nhất một đường thẳng song song với đường thẳng cho trước.
++   Phản hồi đúng: Chính xác! Có vô số đường thẳng trong $(P)$ song song với $d$ vì qua mỗi điểm trong $(P)$ có một đường thẳng song song với $d$.
+-   Phản hồi sai: Qua mỗi điểm trong mặt phẳng có một đường thẳng song song với đường thẳng cho trước.
+a) Không có
+b) Có duy nhất một đường thẳng
+c) Có đúng hai đường thẳng
+*d) Có vô số đường thẳng
+
+20. Trong không gian, nếu hai đường thẳng phân biệt cùng song song với một mặt phẳng thì chúng có quan hệ gì với nhau?
+... Gợi ý: Xem xét các khả năng vị trí tương đối của hai đường thẳng trong không gian.
++   Phản hồi đúng: Đúng! Hai đường thẳng cùng song song với một mặt phẳng có thể song song, cắt nhau hoặc chéo nhau.
+-   Phản hồi sai: Hai đường thẳng cùng song song với một mặt phẳng có nhiều khả năng vị trí tương đối.
+a) Chắc chắn song song
+b) Chắc chắn cắt nhau
+c) Chắc chắn chéo nhau
+*d) Có thể song song, cắt nhau hoặc chéo nhau
+
+1. Cho hình chóp $S.ABCD$ có đáy $ABCD$ là hình bình hành. Gọi $M, N$ lần lượt là trung điểm của $SA$ và $SB$. Đường thẳng $MN$ có vị trí như thế nào đối với mặt phẳng $(SCD)$?
+... Gợi ý: Sử dụng tính chất đường trung bình trong tam giác và định lý về đường thẳng song song với mặt phẳng.
++   Phản hồi đúng: Chính xác! Vì $M, N$ là trung điểm của $SA, SB$ nên $MN$ là đường trung bình của tam giác $SAB$, do đó $MN // AB$. Mà $AB // CD$ (do $ABCD$ là hình bình hành) và $CD \subset (SCD)$, nên $MN // (SCD)$.
+-   Phản hồi sai: Cần nhớ tính chất đường trung bình và quan hệ song song bắc cầu. $MN$ song song với $AB$, $AB$ song song với $CD$, và $CD$ nằm trong mặt phẳng $(SCD)$.
+a) $MN$ cắt mặt phẳng $(SCD)$
+b) $MN$ nằm trong mặt phẳng $(SCD)$
+*c) $MN$ song song với mặt phẳng $(SCD)$
+d) $MN$ vuông góc với mặt phẳng $(SCD)$
+
+2. Trong hình hộp $ABCD.A'B'C'D'$, mặt phẳng $(ABB'A')$ có quan hệ gì với mặt phẳng $(DCC'D')$?
+... Gợi ý: Xét các đường thẳng cắt nhau trong mỗi mặt phẳng và áp dụng định lý về hai mặt phẳng song song.
++   Phản hồi đúng: Đúng rồi! Trong $(ABB'A')$ có $AB // A'B'$, trong $(DCC'D')$ có $DC // D'C'$. Mà $AB // DC$ và $A'B' // D'C'$ (tính chất hình hộp), nên hai mặt phẳng song song.
+-   Phản hồi sai: Hãy xem xét các cặp đường thẳng song song tương ứng trong hai mặt phẳng và áp dụng định lý về mặt phẳng song song.
+*a) Song song với nhau
+b) Cắt nhau theo một đường thẳng
+c) Vuông góc với nhau
+d) Trùng nhau
+
+3. Cho tứ diện $ABCD$. Gọi $M, N, P$ lần lượt là trung điểm của $AB, BC, CD$. Đường thẳng $MN$ có vị trí như thế nào với đường thẳng $AP$?
+... Gợi ý: Sử dụng tính chất đường trung bình và xét vị trí tương đối của hai đường thẳng trong không gian.
++   Phản hồi đúng: Chính xác! $MN$ là đường trung bình của tam giác $ABC$ nên $MN // AC$ và $MN = \frac{1}{2}AC$. Hai đường thẳng $MN$ và $AP$ chéo nhau vì không cùng nằm trong một mặt phẳng.
+-   Phản hồi sai: Cần phân tích kỹ vị trí của các điểm và sử dụng tính chất đường trung bình. $MN$ song song với $AC$ nhưng $AP$ không song song với $AC$.
+a) Song song với nhau
+b) Cắt nhau tại một điểm
+*c) Chéo nhau
+d) Trùng nhau
+
+4. Cho hình chóp $S.ABCD$ có đáy là hình thang với $AB // CD$ và $AB = 2CD$. Mặt phẳng $(\alpha)$ song song với đáy và cắt $SA, SB, SC, SD$ tại $A', B', C', D'$. Tứ giác $A'B'C'D'$ là hình gì?
+... Gợi ý: Áp dụng định lý về thiết diện song song và tính chất tỉ số trong hình chóp cụt.
++   Phản hồi đúng: Đúng! Vì mặt phẳng $(\alpha)$ song song với đáy nên $A'B' // AB // CD // C'D'$ và các tỉ số $\frac{SA'}{SA} = \frac{SB'}{SB} = \frac{SC'}{SC} = \frac{SD'}{SD}$ bằng nhau, do đó $A'B' // C'D'$.
+-   Phản hồi sai: Khi cắt hình chóp bởi mặt phẳng song song với đáy, thiết diện có dạng đồng dạng với đáy. Hình thang cắt bởi mặt phẳng song song vẫn cho hình thang.
+a) Hình bình hành
+*b) Hình thang
+c) Hình chữ nhật
+d) Hình vuông
+
+5. Trong không gian, cho đường thẳng $d$ song song với mặt phẳng $(P)$ và đường thẳng $d'$ nằm trong mặt phẳng $(P)$. Vị trí tương đối của $d$ và $d'$ là gì?
+... Gợi ý: Xét các trường hợp có thể xảy ra giữa hai đường thẳng trong không gian khi một đường song song với mặt phẳng chứa đường kia.
++   Phản hồi đúng: Chính xác! Vì $d // (P)$ nên $d$ không có điểm chung với $(P)$, trong khi $d' \subset (P)$. Do đó $d$ và $d'$ không thể cắt nhau, chỉ có thể song song hoặc chéo nhau.
+-   Phản hồi sai: Cần nhớ rằng đường thẳng song song với mặt phẳng thì không có điểm chung với mặt phẳng đó, nên không thể cắt bất kỳ đường thẳng nào nằm trong mặt phẳng.
+a) Chỉ có thể cắt nhau
+*b) Chỉ có thể song song hoặc chéo nhau
+c) Chỉ có thể song song
+d) Chỉ có thể chéo nhau
+
+6. Cho hai mặt phẳng song song $(P)$ và $(Q)$. Đường thẳng $d$ cắt $(P)$ tại $A$ và cắt $(Q)$ tại $B$. Đường thẳng $d'$ cắt $(P)$ tại $C$ và cắt $(Q)$ tại $D$. Tứ giác $ABDC$ là hình gì?
+... Gợi ý: Sử dụng tính chất của giao tuyến khi mặt phẳng cắt hai mặt phẳng song song.
++   Phản hồi đúng: Đúng! Mặt phẳng $(d, d')$ chứa hai đường thẳng $d$ và $d'$ cắt hai mặt phẳng song song $(P)$ và $(Q)$ theo hai đường thẳng song song $AC$ và $BD$, nên $ABDC$ là hình thang.
+-   Phản hồi sai: Khi hai mặt phẳng song song bị cắt bởi mặt phẳng thứ ba, hai giao tuyến tạo thành sẽ song song với nhau.
+a) Hình bình hành
+*b) Hình thang
+c) Hình chữ nhật
+d) Tứ giác bất kỳ
+
+7. Cho hình lập phương $ABCD.A'B'C'D'$. Đường thẳng $AC'$ có vị trí như thế nào với mặt phẳng $(BDD'B')$?
+... Gợi ý: Xét mối quan hệ giữa đường chéo khối và mặt phẳng chứa hai đường chéo mặt của hình lập phương.
++   Phản hồi đúng: Chính xác! Đường thẳng $AC'$ là đường chéo khối, còn mặt phẳng $(BDD'B')$ chứa các đường chéo mặt. Do tính đối xứng của hình lập phương, $AC'$ cắt mặt phẳng $(BDD'B')$ tại tâm khối.
+-   Phản hồi sai: Hãy tưởng tượng hình lập phương và vị trí của đường chéo khối so với mặt phẳng chứa đường chéo mặt. Chúng cắt nhau tại tâm.
+*a) Cắt nhau tại một điểm
+b) Song song với nhau
+c) $AC'$ nằm trong mặt phẳng $(BDD'B')$
+d) Vuông góc với nhau
+
+8. Cho hình chóp $S.ABC$ và điểm $M$ trên cạnh $SA$ sao cho $SM = \frac{1}{3}SA$. Mặt phẳng qua $M$ và song song với $(ABC)$ cắt $SB, SC$ tại $N, P$. Tính $\frac{SN}{SB}$.
+... Gợi ý: Sử dụng định lý về thiết diện song song trong hình chóp và tính chất tỉ số.
++   Phản hồi đúng: Đúng rồi! Vì mặt phẳng $(MNP)$ song song với $(ABC)$ nên theo định lý về thiết diện song song, ta có $\frac{SM}{SA} = \frac{SN}{SB} = \frac{SP}{SC} = \frac{1}{3}$.
+-   Phản hồi sai: Khi mặt phẳng song song với đáy cắt các cạnh bên của hình chóp, các tỉ số chia trên các cạnh bên đều bằng nhau.
+*a) $\frac{1}{3}$
+b) $\frac{1}{2}$
+c) $\frac{2}{3}$
+d) $\frac{3}{4}$
+
+9. Cho hình hộp $ABCD.A'B'C'D'$. Gọi $O$ và $O'$ lần lượt là tâm của các mặt $ABCD$ và $A'B'C'D'$. Đường thẳng $OO'$ có quan hệ gì với các cạnh bên của hình hộp?
+... Gợi ý: Sử dụng tính chất đối xứng của hình hộp và quan hệ song song.
++   Phản hồi đúng: Chính xác! Do tính chất của hình hộp, đường thẳng $OO'$ nối tâm hai mặt đối song song với tất cả các cạnh bên $AA', BB', CC', DD'$.
+-   Phản hồi sai: Trong hình hộp, đường nối tâm hai mặt đối có cùng phương với các cạnh bên do tính đối xứng của hình hộp.
+*a) Song song với các cạnh bên
+b) Vuông góc với các cạnh bên
+c) Cắt tất cả các cạnh bên
+d) Chéo với các cạnh bên
+
+10. Mệnh đề nào sau đây là đúng về quan hệ song song trong không gian?
+... Gợi ý: Xem xét kỹ từng mệnh đề và áp dụng định nghĩa, tính chất của quan hệ song song.
++   Phản hồi đúng: Đúng! Đây là định lý cơ bản: nếu hai mặt phẳng song song thì mọi đường thẳng nằm trong mặt phẳng này đều song song với mặt phẳng kia.
+-   Phản hồi sai: Cần nhớ chính xác các định lý về quan hệ song song. Có những mệnh đề tương tự nhưng sai về mặt logic.
+a) Nếu $a // b$ và $b // (P)$ thì $a \subset (P)$
+*b) Nếu $(P) // (Q)$ và $a \subset (P)$ thì $a // (Q)$
+c) Nếu $a // (P)$ và $b // (P)$ thì $a // b$
+d) Nếu $a // b$ và $c // d$ thì $(a,c) // (b,d)$
+
+11. Cho hình chóp $S.ABCD$ có đáy là hình vuông. Gọi $M, N$ là trung điểm của $SA$ và $SC$. Đường thẳng $MN$ có vị trí như thế nào với mặt phẳng $(SBD)$?
+... Gợi ý: Xét vị trí của đường trung bình $MN$ trong tam giác $SAC$ và quan hệ với mặt phẳng $(SBD)$.
++   Phản hồi đúng: Chính xác! $MN$ là đường trung bình của tam giác $SAC$ nên $MN // AC$. Vì $AC$ cắt mặt phẳng $(SBD)$ tại tâm hình vuông $ABCD$, và $MN // AC$ không nằm trong $(SBD)$, nên $MN // (SBD)$.
+-   Phản hồi sai: Cần xét đường trung bình $MN$ song song với $AC$, và $AC$ có cắt mặt phẳng $(SBD)$ hay không để kết luận về vị trí của $MN$.
+*a) $MN$ song song với mặt phẳng $(SBD)$
+b) $MN$ cắt mặt phẳng $(SBD)$
+c) $MN$ nằm trong mặt phẳng $(SBD)$
+d) $MN$ vuông góc với mặt phẳng $(SBD)$
+
+12. Trong hình lăng trụ tam giác $ABC.A'B'C'$, mặt phẳng $(ABC)$ và mặt phẳng $(A'B'C')$ có quan hệ gì với nhau?
+... Gợi ý: Sử dụng định nghĩa hình lăng trụ và tính chất của hai mặt đáy.
++   Phản hồi đúng: Đúng! Trong hình lăng trụ, hai mặt đáy $(ABC)$ và $(A'B'C')$ luôn song song với nhau theo định nghĩa của lăng trụ.
+-   Phản hồi sai: Hình lăng trụ được định nghĩa bởi việc tịnh tiến một đa giác theo một vector, do đó hai mặt đáy luôn song song.
+*a) Song song với nhau
+b) Cắt nhau theo một đường thẳng
+c) Vuông góc với nhau
+d) Tạo với nhau một góc $60°$
+
+13. Cho tứ diện $ABCD$. Trên các cạnh $AB, AC, AD$ lấy các điểm $M, N, P$ sao cho $\frac{AM}{AB} = \frac{AN}{AC} = \frac{AP}{AD} = \frac{1}{2}$. Mặt phẳng $(MNP)$ có vị trí như thế nào với mặt phẳng $(BCD)$?
+... Gợi ý: Sử dụng định lý về mặt phẳng chứa các điểm chia cạnh theo cùng tỉ số.
++   Phản hồi đúng: Chính xác! Vì $M, N, P$ chia các cạnh $AB, AC, AD$ theo cùng tỉ số $\frac{1}{2}$ nên theo định lý, mặt phẳng $(MNP)$ song song với mặt phẳng $(BCD)$.
+-   Phản hồi sai: Khi các điểm chia các cạnh xuất phát từ một đỉnh theo cùng tỉ số, mặt phẳng qua các điểm này song song với mặt phẳng đối diện.
+*a) Song song với nhau
+b) Cắt nhau theo một đường thẳng
+c) Vuông góc với nhau
+d) Trùng nhau
+
+14. Cho hai đường thẳng song song $a$ và $b$. Mặt phẳng $(P)$ chứa đường thẳng $a$ nhưng không chứa đường thẳng $b$. Vị trí của đường thẳng $b$ đối với mặt phẳng $(P)$ là gì?
+... Gợi ý: Áp dụng định lý về đường thẳng song song với mặt phẳng và sử dụng giả thiết hai đường thẳng song song.
++   Phản hồi đúng: Đúng! Vì $a // b$ và $a \subset (P)$ mà $b \not\subset (P)$, theo định lý về đường thẳng song song với mặt phẳng, ta có $b // (P)$.
+-   Phản hồi sai: Khi một trong hai đường thẳng song song nằm trong mặt phẳng và đường kia không nằm trong mặt phẳng đó, thì đường thứ hai phải song song với mặt phẳng.
+a) $b$ cắt mặt phẳng $(P)$
+*b) $b$ song song với mặt phẳng $(P)$
+c) $b$ nằm trong mặt phẳng $(P)$
+d) $b$ vuông góc với mặt phẳng $(P)$
+
+15. Cho hình chóp cụt $ABCD.A'B'C'D'$ có các mặt đáy song song. Nếu $AB = 6cm$ và $A'B' = 4cm$, thì tỉ số $\frac{CD}{C'D'}$ bằng bao nhiêu?
+... Gợi ý: Sử dụng tính chất của hình chóp cụt và tỉ số đồng dạng giữa hai mặt đáy.
++   Phản hồi đúng: Chính xác! Trong hình chóp cụt, các cạnh tương ứng của hai đáy có cùng tỉ số. Do đó $\frac{AB}{A'B'} = \frac{CD}{C'D'} = \frac{6}{4} = \frac{3}{2}$.
+-   Phản hồi sai: Hình chóp cụt có tính chất là các cạnh tương ứng của hai đáy tỉ lệ với nhau theo cùng một tỉ số.
+a) $\frac{2}{3}$
+*b) $\frac{3}{2}$
+c) $\frac{4}{6}$
+d) $2$
+
+16. Trong không gian, cho ba đường thẳng $a, b, c$ đôi một song song. Mệnh đề nào sau đây đúng?
+... Gợi ý: Sử dụng tính chất bắc cầu của quan hệ song song và xét vị trí của ba đường thẳng trong không gian.
++   Phản hồi đúng: Đúng! Ba đường thẳng đôi một song song có thể cùng nằm trong một mặt phẳng (song song trong mặt phẳng) hoặc không cùng nằm trong một mặt phẳng (song song trong không gian).
+-   Phản hồi sai: Cần phân biệt giữa ba đường thẳng song song trong cùng một mặt phẳng và trong không gian. Cả hai trường hợp đều có thể xảy ra.
+a) Chúng luôn cùng nằm trong một mặt phẳng
+b) Chúng không bao giờ cùng nằm trong một mặt phẳng
+*c) Chúng có thể cùng nằm hoặc không cùng nằm trong một mặt phẳng
+d) Hai trong ba đường thẳng luôn cắt nhau
+
+17. Cho hình hộp chữ nhật $ABCD.A'B'C'D'$. Đường thẳng $BD'$ có vị trí như thế nào với mặt phẳng $(A'B'C')$?
+... Gợi ý: Xét vị trí của đường chéo khối với mặt phẳng không chứa các đỉnh của đường chéo đó.
++   Phản hồi đúng: Chính xác! Đường thẳng $BD'$ đi qua điểm $B$ không thuộc mặt phẳng $(A'B'C')$ và điểm $D'$ cũng không thuộc mặt phẳng $(A'B'C')$ (vì $D' \notin (A'B'C')$ trong hình hộp chữ nhật). Do đó $BD'$ cắt mặt phẳng $(A'B'C')$.
+-   Phản hồi sai: Cần xác định chính xác vị trí các điểm và mặt phẳng. Đường chéo khối thường cắt các mặt phẳng không chứa đỉnh của nó.
+*a) Cắt mặt phẳng $(A'B'C')$
+b) Song song với mặt phẳng $(A'B'C')$
+c) Nằm trong mặt phẳng $(A'B'C')$
+d) Vuông góc với mặt phẳng $(A'B'C')$
+
+18. Cho ba mặt phẳng song song $(P), (Q), (R)$ với $(P) // (Q) // (R)$. Đường thẳng $d$ cắt ba mặt phẳng này tại $A, B, C$. Nếu $AB = 3cm$ và $BC = 6cm$, thì tỉ số $\frac{AC}{AB}$ bằng bao nhiêu?
+... Gợi ý: Sử dụng tính chất chia đoạn thẳng bởi các mặt phẳng song song.
++   Phản hồi đúng: Đúng! Ta có $AC = AB + BC = 3 + 6 = 9cm$. Do đó $\frac{AC}{AB} = \frac{9}{3} = 3$.
+-   Phản hồi sai: Cần chú ý quan hệ vị trí của các điểm trên đường thẳng. Nếu $A, B, C$ theo thứ tự đó thì $AC = AB + BC$.
+a) $2$
+*b) $3$
+c) $\frac{1}{2}$
+d) $\frac{2}{3}$
+
+19. Cho tứ diện đều $ABCD$. Gọi $M, N$ lần lượt là trung điểm của $AB$ và $CD$. Đoạn thẳng $MN$ có tính chất gì đặc biệt?
+... Gợi ý: Sử dụng tính chất của tứ diện đều và đoạn thẳng nối trung điểm hai cạnh đối diện.
++   Phản hồi đúng: Chính xác! Trong tứ diện đều, đoạn thẳng nối trung điểm hai cạnh đối diện là đường vuông góc chung của hai cạnh đó và có độ dài ngắn nhất giữa hai cạnh đó.
+-   Phản hồi sai: Tứ diện đều có tính đối xứng cao, đoạn nối trung điểm hai cạnh đối diện có những tính chất hình học đặc biệt.
+a) $MN$ song song với mặt phẳng $(ACD)$
+*b) $MN$ là đường vuông góc chung của $AB$ và $CD$
+c) $MN$ song song với $AC$
+d) $MN$ nằm trong mặt phẳng $(ABC)$
+
+20. Cho hình chóp $S.ABCD$ có đáy $ABCD$ là hình thoi tâm $O$. Mặt phẳng qua $SO$ và song song với $AB$ sẽ cắt các cạnh nào của hình chóp?
+... Gợi ý: Xét mặt phẳng đi qua trục của hình chóp và song song với một cạnh đáy.
++   Phản hồi đúng: Đúng! Mặt phẳng qua $SO$ và song song với $AB$ sẽ song song với $CD$ (vì $AB // CD$ trong hình thoi), do đó sẽ cắt $BC$ và $AD$ tại các điểm, đồng thời cắt $SC$ và $SD$.
+-   Phản hồi sai: Mặt phẳng qua $SO$ song song với $AB$ sẽ song song với $CD$ và cắt các cạnh còn lại của đáy cũng như các cạnh bên tương ứng.
+a) Chỉ cắt $BC$ và $AD$
+b) Chỉ cắt $SC$ và $SD$
+*c) Cắt $BC, AD, SC, SD$
+d) Không cắt cạnh nào khác
+
+1. Trong thiết kế một tòa nhà văn phòng, kiến trúc sư tạo ra khung thép có dạng hình hộp chữ nhật ABCD.A'B'C'D'. Để tăng cường độ bền, người ta lắp thêm thanh chống MN nối trung điểm M của cạnh AA' với trung điểm N của cạnh BB'. Thanh MN có quan hệ vị trí như thế nào với mặt phẳng đáy (ABCD)?
+    Gợi ý: Sử dụng định lý về đường thẳng song song với mặt phẳng thông qua việc tìm đường thẳng song song trong mặt phẳng.
++   Phản hồi đúng: Chính xác! MN song song với AB nằm trong mặt phẳng (ABCD), do đó MN song song với mặt phẳng (ABCD) theo định lý đường thẳng song song với mặt phẳng.
+-   Phản hồi sai: Cần phân tích vị trí của M và N để xác định MN song song với đường thẳng nào trong mặt phẳng đáy.
+a) MN cắt mặt phẳng (ABCD)
+b) MN nằm trong mặt phẳng (ABCD)
+*c) MN song song với mặt phẳng (ABCD)
+d) MN vuông góc với mặt phẳng (ABCD)
+
+2. Một container hàng có dạng hình hộp chữ nhật với các kích thước 6m × 2.4m × 2.6m. Trên mặt bên, người ta vẽ đường chéo AC' (từ đỉnh A của đáy đến đỉnh C' của nắp). Nếu lấy điểm M trên cạnh AA' sao cho AM = 1.3m, mặt phẳng qua M song song với mặt phẳng (BCC'B') sẽ cắt cạnh DD' tại điểm N. Tính độ dài DN.
+    Gợi ý: Áp dụng tính chất của các mặt phẳng song song và tỷ lệ thức.
++   Phản hồi đúng: Đúng rồi! Do tính chất đối xứng của hình hộp chữ nhật, DN = AM = 1.3m.
+-   Phản hồi sai: Cần sử dụng tính chất mặt phẳng song song cắt hai cạnh tương ứng tạo ra các đoạn bằng nhau.
+a) 1.0
+b) 1.2
+*c) 1.3
+d) 1.6
+
+3. Trong thiết kế cầu treo, hai dây cáp chính được mô tả bởi hai đường thẳng d₁ và d₂ trong không gian. Biết d₁ song song với mặt phẳng (P) và d₂ nằm trong mặt phẳng (Q). Nếu (P) cắt (Q) theo giao tuyến Δ, thì d₂ có quan hệ gì với d₁?
+    Gợi ý: Sử dụng định lý về giao tuyến của hai mặt phẳng khi một trong số chúng chứa đường thẳng song song với mặt phẳng kia.
++   Phản hồi đúng: Chính xác! Theo định lý, d₂ song song với giao tuyến Δ, và do d₁ cũng song song với Δ nên d₁ song song với d₂.
+-   Phản hồi sai: Cần áp dụng định lý về quan hệ giữa đường thẳng song song với mặt phẳng và giao tuyến.
+a) d₂ vuông góc với d₁
+b) d₂ cắt d₁
+*c) d₂ song song với d₁
+d) d₂ và d₁ chéo nhau
+
+4. Một nhà thiết kế tạo ra khung đèn hình chóp tứ giác đều S.ABCD với cạnh đáy AB = 4m. Để trang trí, người ta gắn dây LED theo đoạn MN, trong đó M và N lần lượt là các điểm trên SA và SC sao cho SM/SA = SN/SC = 2/3. Nếu O là tâm của hình vuông ABCD, tính độ dài đoạn MN theo độ dài AC.
+    Gợi ý: Sử dụng định lý Thales trong không gian và tính chất của hình chóp đều.
++   Phản hồi đúng: Đúng! Do SM/SA = SN/SC = 2/3, ta có MN song song với AC và MN = (2/3)AC.
+-   Phản hồi sai: Cần áp dụng định lý Thales để tìm mối quan hệ giữa MN và AC.
+a) MN = AC/3
+*b) MN = 2AC/3
+c) MN = AC/2
+d) MN = 3AC/4
+
+5. Trong thiết kế sân bay, người ta xây dựng hai đường băng song song. Đường băng thứ nhất nằm trong mặt phẳng (α), đường băng thứ hai nằm trong mặt phẳng (β). Biết (α) // (β) và khoảng cách giữa chúng là 500m. Một máy bay bay theo đường thẳng d cắt cả hai mặt phẳng tại A và B. Nếu máy bay bay với góc nghiêng 30° so với mặt phẳng ngang, tính độ dài đoạn bay AB.
+    Gợi ý: Sử dụng quan hệ hình học trong tam giác vuông và khoảng cách giữa hai mặt phẳng song song.
++   Phản hồi đúng: Chính xác! Với góc nghiêng 30°, ta có sin(30°) = 500/AB, suy ra AB = 1000m.
+-   Phản hồi sai: Cần sử dụng tỷ số lượng giác trong tam giác vuông để tính AB.
+a) 866
+b) 577
+*c) 1000
+d) 1154
+
+6. Một kho hàng có dạng hình lăng trụ đứng ABC.A'B'C' với đáy ABC là tam giác vuông tại A, AB = 6m, AC = 8m, chiều cao AA' = 3m. Để vận chuyển hàng hóa, người ta căng dây cáp từ điểm M trên cạnh AB (AM = 2m) đến điểm N trên cạnh A'C' (A'N = 2.67m). Chứng minh MN song song với mặt phẳng nào?
+    Gợi ý: Tính tỷ lệ AM/AB và A'N/A'C' để áp dụng định lý Thales trong không gian.
++   Phản hồi đúng: Đúng! Do AM/AB = A'N/A'C' = 1/3, nên MN song song với mặt phẳng (BCC'B').
+-   Phản hồi sai: Cần so sánh các tỷ lệ để xác định mặt phẳng mà MN song song với nó.
+a) (ABC)
+*b) (BCC'B')
+c) (ABB'A')
+d) (ACC'A')
+
+7. Trong thiết kế tháp truyền hình, người ta tạo ra cấu trúc hình chóp S.ABCD với đáy ABCD là hình thoi cạnh a = 10m. Các thanh chống được đặt tại các điểm P, Q, R, S lần lượt là trung điểm của SA, SB, SC, SD. Nếu diện tích hình thoi ABCD là 80m², tính diện tích tứ giác PQRS.
+    Gợi ý: Sử dụng định lý về mặt phẳng song song và tỷ lệ diện tích.
++   Phản hồi đúng: Chính xác! Do PQRS là thiết diện song song với đáy và tỷ lệ 1:2, diện tích PQRS = (1/2)² × 80 = 20m².
+-   Phản hồi sai: Cần áp dụng tính chất tỷ lệ diện tích khi có hai mặt phẳng song song.
+*a) 20
+b) 40
+c) 60
+d) 80
+
+8. Một nhà máy sản xuất có mái nhà hình chóp cụt. Mặt phẳng trên song song với mặt phẳng dưới, có diện tích lần lượt là 25m² và 100m². Nếu chiều cao giữa hai mặt phẳng này là 3m, tính chiều cao từ mặt phẳng dưới đến đỉnh của hình chóp gốc (nếu kéo dài).
+    Gợi ý: Sử dụng tỷ lệ thể tích và diện tích trong hình chóp cụt.
++   Phản hồi đúng: Đúng! Tỷ lệ diện tích là 1:4, nên tỷ lệ khoảng cách là 1:2. Chiều cao cần tìm là 6m.
+-   Phản hồi sai: Cần sử dụng mối quan hệ giữa tỷ lệ diện tích và tỷ lệ khoảng cách trong hình chóp.
+a) 4
+b) 5
+*c) 6
+d) 8
+
+9. Trong thiết kế cầu vượt, hai mặt phẳng nghiêng (α) và (β) song song với nhau. Một xe chạy theo đường thẳng d cắt (α) tại A và (β) tại B. Biết đường thẳng d hợp với phương ngang một góc 15° và khoảng cách theo phương thẳng đứng giữa hai mặt phẳng là 5m. Tính quãng đường AB mà xe phải di chuyển.
+    Gợi ý: Sử dụng tỷ số lượng giác sin trong tam giác vuông.
++   Phản hồi đúng: Chính xác! sin(15°) = 5/AB, với sin(15°) ≈ 0.259, ta có AB ≈ 19.3m.
+-   Phản hồi sai: Cần áp dụng công thức sin để tính cạnh huyền trong tam giác vuông.
+a) 12.9
+b) 15.4
+*c) 19.3
+d) 22.7
+
+10. Một container chứa hàng có dạng hình hộp chữ nhật ABCD.A'B'C'D'. Người ta chia container thành hai phần bằng mặt phẳng (P) song song với mặt phẳng (ABB'A') và cắt cạnh CD, C'D' lần lượt tại M, N sao cho CM/CD = 1/4. Nếu thể tích toàn bộ container là 48m³, tính thể tích phần container chứa đỉnh C.
+    Gợi ý: Sử dụng tỷ lệ thể tích khi chia hình hộp bằng mặt phẳng song song.
++   Phản hồi đúng: Đúng! Phần chứa đỉnh C có tỷ lệ thể tích CM/CD = 1/4, nên thể tích là (1/4) × 48 = 12m³.
+-   Phản hồi sai: Cần tính tỷ lệ thể tích dựa trên tỷ lệ chia của mặt phẳng cắt.
+*a) 12
+b) 16
+c) 24
+d) 36
+
+11. Trong thiết kế khung sườn máy bay, người ta tạo ra cấu trúc hình chóp S.ABC với SA = 6m, SB = 8m, SC = 10m. Các thanh ngang PQ, RS được lắp sao cho P, Q lần lượt chia SA, SB theo tỷ lệ 2:1 (từ S), còn R, S chia SA, SC theo tỷ lệ 1:2 (từ S). Tỷ lệ độ dài PQ và RS là bao nhiêu?
+    Gợi ý: Áp dụng định lý Thales để tính độ dài các đoạn thẳng song song với cạnh đáy.
++   Phản hồi đúng: Chính xác! PQ = (2/3)AB, RS = (1/3)AC. Với AB = 8, AC = 10, ta có PQ:RS = 16:10 = 8:5.
+-   Phản hồi sai: Cần tính chính xác tỷ lệ của từng đoạn thẳng dựa trên định lý Thales.
+a) 2:3
+b) 3:2
+*c) 8:5
+d) 5:8
+
+12. Một tòa nhà có ba tầng với các mặt sàn song song. Tầng 1 có diện tích 400m², tầng 2 có diện tích 324m², tầng 3 có diện tích 256m². Nếu chiều cao từ tầng 1 đến tầng 2 là 3.2m, tính chiều cao từ tầng 2 đến tầng 3, biết các tầng được thiết kế theo quy luật hình chóp cụt.
+    Gợi ý: Sử dụng tỷ lệ diện tích để tìm tỷ lệ khoảng cách trong hình chóp cụt.
++   Phản hồi đúng: Đúng! Tỷ lệ √324/√400 = 18/20 = 9/10, nên chiều cao tương ứng là 3.2 × (9/10) = 2.88m.
+-   Phản hồi sai: Cần căn bậc hai của tỷ lệ diện tích để tìm tỷ lệ khoảng cách.
+a) 2.4
+b) 2.6
+*c) 2.88
+d) 3.0
+
+13. Trong thiết kế ga tàu điện ngầm, người ta xây dựng hai đường ray song song nằm trong hai mặt phẳng song song (α) và (β). Khoảng cách giữa hai mặt phẳng này là 1.5m. Một thang cuốn nối hai mức có độ dài 12m. Tính góc nghiêng của thang cuốn so với mặt phẳng ngang.
+    Gợi ý: Sử dụng tỷ số lượng giác sin để tìm góc nghiêng.
++   Phản hồi đúng: Chính xác! sin(α) = 1.5/12 = 1/8 = 0.125, suy ra α ≈ 7.18°.
+-   Phản hồi sai: Cần áp dụng công thức sin = đối/huyền để tính góc.
+a) 6.2
+*b) 7.18
+c) 8.5
+d) 9.3
+
+14. Một kho chứa hàng có dạng hình lăng trụ đứng với đáy là hình thang cân ABCD (AB // CD, AB = 8m, CD = 4m, chiều cao hình thang 3m). Chiều cao lăng trụ là 4m. Người ta dựng mặt phẳng (P) song song với đáy và cắt các cạnh bên tại các điểm cách đáy 1.5m. Tính diện tích thiết diện tạo bởi mặt phẳng (P).
+    Gợi ý: Thiết diện song song với đáy có cùng hình dạng và diện tích với đáy.
++   Phản hồi đúng: Đúng! Thiết diện song song với đáy nên có diện tích bằng diện tích đáy = (8+4)×3/2 = 18m².
+-   Phản hồi sai: Thiết diện song song với đáy của lăng trụ có diện tích bằng diện tích đáy.
+a) 15
+b) 16
+*c) 18
+d) 20
+
+15. Trong thiết kế mái che sân vận động, người ta tạo ra cấu trúc hình chóp S.ABCD với đáy ABCD là hình vuông cạnh 20m. Các dầm thép MN, PQ được lắp sao cho M, N, P, Q lần lượt chia các cạnh SA, SB, SC, SD theo tỷ lệ 3:2 (từ S). Chu vi tứ giác MNPQ bằng bao nhiêu?
+    Gợi ý: Sử dụng tính chất của thiết diện song song trong hình chóp.
++   Phản hồi đúng: Chính xác! MNPQ là hình vuông với cạnh = (3/5) × 20 = 12m, chu vi = 4 × 12 = 48m.
+-   Phản hồi sai: Cần tính tỷ lệ thu nhỏ của thiết diện so với đáy.
+a) 40
+b) 44
+*c) 48
+d) 52
+
+16. Một nhà máy có hai băng chuyền song song được mô tả bởi hai đường thẳng d₁, d₂ nằm trong hai mặt phẳng song song (α), (β). Khoảng cách giữa (α) và (β) là 2m. Nếu một robot di chuyển theo đường thẳng Δ cắt d₁ tại A, cắt d₂ tại B và hợp với (α) một góc 45°, tính độ dài quãng đường AB mà robot di chuyển.
+    Gợi ý: Sử dụng tỷ số lượng giác sin trong tam giác vuông.
++   Phản hồi đúng: Đúng! sin(45°) = 2/AB, với sin(45°) = √2/2, ta có AB = 2√2 ≈ 2.83m.
+-   Phản hồi sai: Cần áp dụng công thức lượng giác để tính cạnh huyền.
+a) 2.0
+b) 2.4
+*c) 2.83
+d) 3.2
+
+17. Trong thiết kế cầu trục, người ta tạo ra hệ thống ba thanh ngang song song AB, CD, EF lần lượt nằm trong ba mặt phẳng song song cách đều nhau. Biết AB = 12m, CD = 9m, khoảng cách từ mặt phẳng chứa AB đến mặt phẳng chứa CD bằng khoảng cách từ mặt phẳng chứa CD đến mặt phẳng chứa EF. Tính độ dài thanh EF.
+    Gợi ý: Áp dụng định lý Thales cho ba mặt phẳng song song.
++   Phản hồi đúng: Chính xác! Do ba mặt phẳng song song cách đều nhau, ta có 12, 9, EF theo cấp số cộng với công sai -3, nên EF = 6m.
+-   Phản hồi sai: Cần sử dụng tính chất của ba mặt phẳng song song cách đều nhau tạo ra cấp số cộng.
+a) 5
+*b) 6
+c) 7
+d) 8
+
+18. Một container lạnh có dạng hình hộp chữ nhật với kích thước 6m × 3m × 2.5m. Để kiểm soát nhiệt độ, người ta chia container thành hai khoang bằng vách ngăn song song với mặt đáy nhỏ, cách mặt này 2m. Nếu nhiệt độ phân bố tỷ lệ với thể tích, tỷ lệ nhiệt độ giữa khoang lớn và khoang nhỏ là bao nhiêu?
+    Gợi ý: Tính thể tích từng khoang và lập tỷ lệ.
++   Phản hồi đúng: Đúng! Khoang lớn có thể tích 6×2×2.5 = 30m³, khoang nhỏ có thể tích 6×1×2.5 = 15m³, tỷ lệ là 2:1.
+-   Phản hồi sai: Cần tính chính xác thể tích từng phần sau khi chia và lập tỷ lệ.
+a) 3:1
+*b) 2:1
+c) 3:2
+d) 4:3
+
+19. Trong thiết kế sân khấu, người ta tạo ra khung cảnh hình chóp cụt với hai mặt phẳng song song. Mặt trên có chu vi 16m, mặt dưới có chu vi 24m, chiều cao giữa hai mặt là 2m. Nếu kéo dài thành hình chóp hoàn chỉnh, tính khoảng cách từ đỉnh chóp đến mặt phẳng dưới.
+    Gợi ý: Sử dụng tỷ lệ chu vi để tìm tỷ lệ khoảng cách trong hình chóp cụt.
++   Phản hồi đúng: Chính xác! Tỷ lệ chu vi 16:24 = 2:3, nên khoảng cách từ đỉnh đến mặt trên là 4m, đến mặt dưới là 6m.
+-   Phản hồi sai: Cần sử dụng tỷ lệ chu vi để tìm vị trí đỉnh của hình chóp gốc.
+a) 5
+*b) 6
+c) 7
+d) 8
+
+20. Một bãi đỗ xe có ba tầng với các mặt sàn song song. Độ dốc đường nối tầng 1-2 là 12%, độ dốc đường nối tầng 2-3 là 15%. Nếu chiều dài đường nối tầng 1-2 là 25m, tính độ chênh lệch độ cao giữa tầng 1 và tầng 3.
+    Gợi ý: Sử dụng khái niệm độ dốc phần trăm để tính độ chênh cao.
++   Phản hồi đúng: Đúng! Độ cao từ tầng 1-2 là 25×0.12 = 3m. Cần thêm thông tin để tính chính xác, giả sử đường 2-3 dài 20m thì thêm 3m nữa, tổng 6m.
+-   Phản hồi sai: Độ dốc % = (độ chênh cao/chiều dài ngang) × 100%. Cần tính từng đoạn rồi cộng lại.
+a) 5
+*b) 6
+c) 7
+d) 8
+
+1. Cho $\lim_{x \to 2} f(x) = 5$. Điều này có nghĩa là:
+    Gợi ý: Áp dụng định nghĩa giới hạn của hàm số tại một điểm.
++   Phản hồi đúng: Chính xác! Khi x tiến gần đến 2 thì giá trị của f(x) tiến gần đến 5, đây là định nghĩa cơ bản của giới hạn.
+-   Phản hồi sai: Cần phân biệt giữa giới hạn của hàm số tại một điểm và giá trị của hàm số tại điểm đó.
+a) f(2) = 5
+*b) Khi x tiến gần đến 2 thì f(x) tiến gần đến 5
+c) f(x) = 5 với mọi x
+d) x = 2
+
+2. Giá trị của $\lim_{x \to +\infty} \frac{1}{x}$ bằng:
+    Gợi ý: Sử dụng công thức giới hạn cơ bản khi x tiến tới vô cực dương.
++   Phản hồi đúng: Đúng! Khi x tiến tới vô cực dương thì $\frac{1}{x}$ tiến tới 0.
+-   Phản hồi sai: Nhớ lại công thức $\lim_{x \to +\infty} \frac{1}{x} = 0$.
+a) 1
+*b) 0
+c) +∞
+d) Không tồn tại
+
+3. Hàm số $f(x) = x^2 + 3x - 1$ có tính chất:
+    Gợi ý: Hàm đa thức có tính chất liên tục đặc biệt trên tập xác định.
++   Phản hồi đúng: Chính xác! Mọi hàm đa thức đều liên tục trên toàn bộ tập số thực.
+-   Phản hồi sai: Hàm đa thức luôn liên tục trên tập xác định của nó.
+a) Gián đoạn tại x = 0
+*b) Liên tục trên ℝ
+c) Chỉ liên tục tại x = 1
+d) Không liên tục trên ℝ
+
+4. Giá trị của $\lim_{x \to 1} (x^2 + 2x + 3)$ bằng:
+    Gợi ý: Với hàm đa thức, có thể thay trực tiếp giá trị x vào hàm số.
++   Phản hồi đúng: Đúng! Thay x = 1 vào ta được $1^2 + 2(1) + 3 = 6$.
+-   Phản hồi sai: Với hàm đa thức tại điểm thuộc tập xác định, giới hạn bằng giá trị hàm số tại điểm đó.
+a) 3
+*b) 6
+c) 1
+d) 2
+
+5. Giá trị của $\lim_{x \to 0} \frac{\sin x}{x}$ bằng:
+    Gợi ý: Đây là một giới hạn đặc biệt quan trọng trong chương trình.
++   Phản hồi đúng: Chính xác! Đây là giới hạn đặc biệt cơ bản: $\lim_{x \to 0} \frac{\sin x}{x} = 1$.
+-   Phản hồi sai: Cần nhớ công thức giới hạn đặc biệt này.
+a) 0
+*b) 1
+c) +∞
+d) Không xác định
+
+6. Giá trị của $\lim_{x \to +\infty} \frac{2}{x^3}$ bằng:
+    Gợi ý: Áp dụng quy tắc giới hạn với mẫu số có bậc dương khi x tiến tới vô cực.
++   Phản hồi đúng: Đúng! Khi x tiến tới vô cực dương thì $\frac{2}{x^3}$ tiến tới 0.
+-   Phản hồi sai: Khi mẫu số tiến tới vô cực và tử số là hằng số thì giới hạn bằng 0.
+*a) 0
+b) 2
+c) +∞
+d) -∞
+
+7. Hàm số $f(x) = 2x + 5$ có tính chất:
+    Gợi ý: Xét tính liên tục của hàm bậc nhất.
++   Phản hồi đúng: Chính xác! Hàm bậc nhất là hàm đa thức nên liên tục trên toàn bộ ℝ.
+-   Phản hồi sai: Hàm đa thức bậc nhất luôn liên tục trên tập số thực.
+a) Gián đoạn tại x = 0
+*b) Liên tục trên ℝ
+c) Chỉ liên tục tại x = -5/2
+d) Không liên tục
+
+8. Giá trị của $\lim_{x \to 3} (x^2 - 2x + 1)$ bằng:
+    Gợi ý: Thay trực tiếp giá trị x = 3 vào biểu thức đa thức.
++   Phản hồi đúng: Đúng! Thay x = 3 ta được $3^2 - 2(3) + 1 = 9 - 6 + 1 = 4$.
+-   Phản hồi sai: Với hàm đa thức, giới hạn tại một điểm bằng giá trị hàm số tại điểm đó.
+a) 3
+*b) 4
+c) 6
+d) 1
+
+9. Điều kiện để hàm số f(x) liên tục tại điểm x = a là:
+    Gợi ý: Nhớ lại định nghĩa của tính liên tục tại một điểm.
++   Phản hồi đúng: Chính xác! Đây là định nghĩa chuẩn của tính liên tục.
+-   Phản hồi sai: Cần nhớ định nghĩa: hàm số liên tục tại a khi giới hạn tại a bằng giá trị hàm số tại a.
+a) f(a) tồn tại
+b) $\lim_{x \to a} f(x)$ tồn tại
+*c) $\lim_{x \to a} f(x) = f(a)$
+d) f(x) = a
+
+10. Giá trị của $\lim_{x \to 0} (x^3 - 2x + 4)$ bằng:
+    Gợi ý: Thay trực tiếp x = 0 vào hàm đa thức.
++   Phản hồi đúng: Đúng! Thay x = 0 ta được $0^3 - 2(0) + 4 = 4$.
+-   Phản hồi sai: Với hàm đa thức, có thể tính giới hạn bằng cách thay trực tiếp.
+a) 0
+b) -2
+*c) 4
+d) 2
+
+11. Giá trị của $\lim_{x \to +\infty} \frac{5}{x^2}$ bằng:
+    Gợi ý: Sử dụng tính chất giới hạn khi x tiến tới vô cực dương.
++   Phản hồi đúng: Chính xác! Khi x tiến tới vô cực thì $\frac{5}{x^2}$ tiến tới 0.
+-   Phản hồi sai: Khi mẫu số tiến tới vô cực và tử số là hằng số khác 0 thì giới hạn bằng 0.
+*a) 0
+b) 5
+c) +∞
+d) 1
+
+12. Hàm số $f(x) = x^3 + 1$ tại điểm x = 2 có tính chất:
+    Gợi ý: Kiểm tra tính liên tục của hàm đa thức tại một điểm cụ thể.
++   Phản hồi đúng: Đúng! Hàm đa thức luôn liên tục tại mọi điểm thuộc tập xác định.
+-   Phản hồi sai: Hàm đa thức liên tục tại mọi điểm thuộc ℝ.
+*a) Liên tục
+b) Gián đoạn
+c) Không xác định
+d) Có giới hạn nhưng không liên tục
+
+13. Giá trị của $\lim_{x \to -1} (2x + 5)$ bằng:
+    Gợi ý: Tính giới hạn của hàm bậc nhất tại một điểm.
++   Phản hồi đúng: Chính xác! Thay x = -1 ta được $2(-1) + 5 = 3$.
+-   Phản hồi sai: Với hàm đa thức, thay trực tiếp giá trị vào để tính giới hạn.
+a) -1
+b) 5
+*c) 3
+d) 7
+
+14. Giá trị của $\lim_{x \to 0} \frac{\sin 3x}{3x}$ bằng:
+    Gợi ý: Sử dụng công thức giới hạn đặc biệt của hàm lượng giác.
++   Phản hồi đúng: Đúng! Áp dụng công thức $\lim_{t \to 0} \frac{\sin t}{t} = 1$ với t = 3x.
+-   Phản hồi sai: Sử dụng công thức $\lim_{x \to 0} \frac{\sin x}{x} = 1$ và đặt t = 3x.
+a) 3
+*b) 1
+c) 0
+d) 1/3
+
+15. Ký hiệu $\lim_{x \to 2^+} f(x)$ có nghĩa là:
+    Gợi ý: Phân biệt giới hạn một bên phải và giới hạn thông thường.
++   Phản hồi đúng: Chính xác! Dấu + biểu thị giới hạn bên phải, tức x tiến gần 2 từ phía lớn hơn 2.
+-   Phản hồi sai: Ký hiệu + trong giới hạn một bên chỉ hướng tiếp cận từ bên phải.
+a) Giới hạn khi x = 2
+*b) Giới hạn bên phải khi x tiến tới 2
+c) Giới hạn khi x tiến tới 2 dương
+d) f(2) > 0
+
+16. Giá trị của $\lim_{x \to +\infty} \frac{7}{x^4}$ bằng:
+    Gợi ý: Áp dụng quy tắc giới hạn với lũy thừa bậc cao ở mẫu.
++   Phản hồi đúng: Chính xác! Khi x tiến tới vô cực thì $\frac{7}{x^4}$ tiến tới 0.
+-   Phản hồi sai: Khi mẫu số có bậc dương và tử số là hằng số thì giới hạn bằng 0.
+*a) 0
+b) 7
+c) +∞
+d) 1
+
+17. Giá trị của $\lim_{x \to 4} (x + 3)$ bằng:
+    Gợi ý: Tính giới hạn của hàm tuyến tính đơn giản.
++   Phản hồi đúng: Đúng! Thay x = 4 ta được 4 + 3 = 7.
+-   Phản hồi sai: Với hàm đa thức, giới hạn bằng giá trị hàm số tại điểm đó.
+a) 4
+*b) 7
+c) 3
+d) 1
+
+18. Hàm số nào sau đây liên tục trên ℝ:
+    Gợi ý: Xác định loại hàm số nào có tính liên tục trên toàn bộ tập số thực.
++   Phản hồi đúng: Chính xác! Hàm đa thức luôn liên tục trên toàn bộ tập xác định.
+-   Phản hồi sai: Trong các lựa chọn, chỉ có hàm đa thức là liên tục trên ℝ.
+*a) $f(x) = x^2 + 2x - 3$
+b) $f(x) = \frac{1}{x}$
+c) $f(x) = \frac{x-1}{x+2}$
+d) $f(x) = \sqrt{x}$
+
+19. Giá trị của $\lim_{x \to -2} (x^2 + x - 1)$ bằng:
+    Gợi ý: Thay trực tiếp giá trị x = -2 vào biểu thức.
++   Phản hồi đúng: Đúng! Thay x = -2 ta được $(-2)^2 + (-2) - 1 = 4 - 2 - 1 = 1$.
+-   Phản hồi sai: Cần thay đúng giá trị x = -2 vào từng hạng tử của đa thức.
+*a) 1
+b) -2
+c) 3
+d) -1
+
+20. Giá trị của $\lim_{x \to +\infty} \frac{3}{x}$ bằng:
+    Gợi ý: Sử dụng công thức giới hạn cơ bản khi x tiến tới vô cực.
++   Phản hồi đúng: Chính xác! Khi x tiến tới vô cực thì $\frac{3}{x}$ tiến tới 0.
+-   Phản hồi sai: Khi mẫu số tiến tới vô cực và tử số là hằng số thì giới hạn bằng 0.
+*a) 0
+b) 3
+c) +∞
+d) 1
+
+1. Tính $\lim_{x \to 2} \frac{x^2 - 4}{x - 2}$
+... Gợi ý: Phân tích tử số thành tích của hai nhân tử và rút gọn để khử dạng vô định $\frac{0}{0}$.
++   Phản hồi đúng: Chính xác! Phân tích $x^2 - 4 = (x-2)(x+2)$, rút gọn được $\lim_{x \to 2} \frac{(x-2)(x+2)}{x-2} = \lim_{x \to 2} (x+2) = 4$.
+-   Phản hồi sai: Khi gặp dạng $\frac{0}{0}$, cần phân tích và rút gọn trước khi tính giới hạn, không thể kết luận ngay.
+a) 2
+b) 0
+*c) 4
+d) 8
+
+2. Cho hàm số $f(x) = \frac{x^2 - 9}{x - 3}$ khi $x \neq 3$ và $f(3) = a$. Giá trị của $a$ để hàm số liên tục tại $x = 3$ là:
+... Gợi ý: Hàm số liên tục tại $x = 3$ khi $\lim_{x \to 3} f(x) = f(3)$.
++   Phản hồi đúng: Đúng rồi! Ta có $\lim_{x \to 3} \frac{x^2 - 9}{x - 3} = \lim_{x \to 3} \frac{(x-3)(x+3)}{x-3} = \lim_{x \to 3} (x+3) = 6$, nên $a = 6$.
+-   Phản hồi sai: Cần tính giới hạn của hàm số tại $x = 3$ rồi cho bằng $f(3) = a$ để đảm bảo tính liên tục.
+a) 3
+b) 9
+*c) 6
+d) 12
+
+3. Giá trị của $\lim_{x \to +\infty} \frac{2x^2 - 3x + 1}{x^2 + x - 1}$ là:
+... Gợi ý: Chia cả tử và mẫu cho $x^2$ (lũy thừa cao nhất) và sử dụng $\lim_{x \to +\infty} \frac{1}{x} = 0$.
++   Phản hồi đúng: Chính xác! Chia tử và mẫu cho $x^2$: $\lim_{x \to +\infty} \frac{2 - \frac{3}{x} + \frac{1}{x^2}}{1 + \frac{1}{x} - \frac{1}{x^2}} = \frac{2}{1} = 2$.
+-   Phản hồi sai: Khi $x \to +\infty$, cần so sánh bậc cao nhất của tử và mẫu. Hai đa thức cùng bậc thì giới hạn bằng tỉ số hệ số bậc cao nhất.
+a) 1
+*b) 2
+c) 3
+d) $+\infty$
+
+4. Tính $\lim_{x \to 1^+} \frac{x - 1}{|x - 1|}$:
+... Gợi ý: Khi $x \to 1^+$ thì $x > 1$, do đó $x - 1 > 0$ và $|x - 1| = x - 1$.
++   Phản hồi đúng: Đúng! Vì $x \to 1^+$ nên $x > 1$, suy ra $x - 1 > 0$, do đó $|x - 1| = x - 1$ và $\frac{x - 1}{|x - 1|} = \frac{x - 1}{x - 1} = 1$.
+-   Phản hồi sai: Cần chú ý dấu của biểu thức trong giá trị tuyệt đối khi $x$ tiến về $1$ từ phía phải ($x > 1$).
+*a) 1
+b) -1
+c) 0
+d) Không tồn tại
+
+5. Tính $\lim_{x \to 1^-} \frac{x - 1}{|x - 1|}$:
+... Gợi ý: Khi $x \to 1^-$ thì $x < 1$, do đó $x - 1 < 0$ và $|x - 1| = -(x - 1)$.
++   Phản hồi đúng: Chính xác! Vì $x \to 1^-$ nên $x < 1$, suy ra $x - 1 < 0$, do đó $|x - 1| = -(x - 1)$ và $\frac{x - 1}{|x - 1|} = \frac{x - 1}{-(x - 1)} = -1$.
+-   Phản hồi sai: Khi $x < 1$ thì $x - 1 < 0$, nên $|x - 1| = -(x - 1)$. Cần phân biệt giới hạn trái và phải.
+a) 1
+*b) -1
+c) 0
+d) Không tồn tại
+
+6. Hàm số $g(x) = \frac{1}{x - 2}$ có tính chất gì tại $x = 2$?
+... Gợi ý: Xét xem hàm số có xác định tại $x = 2$ không và xét giới hạn tại điểm này.
++   Phản hồi đúng: Đúng! Hàm số không xác định tại $x = 2$ (do mẫu bằng 0) và $\lim_{x \to 2} g(x) = \pm\infty$, đây là gián đoạn loại 2.
+-   Phản hồi sai: Hàm số không xác định tại điểm làm cho mẫu số bằng 0, và giới hạn tại đó là vô cực.
+a) Liên tục
+b) Gián đoạn loại 1
+*c) Gián đoạn loại 2
+d) Có giới hạn hữu hạn
+
+7. Cho $f(x) = x^2 - 3x + 2$. Giá trị của $\lim_{x \to 1} f(x)$ là:
+... Gợi ý: Hàm đa thức liên tục trên toàn bộ tập số thực, nên giới hạn tại một điểm bằng giá trị hàm số tại điểm đó.
++   Phản hồi đúng: Chính xác! Vì $f(x)$ là hàm đa thức nên liên tục tại $x = 1$, do đó $\lim_{x \to 1} f(x) = f(1) = 1 - 3 + 2 = 0$.
+-   Phản hồi sai: Hàm đa thức luôn liên tục, nên giới hạn tại một điểm bằng giá trị hàm số tại điểm đó.
+*a) 0
+b) 1
+c) 2
+d) -1
+
+8. Tính $\lim_{x \to +\infty} \frac{3x - 1}{2x + 5}$:
+... Gợi ý: Chia cả tử và mẫu cho $x$ (lũy thừa cao nhất) để đưa về dạng đơn giản.
++   Phản hồi đúng: Đúng! Chia tử và mẫu cho $x$: $\lim_{x \to +\infty} \frac{3 - \frac{1}{x}}{2 + \frac{5}{x}} = \frac{3}{2}$ vì $\lim_{x \to +\infty} \frac{1}{x} = 0$.
+-   Phản hồi sai: Khi tử và mẫu cùng bậc, giới hạn bằng tỉ số hệ số của lũy thừa cao nhất.
+a) 1
+*b) $\frac{3}{2}$
+c) 2
+d) $+\infty$
+
+9. Hàm số $h(x) = \frac{x^2 - 1}{x + 1}$ khi $x \neq -1$ và $h(-1) = 3$ có tính chất gì tại $x = -1$?
+... Gợi ý: Tính $\lim_{x \to -1} h(x)$ bằng cách rút gọn biểu thức, rồi so sánh với $h(-1)$.
++   Phản hồi đúng: Chính xác! Ta có $\lim_{x \to -1} \frac{x^2 - 1}{x + 1} = \lim_{x \to -1} \frac{(x-1)(x+1)}{x+1} = \lim_{x \to -1} (x-1) = -2 \neq h(-1) = 3$, nên gián đoạn.
+-   Phản hồi sai: Cần so sánh giới hạn tại điểm với giá trị hàm số tại điểm đó để xét tính liên tục.
+a) Liên tục
+*b) Gián đoạn loại 1
+c) Gián đoạn loại 2
+d) Không xác định
+
+10. Điều kiện để hàm số $f(x) = \begin{cases} \frac{\sin x}{x} & \text{nếu } x \neq 0 \\ a & \text{nếu } x = 0 \end{cases}$ liên tục tại $x = 0$ là:
+... Gợi ý: Sử dụng giới hạn cơ bản $\lim_{x \to 0} \frac{\sin x}{x} = 1$.
++   Phản hồi đúng: Đúng! Vì $\lim_{x \to 0} \frac{\sin x}{x} = 1$, để hàm số liên tục tại $x = 0$ cần $a = 1$.
+-   Phản hồi sai: Cần nhớ giới hạn cơ bản quan trọng $\lim_{x \to 0} \frac{\sin x}{x} = 1$ và điều kiện liên tục.
+a) $a = 0$
+*b) $a = 1$
+c) $a = -1$
+d) $a = \frac{1}{2}$
+
+11. Tính $\lim_{x \to 0} \frac{x^2 + 3x}{x}$:
+... Gợi ý: Rút gọn biểu thức bằng cách chia từng hạng tử cho $x$ trước khi tính giới hạn.
++   Phản hồi đúng: Chính xác! Ta có $\frac{x^2 + 3x}{x} = \frac{x(x + 3)}{x} = x + 3$ (với $x \neq 0$), nên $\lim_{x \to 0} (x + 3) = 3$.
+-   Phản hồi sai: Cần rút gọn biểu thức trước khi tính giới hạn, không được thay trực tiếp $x = 0$ vào biểu thức ban đầu.
+a) 0
+b) 1
+*c) 3
+d) Không tồn tại
+
+12. Hàm số nào sau đây liên tục trên toàn bộ tập xác định?
+... Gợi ý: Xét tập xác định và tính chất liên tục của từng loại hàm số cơ bản.
++   Phản hồi đúng: Đúng! Hàm số $y = x^3 - 2x + 1$ là hàm đa thức nên liên tục trên toàn bộ $\mathbb{R}$.
+-   Phản hồi sai: Hàm đa thức luôn liên tục trên toàn bộ tập số thực, trong khi hàm phân thức có thể gián đoạn tại các điểm làm mẫu bằng 0.
+a) $y = \frac{1}{x}$
+b) $y = \frac{x}{x-1}$
+*c) $y = x^3 - 2x + 1$
+d) $y = \frac{x^2}{x^2-4}$
+
+13. Tính $\lim_{x \to +\infty} (2x^3 - x^2 + 1)$:
+... Gợi ý: Khi $x \to +\infty$, hạng tử có bậc cao nhất sẽ quyết định giới hạn của đa thức.
++   Phản hồi đúng: Chính xác! Vì hạng tử bậc cao nhất là $2x^3$ với hệ số dương, nên khi $x \to +\infty$, giới hạn là $+\infty$.
+-   Phản hồi sai: Đối với đa thức, khi $x \to \pm\infty$, giới hạn được quyết định bởi hạng tử bậc cao nhất.
+a) 1
+b) 2
+c) 0
+*d) $+\infty$
+
+14. Cho hàm số $g(x) = |x - 1|$. Tính $\lim_{x \to 1} g(x)$:
+... Gợi ý: Hàm giá trị tuyệt đối liên tục tại mọi điểm, nên giới hạn tại một điểm bằng giá trị hàm số tại điểm đó.
++   Phản hồi đúng: Đúng! Hàm $g(x) = |x - 1|$ liên tục tại $x = 1$, nên $\lim_{x \to 1} g(x) = g(1) = |1 - 1| = 0$.
+-   Phản hồi sai: Hàm giá trị tuyệt đối liên tục trên toàn bộ tập số thực.
+*a) 0
+b) 1
+c) -1
+d) Không tồn tại
+
+15. Tính $\lim_{x \to 3} \frac{x^2 - 6x + 9}{x - 3}$:
+... Gợi ý: Phân tích tử số thành bình phương của một biểu thức để rút gọn với mẫu số.
++   Phản hồi đúng: Chính xác! Ta có $x^2 - 6x + 9 = (x - 3)^2$, nên $\lim_{x \to 3} \frac{(x - 3)^2}{x - 3} = \lim_{x \to 3} (x - 3) = 0$.
+-   Phản hồi sai: Cần nhận dạng $x^2 - 6x + 9 = (x - 3)^2$ để rút gọn và khử dạng vô định.
+*a) 0
+b) 3
+c) 6
+d) 9
+
+16. Hàm số $f(x) = \frac{x + 2}{x^2 - 4}$ có bao nhiêu điểm gián đoạn?
+... Gợi ý: Tìm các điểm làm cho mẫu số bằng 0, sau đó kiểm tra xem có rút gọn được không.
++   Phản hồi đúng: Đúng! Mẫu số $x^2 - 4 = (x - 2)(x + 2) = 0$ khi $x = 2$ hoặc $x = -2$. Tại $x = -2$: có thể rút gọn nên gián đoạn loại 1. Tại $x = 2$: không rút gọn được nên gián đoạn loại 2.
+-   Phản hồi sai: Cần phân tích mẫu số và xét từng điểm riêng biệt, chú ý khả năng rút gọn.
+a) 0
+b) 1
+*c) 2
+d) 3
+
+17. Tính $\lim_{x \to -\infty} \frac{2x^2 + x - 1}{x^2 - 3}$:
+... Gợi ý: Chia cả tử và mẫu cho $x^2$ và sử dụng tính chất $\lim_{x \to -\infty} \frac{1}{x} = 0$.
++   Phản hồi đúng: Chính xác! Chia tử và mẫu cho $x^2$: $\lim_{x \to -\infty} \frac{2 + \frac{1}{x} - \frac{1}{x^2}}{1 - \frac{3}{x^2}} = \frac{2}{1} = 2$.
+-   Phản hồi sai: Phương pháp giải giống như khi $x \to +\infty$, tỉ số hệ số bậc cao nhất quyết định kết quả.
+a) 1
+*b) 2
+c) -2
+d) $-\infty$
+
+18. Cho hàm số $h(x) = \begin{cases} 2x + 1 & \text{nếu } x < 1 \\ x^2 & \text{nếu } x \geq 1 \end{cases}$. Hàm số này có tính chất gì tại $x = 1$?
+... Gợi ý: Tính giới hạn trái, giới hạn phải và so sánh với giá trị hàm số tại $x = 1$.
++   Phản hồi đúng: Chính xác! $\lim_{x \to 1^-} h(x) = 2(1) + 1 = 3$, $\lim_{x \to 1^+} h(x) = 1^2 = 1$, $h(1) = 1$. Vì giới hạn trái khác giới hạn phải nên gián đoạn.
+-   Phản hồi sai: Với hàm số từng khúc, cần kiểm tra giới hạn trái và phải tại điểm nối.
+a) Liên tục
+*b) Gián đoạn loại 1
+c) Gián đoạn loại 2
+d) Không xác định
+
+19. Tính $\lim_{x \to 0} \frac{2x^2 - 3x}{x}$:
+... Gợi ý: Rút gọn biểu thức bằng cách đặt $x$ làm nhân tử chung ở tử số.
++   Phản hồi đúng: Đúng! Ta có $\frac{2x^2 - 3x}{x} = \frac{x(2x - 3)}{x} = 2x - 3$ (với $x \neq 0$), nên $\lim_{x \to 0} (2x - 3) = -3$.
+-   Phản hồi sai: Cần rút gọn trước khi tính giới hạn. Đặt nhân tử chung $x$ ở tử số để rút gọn.
+a) 0
+b) 2
+*c) -3
+d) Không tồn tại
+
+20. Hàm số $f(x) = \sqrt{x - 1}$ có tính chất gì tại $x = 1$?
+... Gợi ý: Xét tập xác định của hàm số và tính chất liên tục của hàm căn thức trên tập xác định.
++   Phản hồi đúng: Chính xác! Hàm số $f(x) = \sqrt{x - 1}$ xác định khi $x \geq 1$ và liên tục trên tập xác định, nên liên tục tại $x = 1$ (từ phía phải).
+-   Phản hồi sai: Hàm căn thức liên tục trên tập xác định của nó. Tại biên của tập xác định, chỉ xét giới hạn một phía.
+*a) Liên tục
+b) Gián đoạn loại 1
+c) Gián đoạn loại 2
+d) Không xác định
+
+1. Cho hàm số $f(x) = \frac{x^2 - 4}{x - 2}$ khi $x \neq 2$ và $f(2) = 5$. Tính $\lim_{x \to 2} f(x)$:
+... Gợi ý: Sử dụng phương pháp phân tích nhân tử để khử dạng vô định 0/0.
++   Phản hồi đúng: Chính xác! Ta có $\lim_{x \to 2} f(x) = \lim_{x \to 2} \frac{(x-2)(x+2)}{x-2} = \lim_{x \to 2} (x+2) = 4$.
+-   Phản hồi sai: Cần phân tích $x^2 - 4 = (x-2)(x+2)$ để rút gọn biểu thức trước khi tính giới hạn.
+a) 5
+b) 2
+*c) 4
+d) 0
+
+2. Cho $\lim_{x \to +\infty} \frac{3x^2 + 2x - 1}{x^2 - x + 5}$. Giá trị của giới hạn này là:
+... Gợi ý: Với dạng ∞/∞, chia cả tử và mẫu cho lũy thừa bậc cao nhất của x.
++   Phản hồi đúng: Đúng! Chia cả tử và mẫu cho $x^2$, ta được giới hạn bằng tỉ số hệ số bậc cao nhất: 3/1 = 3.
+-   Phản hồi sai: Với dạng ∞/∞ khi bậc tử bằng bậc mẫu, giới hạn bằng tỉ số hệ số bậc cao nhất.
+a) 1
+b) 2
+*c) 3
+d) 5
+
+3. Hàm số nào sau đây liên tục tại $x = 0$?
+... Gợi ý: Kiểm tra điều kiện $\lim_{x \to 0} f(x) = f(0)$ cho từng hàm số.
++   Phản hồi đúng: Chính xác! Hàm $f(x) = x^2 + 1$ liên tục tại mọi điểm vì là hàm đa thức.
+-   Phản hồi sai: Cần kiểm tra xem hàm số có xác định tại x = 0 và giới hạn tại điểm đó có bằng giá trị hàm số hay không.
+a) $f(x) = \frac{1}{x}$
+*b) $f(x) = x^2 + 1$
+c) $f(x) = \frac{\sin x}{x}$ với $f(0) = 0$
+d) $f(x) = \frac{|x|}{x}$
+
+4. Tính $\lim_{x \to 1} \frac{x^3 - 1}{x^2 - 1}$:
+... Gợi ý: Phân tích cả tử và mẫu thành nhân tử chứa $(x-1)$.
++   Phản hồi đúng: Đúng! Ta có $\frac{x^3-1}{x^2-1} = \frac{(x-1)(x^2+x+1)}{(x-1)(x+1)} = \frac{x^2+x+1}{x+1}$, khi $x \to 1$ được 3/2.
+-   Phản hồi sai: Cần sử dụng công thức $x^3-1 = (x-1)(x^2+x+1)$ và $x^2-1 = (x-1)(x+1)$.
+a) 1
+*b) $\frac{3}{2}$
+c) 2
+d) 3
+
+5. Cho hàm số $f(x) = \begin{cases} \frac{x^2-9}{x-3} & \text{khi } x \neq 3 \\ k & \text{khi } x = 3 \end{cases}$. Để hàm số liên tục tại $x = 3$, giá trị của $k$ là:
+... Gợi ý: Tính giới hạn của hàm số khi x tiến tới 3, sau đó cho bằng k.
++   Phản hồi đúng: Chính xác! $\lim_{x \to 3} \frac{x^2-9}{x-3} = \lim_{x \to 3} \frac{(x-3)(x+3)}{x-3} = \lim_{x \to 3} (x+3) = 6$.
+-   Phản hồi sai: Cần tính giới hạn trái và phải tại x = 3 rồi cho bằng k để hàm số liên tục.
+a) 3
+b) 9
+*c) 6
+d) 0
+
+6. Giá trị của $\lim_{x \to 0} \frac{\sin 3x}{x}$ là:
+... Gợi ý: Sử dụng giới hạn cơ bản $\lim_{x \to 0} \frac{\sin x}{x} = 1$.
++   Phản hồi đúng: Đúng! Biến đổi: $\frac{\sin 3x}{x} = 3 \cdot \frac{\sin 3x}{3x}$, khi $x \to 0$ thì $3x \to 0$, nên giới hạn bằng 3.
+-   Phản hồi sai: Cần đưa về dạng $\frac{\sin u}{u}$ với $u = 3x$, sau đó áp dụng giới hạn cơ bản.
+a) 0
+b) 1
+*c) 3
+d) $\frac{1}{3}$
+
+7. Tính $\lim_{x \to +\infty} \frac{2x + 3}{\sqrt{x^2 + 1}}$:
+... Gợi ý: Chia cả tử và mẫu cho x, chú ý $\sqrt{x^2} = |x| = x$ khi $x > 0$.
++   Phản hồi đúng: Chính xác! Chia cho x: $\frac{2 + \frac{3}{x}}{\sqrt{1 + \frac{1}{x^2}}}$, khi $x \to +\infty$ được 2/1 = 2.
+-   Phản hồi sai: Với $x \to +\infty$, cần chia tử và mẫu cho x, lưu ý $\sqrt{x^2 + 1} \approx |x| = x$.
+a) 1
+*b) 2
+c) 3
+d) $+\infty$
+
+8. Cho $f(x) = \frac{x-1}{x^2-1}$. Tại điểm nào hàm số không liên tục?
+... Gợi ý: Tìm các điểm làm mẫu số bằng 0.
++   Phản hồi đúng: Đúng! Hàm số không xác định tại $x = \pm 1$ (mẫu số bằng 0), nên không liên tục tại hai điểm này.
+-   Phản hồi sai: Hàm số không liên tục tại các điểm mà nó không xác định, tức là các nghiệm của $x^2-1=0$.
+a) $x = 0$
+*b) $x = \pm 1$
+c) $x = 1$
+d) Liên tục tại mọi điểm
+
+9. Tính $\lim_{x \to 2^+} \frac{x+1}{x-2}$:
+... Gợi ý: Xét dấu của tử và mẫu khi x tiến tới 2 từ phía phải.
++   Phản hồi đúng: Chính xác! Khi $x \to 2^+$: tử số $x+1 \to 3 > 0$, mẫu số $x-2 \to 0^+$, nên giới hạn là $+\infty$.
+-   Phản hồi sai: Cần xét dấu: khi x > 2 và gần 2, tử số dương, mẫu số dương nhỏ, nên giới hạn là $+\infty$.
+a) $-\infty$
+*b) $+\infty$
+c) 3
+d) 0
+
+10. Cho dãy số $u_n = \frac{3n^2 + 2n + 1}{n^2 + n}$. Giới hạn của dãy số này là:
+... Gợi ý: Chia cả tử và mẫu cho $n^2$.
++   Phản hồi đúng: Đúng! Chia cho $n^2$: $\frac{3 + \frac{2}{n} + \frac{1}{n^2}}{1 + \frac{1}{n}}$, khi $n \to +\infty$ được 3/1 = 3.
+-   Phản hồi sai: Với dãy số có dạng phân thức, chia tử và mẫu cho lũy thừa cao nhất của n.
+a) 1
+b) 2
+*c) 3
+d) $+\infty$
+
+11. Hàm số $f(x) = \frac{|x|}{x}$ có tính chất gì tại $x = 0$?
+... Gợi ý: Xét giới hạn trái và phải tại x = 0.
++   Phản hồi đúng: Đúng! $\lim_{x \to 0^-} f(x) = -1$, $\lim_{x \to 0^+} f(x) = 1$. Hai giới hạn khác nhau nên hàm số gián đoạn.
+-   Phản hồi sai: Cần tính giới hạn trái và phải riêng biệt vì hàm chứa dấu giá trị tuyệt đối.
+a) Liên tục
+*b) Gián đoạn loại 1
+c) Gián đoạn loại 2
+d) Không xác định
+
+12. Tính $\lim_{x \to 0} \frac{1 - \cos x}{x^2}$:
+... Gợi ý: Sử dụng công thức $1 - \cos x = 2\sin^2(\frac{x}{2})$.
++   Phản hồi đúng: Chính xác! Dùng công thức lượng giác và giới hạn cơ bản $\lim_{t \to 0} \frac{\sin t}{t} = 1$ ta được kết quả là $\frac{1}{2}$.
+-   Phản hồi sai: Cần sử dụng hằng đẳng thức lượng giác để biến đổi $1 - \cos x$.
+a) 0
+*b) $\frac{1}{2}$
+c) 1
+d) 2
+
+13. Cho $\lim_{x \to +\infty} (x + a - \sqrt{x^2 + 2x}) = 2$. Giá trị của $a$ là:
+... Gợi ý: Nhân liên hợp với biểu thức $(x + a + \sqrt{x^2 + 2x})$.
++   Phản hồi đúng: Đúng! Sau khi nhân liên hợp và rút gọn, ta được $\lim_{x \to +\infty} \frac{(a-1)x}{x + a + \sqrt{x^2 + 2x}} = a - 1 = 2$, suy ra $a = 3$.
+-   Phản hồi sai: Cần sử dụng kỹ thuật nhân liên hợp để khử dạng vô định $\infty - \infty$.
+a) 1
+b) 2
+*c) 3
+d) 4
+
+14. Hàm số nào sau đây liên tục trên $\mathbb{R}$?
+... Gợi ý: Kiểm tra tập xác định và tính liên tục của từng hàm.
++   Phản hồi đúng: Chính xác! Hàm $f(x) = x^3 - 2x + 1$ là hàm đa thức nên liên tục trên toàn bộ $\mathbb{R}$.
+-   Phản hồi sai: Hàm đa thức luôn liên tục trên tập số thực, còn các hàm khác có thể có điểm gián đoạn.
+a) $f(x) = \frac{1}{x-1}$
+*b) $f(x) = x^3 - 2x + 1$
+c) $f(x) = \tan x$
+d) $f(x) = \frac{x}{x^2-4}$
+
+15. Tính $\lim_{x \to 3} \frac{\sqrt{x+1} - 2}{x - 3}$:
+... Gợi ý: Nhân liên hợp với $\sqrt{x+1} + 2$.
++   Phản hồi đúng: Chính xác! Nhân liên hợp: $\frac{(\sqrt{x+1} - 2)(\sqrt{x+1} + 2)}{(x-3)(\sqrt{x+1} + 2)} = \frac{x-3}{(x-3)(\sqrt{x+1} + 2)} = \frac{1}{\sqrt{x+1} + 2}$, khi $x \to 3$ được $\frac{1}{4}$.
+-   Phản hồi sai: Cần nhân liên hợp để khử căn thức ở tử số và rút gọn dạng vô định 0/0.
+a) $\frac{1}{2}$
+*b) $\frac{1}{4}$
+c) $\frac{1}{8}$
+d) 0
+
+16. Cho hàm số $f(x) = \begin{cases} x^2 & \text{khi } x < 1 \\ ax + b & \text{khi } x \geq 1 \end{cases}$. Để hàm số liên tục tại $x = 1$, điều kiện cần và đủ là:
+... Gợi ý: Tính giới hạn trái, phải và giá trị hàm số tại x = 1.
++   Phản hồi đúng: Đúng! Cần $\lim_{x \to 1^-} f(x) = \lim_{x \to 1^+} f(x) = f(1)$, tức là $1 = a + b$ và $f(1) = a + b$.
+-   Phản hồi sai: Điều kiện liên tục yêu cầu giới hạn trái bằng giới hạn phải bằng giá trị hàm số tại điểm đó.
+a) $a = 1, b = 0$
+*b) $a + b = 1$
+c) $a = b = 1$
+d) $a - b = 1$
+
+17. Giá trị của $\lim_{x \to 0^+} x \ln x$ là:
+... Gợi ý: Đặt $t = \frac{1}{x}$, khi $x \to 0^+$ thì $t \to +\infty$.
++   Phản hồi đúng: Chính xác! Đặt $t = \frac{1}{x}$: $x \ln x = \frac{\ln(\frac{1}{t})}{t} = \frac{-\ln t}{t}$. Khi $t \to +\infty$, $\frac{\ln t}{t} \to 0$, nên giới hạn bằng 0.
+-   Phản hồi sai: Cần đổi biến hoặc sử dụng quy tắc L'Hôpital để tính giới hạn dạng $0 \cdot (-\infty)$.
+*a) 0
+b) 1
+c) $-\infty$
+d) $+\infty$
+
+18. Cho $f(x) = \frac{x^3 - 8}{x^2 - 4}$ khi $x \neq 2$ và $f(2) = k$. Để hàm liên tục tại $x = 2$, giá trị $k$ bằng:
+... Gợi ý: Phân tích $x^3 - 8$ và $x^2 - 4$ thành nhân tử.
++   Phản hồi đúng: Đúng! $\frac{x^3-8}{x^2-4} = \frac{(x-2)(x^2+2x+4)}{(x-2)(x+2)} = \frac{x^2+2x+4}{x+2}$, khi $x \to 2$ được $\frac{12}{4} = 3$.
+-   Phản hồi sai: Sử dụng $x^3-8 = (x-2)(x^2+2x+4)$ và $x^2-4 = (x-2)(x+2)$ để rút gọn.
+a) 2
+*b) 3
+c) 4
+d) 6
+
+19. Tính $\lim_{n \to +\infty} \frac{2^n + 3^n}{3^n + 4^n}$:
+... Gợi ý: Chia cả tử và mẫu cho $4^n$.
++   Phản hồi đúng: Chính xác! Chia cho $4^n$: $\frac{(\frac{2}{4})^n + (\frac{3}{4})^n}{(\frac{3}{4})^n + 1}$. Khi $n \to +\infty$, các số hạng có cơ số < 1 tiến về 0, nên giới hạn bằng $\frac{0+0}{0+1} = 0$.
+-   Phản hồi sai: Chia tử và mẫu cho lũy thừa có cơ số lớn nhất (là $4^n$).
+*a) 0
+b) $\frac{2}{3}$
+c) $\frac{3}{4}$
+d) 1
+
+20. Hàm số $f(x) = \frac{x^2 - 1}{|x - 1|}$ có tính chất gì tại $x = 1$?
+... Gợi ý: Tính giới hạn trái và phải tại x = 1.
++   Phản hồi đúng: Đúng! $\lim_{x \to 1^-} f(x) = -2$, $\lim_{x \to 1^+} f(x) = 2$. Hai giới hạn khác nhau nên có gián đoạn loại 1.
+-   Phản hồi sai: Do có dấu giá trị tuyệt đối, cần tính riêng giới hạn trái và phải để xác định loại gián đoạn.
+a) Liên tục
+*b) Gián đoạn loại 1
+c) Gián đoạn loại 2
+d) Không tồn tại giới hạn
+
+1. Tập xác định của hàm số $y = 3^x$ là:
+... Gợi ý: Hàm số mũ $y = a^x$ với $a > 0, a \neq 1$ có tập xác định rộng nhất.
++   Phản hồi đúng: Chính xác! Hàm số mũ $y = 3^x$ xác định với mọi giá trị thực của x.
+-   Phản hồi sai: Hàm số mũ $y = a^x$ luôn có tập xác định là $\mathbb{R}$, không giống như hàm logarit.
+a) $(0; +\infty)$
+*b) $\mathbb{R}$
+c) $\mathbb{R} \setminus \{0\}$
+d) $[0; +\infty)$
+
+2. Tập xác định của hàm số $y = \log_2 x$ là:
+... Gợi ý: Biểu thức trong logarit phải luôn dương.
++   Phản hồi đúng: Đúng rồi! Hàm logarit chỉ xác định khi biểu thức bên trong lớn hơn 0.
+-   Phản hồi sai: Cần nhớ điều kiện xác định của logarit: biểu thức trong log phải dương.
+*a) $(0; +\infty)$
+b) $\mathbb{R}$
+c) $[0; +\infty)$
+d) $\mathbb{R} \setminus \{0\}$
+
+3. Giá trị của $2^3$ bằng:
+... Gợi ý: Tính trực tiếp phép lũy thừa: $2 \times 2 \times 2$.
++   Phản hồi đúng: Chính xác! $2^3 = 2 \times 2 \times 2 = 8$.
+-   Phản hồi sai: Lưu ý phân biệt giữa $2^3$ và $2 \times 3$. Đây là phép lũy thừa, không phải phép nhân.
+a) 6
+*b) 8
+c) 9
+d) 12
+
+4. Giá trị của $\log_2 8$ bằng:
+... Gợi ý: Tìm số mũ để $2$ mũ số đó bằng $8$.
++   Phản hồi đúng: Đúng! Vì $2^3 = 8$ nên $\log_2 8 = 3$.
+-   Phản hồi sai: Sử dụng định nghĩa: $\log_a b = c \Leftrightarrow a^c = b$.
+a) 2
+*b) 3
+c) 4
+d) 6
+
+5. Giá trị của $\log_3 1$ bằng:
+... Gợi ý: Nhớ công thức $\log_a 1 = 0$ với mọi $a > 0, a \neq 1$.
++   Phản hồi đúng: Chính xác! Logarit của 1 với cơ số bất kỳ luôn bằng 0.
+-   Phản hồi sai: Đây là công thức cơ bản cần nhớ: $\log_a 1 = 0$.
+*a) 0
+b) 1
+c) 3
+d) -1
+
+6. Tính $2^2 \cdot 2^3$:
+... Gợi ý: Sử dụng công thức $a^x \cdot a^y = a^{x+y}$.
++   Phản hồi đúng: Đúng! Áp dụng công thức cộng số mũ: $2^2 \cdot 2^3 = 2^{2+3} = 2^5$.
+-   Phản hồi sai: Khi nhân các lũy thừa cùng cơ số, ta cộng các số mũ.
+a) $2^6$
+*b) $2^5$
+c) $4^5$
+d) $8^5$
+
+7. Giá trị của $(3^2)^2$ bằng:
+... Gợi ý: Sử dụng công thức $(a^x)^y = a^{xy}$.
++   Phản hồi đúng: Chính xác! $(3^2)^2 = 3^{2 \times 2} = 3^4$.
+-   Phản hồi sai: Khi có lũy thừa của lũy thừa, ta nhân các số mũ.
+a) $3^2$
+*b) $3^4$
+c) $6^4$
+d) $9^2$
+
+8. Tính $\log_2 4 + \log_2 2$:
+... Gợi ý: Sử dụng công thức $\log_a x + \log_a y = \log_a(xy)$.
++   Phản hồi đúng: Đúng! $\log_2 4 + \log_2 2 = \log_2(4 \times 2) = \log_2 8 = 3$.
+-   Phản hồi sai: Có thể tính từng logarit rồi cộng: $\log_2 4 = 2, \log_2 2 = 1$, tổng là 3.
+a) 2
+*b) 3
+c) 4
+d) 6
+
+9. Tập giá trị của hàm số $y = 5^x$ là:
+... Gợi ý: Hàm số mũ luôn cho giá trị dương.
++   Phản hồi đúng: Chính xác! Hàm số mũ $y = a^x$ với $a > 0$ luôn có tập giá trị là $(0; +\infty)$.
+-   Phản hồi sai: Hàm số mũ không bao giờ âm hay bằng 0, chỉ nhận giá trị dương.
+*a) $(0; +\infty)$
+b) $\mathbb{R}$
+c) $[0; +\infty)$
+d) $\mathbb{R} \setminus \{0\}$
+
+10. Giá trị của $\log_{10} 100$ bằng:
+... Gợi ý: Tìm số mũ để $10$ mũ số đó bằng $100$.
++   Phản hồi đúng: Đúng! Vì $10^2 = 100$ nên $\log_{10} 100 = 2$.
+-   Phản hồi sai: Sử dụng định nghĩa logarit để tìm đáp án.
+a) 10
+*b) 2
+c) 20
+d) 1
+
+11. Mệnh đề nào sau đây đúng?
+... Gợi ý: Hàm số mũ luôn có giá trị dương.
++   Phản hồi đúng: Chính xác! Hàm số mũ $2^x$ luôn dương với mọi giá trị của x.
+-   Phản hồi sai: Cần nhớ tính chất cơ bản: $a^x > 0$ với mọi $a > 0$ và mọi $x \in \mathbb{R}$.
+a) $2^x < 0$ với mọi $x$
+*b) $2^x > 0$ với mọi $x$
+c) $2^x = 0$ khi $x = 0$
+d) $2^x < 0$ khi $x < 0$
+
+12. Giá trị của $3^0$ bằng:
+... Gợi ý: Mọi số khác 0 mũ 0 đều bằng 1.
++   Phản hồi đúng: Đúng! Theo quy ước, $a^0 = 1$ với mọi $a \neq 0$.
+-   Phản hồi sai: Đây là quy ước cơ bản trong toán học: $a^0 = 1$ khi $a \neq 0$.
+*a) 1
+b) 0
+c) 3
+d) -1
+
+13. Khẳng định nào đúng về hàm số $y = \log_5 x$?
+... Gợi ý: Nhớ công thức $\log_a a = 1$.
++   Phản hồi đúng: Chính xác! $\log_5 5 = 1$ là công thức cơ bản của logarit.
+-   Phản hồi sai: Logarit của cơ số chính nó luôn bằng 1.
+a) $\log_5 5 = 0$
+*b) $\log_5 5 = 1$
+c) $\log_5 5 = 5$
+d) $\log_5 0 = 1$
+
+14. So sánh $2^3$ và $2^4$:
+... Gợi ý: Hàm số $y = 2^x$ đồng biến vì $2 > 1$.
++   Phản hồi đúng: Đúng! Vì $3 < 4$ và hàm $y = 2^x$ đồng biến nên $2^3 < 2^4$.
+-   Phản hồi sai: Khi cơ số lớn hơn 1, hàm số mũ đồng biến.
+*a) $2^3 < 2^4$
+b) $2^3 > 2^4$
+c) $2^3 = 2^4$
+d) Không so sánh được
+
+15. Tính $5^1 \cdot 5^2$:
+... Gợi ý: Áp dụng quy tắc nhân lũy thừa cùng cơ số.
++   Phản hồi đúng: Chính xác! $5^1 \cdot 5^2 = 5^{1+2} = 5^3$.
+-   Phản hồi sai: Khi nhân các lũy thừa cùng cơ số, ta cộng các số mũ.
+a) $5^2$
+*b) $5^3$
+c) $10^3$
+d) $25^3$
+
+16. Giá trị của $\log_4 16$ bằng:
+... Gợi ý: Tìm số mũ để $4$ mũ số đó bằng $16$.
++   Phản hồi đúng: Đúng! Vì $4^2 = 16$ nên $\log_4 16 = 2$.
+-   Phản hồi sai: Sử dụng định nghĩa: $\log_a b = c$ khi $a^c = b$.
+a) 4
+*b) 2
+c) 8
+d) 1
+
+17. Tập giá trị của hàm số $y = \log_3 x$ là:
+... Gợi ý: Hàm logarit có thể nhận mọi giá trị thực.
++   Phản hồi đúng: Chính xác! Hàm logarit có tập giá trị là toàn bộ tập số thực.
+-   Phản hồi sai: Hàm logarit có thể cho kết quả âm, dương hoặc bằng 0.
+*a) $\mathbb{R}$
+b) $(0; +\infty)$
+c) $[0; +\infty)$
+d) $\mathbb{R} \setminus \{0\}$
+
+18. Giá trị của $4^{1/2}$ bằng:
+... Gợi ý: $a^{1/2} = \sqrt{a}$.
++   Phản hồi đúng: Đúng! $4^{1/2} = \sqrt{4} = 2$.
+-   Phản hồi sai: Lũy thừa với số mũ $1/2$ chính là căn bậc hai.
+*a) 2
+b) 4
+c) 8
+d) 1
+
+19. So sánh $\log_2 8$ và $\log_2 4$:
+... Gợi ý: Hàm $y = \log_2 x$ đồng biến vì $2 > 1$.
++   Phản hồi đúng: Chính xác! Vì $8 > 4$ và hàm logarit cơ số 2 đồng biến nên $\log_2 8 > \log_2 4$.
+-   Phản hồi sai: Hàm logarit với cơ số lớn hơn 1 là hàm đồng biến.
+*a) $\log_2 8 > \log_2 4$
+b) $\log_2 8 < \log_2 4$
+c) $\log_2 8 = \log_2 4$
+d) Không so sánh được
+
+20. Tính $\frac{3^4}{3^2}$:
+... Gợi ý: Sử dụng công thức $\frac{a^x}{a^y} = a^{x-y}$.
++   Phản hồi đúng: Đúng! $\frac{3^4}{3^2} = 3^{4-2} = 3^2$.
+-   Phản hồi sai: Khi chia các lũy thừa cùng cơ số, ta trừ các số mũ.
+a) $3^6$
+*b) $3^2$
+c) $1$
+d) $3^8$
+
+1. Hàm số $y = 3^x$ có tính chất nào sau đây?
+... Gợi ý: Xét tính đồng biến, nghịch biến dựa vào cơ số của hàm mũ.
++   Phản hồi đúng: Đúng! Vì $3 > 1$ nên hàm số $y = 3^x$ đồng biến trên $\mathbb{R}$, có tập xác định $\mathbb{R}$ và tập giá trị $(0; +\infty)$.
+-   Phản hồi sai: Cần nhớ khi $a > 1$ thì hàm số $y = a^x$ đồng biến trên $\mathbb{R}$.
+a) Nghịch biến trên $\mathbb{R}$
+*b) Đồng biến trên $\mathbb{R}$
+c) Vừa đồng biến vừa nghịch biến
+d) Không có tính đơn điệu
+
+2. Tập xác định của hàm số $y = \log_2(x - 3)$ là:
+... Gợi ý: Điều kiện để logarit có nghĩa là biểu thức trong logarit phải dương.
++   Phản hồi đúng: Chính xác! Để $\log_2(x - 3)$ có nghĩa thì $x - 3 > 0$, suy ra $x > 3$.
+-   Phản hồi sai: Điều kiện xác định của logarit là biểu thức bên trong phải lớn hơn 0.
+a) $(-3; +\infty)$
+b) $(-\infty; 3)$
+*c) $(3; +\infty)$
+d) $[3; +\infty)$
+
+3. Giá trị của biểu thức $\log_3 9 + \log_3 27$ bằng:
+... Gợi ý: Sử dụng công thức $\log_a(xy) = \log_a x + \log_a y$ hoặc tính từng logarit.
++   Phản hồi đúng: Đúng! $\log_3 9 = \log_3 3^2 = 2$ và $\log_3 27 = \log_3 3^3 = 3$, nên tổng bằng 5.
+-   Phản hồi sai: Hãy tính từng logarit riêng: $9 = 3^2$ và $27 = 3^3$.
+a) 4
+*b) 5
+c) 6
+d) 7
+
+4. Đồ thị hàm số $y = 2^x$ luôn đi qua điểm nào sau đây?
+... Gợi ý: Thay các giá trị x vào hàm số để kiểm tra.
++   Phản hồi đúng: Chính xác! Mọi hàm số mũ $y = a^x$ đều đi qua điểm $(0; 1)$ vì $a^0 = 1$.
+-   Phản hồi sai: Đồ thị hàm số mũ $y = a^x$ luôn đi qua điểm $(0; 1)$ và $(1; a)$.
+a) $(1; 0)$
+*b) $(0; 1)$
+c) $(0; 0)$
+d) $(1; 1)$
+
+5. Hàm số $y = \log_{0.5} x$ có tính chất:
+... Gợi ý: Xét cơ số $0.5$ so với 1 để xác định tính đơn điệu.
++   Phản hồi đúng: Đúng! Vì $0 < 0.5 < 1$ nên hàm số logarit này nghịch biến trên $(0; +\infty)$.
+-   Phản hồi sai: Khi $0 < a < 1$ thì hàm số $y = \log_a x$ nghịch biến trên $(0; +\infty)$.
+*a) Nghịch biến trên $(0; +\infty)$
+b) Đồng biến trên $(0; +\infty)$
+c) Không có tính đơn điệu
+d) Đồng biến trên $\mathbb{R}$
+
+6. Phương trình $2^x = 16$ có nghiệm là:
+... Gợi ý: Biểu diễn 16 dưới dạng lũy thừa của 2.
++   Phản hồi đúng: Chính xác! Vì $16 = 2^4$ nên $2^x = 2^4$, suy ra $x = 4$.
+-   Phản hồi sai: Hãy viết $16 = 2^4$ rồi so sánh số mũ.
+a) 2
+b) 8
+*c) 4
+d) 16
+
+7. Tập giá trị của hàm số $y =  5^x$ là:
+... Gợi ý: Hàm số mũ với cơ số dương luôn cho giá trị dương.
++   Phản hồi đúng: Đúng! Hàm số mũ $y = a^x$ với $a > 0, a ≠ 1$ có tập giá trị là $(0; +\infty)$.
+-   Phản hồi sai: Hàm số mũ luôn có giá trị dương, nên tập giá trị là $(0; +\infty)$.
+a) $\mathbb{R}$
+*b) $(0; +\infty)$
+c) $[0; +\infty)$
+d) $(1; +\infty)$
+
+8. Giá trị của phép $\log_4 16$ bằng:
+... Gợi ý: Tìm số mũ để $4^?= 16$.
++   Phản hồi đúng: Chính xác! Vì $4^2 = 16$ nên $\log_4 16 = 2$.
+-   Phản hồi sai: Sử dụng định nghĩa logarit: $\log_a b = c$ khi $a^c = b$.
+a) 4
+*b) 2
+c) 8
+d) 1
+
+9. Đồ thị hàm số $y = \log_3 x$ luôn đi qua điểm:
+... Gợi ý: Nhớ rằng $\log_a a = 1$ và $\log_a 1 = 0$.
++   Phản hồi đúng: Đúng! Mọi hàm số logarit $y = \log_a x$ đều đi qua điểm $(1; 0)$ vì $\log_a 1 = 0$.
+-   Phản hồi sai: Đồ thị hàm logarit $y = \log_a x$ luôn đi qua $(1; 0)$ và $(a; 1)$.
+*a) $(1; 0)$
+b) $(0; 1)$
+c) $(3; 0)$
+d) $(0; 3)$
+
+10. Tập xác định của hàm số $y = \log_2(4 - x^2)$ là:
+... Gợi ý: Giải bất phương trình $4 - x^2 > 0$.
++   Phản hồi đúng: Đúng! Điều kiện $4 - x^2 > 0$ tương đương $x^2 < 4$, suy ra $-2 < x < 2$.
+-   Phản hồi sai: Cần giải bất phương trình $4 - x^2 > 0$ để tìm tập xác định.
+a) $(-\infty; 2)$
+*b) $(-2; 2)$
+c) $(2; +\infty)$
+d) $\mathbb{R} \setminus \{-2; 2\}$
+
+11. Phương trình $\log_3 x = 2$ có nghiệm là:
+... Gợi ý: Sử dụng định nghĩa logarit để chuyển về dạng mũ.
++   Phản hồi đúng: Chính xác! Từ $\log_3 x = 2$ suy ra $x = 3^2 = 9$.
+-   Phản hồi sai: Sử dụng định nghĩa: $\log_a x = b$ khi và chỉ khi $x = a^b$.
+a) 6
+*b) 9
+c) 3
+d) 8
+
+12. Hàm số nào sau đây nghịch biến trên tập xác định của nó?
+... Gợi ý: Xét cơ số của từng hàm so với 1.
++   Phản hồi đúng: Đúng! Hàm $y = (\frac{1}{3})^x$ có cơ số $\frac{1}{3} < 1$ nên nghịch biến trên $\mathbb{R}$.
+-   Phản hồi sai: Hàm mũ nghịch biến khi $0 < a < 1$, hàm logarit nghịch biến khi $0 < a < 1$.
+a) $y = 2^x$
+*b) $y = (\frac{1}{3})^x$
+c) $y = \log_5 x$
+d) $y = e^x$
+
+13. Giá trị của biểu thức $2^{\log_2 7}$ bằng:
+... Gợi ý: Sử dụng tính chất $a^{\log_a x} = x$.
++   Phản hồi đúng: Chính xác! Theo tính chất cơ bản: $a^{\log_a x} = x$, nên $2^{\log_2 7} = 7$.
+-   Phản hồi sai: Áp dụng công thức $a^{\log_a x} = x$ với điều kiện $x > 0$.
+a) 2
+b) 14
+*c) 7
+d) 49
+
+14. Đồ thị hàm số $y = 3^{x-1}$ được suy ra từ đồ thị $y = 3^x$ bằng cách:
+... Gợi ý: So sánh hai hàm số để thấy sự thay đổi.
++   Phản hồi đúng: Đúng! Hàm $y = 3^{x-1}$ có dạng $y = f(x-1)$ nên tịnh tiến đồ thị $y = 3^x$ sang phải 1 đơn vị.
+-   Phản hồi sai: Khi thay $x$ bằng $x-h$ thì đồ thị tịnh tiến sang phải $h$ đơn vị.
+a) Tịnh tiến sang trái 1 đơn vị
+*b) Tịnh tiến sang phải 1 đơn vị
+c) Tịnh tiến lên trên 1 đơn vị
+d) Tịnh tiến xuống dưới 1 đơn vị
+
+15. Mối quan hệ giữa đồ thị hàm số $y = 2^x$ và $y = \log_2 x$ là:
+... Gợi ý: Hai hàm này là hàm ngược của nhau.
++   Phản hồi đúng: Đúng! Hai hàm ngược nhau có đồ thị đối xứng qua đường thẳng $y = x$.
+-   Phản hồi sai: Hàm mũ và hàm logarit cùng cơ số là hai hàm ngược nhau.
+a) Đối xứng qua trục Ox
+b) Đối xứng qua trục Oy
+*c) Đối xứng qua đường thẳng $y = x$
+d) Không có mối quan hệ đặc biệt
+
+16. Tập xác định của hàm số $y = \log_5(x + 2) + \log_5(x - 1)$ là:
+... Gợi ý: Cả hai logarit đều phải có nghĩa.
++   Phản hồi đúng: Chính xác! Cần $x + 2 > 0$ và $x - 1 > 0$, tức là $x > -2$ và $x > 1$, nên $x > 1$.
+-   Phản hồi sai: Điều kiện để tổng logarit có nghĩa là cả hai logarit đều có nghĩa.
+a) $(-2; +\infty)$
+*b) $(1; +\infty)$
+c) $(-1; 2)$
+d) $\mathbb{R}$
+
+17. Phương trình $3^{2x} = 27$ có nghiệm là:
+... Gợi ý: Viết 27 dưới dạng lũy thừa của 3.
++   Phản hồi đúng: Đúng! Vì $27 = 3^3$ nên $3^{2x} = 3^3$, suy ra $2x = 3$, do đó $x = \frac{3}{2}$.
+-   Phản hồi sai: Biểu diễn cả hai vế dưới dạng lũy thừa cùng cơ số 3.
+a) $x = 3$
+*b) $x = \frac{3}{2}$
+c) $x = 6$
+d) $x = \frac{2}{3}$
+
+18. Giá trị của $\log_3 81 - \log_3 9$ bằng:
+... Gợi ý: Sử dụng công thức $\log_a x - \log_a y = \log_a \frac{x}{y}$ hoặc tính riêng.
++   Phản hồi đúng: Chính xác! $\log_3 81 = 4$ và $\log_3 9 = 2$, nên hiệu bằng $4 - 2 = 2$.
+-   Phản hồi sai: Tính từng logarit: $81 = 3^4$ và $9 = 3^2$.
+a) 1
+*b) 2
+c) 3
+d) 4
+
+19. Hàm số $y = e^x$ có đặc điểm nào sau đây?
+... Gợi ý: $e$ là số Euler, $e > 1$.
++   Phản hồi đúng: Đúng! Vì $e > 1$ nên hàm $y = e^x$ đồng biến, có tập xác định $\mathbb{R}$ và tập giá trị $(0; +\infty)$.
+-   Phản hồi sai: Hàm $y = e^x$ là hàm mũ với cơ số $e ≈ 2.718 > 1$.
+*a) Đồng biến trên $\mathbb{R}$
+b) Nghịch biến trên $\mathbb{R}$
+c) Có tập giá trị $\mathbb{R}$
+d) Có tập xác định $(0; +\infty)$
+
+20. Để hàm số $y = \log_2(3x - 6)$ có nghĩa, điều kiện của $x$ là:
+... Gợi ý: Biểu thức trong logarit phải dương.
++   Phản hồi đúng: Chính xác! Điều kiện $3x - 6 > 0$ tương đương $3x > 6$, suy ra $x > 2$.
+-   Phản hồi sai: Để logarit có nghĩa thì biểu thức bên trong phải lớn hơn 0.
+a) $x > 6$
+*b) $x > 2$
+c) $x ≥ 2$
+d) $x ≠ 2$
+
+1. Dân số một quốc gia vào năm 2020 là 50 triệu người và tăng với tỷ lệ 2,5% mỗi năm theo công thức $P(t) = 50(1,025)^t$. Sau bao nhiêu năm dân số sẽ đạt 75 triệu người?
+... Gợi ý: Thiết lập phương trình $50(1,025)^t = 75$ và sử dụng logarit để giải.
++   Phản hồi đúng: Chính xác! Giải phương trình $50(1,025)^t = 75$ ta được $(1,025)^t = 1,5$, suy ra $t = \frac{\ln(1,5)}{\ln(1,025)} \approx 16,4$ năm.
+-   Phản hồi sai: Cần nhớ áp dụng logarit tự nhiên để giải phương trình mũ: $t = \frac{\ln(1,5)}{\ln(1,025)}$.
+a) 12,8 năm
+b) 15,2 năm
+*c) 16,4 năm
+d) 18,7 năm
+
+2. Một khoản đầu tư ban đầu 200 triệu đồng được gửi với lãi suất kép 8% mỗi năm. Theo công thức $A = P(1 + r)^t$, sau bao nhiêu năm số tiền sẽ tăng gấp 3 lần so với vốn ban đầu?
+... Gợi ý: Thiết lập phương trình $200(1,08)^t = 600$ và sử dụng logarit.
++   Phản hồi đúng: Đúng rồi! Từ $(1,08)^t = 3$, ta có $t = \frac{\ln(3)}{\ln(1,08)} \approx 14,3$ năm.
+-   Phản hồi sai: Nhớ rằng khi số tiền tăng gấp 3 lần thì $(1 + r)^t = 3$, sau đó áp dụng logarit.
+a) 12,1 năm
+b) 13,5 năm
+*c) 14,3 năm
+d) 15,8 năm
+
+3. Thang đo Richter được tính theo công thức $M = \log_{10}(\frac{A}{A_0})$. Nếu một trận động đất cấp 7 có biên độ gấp bao nhiêu lần động đất cấp 4?
+... Gợi ý: So sánh tỷ số biên độ sóng địa chấn giữa hai cấp độ khác nhau.
++   Phản hồi đúng: Chính xác! Gọi biên độ của cấp 4 và cấp 7 lần lượt là $A_4$ và $A_7$. Ta có $\frac{A_7}{A_4} = 10^{7-4} = 10^3 = 1000$.
+-   Phản hồi sai: Cần nhớ rằng khi cấp độ Richter tăng n đơn vị thì biên độ tăng $10^n$ lần.
+a) 100 lần
+b) 300 lần
+*c) 1000 lần
+d) 3000 lần
+
+4. Đồng vị Carbon-14 có chu kì bán rã là 5730 năm, tuân theo công thức $N(t) = N_0(\frac{1}{2})^{\frac{t}{5730}}$. Một mẫu gỗ cổ còn lại 35% lượng C-14 ban đầu. Tuổi của mẫu gỗ là bao nhiêu?
+... Gợi ý: Thiết lập phương trình $(\frac{1}{2})^{\frac{t}{5730}} = 0,35$ và sử dụng logarit.
++   Phản hồi đúng: Đúng! Từ $(\frac{1}{2})^{\frac{t}{5730}} = 0,35$, ta có $\frac{t}{5730} = \frac{\ln(0,35)}{\ln(0,5)} \approx 1,515$, suy ra $t \approx 8680$ năm.
+-   Phản hồi sai: Cần áp dụng logarit tự nhiên để giải: $t = 5730 \times \frac{\ln(0,35)}{\ln(0,5)}$.
+a) 7250 năm
+*b) 8680 năm
+c) 9450 năm
+d) 10200 năm
+
+5. Một vi khuẩn sinh sản theo công thức $N(t) = 1500 \times 3^{\frac{t}{4}}$, trong đó $t$ tính bằng giờ. Sau bao nhiêu giờ số lượng vi khuẩn sẽ đạt 40500 con?
+... Gợi ý: Giải phương trình $1500 \times 3^{\frac{t}{4}} = 40500$.
++   Phản hồi đúng: Chính xác! Từ $3^{\frac{t}{4}} = 27 = 3^3$, ta có $\frac{t}{4} = 3$, suy ra $t = 12$ giờ.
+-   Phản hồi sai: Nhận thấy $40500 = 1500 \times 27$ và $27 = 3^3$, nên $\frac{t}{4} = 3$.
+a) 8 giờ
+b) 10 giờ
+*c) 12 giờ
+d) 14 giờ
+
+6. Một người gửi tiết kiệm 500 triệu đồng với lãi suất 6% năm (lãi kép). Để có được 800 triệu đồng, người đó cần gửi trong bao lâu?
+... Gợi ý: Sử dụng công thức $A = P(1 + r)^t$ với $A = 800$, $P = 500$, $r = 0,06$.
++   Phản hồi đúng: Đúng! Từ $500(1,06)^t = 800$, ta có $(1,06)^t = 1,6$, suy ra $t = \frac{\ln(1,6)}{\ln(1,06)} \approx 8,0$ năm.
+-   Phản hồi sai: Cần giải phương trình $(1,06)^t = 1,6$ bằng cách sử dụng logarit tự nhiên.
+a) 6,5 năm
+b) 7,2 năm
+*c) 8,0 năm
+d) 9,1 năm
+
+7. Cường độ ánh sáng giảm theo độ sâu trong nước biển theo công thức $I(x) = I_0 \times e^{-0,2x}$, trong đó $x$ là độ sâu (mét). Ở độ sâu nào cường độ ánh sáng còn lại 15% so với mặt nước?
+... Gợi ý: Giải phương trình $e^{-0,2x} = 0,15$.
++   Phản hồi đúng: Chính xác! Từ $e^{-0,2x} = 0,15$, ta có $-0,2x = \ln(0,15)$, suy ra $x = \frac{-\ln(0,15)}{0,2} \approx 9,5$ mét.
+-   Phản hồi sai: Cần áp dụng logarit tự nhiên: $x = \frac{-\ln(0,15)}{0,2}$.
+a) 7,8 mét
+b) 8,6 mét
+*c) 9,5 mét
+d) 10,3 mét
+
+8. Nhiệt độ của một vật nguội dần theo định luật Newton: $T(t) = T_s + (T_0 - T_s)e^{-kt}$. Với $T_s = 25°C$, $T_0 = 85°C$, $k = 0,1$, sau bao lâu nhiệt độ giảm xuống còn 45°C?
+... Gợi ý: Thay các giá trị vào công thức và giải phương trình chứa $e^{-0,1t}$.
++   Phản hồi đúng: Đúng rồi! Từ $45 = 25 + 60e^{-0,1t}$, ta có $e^{-0,1t} = \frac{1}{3}$, suy ra $t = \frac{\ln(3)}{0,1} \approx 11,0$ phút.
+-   Phản hồi sai: Rút ra $e^{-0,1t} = \frac{20}{60} = \frac{1}{3}$, sau đó $t = \frac{-\ln(\frac{1}{3})}{0,1} = \frac{\ln(3)}{0,1}$.
+a) 9,2 phút
+b) 10,1 phút
+*c) 11,0 phút
+d) 12,3 phút
+
+9. Nồng độ một loại thuốc trong máu giảm theo thời gian theo công thức $C(t) = C_0 \times 2^{-\frac{t}{6}}$, trong đó $t$ tính bằng giờ. Nếu nồng độ ban đầu là 80 mg/L, sau bao lâu nồng độ giảm xuống còn 10 mg/L?
+... Gợi ý: Giải phương trình $80 \times 2^{-\frac{t}{6}} = 10$.
++   Phản hồi đúng: Chính xác! Từ $2^{-\frac{t}{6}} = \frac{1}{8} = 2^{-3}$, ta có $-\frac{t}{6} = -3$, suy ra $t = 18$ giờ.
+-   Phản hồi sai: Nhận thấy $\frac{10}{80} = \frac{1}{8} = 2^{-3}$, nên $-\frac{t}{6} = -3$.
+a) 15 giờ
+b) 16 giờ
+*c) 18 giờ
+d) 20 giờ
+
+10. Một khu rừng có diện tích ban đầu 10000 ha bị phá với tốc độ 3% mỗi năm. Diện tích rừng còn lại sau $t$ năm là $S(t) = 10000(0,97)^t$. Sau bao nhiêu năm diện tích rừng giảm còn một nửa?
+... Gợi ý: Giải phương trình $(0,97)^t = 0,5$.
++   Phản hồi đúng: Đúng! Từ $(0,97)^t = 0,5$, ta có $t = \frac{\ln(0,5)}{\ln(0,97)} \approx 22,8$ năm.
+-   Phản hồi sai: Cần sử dụng logarit tự nhiên để giải: $t = \frac{\ln(0,5)}{\ln(0,97)}$.
+a) 20,5 năm
+b) 21,7 năm
+*c) 22,8 năm
+d) 24,1 năm
+
+11. Áp suất khí quyển giảm theo độ cao theo công thức $P(h) = P_0 \times e^{-\frac{h}{8000}}$, trong đó $h$ tính bằng mét. Ở độ cao nào áp suất bằng 60% áp suất mực nước biển?
+... Gợi ý: Giải phương trình $e^{-\frac{h}{8000}} = 0,6$.
++   Phản hồi đúng: Chính xác! Từ $e^{-\frac{h}{8000}} = 0,6$, ta có $h = -8000 \ln(0,6) \approx 4080$ mét.
+-   Phản hồi sai: Áp dụng logarit tự nhiên: $h = -8000 \ln(0,6)$.
+a) 3650 mét
+*b) 4080 mét
+c) 4520 mét
+d) 4890 mét
+
+12. Một người gửi 100 triệu đồng và thêm 20 triệu mỗi năm với lãi suất 5% năm. Sau 10 năm, tổng số tiền gần bằng bao nhiêu theo công thức $S = 100(1,05)^{10} + 20 \times \frac{(1,05)^{10} - 1}{0,05}$?
+... Gợi ý: Tính từng phần: tiền gốc sau 10 năm và tổng cấp số nhân của các khoản gửi thêm.
++   Phản hồi đúng: Đúng! $S = 100 \times 1,629 + 20 \times 25,78 \approx 163 + 516 = 679$ triệu đồng.
+-   Phản hồi sai: Cần tính cả tiền gốc lãi và tổng các khoản gửi thêm với lãi tương ứng.
+a) 620 triệu đồng
+b) 650 triệu đồng
+*c) 679 triệu đồng
+d) 705 triệu đồng
+
+13. Mức độ ô nhiễm không khí giảm theo thời gian sau khi ngừng xả thải theo công thức $P(t) = 200 \times 3^{-0,5t}$, trong đó $t$ tính bằng tháng. Sau bao nhiêu tháng mức ô nhiễm giảm xuống dưới 25 đơn vị?
+... Gợi ý: Giải bất phương trình $200 \times 3^{-0,5t} < 25$.
++   Phản hồi đúng: Chính xác! Từ $3^{-0,5t} = \frac{1}{8}$, và $\frac{1}{8} = 3^{-\log_3(8)}$, ta có $t = 2\log_3(8) \approx 3,8$ tháng.
+-   Phản hồi sai: Giải $3^{-0,5t} = \frac{25}{200} = \frac{1}{8}$, suy ra $-0,5t = \log_3(\frac{1}{8})$.
+a) 2,9 tháng
+b) 3,2 tháng
+*c) 3,8 tháng
+d) 4,5 tháng
+
+14. Hai trận động đất có cấp độ Richter lần lượt là 5,5 và 7,2. Trận động đất mạnh hơn có biên độ sóng gấp bao nhiêu lần trận yếu hơn?
+... Gợi ý: Sử dụng tính chất $M = \log_{10}(\frac{A}{A_0})$ để so sánh biên độ.
++   Phản hồi đúng: Đúng! Tỷ số biên độ là $10^{7,2-5,5} = 10^{1,7} \approx 50,1$ lần.
+-   Phản hồi sai: Khi cấp độ Richter chênh lệch $\Delta M$ thì biên độ chênh lệch $10^{\Delta M}$ lần.
+a) 25,4 lần
+b) 42,7 lần
+*c) 50,1 lần
+d) 63,8 lần
+
+15. Một chất phóng xạ có chu kì bán rã 12 ngày. Khối lượng chất còn lại sau $t$ ngày là $m(t) = m_0 \times (\frac{1}{2})^{\frac{t}{12}}$. Để khối lượng giảm còn 10% ban đầu cần bao nhiêu ngày?
+... Gợi ý: Giải phương trình $(\frac{1}{2})^{\frac{t}{12}} = 0,1$.
++   Phản hồi đúng: Chính xác! Từ $(\frac{1}{2})^{\frac{t}{12}} = 0,1$, ta có $\frac{t}{12} = \frac{\ln(0,1)}{\ln(0,5)} \approx 3,32$, suy ra $t \approx 39,9$ ngày.
+-   Phản hồi sai: Áp dụng logarit: $t = 12 \times \frac{\ln(0,1)}{\ln(0,5)}$.
+a) 35,2 ngày
+b) 37,8 ngày
+*c) 39,9 ngày
+d) 42,1 ngày
+
+16. Một mô hình tăng trưởng kinh tế dự báo GDP theo công thức $Y(t) = 500(1 + 0,04)^t$ tỷ USD sau $t$ năm. Nếu muốn đạt GDP 750 tỷ USD, cần bao nhiêu năm?
+... Gợi ý: Giải phương trình $500(1,04)^t = 750$.
++   Phản hồi đúng: Đúng! Từ $(1,04)^t = 1,5$, ta có $t = \frac{\ln(1,5)}{\ln(1,04)} \approx 10,3$ năm.
+-   Phản hồi sai: Cần giải $(1,04)^t = \frac{750}{500} = 1,5$ bằng logarit.
+a) 8,7 năm
+b) 9,5 năm
+*c) 10,3 năm
+d) 11,2 năm
+
+17. Độ pH của dung dịch được tính theo công thức $pH = -\log_{10}[H^+]$. Nếu nồng độ ion $H^+$ tăng gấp 100 lần, độ pH thay đổi như thế nào?
+... Gợi ý: So sánh $pH_1 = -\log_{10}[H^+]$ và $pH_2 = -\log_{10}(100[H^+])$.
++   Phản hồi đúng: Chính xác! $pH_2 - pH_1 = -\log_{10}(100) = -2$, nghĩa là pH giảm 2 đơn vị.
+-   Phản hồi sai: Khi $[H^+]$ tăng 100 lần thì $pH$ giảm $\log_{10}(100) = 2$ đơn vị.
+a) Tăng 2 đơn vị
+*b) Giảm 2 đơn vị
+c) Tăng 10 đơn vị
+d) Giảm 10 đơn vị
+
+18. Một tài khoản gửi tiết kiệm có lãi suất 7,2% năm, lãi được cộng dồn hàng tháng theo công thức $A = P(1 + \frac{0,072}{12})^{12t}$. Sau bao lâu số tiền gấp đôi?
+... Gợi ý: Giải phương trình $(1,006)^{12t} = 2$.
++   Phản hồi đúng: Đúng! Từ $(1,006)^{12t} = 2$, ta có $12t = \frac{\ln(2)}{\ln(1,006)}$, suy ra $t \approx 9,65$ năm.
+-   Phản hồi sai: Cần giải $(1 + \frac{0,072}{12})^{12t} = 2$ với lãi suất tháng là $\frac{0,072}{12} = 0,006$.
+a) 8,8 năm
+*b) 9,7 năm
+c) 10,5 năm
+d) 11,2 năm
+
+19. Số lượng bactérie kháng thuốc tăng theo công thức $N(t) = 100 \times 4^{\frac{t}{3}}$ con sau $t$ giờ. Sau bao lâu số lượng bactérie đạt 25600 con?
+... Gợi ý: Giải phương trình $100 \times 4^{\frac{t}{3}} = 25600$.
++   Phận hồi đúng: Chính xác! Từ $4^{\frac{t}{3}} = 256 = 4^4$, ta có $\frac{t}{3} = 4$, suy ra $t = 12$ giờ.
+-   Phản hồi sai: Nhận thấy $\frac{25600}{100} = 256 = 4^4$, nên $\frac{t}{3} = 4$.
+a) 9 giờ
+b) 10 giờ
+*c) 12 giờ
+d) 15 giờ
+
+20. Một hồ nước bị ô nhiễm có nồng độ chất độc giảm theo công thức $C(t) = 80e^{-0,15t}$ mg/L sau $t$ tuần. Theo quy định, nồng độ phải dưới 5 mg/L mới an toàn. Sau bao nhiêu tuần hồ nước trở nên an toàn?
+... Gợi ý: Giải bất phương trình $80e^{-0,15t} \leq 5$.
++   Phản hồi đúng: Đúng! Từ $e^{-0,15t} = \frac{1}{16}$, ta có $-0,15t = \ln(\frac{1}{16}) = -\ln(16)$, suy ra $t = \frac{\ln(16)}{0,15} \approx 18,5$ tuần.
+-   Phản hồi sai: Giải $e^{-0,15t} = \frac{5}{80} = \frac{1}{16}$, sau đó $t = \frac{\ln(16)}{0,15}$.
+a) 16,2 tuần
+b) 17,4 tuần
+*c) 18,5 tuần
+d) 19,8 tuần
+
