@@ -245,6 +245,7 @@ Chủ đề: {DEFAULT_TOPIC[grade][idx-1]}, lớp {grade}.
         if not TEST_MODE and GEN_PROMPT:
             prompt = generate_test(str(file_path))
             safe_write_file(file_path, prompt)
+            
 # ================== KG Builder ===============================
 
 def create_kg_math(session, topic_map: Dict[int, List[str]] = DEFAULT_TOPIC):
@@ -307,6 +308,7 @@ def build_prompt(topic: str = "", grade: int = 0,
 **** Chủ đề: **** {topic}
 **** Khái niệm và kiến thức (Concept): ****
 {concept_text}
+Để tìm hiểu thêm, bạn có thể truy cập Url: {SGK_LINK[grade][TOPIC_IDX[(grade, topic)]]}
 **** Hình thức (Format): ****
 {format_text}
 **** Kiểu câu hỏi (Question - {row['question']}): ****
@@ -347,6 +349,25 @@ def reform(file_dir : str, format_path, question_path):
         f.write(response)
 
 
+def recalc(file_dir: str, topic: str = "", grade: int = 11):
+    with open(file_dir, "r", encoding="utf-8") as f:
+        prompt = f.read()
+    recalc = f"""
+**** Role: Bạn là một nhân vật có khả năng điều chỉnh đề bài rất tốt. ****
+**** Task: Tôi có một file đề Toán khá là tốt có độ khó vừa phải, tuy nhiên đối với phần kết quả, có một số bài tính sai khá tai hại, hãy tính lại chúng giúp tôi.
+**** Khối kiến thúc: **** {grade}
+**** Chủ đề kiến thức: **** {topic}
+**** Câu hỏi cần chỉnh sửa: ****
+-------
+{prompt}
+-------
+""" 
+    with open(file_dir, "w", encoding="utf-8") as f:
+        f.write(recalc)
+    prompt = generate_test(file_dir)
+    with open(file_dir, "w", encoding="utf-8") as f:
+        f.write(prompt)
+
 def math_test(topic: str = "", grade: int = 11, difficulty: str = "Vận dụng",
               question: str = "Short answer", n: int = 1):
     logger.info("Building prompt...")
@@ -358,7 +379,8 @@ def math_test(topic: str = "", grade: int = 11, difficulty: str = "Vận dụng"
         return prompt, 0
     tmp_prompt_path = make_tempfile_with(prompt)
     response_text = generate_test(tmp_prompt_path)
-    reform(tmp_prompt_path, format_path, question_path)
+    recalc(file_dir=tmp_prompt_path, grade=grade, topic=topic)
+    reform(file_dir=tmp_prompt_path, format_path=format_path, question_path=question_path)
     evaluate_difficulty(difficulty_path, make_tempfile_with(response_text), grade, topic, difficulty)
     evaluate_concept(concept_path, make_tempfile_with(response_text), grade, topic)
     score = evaluate_elo(make_tempfile_with(response_text), grade, topic)
