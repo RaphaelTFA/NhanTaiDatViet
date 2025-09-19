@@ -1,5 +1,5 @@
 1. Đường thẳng d vuông góc với mặt phẳng (P) khi nào?
-   Gợi ý: Sử dụng định nghĩa về đường thẳng vuông góc với mặt phẳng.
+... Gợi ý: Sử dụng định nghĩa về đường thẳng vuông góc với mặt phẳng.
 +  Phản hồi đúng: Chính xác! Đường thẳng d vuông góc với mặt phẳng (P) khi và chỉ khi d vuông góc với mọi đường thẳng nằm trong (P).
 -  Phản hồi sai: Cần nắm vững định nghĩa: đường thẳng phải vuông góc với tất cả các đường thẳng trong mặt phẳng, không chỉ một hoặc hai đường thẳng.
 a) d vuông góc với một đường thẳng nằm trong (P)
@@ -8,7 +8,7 @@ b) d vuông góc với hai đường thẳng song song nằm trong (P)
 d) d song song với một đường thẳng nằm trong (P)
 
 2. Điều kiện nào sau đây đủ để chứng minh đường thẳng d vuông góc với mặt phẳng (P)?
-   Gợi ý: Áp dụng định lý về điều kiện để đường thẳng vuông góc với mặt phẳng.
+... Gợi ý: Áp dụng định lý về điều kiện để đường thẳng vuông góc với mặt phẳng.
 +  Phản hồi đúng: Đúng! Theo định lý, nếu d vuông góc với hai đường thẳng cắt nhau trong (P) thì d vuông góc với (P).
 -  Phản hồi sai: Nhớ rằng hai đường thẳng phải cắt nhau, không thể là song song hay trùng nhau.
 a) d vuông góc với một đường thẳng trong (P)
@@ -17,7 +17,7 @@ c) d vuông góc với hai đường thẳng song song trong (P)
 d) d cắt (P) tại một điểm
 
 3. Hai mặt phẳng (P) và (Q) được gọi là vuông góc khi nào?
-   Gợi ý: Sử dụng định nghĩa về hai mặt phẳng vuông góc.
+... Gợi ý: Sử dụng định nghĩa về hai mặt phẳng vuông góc.
 +  Phản hồi đúng: Chính xác! Hai mặt phẳng vuông góc khi góc giữa chúng bằng $90°$.
 -  Phản hồi sai: Góc giữa hai mặt phẳng được đo bằng góc giữa hai đường thẳng vuông góc với giao tuyến của chúng.
 a) Góc giữa chúng bằng $45°$
@@ -26,7 +26,7 @@ b) Góc giữa chúng bằng $60°$
 d) Chúng song song với nhau
 
 4. Trong hình lập phương $ABCD.A'B'C'D'$, đường thẳng nào sau đây vuông góc với mặt phẳng $(ABCD)$?
-   Gợi ý: Xét các cạnh của hình lập phương và tính chất vuông góc.
+... Gợi ý: Xét các cạnh của hình lập phương và tính chất vuông góc.
 +  Phản hồi đúng: Đúng! Trong hình lập phương, cạnh $AA'$ vuông góc với mặt đáy $(ABCD)$.
 -  Phản hồi sai: Các cạnh nằm trong mặt phẳng đáy không thể vuông góc với chính mặt phẳng đó.
 a) $AB$
@@ -35,7 +35,7 @@ b) $AC$
 d) $BD$
 
 5. Cho hình chóp $S.ABC$ có $SA ⊥ (ABC)$. Mệnh đề nào sau đây đúng?
-   Gợi ý: Sử dụng tính chất của đường thẳng vuông góc với mặt phẳng.
+... Gợi ý: Sử dụng tính chất của đường thẳng vuông góc với mặt phẳng.
 +  Phản hồi đúng: Chính xác! Khi $SA ⊥ (ABC)$ thì $SA$ vuông góc với mọi đường thẳng nằm trong $(ABC)$, đặc biệt là $AB$ và $AC$.
 -  Phản hồi sai: Nhớ rằng khi một đường thẳng vuông góc với mặt phẳng thì nó vuông góc với mọi đường thẳng trong mặt phẳng đó.
 *a) $SA ⊥ AB$ và $SA ⊥ AC$
@@ -44,7 +44,7 @@ c) $SA$ tạo với $AB$ góc $45°$
 d) $SA$ nằm trong mặt phẳng $(ABC)$
 
 6. Nếu đường thẳng $a ⊥ (P)$ và đường thẳng $b ⊂ (P)$, thì quan hệ giữa $a$ và $b$ là:
-   Gợi ý: Áp dụng định nghĩa đường thẳng vuông góc với mặt phẳng.
+... Gợi ý: Áp dụng định nghĩa đường thẳng vuông góc với mặt phẳng.
 +  Phản hồi đúng: Đúng! Theo định nghĩa, nếu $a ⊥ (P)$ thì $a$ vuông góc với mọi đường thẳng nằm trong $(P)$, kể cả $b$.
 -  Phản hồi sai: Khi đường thẳng vuông góc với mặt phẳng, nó sẽ vuông góc với tất cả các đường thẳng trong mặt phẳng đó.
 a) $a \parallel b$
@@ -53,7 +53,7 @@ c) $a$ và $b$ chéo nhau
 d) $a$ và $b$ trùng nhau
 
 7. Điều kiện nào sau đây đủ để hai mặt phẳng $(P)$ và $(Q)$ vuông góc?
-   Gợi ý: Sử dụng định lý về điều kiện để hai mặt phẳng vuông góc.
+... Gợi ý: Sử dụng định lý về điều kiện để hai mặt phẳng vuông góc.
 +  Phản hồi đúng: Chính xác! Nếu $(P)$ chứa một đường thẳng vuông góc với $(Q)$ thì $(P) ⊥ (Q)$.
 -  Phản hồi sai: Đường thẳng phải vuông góc với mặt phẳng, không phải song song hay cắt thông thường.
 a) $(P)$ chứa một đường thẳng song song với $(Q)$
@@ -62,7 +62,7 @@ c) $(P)$ và $(Q)$ có giao tuyến
 d) $(P)$ và $(Q)$ song song với nhau
 
 8. Trong hình lăng trụ đứng $ABC.A'B'C'$, mặt phẳng nào sau đây vuông góc với mặt phẳng $(ABC)$?
-   Gợi ý: Xét định nghĩa lăng trụ đứng và tính chất vuông góc.
+... Gợi ý: Xét định nghĩa lăng trụ đứng và tính chất vuông góc.
 +  Phản hồi đúng: Đúng! Trong lăng trụ đứng, các mặt bên đều vuông góc với mặt đáy.
 -  Phản hồi sai: Lăng trụ đứng có tính chất đặc biệt là các cạnh bên vuông góc với đáy, do đó các mặt bên vuông góc với đáy.
 a) $(A'B'C')$
@@ -71,7 +71,7 @@ c) Không có mặt phẳng nào
 d) Tất cả các mặt phẳng
 
 9. Cho tứ diện $ABCD$ có $AB ⊥ CD$ và $AC ⊥ BD$. Mệnh đề nào sau đây đúng?
-   Gợi ý: Xét tính chất đặc biệt của tứ diện có các cạnh đối vuông góc.
+... Gợi ý: Xét tính chất đặc biệt của tứ diện có các cạnh đối vuông góc.
 +  Phản hồi đúng: Chính xác! Khi hai cặp cạnh đối của tứ diện vuông góc thì cặp cạnh đối còn lại cũng vuông góc.
 -  Phản hồi sai: Đây là tính chất đặc biệt của tứ diện có hai cặp cạnh đối vuông góc.
 a) $AB \parallel CD$
@@ -80,7 +80,7 @@ b) $AC \parallel BD$
 d) Tứ diện có tất cả các mặt là tam giác vuông
 
 10. Khoảng cách từ điểm $M$ đến mặt phẳng $(P)$ được xác định bằng:
-    Gợi ý: Sử dụng định nghĩa khoảng cách từ điểm đến mặt phẳng.
+... Gợi ý: Sử dụng định nghĩa khoảng cách từ điểm đến mặt phẳng.
 +   Phản hồi đúng: Đúng! Khoảng cách từ điểm đến mặt phẳng là độ dài đường vuông góc từ điểm đó đến mặt phẳng.
 -   Phản hồi sai: Khoảng cách ngắn nhất luôn là đường vuông góc, không phải đường xiên hay đường bất kỳ.
 a) Độ dài đoạn thẳng nối $M$ với một điểm bất kỳ trên $(P)$
@@ -89,7 +89,7 @@ c) Độ dài hình chiếu của $M$ trên $(P)$
 d) Khoảng cách từ $M$ đến giao tuyến của $(P)$ với một mặt phẳng khác
 
 11. Trong hình chóp tứ giác đều $S.ABCD$, đường thẳng $SO$ (với $O$ là tâm hình vuông $ABCD$) có tính chất gì?
-    Gợi ý: Sử dụng tính chất đối xứng của hình chóp tứ giác đều.
+... Gợi ý: Sử dụng tính chất đối xứng của hình chóp tứ giác đều.
 +   Phản hồi đúng: Chính xác! Do tính đối xứng của hình chóp tứ giác đều, $SO$ vuông góc với mặt đáy $(ABCD)$.
 -   Phản hồi sai: Tính đối xứng của hình chóp đều đảm bảo đường cao từ đỉnh vuông góc với mặt đáy.
 a) $SO$ song song với $(ABCD)$
@@ -98,7 +98,7 @@ c) $SO$ nằm trong $(ABCD)$
 d) $SO$ tạo với $(ABCD)$ góc $45°$
 
 12. Cho hình lập phương cạnh $a$. Khoảng cách từ một đỉnh đến mặt phẳng chứa đáy đối diện bằng:
-    Gợi ý: Sử dụng tính chất hình lập phương và chiều cao.
+... Gợi ý: Sử dụng tính chất hình lập phương và chiều cao.
 +   Phản hồi đúng: Đúng! Khoảng cách từ đỉnh đến mặt đáy đối diện chính bằng độ dài cạnh của hình lập phương.
 -   Phản hồi sai: Chiều cao của hình lập phương bằng độ dài cạnh, không phải đường chéo mặt hay đường chéo khối.
 *a) $a$
@@ -107,7 +107,7 @@ c) $a\sqrt{3}$
 d) $2a$
 
 13. Nếu hai mặt phẳng $(P)$ và $(Q)$ vuông góc với nhau, thì:
-    Gợi ý: Sử dụng tính chất của hai mặt phẳng vuông góc.
+... Gợi ý: Sử dụng tính chất của hai mặt phẳng vuông góc.
 +   Phản hồi đúng: Chính xác! Khi hai mặt phẳng vuông góc, tồn tại ít nhất một đường thẳng trong mặt phẳng này vuông góc với mặt phẳng kia.
 -   Phản hồi sai: Không phải mọi đường thẳng trong mặt phẳng này đều vuông góc với mặt phẳng kia, chỉ tồn tại ít nhất một đường.
 a) Mọi đường thẳng trong $(P)$ đều vuông góc với $(Q)$
@@ -116,7 +116,7 @@ c) Không có đường thẳng nào trong $(P)$ vuông góc với $(Q)$
 d) $(P)$ và $(Q)$ song song với nhau
 
 14. Cho hình chóp tam giác đều $S.ABC$. Hình chiếu vuông góc của $S$ lên mặt phẳng $(ABC)$ là:
-    Gợi ý: Sử dụng tính chất đối xứng của hình chóp tam giác đều.
+... Gợi ý: Sử dụng tính chất đối xứng của hình chóp tam giác đều.
 +   Phản hồi đúng: Đúng! Do tính đối xứng, hình chiếu của đỉnh chóp tam giác đều là tâm đường tròn ngoại tiếp đáy.
 -   Phản hồi sai: Tính đối xứng của hình chóp đều quyết định vị trí hình chiếu của đỉnh.
 a) Trọng tâm tam giác $ABC$
@@ -125,7 +125,7 @@ c) Trực tâm tam giác $ABC$
 d) Một đỉnh của tam giác $ABC$
 
 15. Trong không gian, cho điểm $A$ và mặt phẳng $(P)$ không chứa $A$. Có bao nhiêu đường thẳng qua $A$ và vuông góc với $(P)$?
-    Gợi ý: Áp dụng định lý về tính duy nhất của đường thẳng vuông góc với mặt phẳng.
+... Gợi ý: Áp dụng định lý về tính duy nhất của đường thẳng vuông góc với mặt phẳng.
 +   Phản hồi đúng: Chính xác! Qua một điểm cho trước, có duy nhất một đường thẳng vuông góc với một mặt phẳng cho trước.
 -   Phản hồi sai: Đây là tính chất duy nhất được đảm bảo bởi định lý trong hình học không gian.
 a) $0$
@@ -134,7 +134,7 @@ c) $2$
 d) Vô số
 
 16. Cho đường thẳng $d$ vuông góc với mặt phẳng $(P)$ tại điểm $H$. Với mọi điểm $M$ thuộc $d$ khác $H$, khoảng cách từ $M$ đến $(P)$ bằng:
-    Gợi ý: Sử dụng định nghĩa khoảng cách và tính chất đường vuông góc.
+... Gợi ý: Sử dụng định nghĩa khoảng cách và tính chất đường vuông góc.
 +   Phản hồi đúng: Đúng! Khi đường thẳng vuông góc với mặt phẳng, khoảng cách từ điểm trên đường thẳng đến mặt phẳng chính là độ dài đoạn thẳng đó.
 -   Phản hồi sai: Do $d$ vuông góc với $(P)$, nên $MH$ chính là khoảng cách từ $M$ đến $(P)$.
 a) $0$
@@ -143,7 +143,7 @@ c) $2MH$
 d) Không xác định được
 
 17. Trong hình hộp chữ nhật $ABCD.A'B'C'D'$, cặp mặt phẳng nào sau đây vuông góc với nhau?
-    Gợi ý: Sử dụng tính chất của hình hộp chữ nhật.
+... Gợi ý: Sử dụng tính chất của hình hộp chữ nhật.
 +   Phản hồi đúng: Chính xác! Trong hình hộp chữ nhật, các mặt bên vuông góc với các mặt đáy.
 -   Phản hồi sai: Hình hộp chữ nhật có tính chất đặc biệt là các mặt bên vuông góc với đáy.
 a) $(ABCD)$ và $(A'B'C'D')$
@@ -152,7 +152,7 @@ c) $(ABB'A')$ và $(CDD'C')$
 d) Không có cặp mặt phẳng nào vuông góc
 
 18. Cho hình chóp $S.ABCD$ có đáy $ABCD$ là hình vuông, $SA ⊥ (ABCD)$. Trong các đường thẳng sau, đường thẳng nào vuông góc với $SC$?
-    Gợi ý: Sử dụng tính chất vuông góc và định lý ba đường vuông góc.
+... Gợi ý: Sử dụng tính chất vuông góc và định lý ba đường vuông góc.
 +   Phản hồi đúng: Chính xác! Do $SA ⊥ (ABCD)$ và $AC ⊂ (ABCD)$ nên $SA ⊥ AC$, mà $ABCD$ là hình vuông nên $AC ⊥ BD$. Áp dụng định lý ba đường vuông góc, ta có $BD ⊥ SC$.
 -   Phản hồi sai: Cần áp dụng định lý ba đường vuông góc: nếu đường thẳng vuông góc với hình chiếu thì vuông góc với đường xiên.
 a) $AB$
@@ -161,7 +161,7 @@ c) $AD$
 d) $CD$
 
 19. Khoảng cách giữa hai mặt phẳng song song $(P)$ và $(Q)$ được định nghĩa là:
-    Gợi ý: Sử dụng định nghĩa khoảng cách giữa hai mặt phẳng song song.
+... Gợi ý: Sử dụng định nghĩa khoảng cách giữa hai mặt phẳng song song.
 +   Phản hồi đúng: Đúng! Khoảng cách giữa hai mặt phẳng song song là khoảng cách từ một điểm bất kỳ trên mặt phẳng này đến mặt phẳng kia.
 -   Phản hồi sai: Do hai mặt phẳng song song nên khoảng cách từ mọi điểm trên mặt phẳng này đến mặt phẳng kia đều bằng nhau.
 a) Khoảng cách giữa hai điểm bất kỳ thuộc hai mặt phẳng
@@ -170,7 +170,7 @@ c) Độ dài giao tuyến của $(P)$ và $(Q)$
 d) Góc giữa $(P)$ và $(Q)$
 
 20. Cho tứ diện $ABCD$ có $AB = CD$, $AC = BD$, $AD = BC$. Tứ diện này có tính chất gì đặc biệt?
-    Gợi ý: Xét tính chất của tứ diện có các cạnh đối bằng nhau.
+... Gợi ý: Xét tính chất của tứ diện có các cạnh đối bằng nhau.
 +   Phản hồi đúng: Chính xác! Tứ diện có các cạnh đối bằng nhau gọi là tứ diện đều cạnh, có tính chất các cạnh đối vuông góc với nhau.
 -   Phản hồi sai: Khi các cạnh đối của tứ diện bằng nhau từng đôi một, các cạnh đối sẽ vuông góc với nhau.
 a) Tất cả các mặt đều là tam giác đều
@@ -179,7 +179,7 @@ b) Tất cả các cạnh đều bằng nhau
 d) Có một mặt là tam giác vuông
 
 1. Cho hình chóp $S.ABC$ có $SA \perp (ABC)$ và tam giác $ABC$ vuông tại $B$. Khẳng định nào sau đây đúng?
-    Gợi ý: Sử dụng định lý về đường thẳng vuông góc với mặt phẳng để xác định các quan hệ vuông góc.
+... Gợi ý: Sử dụng định lý về đường thẳng vuông góc với mặt phẳng để xác định các quan hệ vuông góc.
 +   Phản hồi đúng: Chính xác! Vì $SA \perp (ABC)$ và $BC \subset (ABC)$ nên $SA \perp BC$. Mà $AB \perp BC$ (do tam giác $ABC$ vuông tại $B$), suy ra $BC \perp (SAB)$.
 -   Phản hồi sai: Cần nhớ rằng nếu đường thẳng vuông góc với mặt phẳng thì nó vuông góc với mọi đường thẳng nằm trong mặt phẳng đó.
 a) $SA \perp BC$ và $AB \perp BC$ nên $BC \perp (SAB)$
@@ -188,7 +188,7 @@ b) $SA \perp AB$ và $BC \perp AB$ nên $AB \perp (SBC)$
 d) Chỉ có A đúng
 
 2. Trong hình lập phương $ABCD.A'B'C'D'$, mặt phẳng nào sau đây vuông góc với mặt phẳng $(ABCD)$?
-    Gợi ý: Xét các mặt phẳng chứa cạnh vuông góc với mặt phẳng đáy.
+... Gợi ý: Xét các mặt phẳng chứa cạnh vuông góc với mặt phẳng đáy.
 +   Phản hồi đúng: Đúng rồi! Mặt phẳng $(ABB'A')$ chứa đường thẳng $AA'$ vuông góc với $(ABCD)$, nên $(ABB'A') \perp (ABCD)$.
 -   Phản hồi sai: Cần áp dụng dấu hiệu nhận biết: hai mặt phẳng vuông góc khi và chỉ khi mặt phẳng này chứa đường thẳng vuông góc với mặt phẳng kia.
 a) $(A'B'C'D')$
@@ -197,7 +197,7 @@ c) $(ACC'A')$
 d) Cả B và C
 
 3. Cho tứ diện $ABCD$ có $AB \perp CD$ và $AC \perp BD$. Quan hệ nào sau đây đúng?
-    Gợi ý: Trong tứ diện, nếu hai cặp cạnh đối vuông góc thì cặp cạnh đối thứ ba cũng vuông góc.
+... Gợi ý: Trong tứ diện, nếu hai cặp cạnh đối vuông góc thì cặp cạnh đối thứ ba cũng vuông góc.
 +   Phản hồi đúng: Chính xác! Đây là tính chất quan trọng của tứ diện trực giao: nếu hai cặp cạnh đối vuông góc thì cặp thứ ba cũng vuông góc.
 -   Phản hồi sai: Đây là tính chất đặc biệt của tứ diện khi có hai cặp cạnh đối vuông góc, cần ghi nhớ kết quả này.
 a) $AD \perp BC$
@@ -206,7 +206,7 @@ c) $CD \perp AB$
 *d) Cả A và C đều đúng
 
 4. Cho hình chóp $S.ABCD$ có đáy $ABCD$ là hình vuông tâm $O$, $SO \perp (ABCD)$. Góc giữa $SA$ và mặt phẳng $(ABCD)$ là góc nào?
-    Gợi ý: Góc giữa đường thẳng và mặt phẳng là góc giữa đường thẳng và hình chiếu của nó trên mặt phẳng.
+... Gợi ý: Góc giữa đường thẳng và mặt phẳng là góc giữa đường thẳng và hình chiếu của nó trên mặt phẳng.
 +   Phản hồi đúng: Đúng! Hình chiếu của $SA$ trên $(ABCD)$ là $OA$, nên góc giữa $SA$ và $(ABCD)$ là $\angle SAO$.
 -   Phản hồi sai: Cần xác định đúng hình chiếu của đường thẳng trên mặt phẳng để tìm góc giữa chúng.
 a) $\angle SOA$
@@ -215,7 +215,7 @@ c) $\angle ASO$
 d) $\angle OAS$
 
 5. Cho hình chóp $S.ABC$ có $SA \perp (ABC)$, $SA = 6$, tam giác $ABC$ vuông tại $B$ với $AB = 8$, $BC = 6$. Độ dài $SB$ bằng?
-    Gợi ý: Sử dụng định lý Pythagoras trong tam giác vuông $SAB$.
+... Gợi ý: Sử dụng định lý Pythagoras trong tam giác vuông $SAB$.
 +   Phản hồi đúng: Chính xác! Trong tam giác vuông $SAB$ có $SA \perp AB$, áp dụng định lý Pythagoras: $SB^2 = SA^2 + AB^2 = 36 + 64 = 100$, suy ra $SB = 10$.
 -   Phản hồi sai: Cần nhận ra tam giác $SAB$ vuông tại $A$ vì $SA \perp (ABC)$ nên $SA \perp AB$.
 a) $8$
@@ -224,7 +224,7 @@ b) $12$
 d) $14$
 
 6. Trong hình lập phương $ABCD.A'B'C'D'$ cạnh $a$, khoảng cách từ điểm $A$ đến mặt phẳng $(BCC'B')$ bằng?
-    Gợi ý: Khoảng cách từ điểm đến mặt phẳng là độ dài đường vuông góc từ điểm đến mặt phẳng.
+... Gợi ý: Khoảng cách từ điểm đến mặt phẳng là độ dài đường vuông góc từ điểm đến mặt phẳng.
 +   Phản hồi đúng: Đúng rồi! Đường vuông góc từ $A$ đến $(BCC'B')$ có độ dài bằng khoảng cách từ $A$ đến $BC$, chính là $AB = a$.
 -   Phản hồi sai: Cần xác định đường vuông góc từ điểm đến mặt phẳng, đó là đoạn $AB$ vuông góc với mặt phẳng $(BCC'B')$.
 *a) $a$
@@ -233,7 +233,7 @@ c) $a\sqrt{3}$
 d) $\frac{a\sqrt{2}}{2}$
 
 7. Cho hình chóp $S.ABCD$ có đáy là hình thoi tâm $O$, $SO \perp (ABCD)$. Mặt phẳng nào sau đây vuông góc với mặt phẳng $(ABCD)$?
-    Gợi ý: Tìm mặt phẳng chứa đường thẳng $SO$ vuông góc với $(ABCD)$.
+... Gợi ý: Tìm mặt phẳng chứa đường thẳng $SO$ vuông góc với $(ABCD)$.
 +   Phản hồi đúng: Chính xác! Mọi mặt phẳng chứa $SO$ đều vuông góc với $(ABCD)$ vì $SO \perp (ABCD)$.
 -   Phản hồi sai: Cần áp dụng dấu hiệu: mặt phẳng vuông góc với mặt phẳng khác khi chứa đường thẳng vuông góc với mặt phẳng đó.
 a) $(SAC)$
@@ -242,7 +242,7 @@ c) $(SAB)$
 *d) Cả A, B và C
 
 8. Cho tam giác $ABC$ vuông tại $A$ và điểm $S$ sao cho $SA \perp (ABC)$. Trong các mệnh đề sau, mệnh đề nào sai?
-    Gợi ý: Kiểm tra từng mệnh đề dựa trên tính chất của đường thẳng vuông góc với mặt phẳng.
+... Gợi ý: Kiểm tra từng mệnh đề dựa trên tính chất của đường thẳng vuông góc với mặt phẳng.
 +   Phản hồi đúng: Đúng! Vì $AB \perp AC$ và $SA \perp (ABC)$ nên $AB \perp (SAC)$, do đó $AB \perp SC$.
 -   Phản hồi sai: Mệnh đề D đúng vì $AB \perp AC$ và $AB \perp SA$ nên $AB \perp (SAC)$, suy ra $AB \perp SC$.
 a) $SA \perp AB$
@@ -251,7 +251,7 @@ c) Tam giác $SBC$ vuông tại $A$
 *d) $AB \perp SC$
 
 9. Cho hình chóp $S.ABC$ có $SB \perp (ABC)$ và tam giác $ABC$ đều cạnh $a$. Góc giữa $SA$ và mặt phẳng $(ABC)$ được tính bằng công thức nào?
-    Gợi ý: Xác định hình chiếu của $SA$ trên mặt phẳng $(ABC)$.
+... Gợi ý: Xác định hình chiếu của $SA$ trên mặt phẳng $(ABC)$.
 +   Phản hồi đúng: Chính xác! Hình chiếu của $SA$ trên $(ABC)$ là $BA$, nên góc cần tìm là $\angle SAB$ với $\cos(\angle SAB) = \frac{AB}{SA}$.
 -   Phản hồi sai: Cần xác định đúng hình chiếu của đường thẳng $SA$ trên mặt phẳng $(ABC)$ là đường thẳng $BA$.
 a) $\cos(\angle SAB) = \frac{SB}{SA}$
@@ -260,7 +260,7 @@ c) $\sin(\angle SAB) = \frac{AB}{SA}$
 d) $\tan(\angle SAB) = \frac{AB}{SB}$
 
 10. Trong hình lăng trụ đứng $ABC.A'B'C'$ có đáy là tam giác vuông tại $C$, cạnh nào vuông góc với mặt phẳng $(BCC'B')$?
-    Gợi ý: Trong lăng trụ đứng, cạnh bên vuông góc với mặt phẳng đáy và các tính chất vuông góc được bảo toàn.
+... Gợi ý: Trong lăng trụ đứng, cạnh bên vuông góc với mặt phẳng đáy và các tính chất vuông góc được bảo toàn.
 +   Phản hồi đúng: Đúng! Vì $AC \perp BC$ (đáy vuông tại $C$) và $AC \perp CC'$ (lăng trụ đứng) nên $AC \perp (BCC'B')$.
 -   Phản hồi sai: Cần sử dụng tính chất của lăng trụ đứng và điều kiện tam giác đáy vuông tại $C$.
 a) $AB$
@@ -269,7 +269,7 @@ c) $BC$
 d) $A'B'$
 
 11. Cho hình chóp $S.ABCD$ có đáy là hình chữ nhật, $SA \perp (ABCD)$. Mặt phẳng nào sau đây không vuông góc với mặt phẳng $(ABCD)$?
-    Gợi ý: Kiểm tra mặt phẳng nào không chứa đường thẳng $SA$.
+... Gợi ý: Kiểm tra mặt phẳng nào không chứa đường thẳng $SA$.
 +   Phản hồi đúng: Chính xác! Mặt phẳng $(BCD)$ không chứa đường thẳng $SA$ nên không vuông góc với $(ABCD)$.
 -   Phản hồi sai: Mọi mặt phẳng chứa $SA$ đều vuông góc với $(ABCD)$ vì $SA \perp (ABCD)$.
 a) $(SAB)$
@@ -278,7 +278,7 @@ c) $(SAC)$
 *d) $(BCD)$
 
 12. Cho tứ diện $ABCD$ có $AB \perp CD$, $AC \perp BD$, $AD \perp BC$. Tứ diện này được gọi là?
-    Gợi ý: Đây là loại tứ diện đặc biệt khi các cặp cạnh đối đều vuông góc.
+... Gợi ý: Đây là loại tứ diện đặc biệt khi các cặp cạnh đối đều vuông góc.
 +   Phản hồi đúng: Đúng! Tứ diện có ba cặp cạnh đối đều vuông góc được gọi là tứ diện trực giao.
 -   Phản hồi sai: Cần nhớ định nghĩa của tứ diện trực giao là tứ diện có các cặp cạnh đối vuông góc với nhau.
 a) Tứ diện đều
@@ -287,7 +287,7 @@ b) Tứ diện vuông
 d) Tứ diện cân
 
 13. Cho hình chóp $S.ABC$ có $SC \perp (ABC)$, $SC = 12$, tam giác $ABC$ có $AB = 5$, $BC = 4$, $CA = 3$. Khoảng cách từ $C$ đến mặt phẳng $(SAB)$ bằng?
-    Gợi ý: Nhận xét tam giác $ABC$ và sử dụng công thức tính khoảng cách.
+... Gợi ý: Nhận xét tam giác $ABC$ và sử dụng công thức tính khoảng cách.
 +   Phản hồi đúng: Chính xác! Tam giác $ABC$ vuông tại $C$ (vì $3^2 + 4^2 = 5^2$). Khoảng cách từ $C$ đến $(SAB)$ bằng khoảng cách từ $C$ đến $AB$ là $\frac{BC \cdot CA}{AB} = \frac{4 \cdot 3}{5} = \frac{12}{5}$.
 -   Phản hồi sai: Cần nhận ra tam giác $ABC$ vuông tại $C$ và tính khoảng cách từ $C$ đến $AB$.
 a) $\frac{24}{5}$
@@ -296,7 +296,7 @@ c) $\frac{5}{12}$
 d) $4$
 
 14. Trong hình lập phương $ABCD.A'B'C'D'$, góc giữa đường thẳng $AC'$ và mặt phẳng $(ABCD)$ có số đo bằng?
-    Gợi ý: Tìm hình chiếu của $AC'$ trên mặt phẳng $(ABCD)$.
+... Gợi ý: Tìm hình chiếu của $AC'$ trên mặt phẳng $(ABCD)$.
 +   Phản hồi đúng: Đúng! Hình chiếu của $AC'$ trên $(ABCD)$ là $AC$. Trong tam giác vuông $ACC'$ có $\tan(\angle C'AC) = \frac{CC'}{AC} = \frac{a}{a\sqrt{2}} = \frac{\sqrt{2}}{2}$.
 -   Phản hồi sai: Cần xác định tam giác vuông $ACC'$ và tính góc $\angle C'AC$.
 a) $30°$
@@ -305,7 +305,7 @@ b) $45°$
 d) $60°$
 
 15. Cho hình chóp $S.ABCD$ có đáy là hình vuông cạnh $a$, cạnh bên $SA$ vuông góc với đáy và $SA = a$. Khoảng cách từ $A$ đến mặt phẳng $(SBC)$ bằng?
-    Gợi ý: Sử dụng công thức thể tích để tính khoảng cách.
+... Gợi ý: Sử dụng công thức thể tích để tính khoảng cách.
 +   Phản hồi đúng: Chính xác! Sử dụng $V_{A.SBC} = \frac{1}{3} \cdot d(A,(SBC)) \cdot S_{SBC}$ và $V_{A.SBC} = V_{S.ABC}$ để tính được $d(A,(SBC)) = \frac{a\sqrt{2}}{2}$.
 -   Phản hồi sai: Cần áp dụng công thức thể tích hoặc phương pháp hình học để tính khoảng cách từ điểm đến mặt phẳng.
 a) $\frac{a}{2}$
@@ -314,7 +314,7 @@ c) $\frac{a\sqrt{3}}{3}$
 d) $a$
 
 16. Cho hai mặt phẳng $(P)$ và $(Q)$ vuông góc nhau theo giao tuyến $d$. Điểm $M \in (P)$, khoảng cách từ $M$ đến $d$ là $h$. Khoảng cách từ $M$ đến $(Q)$ bằng?
-    Gợi ý: Sử dụng tính chất của hai mặt phẳng vuông góc.
+... Gợi ý: Sử dụng tính chất của hai mặt phẳng vuông góc.
 +   Phản hồi đúng: Đúng! Khi hai mặt phẳng vuông góc, khoảng cách từ điểm trên mặt phẳng này đến mặt phẳng kia bằng khoảng cách từ điểm đó đến giao tuyến.
 -   Phản hồi sai: Đây là tính chất quan trọng của hai mặt phẳng vuông góc cần ghi nhớ.
 a) $2h$
@@ -323,7 +323,7 @@ c) $\frac{h}{2}$
 d) $h\sqrt{2}$
 
 17. Cho hình chóp $S.ABC$ có đáy là tam giác đều cạnh $a$, $SA \perp (ABC)$ và $SA = a\sqrt{3}$. Góc giữa mặt phẳng $(SBC)$ và mặt phẳng $(ABC)$ bằng?
-    Gợi ý: Tìm giao tuyến của hai mặt phẳng và các đường vuông góc với giao tuyến.
+... Gợi ý: Tìm giao tuyến của hai mặt phẳng và các đường vuông góc với giao tuyến.
 +   Phản hồi đúng: Chính xác! Giao tuyến là $BC$, góc giữa hai mặt phẳng là góc giữa $AH$ và $SH$ (với $H$ là trung điểm $BC$). Ta có $\tan$ góc $= \frac{SA}{AH} = \frac{a\sqrt{3}}{\frac{a\sqrt{3}}{2}} = 2$, suy ra góc $= 60°$.
 -   Phản hồi sai: Cần xác định đúng giao tuyến và các đường vuông góc để tính góc giữa hai mặt phẳng.
 a) $30°$
@@ -332,7 +332,7 @@ b) $45°$
 d) $90°$
 
 18. Trong hình lăng trụ đứng $ABC.A'B'C'$ có đáy là tam giác cân tại $A$ với $AB = AC = 5$, $BC = 6$, chiều cao $AA' = 8$. Khoảng cách từ $A'$ đến mặt phẳng $(ABC)$ bằng?
-    Gợi ý: Trong lăng trụ đứng, cạnh bên vuông góc với mặt phẳng đáy.
+... Gợi ý: Trong lăng trụ đứng, cạnh bên vuông góc với mặt phẳng đáy.
 +   Phản hồi đúng: Đúng! Trong lăng trụ đứng, khoảng cách từ $A'$ đến $(ABC)$ chính là chiều cao lăng trụ.
 -   Phản hồi sai: Cần nhớ rằng trong lăng trụ đứng, các cạnh bên vuông góc với mặt phẳng đáy.
 a) $5$
@@ -341,7 +341,7 @@ b) $6$
 d) $4$
 
 19. Cho hình chóp $S.ABCD$ có đáy là hình thang vuông tại $A$ và $D$, $AB = 2a$, $AD = DC = a$, $SA \perp (ABCD)$, $SA = a$. Góc giữa $SC$ và mặt phẳng $(ABCD)$ bằng?
-    Gợi ý: Xác định hình chiếu của $SC$ trên mặt phẳng đáy.
+... Gợi ý: Xác định hình chiếu của $SC$ trên mặt phẳng đáy.
 +   Phản hồi đúng: Chính xác! Hình chiếu của $SC$ trên $(ABCD)$ là $AC$. Trong tam giác vuông $ADC$, $AC = a\sqrt{2}$. Trong tam giác vuông $SAC$, $\tan(\angle SCA) = \frac{SA}{AC} = \frac{a}{a\sqrt{2}} = \frac{\sqrt{2}}{2}$.
 -   Phản hồi sai: Cần tính độ dài $AC$ trong tam giác vuông $ADC$ rồi áp dụng vào tam giác vuông $SAC$.
 *a) $\arctan(\frac{\sqrt{2}}{2})$
@@ -350,7 +350,7 @@ c) $45°$
 d) $60°$
 
 20. Cho tứ diện $OABC$ có $OA$, $OB$, $OC$ đôi một vuông góc và $OA = a$, $OB = b$, $OC = c$. Khoảng cách từ $O$ đến mặt phẳng $(ABC)$ được tính theo công thức nào?
-    Gợi ý: Sử dụng công thức thể tích tứ diện và diện tích tam giác.
+... Gợi ý: Sử dụng công thức thể tích tứ diện và diện tích tam giác.
 +   Phản hồi đúng: Đúng! Thể tích tứ diện $V = \frac{1}{6}abc$ và diện tích $S_{ABC} = \frac{1}{2}\sqrt{a^2b^2 + b^2c^2 + c^2a^2}$. Từ $V = \frac{1}{3}d \cdot S_{ABC}$ suy ra $d = \frac{abc}{\sqrt{a^2b^2 + b^2c^2 + c^2a^2}}$.
 -   Phản hồi sai: Cần áp dụng công thức thể tích tứ diện và mối quan hệ giữa thể tích, diện tích đáy và chiều cao.
 a) $\frac{abc}{a + b + c}$
@@ -359,7 +359,7 @@ c) $\frac{abc}{\sqrt{a^2 + b^2 + c^2}}$
 d) $\frac{\sqrt{abc}}{a + b + c}$
 
 1. Cho hình chóp $S.ABC$ có đáy $ABC$ là tam giác vuông tại $B$ với $AB = 6$ cm, $BC = 8$ cm. Biết $SA \perp (ABC)$ và $SA = 12$ cm. Khoảng cách từ điểm $S$ đến mặt phẳng $(ABC)$ bằng:
-    Gợi ý: Khoảng cách từ một điểm đến mặt phẳng là độ dài đường vuông góc hạ từ điểm đó đến mặt phẳng.
+... Gợi ý: Khoảng cách từ một điểm đến mặt phẳng là độ dài đường vuông góc hạ từ điểm đó đến mặt phẳng.
 +   Phản hồi đúng: Chính xác! Vì $SA \perp (ABC)$ nên khoảng cách từ $S$ đến mặt phẳng $(ABC)$ chính là độ dài đoạn $SA = 12$ cm.
 -   Phản hồi sai: Cần nhớ rằng khi đường thẳng vuông góc với mặt phẳng thì độ dài đoạn thẳng đó chính là khoảng cách từ điểm đến mặt phẳng.
 a) 6 cm
@@ -368,7 +368,7 @@ b) 8 cm
 d) 10 cm
 
 2. Trong hình lập phương $ABCD.A'B'C'D'$ có cạnh $a$, góc giữa đường thẳng $AC'$ và mặt phẳng $(ABCD)$ bằng:
-    Gợi ý: Tìm hình chiếu của $AC'$ lên mặt phẳng $(ABCD)$ và sử dụng định nghĩa góc giữa đường thẳng và mặt phẳng.
+... Gợi ý: Tìm hình chiếu của $AC'$ lên mặt phẳng $(ABCD)$ và sử dụng định nghĩa góc giữa đường thẳng và mặt phẳng.
 +   Phản hồi đúng: Đúng rồi! Hình chiếu của $AC'$ lên $(ABCD)$ là $AC$. Trong tam giác vuông $ACC'$: $\tan(\angle CAC') = \frac{CC'}{AC} = \frac{a}{a\sqrt{2}} = \frac{1}{\sqrt{2}}$, suy ra góc bằng $\arctan(\frac{1}{\sqrt{2}}) \approx 35.26°$.
 -   Phản hồi sai: Cần xác định đúng hình chiếu của đường thẳng lên mặt phẳng, sau đó dùng tỷ số lượng giác để tính góc.
 a) 30°
@@ -377,7 +377,7 @@ c) 45°
 d) 60°
 
 3. Cho tứ diện $OABC$ có $OA$, $OB$, $OC$ đôi một vuông góc và $OA = 3$, $OB = 4$, $OC = 5$. Khoảng cách từ $O$ đến mặt phẳng $(ABC)$ bằng:
-    Gợi ý: Sử dụng công thức thể tích tứ diện theo hai cách: $V = \frac{1}{3}S_{ABC} \cdot h$ và $V = \frac{1}{6}OA \cdot OB \cdot OC$.
+... Gợi ý: Sử dụng công thức thể tích tứ diện theo hai cách: $V = \frac{1}{3}S_{ABC} \cdot h$ và $V = \frac{1}{6}OA \cdot OB \cdot OC$.
 +   Phản hồi đúng: Chính xác! Thể tích tứ diện $V = \frac{1}{6} \cdot 3 \cdot 4 \cdot 5 = 10$. Diện tích tam giác $ABC = 5\sqrt{2}$. Từ $V = \frac{1}{3}S_{ABC} \cdot h$ suy ra $h = \frac{6}{\sqrt{2}} = 3\sqrt{2}$.
 -   Phản hồi sai: Cần tính thể tích tứ diện và diện tích đáy, sau đó dùng công thức liên hệ giữa thể tích và khoảng cách.
 a) $2\sqrt{2}$
@@ -386,7 +386,7 @@ c) $4\sqrt{2}$
 d) $5\sqrt{2}$
 
 4. Cho hình chóp $S.ABCD$ có đáy $ABCD$ là hình vuông cạnh $a$, $SA \perp (ABCD)$ và $SA = a\sqrt{3}$. Góc giữa mặt phẳng $(SBC)$ và mặt phẳng $(ABCD)$ bằng:
-    Gợi ý: Tìm giao tuyến của hai mặt phẳng và dựng các đường vuông góc với giao tuyến trong mỗi mặt phẳng.
+... Gợi ý: Tìm giao tuyến của hai mặt phẳng và dựng các đường vuông góc với giao tuyến trong mỗi mặt phẳng.
 +   Phản hồi đúng: Đúng! Giao tuyến là $BC$. Trong $(ABCD)$, dựng $AH \perp BC$ tại $H$. Trong $(SBC)$, ta có $SH$. Góc giữa hai mặt phẳng là $\angle SHA = \arctan(\frac{SA}{AH}) = \arctan(\frac{a\sqrt{3}}{a}) = 60°$.
 -   Phản hồi sai: Cần xác định đúng giao tuyến và dựng các đường vuông góc với giao tuyến để tìm góc giữa hai mặt phẳng.
 a) 30°
@@ -395,7 +395,7 @@ b) 45°
 d) 90°
 
 5. Trong không gian, cho đường thẳng $d$ và mặt phẳng $(P)$. Điều kiện nào sau đây là đủ để kết luận $d \perp (P)$?
-    Gợi ý: Sử dụng định lý về điều kiện để đường thẳng vuông góc với mặt phẳng.
+... Gợi ý: Sử dụng định lý về điều kiện để đường thẳng vuông góc với mặt phẳng.
 +   Phản hồi đúng: Chính xác! Theo định lý, đường thẳng vuông góc với mặt phẳng khi và chỉ khi nó vuông góc với hai đường thẳng cắt nhau trong mặt phẳng đó.
 -   Phản hồi sai: Cần nhớ định lý cơ bản: đường thẳng vuông góc với mặt phẳng khi vuông góc với hai đường thẳng cắt nhau trong mặt phẳng.
 a) $d$ vuông góc với một đường thẳng trong $(P)$
@@ -404,7 +404,7 @@ c) $d$ song song với một đường thẳng vuông góc với $(P)$
 d) $d$ tạo với $(P)$ một góc nhỏ hơn 90°
 
 6. Cho hình lăng trụ đứng $ABC.A'B'C'$ có đáy $ABC$ là tam giác vuông tại $A$ với $AB = 3$, $AC = 4$, $AA' = 5$. Khoảng cách từ $A'$ đến mặt phẳng $(ABC)$ bằng:
-    Gợi ý: Trong lăng trụ đứng, các cạnh bên vuông góc với mặt phẳng đáy.
+... Gợi ý: Trong lăng trụ đứng, các cạnh bên vuông góc với mặt phẳng đáy.
 +   Phản hồi đúng: Đúng rồi! Vì lăng trụ đứng nên $AA' \perp (ABC)$, do đó khoảng cách từ $A'$ đến $(ABC)$ chính là $AA' = 5$.
 -   Phản hồi sai: Trong lăng trụ đứng, các cạnh bên vuông góc với đáy, nên khoảng cách từ điểm trên đáy trên đến đáy dưới bằng chiều cao lăng trụ.
 a) 3
@@ -413,7 +413,7 @@ b) 4
 d) 6
 
 7. Cho hình chóp $S.ABC$ có $SA = SB = SC = a$ và tam giác $ABC$ đều cạnh $a$. Khoảng cách từ $S$ đến mặt phẳng $(ABC)$ bằng:
-    Gợi ý: Do tính đối xứng, chân đường cao từ $S$ xuống $(ABC)$ là tâm đường tròn ngoại tiếp tam giác $ABC$.
+... Gợi ý: Do tính đối xứng, chân đường cao từ $S$ xuống $(ABC)$ là tâm đường tròn ngoại tiếp tam giác $ABC$.
 +   Phản hồi đúng: Chính xác! Chân đường cao $H$ là tâm tam giác đều $ABC$. Ta có $AH = \frac{a\sqrt{3}}{3}$. Trong tam giác vuông $SAH$: $SH = \sqrt{SA^2 - AH^2} = \sqrt{a^2 - \frac{a^2}{3}} = \frac{a\sqrt{6}}{3}$.
 -   Phản hồi sai: Cần xác định vị trí chân đường cao và sử dụng định lý Pythagoras trong tam giác vuông.
 a) $\frac{a\sqrt{2}}{2}$
@@ -422,7 +422,7 @@ c) $\frac{a\sqrt{3}}{2}$
 d) $\frac{a}{2}$
 
 8. Trong hình lập phương $ABCD.A'B'C'D'$, góc giữa đường thẳng $AB'$ và mặt phẳng $(ABCD)$ bằng:
-    Gợi ý: Hình chiếu của $AB'$ lên mặt phẳng $(ABCD)$ là đoạn thẳng nào?
+... Gợi ý: Hình chiếu của $AB'$ lên mặt phẳng $(ABCD)$ là đoạn thẳng nào?
 +   Phản hồi đúng: Đúng! Hình chiếu của $AB'$ lên $(ABCD)$ là $AB$. Trong tam giác vuông $ABB'$: $\tan(\angle BAB') = \frac{BB'}{AB} = 1$, nên góc bằng 45°.
 -   Phản hồi sai: Cần xác định hình chiếu của đường thẳng lên mặt phẳng và tính góc trong tam giác vuông tương ứng.
 a) 30°
@@ -431,7 +431,7 @@ c) 60°
 d) 90°
 
 9. Cho tứ diện $ABCD$ có $AB \perp CD$ và $AC \perp BD$. Khẳng định nào sau đây đúng?
-    Gợi ý: Xét mối quan hệ giữa $AD$ và $BC$ trong tứ diện có các cặp cạnh đối vuông góc.
+... Gợi ý: Xét mối quan hệ giữa $AD$ và $BC$ trong tứ diện có các cặp cạnh đối vuông góc.
 +   Phản hồi đúng: Chính xác! Trong tứ diện có hai cặp cạnh đối vuông góc thì cặp cạnh đối thứ ba cũng vuông góc. Do đó $AD \perp BC$.
 -   Phản hồi sai: Đây là tính chất đặc biệt của tứ diện: nếu hai cặp cạnh đối vuông góc thì cặp thứ ba cũng vuông góc.
 a) $AD$ song song $BC$
@@ -440,7 +440,7 @@ c) $ABCD$ là hình thang
 d) Tứ diện có thể tích bằng 0
 
 10. Cho hình chóp $S.ABCD$ có đáy là hình chữ nhật với $AB = 4$, $BC = 3$, $SA \perp (ABCD)$ và $SA = 5$. Khoảng cách từ $S$ đến đường thẳng $BD$ bằng:
-     Gợi ý: Khoảng cách từ điểm đến đường thẳng bằng khoảng cách từ điểm đó đến hình chiếu của đường thẳng.
+ ... Gợi ý: Khoảng cách từ điểm đến đường thẳng bằng khoảng cách từ điểm đó đến hình chiếu của đường thẳng.
 +    Phản hồi đúng: Đúng! Khoảng cách từ $S$ đến $BD$ bằng khoảng cách từ $A$ đến $BD$ (vì $SA \perp (ABCD)$). Trong hình chữ nhật, khoảng cách từ $A$ đến $BD$ là $\frac{AB \cdot AD}{BD} = \frac{4 \cdot 3}{5} = \frac{12}{5}$.
 -    Phản hồi sai: Cần hạ đường vuông góc từ điểm xuống mặt phẳng chứa đường thẳng và tính khoảng cách trong mặt phẳng đó.
 a) $\frac{10}{3}$
@@ -449,7 +449,7 @@ c) $\frac{15}{4}$
 d) 3
 
 11. Trong không gian, nếu hai mặt phẳng $(P)$ và $(Q)$ vuông góc với nhau thì:
-     Gợi ý: Sử dụng định lý về mối quan hệ giữa đường thẳng và mặt phẳng khi hai mặt phẳng vuông góc.
+ ... Gợi ý: Sử dụng định lý về mối quan hệ giữa đường thẳng và mặt phẳng khi hai mặt phẳng vuông góc.
 +    Phản hồi đúng: Chính xác! Khi hai mặt phẳng vuông góc, nếu một đường thẳng nằm trong mặt phẳng này và vuông góc với giao tuyến thì nó vuông góc với mặt phẳng kia.
 -    Phản hồi sai: Cần nhớ định lý về quan hệ giữa đường thẳng và mặt phẳng trong trường hợp hai mặt phẳng vuông góc.
 a) Mọi đường thẳng trong $(P)$ đều vuông góc với $(Q)$
@@ -458,7 +458,7 @@ c) Giao tuyến của chúng vuông góc với cả hai mặt phẳng
 d) Chúng không có điểm chung
 
 12. Cho hình chóp $S.ABC$ có đáy $ABC$ là tam giác vuông cân tại $B$ với $BA = BC = a$, $SB \perp (ABC)$ và $SB = a$. Góc giữa mặt phẳng $(SAC)$ và mặt phẳng $(ABC)$ bằng:
-     Gợi ý: Tìm giao tuyến của hai mặt phẳng và dựng các đường vuông góc với giao tuyến.
+ ... Gợi ý: Tìm giao tuyến của hai mặt phẳng và dựng các đường vuông góc với giao tuyến.
 +    Phản hồi đúng: Đúng rồi! Giao tuyến là $AC$. Gọi $M$ là trung điểm $AC$, ta có $BM \perp AC$ và $SM \perp AC$. Góc giữa hai mặt phẳng là $\angle SMB$. Trong tam giác vuông $SMB$: $\tan(\angle SMB) = \frac{SB}{BM} = \frac{a}{\frac{a}{\sqrt{2}}} = \sqrt{2}$.
 -    Phản hồi sai: Cần xác định giao tuyến và dựng đúng các đường vuông góc để tìm góc giữa hai mặt phẳng.
 a) 45°
@@ -467,7 +467,7 @@ c) 60°
 d) 90°
 
 13. Cho hình lăng trụ tam giác đều $ABC.A'B'C'$ có cạnh đáy bằng $a$ và chiều cao bằng $h$. Khoảng cách giữa hai mặt phẳng $(ABC)$ và $(A'B'C')$ bằng:
-     Gợi ý: Khoảng cách giữa hai mặt phẳng song song bằng khoảng cách từ một điểm thuộc mặt phẳng này đến mặt phẳng kia.
+ ... Gợi ý: Khoảng cách giữa hai mặt phẳng song song bằng khoảng cách từ một điểm thuộc mặt phẳng này đến mặt phẳng kia.
 +    Phản hồi đúng: Chính xác! Hai mặt phẳng đáy song song với nhau, khoảng cách giữa chúng chính là chiều cao của lăng trụ, tức là $h$.
 -    Phản hồi sai: Trong lăng trụ, khoảng cách giữa hai mặt đáy song song luôn bằng chiều cao của lăng trụ.
 a) $a$
@@ -476,7 +476,7 @@ c) $\frac{a\sqrt{3}}{2}$
 d) $\sqrt{a^2 + h^2}$
 
 14. Cho tứ diện đều $ABCD$ có cạnh $a$. Khoảng cách từ đỉnh $A$ đến mặt phẳng $(BCD)$ bằng:
-     Gợi ý: Trong tứ diện đều, chân đường cao từ một đỉnh đến mặt đối diện là tâm tam giác đều.
+ ... Gợi ý: Trong tứ diện đều, chân đường cao từ một đỉnh đến mặt đối diện là tâm tam giác đều.
 +    Phản hồi đúng: Đúng! Chân đường cao $H$ là tâm tam giác đều $BCD$. Khoảng cách từ tâm đến đỉnh tam giác đều cạnh $a$ là $\frac{a\sqrt{3}}{3}$. Sử dụng định lý Pythagoras: $AH = \sqrt{a^2 - \frac{a^2}{3}} = \frac{a\sqrt{6}}{3}$.
 -    Phản hồi sai: Cần tính khoảng cách từ tâm tam giác đều đến đỉnh, sau đó dùng định lý Pythagoras.
 a) $\frac{a\sqrt{2}}{2}$
@@ -485,7 +485,7 @@ b) $\frac{a\sqrt{3}}{3}$
 d) $\frac{a}{2}$
 
 15. Trong hình hộp chữ nhật $ABCD.A'B'C'D'$ có $AB = 3$, $BC = 4$, $AA' = 5$, góc giữa đường thẳng $AC'$ và mặt phẳng $(ABCD)$ bằng:
-     Gợi ý: Hình chiếu của $AC'$ lên $(ABCD)$ là đường chéo đáy $AC$.
+ ... Gợi ý: Hình chiếu của $AC'$ lên $(ABCD)$ là đường chéo đáy $AC$.
 +    Phản hồi đúng: Chính xác! Hình chiếu của $AC'$ lên $(ABCD)$ là $AC$. Ta có $AC = \sqrt{3^2 + 4^2} = 5$. Trong tam giác vuông $ACC'$: $\tan(\angle CAC') = \frac{CC'}{AC} = \frac{5}{5} = 1$, nên góc bằng 45°.
 -    Phản hồi sai: Cần tính độ dài đường chéo đáy và sử dụng tỷ số lượng giác trong tam giác vuông.
 a) 30°
@@ -494,7 +494,7 @@ b) $\arctan(\frac{3}{4})$
 d) 60°
 
 16. Cho hình chóp $S.ABCD$ có đáy $ABCD$ là hình thoi cạnh $a$, góc $\widehat{ABC} = 60°$, $SO \perp (ABCD)$ với $O$ là tâm hình thoi và $SO = \frac{a\sqrt{3}}{2}$. Góc giữa mặt phẳng $(SAB)$ và mặt phẳng $(ABCD)$ bằng:
-     Gợi ý: Dựng đường vuông góc từ $O$ đến cạnh $AB$ và sử dụng tính chất của hình thoi.
+ ... Gợi ý: Dựng đường vuông góc từ $O$ đến cạnh $AB$ và sử dụng tính chất của hình thoi.
 +    Phản hồi đúng: Đúng! Gọi $M$ là trung điểm $AB$, ta có $OM \perp AB$ và $SM \perp AB$. Góc giữa hai mặt phẳng là $\angle SMO$. Trong hình thoi với $\widehat{ABC} = 60°$, ta có $OM = \frac{a\sqrt{3}}{4}$. Do đó $\tan(\angle SMO) = \frac{SO}{OM} = \frac{\frac{a\sqrt{3}}{2}}{\frac{a\sqrt{3}}{4}} = 2$.
 -    Phản hồi sai: Cần xác định đúng khoảng cách từ tâm hình thoi đến cạnh và tính góc trong tam giác vuông.
 a) 30°
@@ -503,7 +503,7 @@ b) 45°
 d) 60°
 
 17. Cho hai mặt phẳng $(P)$ và $(Q)$ cắt nhau theo giao tuyến $d$. Nếu đường thẳng $\Delta$ vuông góc với $(P)$ thì:
-     Gợi ý: Sử dụng tính chất của đường thẳng vuông góc với mặt phẳng.
+ ... Gợi ý: Sử dụng tính chất của đường thẳng vuông góc với mặt phẳng.
 +    Phản hồi đúng: Chính xác! Nếu $\Delta \perp (P)$ thì $\Delta$ vuông góc với mọi đường thẳng nằm trong $(P)$, do đó $\Delta \perp d$ vì $d$ nằm trong $(P)$.
 -    Phản hồi sai: Cần nhớ rằng đường thẳng vuông góc với mặt phẳng thì vuông góc với mọi đường thẳng nằm trong mặt phẳng đó.
 a) $\Delta$ song song với $d$
@@ -512,7 +512,7 @@ c) $\Delta$ nằm trong $(Q)$
 d) $\Delta$ song song với $(Q)$
 
 18. Cho hình chóp tam giác đều $S.ABC$ có cạnh đáy $a$ và chiều cao $h$. Góc giữa cạnh bên $SA$ và mặt phẳng đáy $(ABC)$ bằng:
-     Gợi ý: Hình chiếu của $SA$ lên $(ABC)$ là đoạn thẳng từ $A$ đến chân đường cao.
+ ... Gợi ý: Hình chiếu của $SA$ lên $(ABC)$ là đoạn thẳng từ $A$ đến chân đường cao.
 +    Phản hồi đúng: Đúng! Chân đường cao $H$ là tâm tam giác đều $ABC$. Ta có $AH = \frac{a\sqrt{3}}{3}$. Góc giữa $SA$ và $(ABC)$ là $\angle SAH$. Do đó $\tan(\angle SAH) = \frac{SH}{AH} = \frac{h}{\frac{a\sqrt{3}}{3}} = \frac{3h}{a\sqrt{3}} = \frac{h\sqrt{3}}{a}$.
 -    Phản hồi sai: Cần xác định vị trí chân đường cao và tính khoảng cách từ đỉnh đến tâm tam giác đều.
 a) $\arctan(\frac{h}{a})$
@@ -521,7 +521,7 @@ c) $\arctan(\frac{a}{h})$
 d) $\arctan(\frac{a\sqrt{3}}{h})$
 
 19. Trong hình lập phương $ABCD.A'B'C'D'$ cạnh $a$, khoảng cách từ điểm $A$ đến mặt phẳng $(BDD'B')$ bằng:
-     Gợi ý: Mặt phẳng $(BDD'B')$ đi qua tâm hình lập phương và vuông góc với đường chéo $AC$.
+ ... Gợi ý: Mặt phẳng $(BDD'B')$ đi qua tâm hình lập phương và vuông góc với đường chéo $AC$.
 +    Phản hồi đúng: Chính xác! Mặt phẳng $(BDD'B')$ là mặt phẳng đi qua hai đường chéo của hình lập phương. Khoảng cách từ $A$ đến mặt phẳng này bằng $\frac{a\sqrt{2}}{2}$ (bằng nửa đường chéo mặt).
 -    Phản hồi sai: Cần sử dụng tính chất đối xứng của hình lập phương và mối quan hệ với đường chéo.
 a) $\frac{a}{2}$
@@ -530,7 +530,7 @@ c) $\frac{a\sqrt{3}}{2}$
 d) $a$
 
 20. Cho hình chóp $S.ABCD$ có đáy là hình vuông cạnh $2a$, $SA \perp (ABCD)$ và $SA = a\sqrt{6}$. Khoảng cách từ điểm $A$ đến mặt phẳng $(SCD)$ bằng:
-     Gợi ý: Sử dụng công thức thể tích tứ diện để tính khoảng cách.
+ ... Gợi ý: Sử dụng công thức thể tích tứ diện để tính khoảng cách.
 +    Phản hồi đúng: Đúng! Thể tích tứ diện $ASCD$ tính theo hai cách: $V = \frac{1}{3} \cdot S_{SCD} \cdot d(A,(SCD)) = \frac{1}{6} \cdot SA \cdot AC \cdot \sin(\angle SAC)$. Từ đó suy ra khoảng cách cần tìm là $\frac{2a\sqrt{3}}{3}$.
 -    Phản hồi sai: Cần tính thể tích tứ diện và diện tích tam giác trong mặt phẳng để áp dụng công thức khoảng cách.
 a) $\frac{a\sqrt{2}}{2}$
@@ -719,7 +719,7 @@ c) $\frac{3}{5}$
 d) $\frac{2}{3}$
 
 1. Cho hai biến cố A và B với $P(A) = 0,6$; $P(B) = 0,4$; $P(A \cap B) = 0,24$. Hai biến cố A và B có mối quan hệ như thế nào?
-    Gợi ý: Kiểm tra điều kiện độc lập bằng cách so sánh $P(A \cap B)$ với $P(A) \times P(B)$.
+... Gợi ý: Kiểm tra điều kiện độc lập bằng cách so sánh $P(A \cap B)$ với $P(A) \times P(B)$.
 +   Phản hồi đúng: Chính xác! Vì $P(A \cap B) = 0,24 = 0,6 \times 0,4 = P(A) \times P(B)$ nên A và B độc lập.
 -   Phản hồi sai: Cần kiểm tra điều kiện độc lập: Hai biến cố A và B độc lập khi và chỉ khi $P(A \cap B) = P(A) \times P(B)$.
 a) A và B xung khắc
@@ -728,7 +728,7 @@ b) A và B không độc lập
 d) A và B đối nhau
 
 2. Trong một lớp học có 30 học sinh, có 18 em thích môn Toán, 20 em thích môn Lý, 12 em thích cả hai môn. Xác suất để một học sinh được chọn ngẫu nhiên thích ít nhất một trong hai môn là:
-    Gợi ý: Sử dụng quy tắc cộng xác suất: $P(A \cup B) = P(A) + P(B) - P(A \cap B)$.
+... Gợi ý: Sử dụng quy tắc cộng xác suất: $P(A \cup B) = P(A) + P(B) - P(A \cap B)$.
 +   Phản hồi đúng: Đúng rồi! $P(A \cup B) = \frac{18}{30} + \frac{20}{30} - \frac{12}{30} = \frac{26}{30} = \frac{13}{15}$.
 -   Phản hồi sai: Khi tính xác suất hợp của hai biến cố, cần trừ đi phần giao để tránh tính trùng lặp.
 a) $\frac{2}{3}$
@@ -737,7 +737,7 @@ c) $\frac{19}{30}$
 d) $\frac{4}{5}$
 
 3. Một hộp chứa 6 bi đỏ và 4 bi xanh. Lấy liên tiếp 2 bi không hoàn lại. Xác suất để bi thứ nhất là đỏ và bi thứ hai là xanh là:
-    Gợi ý: Sử dụng quy tắc nhân: $P(A \cap B) = P(A) \times P(B|A)$.
+... Gợi ý: Sử dụng quy tắc nhân: $P(A \cap B) = P(A) \times P(B|A)$.
 +   Phản hồi đúng: Chính xác! $P(\text{đỏ đầu, xanh sau}) = \frac{6}{10} \times \frac{4}{9} = \frac{24}{90} = \frac{4}{15}$.
 -   Phản hồi sai: Lưu ý rằng sau khi lấy bi thứ nhất, tổng số bi còn lại thay đổi.
 a) $\frac{6}{25}$
@@ -746,7 +746,7 @@ c) $\frac{2}{9}$
 d) $\frac{1}{4}$
 
 4. Cho $P(A) = 0,7$ và $P(A|B) = 0,8$. Nếu $P(B) = 0,5$ thì $P(A \cap B)$ bằng:
-    Gợi ý: Sử dụng định nghĩa xác suất có điều kiện: $P(A|B) = \frac{P(A \cap B)}{P(B)}$.
+... Gợi ý: Sử dụng định nghĩa xác suất có điều kiện: $P(A|B) = \frac{P(A \cap B)}{P(B)}$.
 +   Phản hồi đúng: Đúng! Từ $P(A|B) = \frac{P(A \cap B)}{P(B)}$ suy ra $P(A \cap B) = P(A|B) \times P(B) = 0,8 \times 0,5 = 0,4$.
 -   Phản hồi sai: Công thức xác suất có điều kiện là $P(A|B) = \frac{P(A \cap B)}{P(B)}$, từ đó tính được $P(A \cap B)$.
 a) 0,35
@@ -755,7 +755,7 @@ c) 0,6
 d) 1,6
 
 5. Tung một đồng xu cân đối hai lần. Gọi A là biến cố "lần đầu ra mặt ngửa", B là biến cố "lần thứ hai ra mặt sấp". Khẳng định nào sau đây đúng?
-    Gợi ý: Xét tính độc lập của hai lần tung đồng xu.
+... Gợi ý: Xét tính độc lập của hai lần tung đồng xu.
 +   Phản hồi đúng: Chính xác! Hai lần tung độc lập nhau nên $P(A \cap B) = P(A) \times P(B) = \frac{1}{2} \times \frac{1}{2} = \frac{1}{4}$.
 -   Phản hồi sai: Kết quả của lần tung thứ nhất không ảnh hưởng đến lần tung thứ hai nên hai biến cố độc lập.
 a) A và B xung khắc
@@ -764,7 +764,7 @@ b) $P(A|B) = 0$
 d) $P(A \cup B) = 1$
 
 6. Trong một khảo sát, xác suất để một người thích cà phê là 0,6, thích trà là 0,5, thích cả hai là 0,3. Xác suất để người đó không thích đồ uống nào là:
-    Gợi ý: Tính $P(A \cup B)$ trước, sau đó tìm $P(\overline{A \cup B}) = 1 - P(A \cup B)$.
+... Gợi ý: Tính $P(A \cup B)$ trước, sau đó tìm $P(\overline{A \cup B}) = 1 - P(A \cup B)$.
 +   Phản hồi đúng: Đúng! $P(A \cup B) = 0,6 + 0,5 - 0,3 = 0,8$, nên $P(\overline{A \cup B}) = 1 - 0,8 = 0,2$.
 -   Phản hồi sai: Biến cố "không thích đồ uống nào" là biến cố đối của "thích ít nhất một đồ uống".
 a) 0,1
@@ -773,7 +773,7 @@ c) 0,3
 d) 0,4
 
 7. Một cửa hàng nhập hàng từ hai nhà cung cấp A và B với tỷ lệ 60% và 40%. Tỷ lệ hàng tốt từ A là 90%, từ B là 80%. Xác suất để một sản phẩm ngẫu nhiên là hàng tốt là:
-    Gợi ý: Áp dụng công thức xác suất toàn phần.
+... Gợi ý: Áp dụng công thức xác suất toàn phần.
 +   Phản hồi đúng: Chính xác! $P(\text{tốt}) = 0,6 \times 0,9 + 0,4 \times 0,8 = 0,54 + 0,32 = 0,86$.
 -   Phản hồi sai: Sử dụng công thức xác suất toàn phần: $P(A) = P(A|B_1)P(B_1) + P(A|B_2)P(B_2)$.
 a) 0,84
@@ -782,7 +782,7 @@ c) 0,88
 d) 0,90
 
 8. Cho hai biến cố A và B sao cho $P(A) = 0,4$, $P(B) = 0,7$, $P(A \cup B) = 0,9$. Giá trị của $P(A \cap B)$ là:
-    Gợi ý: Sử dụng công thức $P(A \cup B) = P(A) + P(B) - P(A \cap B)$.
+... Gợi ý: Sử dụng công thức $P(A \cup B) = P(A) + P(B) - P(A \cap B)$.
 +   Phản hồi đúng: Đúng! Từ công thức quy tắc cộng: $P(A \cap B) = P(A) + P(B) - P(A \cup B) = 0,4 + 0,7 - 0,9 = 0,2$.
 -   Phản hồi sai: Biến đổi công thức quy tắc cộng để tìm $P(A \cap B) = P(A) + P(B) - P(A \cup B)$.
 a) 0,1
@@ -791,7 +791,7 @@ c) 0,3
 d) 0,28
 
 9. Trong một lớp có 25 học sinh, 15 em giỏi Toán, 12 em giỏi Văn. Biết có 5 em giỏi cả hai môn. Chọn ngẫu nhiên một học sinh giỏi Toán, xác suất để em đó cũng giỏi Văn là:
-    Gợi ý: Tính xác suất có điều kiện $P(\text{Văn}|\text{Toán})$.
+... Gợi ý: Tính xác suất có điều kiện $P(\text{Văn}|\text{Toán})$.
 +   Phản hồi đúng: Chính xác! $P(\text{Văn}|\text{Toán}) = \frac{P(\text{Văn} \cap \text{Toán})}{P(\text{Toán})} = \frac{5/25}{15/25} = \frac{5}{15} = \frac{1}{3}$.
 -   Phản hồi sai: Xác suất có điều kiện được tính bằng $P(A|B) = \frac{P(A \cap B)}{P(B)}$.
 a) $\frac{1}{5}$
@@ -800,7 +800,7 @@ b) $\frac{1}{4}$
 d) $\frac{2}{5}$
 
 10. Gieo một xúc xắc cân đối hai lần. Gọi A là biến cố "tổng hai mặt bằng 7", B là biến cố "lần đầu ra mặt 3". Xác suất $P(A|B)$ bằng:
-     Gợi ý: Khi lần đầu ra mặt 3, tìm xác suất để tổng bằng 7.
+ ... Gợi ý: Khi lần đầu ra mặt 3, tìm xác suất để tổng bằng 7.
 +    Phản hồi đúng: Đúng! Nếu lần đầu ra 3, để tổng bằng 7 thì lần hai phải ra 4. $P(A|B) = \frac{1}{6}$.
 -    Phản hồi sai: Điều kiện B đã xảy ra, cần tìm xác suất A xảy ra trong điều kiện này.
 a) $\frac{1}{36}$
@@ -809,7 +809,7 @@ c) $\frac{1}{3}$
 d) $\frac{1}{2}$
 
 11. Một hộp có 8 viên bi gồm 5 bi trắng và 3 bi đen. Lấy ngẫu nhiên 2 bi không hoàn lại. Xác suất để hai bi cùng màu là:
-     Gợi ý: Tính xác suất lấy được 2 bi trắng cộng với xác suất lấy được 2 bi đen.
+ ... Gợi ý: Tính xác suất lấy được 2 bi trắng cộng với xác suất lấy được 2 bi đen.
 +    Phản hồi đúng: Đúng! $P = \frac{5}{8} \times \frac{4}{7} + \frac{3}{8} \times \frac{2}{7} = \frac{20}{56} + \frac{6}{56} = \frac{26}{56} = \frac{13}{28}$.
 -    Phản hồi sai: Biến cố "cùng màu" gồm hai trường hợp: cả hai trắng hoặc cả hai đen.
 a) $\frac{3}{14}$
@@ -818,7 +818,7 @@ b) $\frac{5}{14}$
 d) $\frac{1}{2}$
 
 12. Cho $P(A) = 0,3$, $P(B) = 0,5$, $P(A \cap B) = 0,1$. Xác suất $P(B|A)$ bằng:
-     Gợi ý: Sử dụng định nghĩa xác suất có điều kiện.
+ ... Gợi ý: Sử dụng định nghĩa xác suất có điều kiện.
 +    Phản hồi đúng: Chính xác! $P(B|A) = \frac{P(A \cap B)}{P(A)} = \frac{0,1}{0,3} = \frac{1}{3}$.
 -    Phản hồi sai: Công thức xác suất có điều kiện: $P(B|A) = \frac{P(A \cap B)}{P(A)}$.
 a) $\frac{1}{5}$
@@ -827,7 +827,7 @@ b) $\frac{1}{4}$
 d) $\frac{2}{5}$
 
 13. Một trường có 60% học sinh nam và 40% học sinh nữ. Tỷ lệ học sinh nam thích thể thao là 80%, học sinh nữ thích thể thao là 60%. Chọn ngẫu nhiên một học sinh thích thể thao, xác suất để đó là học sinh nam là:
-     Gợi ý: Sử dụng công thức Bayes sau khi tính xác suất toàn phần.
+ ... Gợi ý: Sử dụng công thức Bayes sau khi tính xác suất toàn phần.
 +    Phản hồi đúng: Đúng! $P(\text{nam}|\text{thể thao}) = \frac{0,6 \times 0,8}{0,6 \times 0,8 + 0,4 \times 0,6} = \frac{0,48}{0,72} = \frac{2}{3}$.
 -    Phản hồi sai: Đây là bài toán áp dụng công thức Bayes để tìm xác suất nguyên nhân.
 a) $\frac{3}{5}$
@@ -836,7 +836,7 @@ c) $\frac{4}{5}$
 d) $\frac{3}{4}$
 
 14. Cho hai biến cố A và B với $P(A) = 0,6$, $P(B) = 0,4$, $P(A \cup B) = 0,8$. Hai biến cố A và B có tính chất gì?
-     Gợi ý: Tính $P(A \cap B)$ rồi so sánh với $P(A) \times P(B)$.
+ ... Gợi ý: Tính $P(A \cap B)$ rồi so sánh với $P(A) \times P(B)$.
 +    Phản hồi đúng: Đúng! $P(A \cap B) = 0,6 + 0,4 - 0,8 = 0,2 \neq 0,24 = P(A) \times P(B)$, nên không độc lập.
 -    Phản hồi sai: Hai biến cố độc lập khi và chỉ khi $P(A \cap B) = P(A) \times P(B)$.
 a) Độc lập
@@ -845,7 +845,7 @@ c) Xung khắc
 d) Đối nhau
 
 15. Một túi có 12 quả bóng gồm 7 quả đỏ và 5 quả xanh. Lấy ngẫu nhiên 3 quả. Xác suất để có ít nhất 1 quả đỏ là:
-     Gợi ý: Sử dụng biến cố đối: $P(\text{ít nhất 1 đỏ}) = 1 - P(\text{cả 3 đều xanh})$.
+ ... Gợi ý: Sử dụng biến cố đối: $P(\text{ít nhất 1 đỏ}) = 1 - P(\text{cả 3 đều xanh})$.
 +    Phản hồi đúng: Chính xác! $P = 1 - \frac{5}{12} \times \frac{4}{11} \times \frac{3}{10} = 1 - \frac{60}{1320} = 1 - \frac{1}{22} = \frac{21}{22}$.
 -    Phản hồi sai: Dùng biến cố đối sẽ đơn giản hơn việc tính trực tiếp các trường hợp có 1, 2, hoặc 3 quả đỏ.
 a) $\frac{19}{22}$
@@ -854,7 +854,7 @@ b) $\frac{20}{22}$
 d) $\frac{7}{12}$
 
 16. Trong một kỳ thi, xác suất để thí sinh A đỗ là 0,8, thí sinh B đỗ là 0,7. Biết kết quả thi của hai thí sinh độc lập. Xác suất để có đúng một thí sinh đỗ là:
-     Gợi ý: "Đúng một thí sinh đỗ" có nghĩa là "A đỗ và B trượt" hoặc "A trượt và B đỗ".
+ ... Gợi ý: "Đúng một thí sinh đỗ" có nghĩa là "A đỗ và B trượt" hoặc "A trượt và B đỗ".
 +    Phản hồi đúng: Chính xác! $P = 0,8 \times 0,3 + 0,2 \times 0,7 = 0,24 + 0,14 = 0,38$.
 -    Phản hồi sai: Biến cố "đúng một thí sinh đỗ" gồm hai trường hợp xung khắc.
 a) 0,34
@@ -863,7 +863,7 @@ c) 0,42
 d) 0,56
 
 17. Có 3 hộp bi: Hộp 1 có 4 bi đỏ và 2 bi xanh, Hộp 2 có 3 bi đỏ và 3 bi xanh, Hộp 3 có 2 bi đỏ và 4 bi xanh. Chọn ngẫu nhiên một hộp rồi lấy một bi. Xác suất để lấy được bi đỏ là:
-     Gợi ý: Áp dụng công thức xác suất toàn phần với 3 hộp có xác suất chọn bằng nhau.
+ ... Gợi ý: Áp dụng công thức xác suất toàn phần với 3 hộp có xác suất chọn bằng nhau.
 +    Phản hồi đúng: Đúng! $P = \frac{1}{3} \times \frac{4}{6} + \frac{1}{3} \times \frac{3}{6} + \frac{1}{3} \times \frac{2}{6} = \frac{1}{3} \times \frac{9}{6} = \frac{1}{2}$.
 -    Phản hồi sai: Mỗi hộp có xác suất được chọn là $\frac{1}{3}$, sau đó tính xác suất lấy bi đỏ từ mỗi hộp.
 a) $\frac{5}{12}$
@@ -872,7 +872,7 @@ c) $\frac{7}{12}$
 d) $\frac{2}{3}$
 
 18. Cho $P(A) = 0,4$, $P(\overline{A} \cap B) = 0,3$, $P(\overline{B}) = 0,6$. Xác suất $P(A \cap B)$ bằng:
-     Gợi ý: Sử dụng $P(B) = 1 - P(\overline{B})$ và $P(B) = P(A \cap B) + P(\overline{A} \cap B)$.
+ ... Gợi ý: Sử dụng $P(B) = 1 - P(\overline{B})$ và $P(B) = P(A \cap B) + P(\overline{A} \cap B)$.
 +    Phản hồi đúng: Chính xác! $P(B) = 1 - 0,6 = 0,4$. Do đó $P(A \cap B) = P(B) - P(\overline{A} \cap B) = 0,4 - 0,3 = 0,1$.
 -    Phản hồi sai: Biến cố B được phân tích thành hai phần xung khắc: $(A \cap B)$ và $(\overline{A} \cap B)$.
 *a) 0,1
@@ -881,7 +881,7 @@ c) 0,3
 d) 0,7
 
 19. Một công ty sản xuất có 2 máy A và B. Máy A sản xuất 60% tổng sản lượng với tỷ lệ lỗi 2%. Máy B sản xuất 40% với tỷ lệ lỗi 3%. Lấy ngẫu nhiên một sản phẩm bị lỗi, xác suất để nó do máy A sản xuất là:
-     Gợi ý: Sử dụng công thức Bayes sau khi tính xác suất sản phẩm lỗi.
+ ... Gợi ý: Sử dụng công thức Bayes sau khi tính xác suất sản phẩm lỗi.
 +    Phản hồi đúng: Đúng! $P(\text{A}|\text{lỗi}) = \frac{0,6 \times 0,02}{0,6 \times 0,02 + 0,4 \times 0,03} = \frac{0,012}{0,024} = \frac{1}{2}$.
 -    Phản hồi sai: Đây là bài toán áp dụng công thức Bayes để tìm xác suất nguyên nhân gây ra sản phẩm lỗi.
 a) $\frac{2}{5}$
@@ -890,7 +890,7 @@ c) $\frac{3}{5}$
 d) $\frac{2}{3}$
 
 20. Gieo đồng thời 2 đồng xu cân đối. Gọi A là biến cố "có ít nhất một mặt ngửa", B là biến cố "hai mặt khác nhau". Xác suất $P(A \cap B)$ bằng:
-     Gợi ý: Liệt kê không gian mẫu và xác định các biến cố A, B, sau đó tìm giao.
+ ... Gợi ý: Liệt kê không gian mẫu và xác định các biến cố A, B, sau đó tìm giao.
 +    Phản hồi đúng: Chính xác! $A \cap B$ là biến cố "có đúng một mặt ngửa", có 2 kết quả thuận lợi trong 4 kết quả. $P(A \cap B) = \frac{1}{2}$.
 -    Phản hồi sai: Không gian mẫu có 4 kết quả: NN, NS, SN, SS. Xác định từng biến cố rồi tìm giao.
 a) $\frac{1}{4}$

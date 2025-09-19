@@ -359,7 +359,7 @@ b) Chỉ cắt $SC$ và $SD$
 d) Không cắt cạnh nào khác
 
 1. Trong thiết kế một tòa nhà văn phòng, kiến trúc sư tạo ra khung thép có dạng hình hộp chữ nhật ABCD.A'B'C'D'. Để tăng cường độ bền, người ta lắp thêm thanh chống MN nối trung điểm M của cạnh AA' với trung điểm N của cạnh BB'. Thanh MN có quan hệ vị trí như thế nào với mặt phẳng đáy (ABCD)?
-    Gợi ý: Sử dụng định lý về đường thẳng song song với mặt phẳng thông qua việc tìm đường thẳng song song trong mặt phẳng.
+... Gợi ý: Sử dụng định lý về đường thẳng song song với mặt phẳng thông qua việc tìm đường thẳng song song trong mặt phẳng.
 +   Phản hồi đúng: Chính xác! MN song song với AB nằm trong mặt phẳng (ABCD), do đó MN song song với mặt phẳng (ABCD) theo định lý đường thẳng song song với mặt phẳng.
 -   Phản hồi sai: Cần phân tích vị trí của M và N để xác định MN song song với đường thẳng nào trong mặt phẳng đáy.
 a) MN cắt mặt phẳng (ABCD)
@@ -368,7 +368,7 @@ b) MN nằm trong mặt phẳng (ABCD)
 d) MN vuông góc với mặt phẳng (ABCD)
 
 2. Một container hàng có dạng hình hộp chữ nhật với các kích thước 6m × 2.4m × 2.6m. Trên mặt bên, người ta vẽ đường chéo AC' (từ đỉnh A của đáy đến đỉnh C' của nắp). Nếu lấy điểm M trên cạnh AA' sao cho AM = 1.3m, mặt phẳng qua M song song với mặt phẳng (BCC'B') sẽ cắt cạnh DD' tại điểm N. Tính độ dài DN.
-    Gợi ý: Áp dụng tính chất của các mặt phẳng song song và tỷ lệ thức.
+... Gợi ý: Áp dụng tính chất của các mặt phẳng song song và tỷ lệ thức.
 +   Phản hồi đúng: Đúng rồi! Do tính chất đối xứng của hình hộp chữ nhật, DN = AM = 1.3m.
 -   Phản hồi sai: Cần sử dụng tính chất mặt phẳng song song cắt hai cạnh tương ứng tạo ra các đoạn bằng nhau.
 a) 1.0
@@ -377,7 +377,7 @@ b) 1.2
 d) 1.6
 
 3. Trong thiết kế cầu treo, hai dây cáp chính được mô tả bởi hai đường thẳng d₁ và d₂ trong không gian. Biết d₁ song song với mặt phẳng (P) và d₂ nằm trong mặt phẳng (Q). Nếu (P) cắt (Q) theo giao tuyến Δ, thì d₂ có quan hệ gì với d₁?
-    Gợi ý: Sử dụng định lý về giao tuyến của hai mặt phẳng khi một trong số chúng chứa đường thẳng song song với mặt phẳng kia.
+... Gợi ý: Sử dụng định lý về giao tuyến của hai mặt phẳng khi một trong số chúng chứa đường thẳng song song với mặt phẳng kia.
 +   Phản hồi đúng: Chính xác! Theo định lý, d₂ song song với giao tuyến Δ, và do d₁ cũng song song với Δ nên d₁ song song với d₂.
 -   Phản hồi sai: Cần áp dụng định lý về quan hệ giữa đường thẳng song song với mặt phẳng và giao tuyến.
 a) d₂ vuông góc với d₁
@@ -386,7 +386,7 @@ b) d₂ cắt d₁
 d) d₂ và d₁ chéo nhau
 
 4. Một nhà thiết kế tạo ra khung đèn hình chóp tứ giác đều S.ABCD với cạnh đáy AB = 4m. Để trang trí, người ta gắn dây LED theo đoạn MN, trong đó M và N lần lượt là các điểm trên SA và SC sao cho SM/SA = SN/SC = 2/3. Nếu O là tâm của hình vuông ABCD, tính độ dài đoạn MN theo độ dài AC.
-    Gợi ý: Sử dụng định lý Thales trong không gian và tính chất của hình chóp đều.
+... Gợi ý: Sử dụng định lý Thales trong không gian và tính chất của hình chóp đều.
 +   Phản hồi đúng: Đúng! Do SM/SA = SN/SC = 2/3, ta có MN song song với AC và MN = (2/3)AC.
 -   Phản hồi sai: Cần áp dụng định lý Thales để tìm mối quan hệ giữa MN và AC.
 a) MN = AC/3
@@ -395,7 +395,7 @@ c) MN = AC/2
 d) MN = 3AC/4
 
 5. Trong thiết kế sân bay, người ta xây dựng hai đường băng song song. Đường băng thứ nhất nằm trong mặt phẳng (α), đường băng thứ hai nằm trong mặt phẳng (β). Biết (α) // (β) và khoảng cách giữa chúng là 500m. Một máy bay bay theo đường thẳng d cắt cả hai mặt phẳng tại A và B. Nếu máy bay bay với góc nghiêng 30° so với mặt phẳng ngang, tính độ dài đoạn bay AB.
-    Gợi ý: Sử dụng quan hệ hình học trong tam giác vuông và khoảng cách giữa hai mặt phẳng song song.
+... Gợi ý: Sử dụng quan hệ hình học trong tam giác vuông và khoảng cách giữa hai mặt phẳng song song.
 +   Phản hồi đúng: Chính xác! Với góc nghiêng 30°, ta có sin(30°) = 500/AB, suy ra AB = 1000m.
 -   Phản hồi sai: Cần sử dụng tỷ số lượng giác trong tam giác vuông để tính AB.
 a) 866
@@ -404,7 +404,7 @@ b) 577
 d) 1154
 
 6. Một kho hàng có dạng hình lăng trụ đứng ABC.A'B'C' với đáy ABC là tam giác vuông tại A, AB = 6m, AC = 8m, chiều cao AA' = 3m. Để vận chuyển hàng hóa, người ta căng dây cáp từ điểm M trên cạnh AB (AM = 2m) đến điểm N trên cạnh A'C' (A'N = 2.67m). Chứng minh MN song song với mặt phẳng nào?
-    Gợi ý: Tính tỷ lệ AM/AB và A'N/A'C' để áp dụng định lý Thales trong không gian.
+... Gợi ý: Tính tỷ lệ AM/AB và A'N/A'C' để áp dụng định lý Thales trong không gian.
 +   Phản hồi đúng: Đúng! Do AM/AB = A'N/A'C' = 1/3, nên MN song song với mặt phẳng (BCC'B').
 -   Phản hồi sai: Cần so sánh các tỷ lệ để xác định mặt phẳng mà MN song song với nó.
 a) (ABC)
@@ -413,7 +413,7 @@ c) (ABB'A')
 d) (ACC'A')
 
 7. Trong thiết kế tháp truyền hình, người ta tạo ra cấu trúc hình chóp S.ABCD với đáy ABCD là hình thoi cạnh a = 10m. Các thanh chống được đặt tại các điểm P, Q, R, S lần lượt là trung điểm của SA, SB, SC, SD. Nếu diện tích hình thoi ABCD là 80m², tính diện tích tứ giác PQRS.
-    Gợi ý: Sử dụng định lý về mặt phẳng song song và tỷ lệ diện tích.
+... Gợi ý: Sử dụng định lý về mặt phẳng song song và tỷ lệ diện tích.
 +   Phản hồi đúng: Chính xác! Do PQRS là thiết diện song song với đáy và tỷ lệ 1:2, diện tích PQRS = (1/2)² × 80 = 20m².
 -   Phản hồi sai: Cần áp dụng tính chất tỷ lệ diện tích khi có hai mặt phẳng song song.
 *a) 20
@@ -422,7 +422,7 @@ c) 60
 d) 80
 
 8. Một nhà máy sản xuất có mái nhà hình chóp cụt. Mặt phẳng trên song song với mặt phẳng dưới, có diện tích lần lượt là 25m² và 100m². Nếu chiều cao giữa hai mặt phẳng này là 3m, tính chiều cao từ mặt phẳng dưới đến đỉnh của hình chóp gốc (nếu kéo dài).
-    Gợi ý: Sử dụng tỷ lệ thể tích và diện tích trong hình chóp cụt.
+... Gợi ý: Sử dụng tỷ lệ thể tích và diện tích trong hình chóp cụt.
 +   Phản hồi đúng: Đúng! Tỷ lệ diện tích là 1:4, nên tỷ lệ khoảng cách là 1:2. Chiều cao cần tìm là 6m.
 -   Phản hồi sai: Cần sử dụng mối quan hệ giữa tỷ lệ diện tích và tỷ lệ khoảng cách trong hình chóp.
 a) 4
@@ -431,7 +431,7 @@ b) 5
 d) 8
 
 9. Trong thiết kế cầu vượt, hai mặt phẳng nghiêng (α) và (β) song song với nhau. Một xe chạy theo đường thẳng d cắt (α) tại A và (β) tại B. Biết đường thẳng d hợp với phương ngang một góc 15° và khoảng cách theo phương thẳng đứng giữa hai mặt phẳng là 5m. Tính quãng đường AB mà xe phải di chuyển.
-    Gợi ý: Sử dụng tỷ số lượng giác sin trong tam giác vuông.
+... Gợi ý: Sử dụng tỷ số lượng giác sin trong tam giác vuông.
 +   Phản hồi đúng: Chính xác! sin(15°) = 5/AB, với sin(15°) ≈ 0.259, ta có AB ≈ 19.3m.
 -   Phản hồi sai: Cần áp dụng công thức sin để tính cạnh huyền trong tam giác vuông.
 a) 12.9
@@ -440,7 +440,7 @@ b) 15.4
 d) 22.7
 
 10. Một container chứa hàng có dạng hình hộp chữ nhật ABCD.A'B'C'D'. Người ta chia container thành hai phần bằng mặt phẳng (P) song song với mặt phẳng (ABB'A') và cắt cạnh CD, C'D' lần lượt tại M, N sao cho CM/CD = 1/4. Nếu thể tích toàn bộ container là 48m³, tính thể tích phần container chứa đỉnh C.
-    Gợi ý: Sử dụng tỷ lệ thể tích khi chia hình hộp bằng mặt phẳng song song.
+... Gợi ý: Sử dụng tỷ lệ thể tích khi chia hình hộp bằng mặt phẳng song song.
 +   Phản hồi đúng: Đúng! Phần chứa đỉnh C có tỷ lệ thể tích CM/CD = 1/4, nên thể tích là (1/4) × 48 = 12m³.
 -   Phản hồi sai: Cần tính tỷ lệ thể tích dựa trên tỷ lệ chia của mặt phẳng cắt.
 *a) 12
@@ -449,7 +449,7 @@ c) 24
 d) 36
 
 11. Trong thiết kế khung sườn máy bay, người ta tạo ra cấu trúc hình chóp S.ABC với SA = 6m, SB = 8m, SC = 10m. Các thanh ngang PQ, RS được lắp sao cho P, Q lần lượt chia SA, SB theo tỷ lệ 2:1 (từ S), còn R, S chia SA, SC theo tỷ lệ 1:2 (từ S). Tỷ lệ độ dài PQ và RS là bao nhiêu?
-    Gợi ý: Áp dụng định lý Thales để tính độ dài các đoạn thẳng song song với cạnh đáy.
+... Gợi ý: Áp dụng định lý Thales để tính độ dài các đoạn thẳng song song với cạnh đáy.
 +   Phản hồi đúng: Chính xác! PQ = (2/3)AB, RS = (1/3)AC. Với AB = 8, AC = 10, ta có PQ:RS = 16:10 = 8:5.
 -   Phản hồi sai: Cần tính chính xác tỷ lệ của từng đoạn thẳng dựa trên định lý Thales.
 a) 2:3
@@ -458,7 +458,7 @@ b) 3:2
 d) 5:8
 
 12. Một tòa nhà có ba tầng với các mặt sàn song song. Tầng 1 có diện tích 400m², tầng 2 có diện tích 324m², tầng 3 có diện tích 256m². Nếu chiều cao từ tầng 1 đến tầng 2 là 3.2m, tính chiều cao từ tầng 2 đến tầng 3, biết các tầng được thiết kế theo quy luật hình chóp cụt.
-    Gợi ý: Sử dụng tỷ lệ diện tích để tìm tỷ lệ khoảng cách trong hình chóp cụt.
+... Gợi ý: Sử dụng tỷ lệ diện tích để tìm tỷ lệ khoảng cách trong hình chóp cụt.
 +   Phản hồi đúng: Đúng! Tỷ lệ √324/√400 = 18/20 = 9/10, nên chiều cao tương ứng là 3.2 × (9/10) = 2.88m.
 -   Phản hồi sai: Cần căn bậc hai của tỷ lệ diện tích để tìm tỷ lệ khoảng cách.
 a) 2.4
@@ -467,7 +467,7 @@ b) 2.6
 d) 3.0
 
 13. Trong thiết kế ga tàu điện ngầm, người ta xây dựng hai đường ray song song nằm trong hai mặt phẳng song song (α) và (β). Khoảng cách giữa hai mặt phẳng này là 1.5m. Một thang cuốn nối hai mức có độ dài 12m. Tính góc nghiêng của thang cuốn so với mặt phẳng ngang.
-    Gợi ý: Sử dụng tỷ số lượng giác sin để tìm góc nghiêng.
+... Gợi ý: Sử dụng tỷ số lượng giác sin để tìm góc nghiêng.
 +   Phản hồi đúng: Chính xác! sin(α) = 1.5/12 = 1/8 = 0.125, suy ra α ≈ 7.18°.
 -   Phản hồi sai: Cần áp dụng công thức sin = đối/huyền để tính góc.
 a) 6.2
@@ -476,7 +476,7 @@ c) 8.5
 d) 9.3
 
 14. Một kho chứa hàng có dạng hình lăng trụ đứng với đáy là hình thang cân ABCD (AB // CD, AB = 8m, CD = 4m, chiều cao hình thang 3m). Chiều cao lăng trụ là 4m. Người ta dựng mặt phẳng (P) song song với đáy và cắt các cạnh bên tại các điểm cách đáy 1.5m. Tính diện tích thiết diện tạo bởi mặt phẳng (P).
-    Gợi ý: Thiết diện song song với đáy có cùng hình dạng và diện tích với đáy.
+... Gợi ý: Thiết diện song song với đáy có cùng hình dạng và diện tích với đáy.
 +   Phản hồi đúng: Đúng! Thiết diện song song với đáy nên có diện tích bằng diện tích đáy = (8+4)×3/2 = 18m².
 -   Phản hồi sai: Thiết diện song song với đáy của lăng trụ có diện tích bằng diện tích đáy.
 a) 15
@@ -485,7 +485,7 @@ b) 16
 d) 20
 
 15. Trong thiết kế mái che sân vận động, người ta tạo ra cấu trúc hình chóp S.ABCD với đáy ABCD là hình vuông cạnh 20m. Các dầm thép MN, PQ được lắp sao cho M, N, P, Q lần lượt chia các cạnh SA, SB, SC, SD theo tỷ lệ 3:2 (từ S). Chu vi tứ giác MNPQ bằng bao nhiêu?
-    Gợi ý: Sử dụng tính chất của thiết diện song song trong hình chóp.
+... Gợi ý: Sử dụng tính chất của thiết diện song song trong hình chóp.
 +   Phản hồi đúng: Chính xác! MNPQ là hình vuông với cạnh = (3/5) × 20 = 12m, chu vi = 4 × 12 = 48m.
 -   Phản hồi sai: Cần tính tỷ lệ thu nhỏ của thiết diện so với đáy.
 a) 40
@@ -494,7 +494,7 @@ b) 44
 d) 52
 
 16. Một nhà máy có hai băng chuyền song song được mô tả bởi hai đường thẳng d₁, d₂ nằm trong hai mặt phẳng song song (α), (β). Khoảng cách giữa (α) và (β) là 2m. Nếu một robot di chuyển theo đường thẳng Δ cắt d₁ tại A, cắt d₂ tại B và hợp với (α) một góc 45°, tính độ dài quãng đường AB mà robot di chuyển.
-    Gợi ý: Sử dụng tỷ số lượng giác sin trong tam giác vuông.
+... Gợi ý: Sử dụng tỷ số lượng giác sin trong tam giác vuông.
 +   Phản hồi đúng: Đúng! sin(45°) = 2/AB, với sin(45°) = √2/2, ta có AB = 2√2 ≈ 2.83m.
 -   Phản hồi sai: Cần áp dụng công thức lượng giác để tính cạnh huyền.
 a) 2.0
@@ -503,7 +503,7 @@ b) 2.4
 d) 3.2
 
 17. Trong thiết kế cầu trục, người ta tạo ra hệ thống ba thanh ngang song song AB, CD, EF lần lượt nằm trong ba mặt phẳng song song cách đều nhau. Biết AB = 12m, CD = 9m, khoảng cách từ mặt phẳng chứa AB đến mặt phẳng chứa CD bằng khoảng cách từ mặt phẳng chứa CD đến mặt phẳng chứa EF. Tính độ dài thanh EF.
-    Gợi ý: Áp dụng định lý Thales cho ba mặt phẳng song song.
+... Gợi ý: Áp dụng định lý Thales cho ba mặt phẳng song song.
 +   Phản hồi đúng: Chính xác! Do ba mặt phẳng song song cách đều nhau, ta có 12, 9, EF theo cấp số cộng với công sai -3, nên EF = 6m.
 -   Phản hồi sai: Cần sử dụng tính chất của ba mặt phẳng song song cách đều nhau tạo ra cấp số cộng.
 a) 5
@@ -512,7 +512,7 @@ c) 7
 d) 8
 
 18. Một container lạnh có dạng hình hộp chữ nhật với kích thước 6m × 3m × 2.5m. Để kiểm soát nhiệt độ, người ta chia container thành hai khoang bằng vách ngăn song song với mặt đáy nhỏ, cách mặt này 2m. Nếu nhiệt độ phân bố tỷ lệ với thể tích, tỷ lệ nhiệt độ giữa khoang lớn và khoang nhỏ là bao nhiêu?
-    Gợi ý: Tính thể tích từng khoang và lập tỷ lệ.
+... Gợi ý: Tính thể tích từng khoang và lập tỷ lệ.
 +   Phản hồi đúng: Đúng! Khoang lớn có thể tích 6×2×2.5 = 30m³, khoang nhỏ có thể tích 6×1×2.5 = 15m³, tỷ lệ là 2:1.
 -   Phản hồi sai: Cần tính chính xác thể tích từng phần sau khi chia và lập tỷ lệ.
 a) 3:1
@@ -521,7 +521,7 @@ c) 3:2
 d) 4:3
 
 19. Trong thiết kế sân khấu, người ta tạo ra khung cảnh hình chóp cụt với hai mặt phẳng song song. Mặt trên có chu vi 16m, mặt dưới có chu vi 24m, chiều cao giữa hai mặt là 2m. Nếu kéo dài thành hình chóp hoàn chỉnh, tính khoảng cách từ đỉnh chóp đến mặt phẳng dưới.
-    Gợi ý: Sử dụng tỷ lệ chu vi để tìm tỷ lệ khoảng cách trong hình chóp cụt.
+... Gợi ý: Sử dụng tỷ lệ chu vi để tìm tỷ lệ khoảng cách trong hình chóp cụt.
 +   Phản hồi đúng: Chính xác! Tỷ lệ chu vi 16:24 = 2:3, nên khoảng cách từ đỉnh đến mặt trên là 4m, đến mặt dưới là 6m.
 -   Phản hồi sai: Cần sử dụng tỷ lệ chu vi để tìm vị trí đỉnh của hình chóp gốc.
 a) 5
@@ -530,7 +530,7 @@ c) 7
 d) 8
 
 20. Một bãi đỗ xe có ba tầng với các mặt sàn song song. Độ dốc đường nối tầng 1-2 là 12%, độ dốc đường nối tầng 2-3 là 15%. Nếu chiều dài đường nối tầng 1-2 là 25m, tính độ chênh lệch độ cao giữa tầng 1 và tầng 3.
-    Gợi ý: Sử dụng khái niệm độ dốc phần trăm để tính độ chênh cao.
+... Gợi ý: Sử dụng khái niệm độ dốc phần trăm để tính độ chênh cao.
 +   Phản hồi đúng: Đúng! Độ cao từ tầng 1-2 là 25×0.12 = 3m. Cần thêm thông tin để tính chính xác, giả sử đường 2-3 dài 20m thì thêm 3m nữa, tổng 6m.
 -   Phản hồi sai: Độ dốc % = (độ chênh cao/chiều dài ngang) × 100%. Cần tính từng đoạn rồi cộng lại.
 a) 5
@@ -539,7 +539,7 @@ c) 7
 d) 8
 
 1. Cho $\lim_{x \to 2} f(x) = 5$. Điều này có nghĩa là:
-    Gợi ý: Áp dụng định nghĩa giới hạn của hàm số tại một điểm.
+... Gợi ý: Áp dụng định nghĩa giới hạn của hàm số tại một điểm.
 +   Phản hồi đúng: Chính xác! Khi x tiến gần đến 2 thì giá trị của f(x) tiến gần đến 5, đây là định nghĩa cơ bản của giới hạn.
 -   Phản hồi sai: Cần phân biệt giữa giới hạn của hàm số tại một điểm và giá trị của hàm số tại điểm đó.
 a) f(2) = 5
@@ -548,7 +548,7 @@ c) f(x) = 5 với mọi x
 d) x = 2
 
 2. Giá trị của $\lim_{x \to +\infty} \frac{1}{x}$ bằng:
-    Gợi ý: Sử dụng công thức giới hạn cơ bản khi x tiến tới vô cực dương.
+... Gợi ý: Sử dụng công thức giới hạn cơ bản khi x tiến tới vô cực dương.
 +   Phản hồi đúng: Đúng! Khi x tiến tới vô cực dương thì $\frac{1}{x}$ tiến tới 0.
 -   Phản hồi sai: Nhớ lại công thức $\lim_{x \to +\infty} \frac{1}{x} = 0$.
 a) 1
@@ -557,7 +557,7 @@ c) +∞
 d) Không tồn tại
 
 3. Hàm số $f(x) = x^2 + 3x - 1$ có tính chất:
-    Gợi ý: Hàm đa thức có tính chất liên tục đặc biệt trên tập xác định.
+... Gợi ý: Hàm đa thức có tính chất liên tục đặc biệt trên tập xác định.
 +   Phản hồi đúng: Chính xác! Mọi hàm đa thức đều liên tục trên toàn bộ tập số thực.
 -   Phản hồi sai: Hàm đa thức luôn liên tục trên tập xác định của nó.
 a) Gián đoạn tại x = 0
@@ -566,7 +566,7 @@ c) Chỉ liên tục tại x = 1
 d) Không liên tục trên ℝ
 
 4. Giá trị của $\lim_{x \to 1} (x^2 + 2x + 3)$ bằng:
-    Gợi ý: Với hàm đa thức, có thể thay trực tiếp giá trị x vào hàm số.
+... Gợi ý: Với hàm đa thức, có thể thay trực tiếp giá trị x vào hàm số.
 +   Phản hồi đúng: Đúng! Thay x = 1 vào ta được $1^2 + 2(1) + 3 = 6$.
 -   Phản hồi sai: Với hàm đa thức tại điểm thuộc tập xác định, giới hạn bằng giá trị hàm số tại điểm đó.
 a) 3
@@ -575,7 +575,7 @@ c) 1
 d) 2
 
 5. Giá trị của $\lim_{x \to 0} \frac{\sin x}{x}$ bằng:
-    Gợi ý: Đây là một giới hạn đặc biệt quan trọng trong chương trình.
+... Gợi ý: Đây là một giới hạn đặc biệt quan trọng trong chương trình.
 +   Phản hồi đúng: Chính xác! Đây là giới hạn đặc biệt cơ bản: $\lim_{x \to 0} \frac{\sin x}{x} = 1$.
 -   Phản hồi sai: Cần nhớ công thức giới hạn đặc biệt này.
 a) 0
@@ -584,7 +584,7 @@ c) +∞
 d) Không xác định
 
 6. Giá trị của $\lim_{x \to +\infty} \frac{2}{x^3}$ bằng:
-    Gợi ý: Áp dụng quy tắc giới hạn với mẫu số có bậc dương khi x tiến tới vô cực.
+... Gợi ý: Áp dụng quy tắc giới hạn với mẫu số có bậc dương khi x tiến tới vô cực.
 +   Phản hồi đúng: Đúng! Khi x tiến tới vô cực dương thì $\frac{2}{x^3}$ tiến tới 0.
 -   Phản hồi sai: Khi mẫu số tiến tới vô cực và tử số là hằng số thì giới hạn bằng 0.
 *a) 0
@@ -593,7 +593,7 @@ c) +∞
 d) -∞
 
 7. Hàm số $f(x) = 2x + 5$ có tính chất:
-    Gợi ý: Xét tính liên tục của hàm bậc nhất.
+... Gợi ý: Xét tính liên tục của hàm bậc nhất.
 +   Phản hồi đúng: Chính xác! Hàm bậc nhất là hàm đa thức nên liên tục trên toàn bộ ℝ.
 -   Phản hồi sai: Hàm đa thức bậc nhất luôn liên tục trên tập số thực.
 a) Gián đoạn tại x = 0
@@ -602,7 +602,7 @@ c) Chỉ liên tục tại x = -5/2
 d) Không liên tục
 
 8. Giá trị của $\lim_{x \to 3} (x^2 - 2x + 1)$ bằng:
-    Gợi ý: Thay trực tiếp giá trị x = 3 vào biểu thức đa thức.
+... Gợi ý: Thay trực tiếp giá trị x = 3 vào biểu thức đa thức.
 +   Phản hồi đúng: Đúng! Thay x = 3 ta được $3^2 - 2(3) + 1 = 9 - 6 + 1 = 4$.
 -   Phản hồi sai: Với hàm đa thức, giới hạn tại một điểm bằng giá trị hàm số tại điểm đó.
 a) 3
@@ -611,7 +611,7 @@ c) 6
 d) 1
 
 9. Điều kiện để hàm số f(x) liên tục tại điểm x = a là:
-    Gợi ý: Nhớ lại định nghĩa của tính liên tục tại một điểm.
+... Gợi ý: Nhớ lại định nghĩa của tính liên tục tại một điểm.
 +   Phản hồi đúng: Chính xác! Đây là định nghĩa chuẩn của tính liên tục.
 -   Phản hồi sai: Cần nhớ định nghĩa: hàm số liên tục tại a khi giới hạn tại a bằng giá trị hàm số tại a.
 a) f(a) tồn tại
@@ -620,7 +620,7 @@ b) $\lim_{x \to a} f(x)$ tồn tại
 d) f(x) = a
 
 10. Giá trị của $\lim_{x \to 0} (x^3 - 2x + 4)$ bằng:
-    Gợi ý: Thay trực tiếp x = 0 vào hàm đa thức.
+... Gợi ý: Thay trực tiếp x = 0 vào hàm đa thức.
 +   Phản hồi đúng: Đúng! Thay x = 0 ta được $0^3 - 2(0) + 4 = 4$.
 -   Phản hồi sai: Với hàm đa thức, có thể tính giới hạn bằng cách thay trực tiếp.
 a) 0
@@ -629,7 +629,7 @@ b) -2
 d) 2
 
 11. Giá trị của $\lim_{x \to +\infty} \frac{5}{x^2}$ bằng:
-    Gợi ý: Sử dụng tính chất giới hạn khi x tiến tới vô cực dương.
+... Gợi ý: Sử dụng tính chất giới hạn khi x tiến tới vô cực dương.
 +   Phản hồi đúng: Chính xác! Khi x tiến tới vô cực thì $\frac{5}{x^2}$ tiến tới 0.
 -   Phản hồi sai: Khi mẫu số tiến tới vô cực và tử số là hằng số khác 0 thì giới hạn bằng 0.
 *a) 0
@@ -638,7 +638,7 @@ c) +∞
 d) 1
 
 12. Hàm số $f(x) = x^3 + 1$ tại điểm x = 2 có tính chất:
-    Gợi ý: Kiểm tra tính liên tục của hàm đa thức tại một điểm cụ thể.
+... Gợi ý: Kiểm tra tính liên tục của hàm đa thức tại một điểm cụ thể.
 +   Phản hồi đúng: Đúng! Hàm đa thức luôn liên tục tại mọi điểm thuộc tập xác định.
 -   Phản hồi sai: Hàm đa thức liên tục tại mọi điểm thuộc ℝ.
 *a) Liên tục
@@ -647,7 +647,7 @@ c) Không xác định
 d) Có giới hạn nhưng không liên tục
 
 13. Giá trị của $\lim_{x \to -1} (2x + 5)$ bằng:
-    Gợi ý: Tính giới hạn của hàm bậc nhất tại một điểm.
+... Gợi ý: Tính giới hạn của hàm bậc nhất tại một điểm.
 +   Phản hồi đúng: Chính xác! Thay x = -1 ta được $2(-1) + 5 = 3$.
 -   Phản hồi sai: Với hàm đa thức, thay trực tiếp giá trị vào để tính giới hạn.
 a) -1
@@ -656,7 +656,7 @@ b) 5
 d) 7
 
 14. Giá trị của $\lim_{x \to 0} \frac{\sin 3x}{3x}$ bằng:
-    Gợi ý: Sử dụng công thức giới hạn đặc biệt của hàm lượng giác.
+... Gợi ý: Sử dụng công thức giới hạn đặc biệt của hàm lượng giác.
 +   Phản hồi đúng: Đúng! Áp dụng công thức $\lim_{t \to 0} \frac{\sin t}{t} = 1$ với t = 3x.
 -   Phản hồi sai: Sử dụng công thức $\lim_{x \to 0} \frac{\sin x}{x} = 1$ và đặt t = 3x.
 a) 3
@@ -665,7 +665,7 @@ c) 0
 d) 1/3
 
 15. Ký hiệu $\lim_{x \to 2^+} f(x)$ có nghĩa là:
-    Gợi ý: Phân biệt giới hạn một bên phải và giới hạn thông thường.
+... Gợi ý: Phân biệt giới hạn một bên phải và giới hạn thông thường.
 +   Phản hồi đúng: Chính xác! Dấu + biểu thị giới hạn bên phải, tức x tiến gần 2 từ phía lớn hơn 2.
 -   Phản hồi sai: Ký hiệu + trong giới hạn một bên chỉ hướng tiếp cận từ bên phải.
 a) Giới hạn khi x = 2
@@ -674,7 +674,7 @@ c) Giới hạn khi x tiến tới 2 dương
 d) f(2) > 0
 
 16. Giá trị của $\lim_{x \to +\infty} \frac{7}{x^4}$ bằng:
-    Gợi ý: Áp dụng quy tắc giới hạn với lũy thừa bậc cao ở mẫu.
+... Gợi ý: Áp dụng quy tắc giới hạn với lũy thừa bậc cao ở mẫu.
 +   Phản hồi đúng: Chính xác! Khi x tiến tới vô cực thì $\frac{7}{x^4}$ tiến tới 0.
 -   Phản hồi sai: Khi mẫu số có bậc dương và tử số là hằng số thì giới hạn bằng 0.
 *a) 0
@@ -683,7 +683,7 @@ c) +∞
 d) 1
 
 17. Giá trị của $\lim_{x \to 4} (x + 3)$ bằng:
-    Gợi ý: Tính giới hạn của hàm tuyến tính đơn giản.
+... Gợi ý: Tính giới hạn của hàm tuyến tính đơn giản.
 +   Phản hồi đúng: Đúng! Thay x = 4 ta được 4 + 3 = 7.
 -   Phản hồi sai: Với hàm đa thức, giới hạn bằng giá trị hàm số tại điểm đó.
 a) 4
@@ -692,7 +692,7 @@ c) 3
 d) 1
 
 18. Hàm số nào sau đây liên tục trên ℝ:
-    Gợi ý: Xác định loại hàm số nào có tính liên tục trên toàn bộ tập số thực.
+... Gợi ý: Xác định loại hàm số nào có tính liên tục trên toàn bộ tập số thực.
 +   Phản hồi đúng: Chính xác! Hàm đa thức luôn liên tục trên toàn bộ tập xác định.
 -   Phản hồi sai: Trong các lựa chọn, chỉ có hàm đa thức là liên tục trên ℝ.
 *a) $f(x) = x^2 + 2x - 3$
@@ -701,7 +701,7 @@ c) $f(x) = \frac{x-1}{x+2}$
 d) $f(x) = \sqrt{x}$
 
 19. Giá trị của $\lim_{x \to -2} (x^2 + x - 1)$ bằng:
-    Gợi ý: Thay trực tiếp giá trị x = -2 vào biểu thức.
+... Gợi ý: Thay trực tiếp giá trị x = -2 vào biểu thức.
 +   Phản hồi đúng: Đúng! Thay x = -2 ta được $(-2)^2 + (-2) - 1 = 4 - 2 - 1 = 1$.
 -   Phản hồi sai: Cần thay đúng giá trị x = -2 vào từng hạng tử của đa thức.
 *a) 1
@@ -710,7 +710,7 @@ c) 3
 d) -1
 
 20. Giá trị của $\lim_{x \to +\infty} \frac{3}{x}$ bằng:
-    Gợi ý: Sử dụng công thức giới hạn cơ bản khi x tiến tới vô cực.
+... Gợi ý: Sử dụng công thức giới hạn cơ bản khi x tiến tới vô cực.
 +   Phản hồi đúng: Chính xác! Khi x tiến tới vô cực thì $\frac{3}{x}$ tiến tới 0.
 -   Phản hồi sai: Khi mẫu số tiến tới vô cực và tử số là hằng số thì giới hạn bằng 0.
 *a) 0
