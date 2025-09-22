@@ -1,0 +1,90 @@
+1. Cho tam giác ABC với A(2;1), B(6;4), C(4;2). Tọa độ trọng tâm G của tam giác ABC là:
+... Gợi ý: Trọng tâm của tam giác có tọa độ là trung bình cộng của tọa độ các đỉnh.
++   Phản hồi đúng: Chính xác! Trọng tâm G có tọa độ $G(\frac{x_A + x_B + x_C}{3}; \frac{y_A + y_B + y_C}{3}) = (\frac{2+6+4}{3}; \frac{1+4+2}{3}) = (4; \frac{7}{3})$.
+-   Phản hồi sai: Cần nhớ công thức trọng tâm: tọa độ trọng tâm bằng trung bình cộng tọa độ các đỉnh.
+a) $(4; 2)$
+b) $(3; \frac{7}{3})$
+*c) $(4; \frac{7}{3})$
+d) $(4; 3)$
+
+2. Cho hai điểm A(1;3) và B(4;7). Độ dài đoạn thẳng AB là:
+... Gợi ý: Sử dụng công thức khoảng cách giữa hai điểm $d = \sqrt{(x_2-x_1)^2 + (y_2-y_1)^2}$.
++   Phản hồi đúng: Chính xác! $AB = \sqrt{(4-1)^2 + (7-3)^2} = \sqrt{9 + 16} = \sqrt{25} = 5$.
+-   Phản hồi sai: Cần áp dụng đúng công thức khoảng cách giữa hai điểm trong mặt phẳng tọa độ.
+a) $3$
+b) $4$
+*c) $5$
+d) $6$
+
+3. Phương trình tổng quát của đường thẳng đi qua hai điểm M(2;1) và N(4;5) là:
+... Gợi ý: Tìm vectơ chỉ phương rồi chuyển về dạng phương trình tổng quát.
++   Phản hồi đúng: Chính xác! Vectơ chỉ phương $\overrightarrow{MN} = (2;4)$, vectơ pháp tuyến $(4;-2)$ hay $(2;-1)$. Phương trình: $2(x-2) - 1(y-1) = 0$, tức $2x - y - 3 = 0$.
+-   Phản hồi sai: Cần tìm vectơ chỉ phương, từ đó suy ra vectơ pháp tuyến để viết phương trình tổng quát.
+a) $x - 2y + 3 = 0$
+*b) $2x - y - 3 = 0$
+c) $x + 2y - 4 = 0$
+d) $2x + y - 5 = 0$
+
+4. Cho đường tròn có phương trình $(x-3)^2 + (y+2)^2 = 16$. Tâm và bán kính của đường tròn là:
+... Gợi ý: Phương trình chính tắc đường tròn có dạng $(x-a)^2 + (y-b)^2 = R^2$ với tâm I(a;b) và bán kính R.
++   Phản hồi đúng: Chính xác! So sánh với dạng chính tắc, ta có tâm I(3;-2) và bán kính $R = \sqrt{16} = 4$.
+-   Phản hồi sai: Cần nhận diện đúng dạng chính tắc của phương trình đường tròn để xác định tâm và bán kính.
+a) Tâm $(3;2)$, bán kính $4$
+*b) Tâm $(3;-2)$, bán kính $4$
+c) Tâm $(-3;2)$, bán kính $4$
+d) Tâm $(3;-2)$, bán kính $16$
+
+5. Cho ba điểm A(1;2), B(3;1), C(5;4). Độ dài đường cao từ đỉnh A xuống cạnh BC là:
+... Gợi ý: Tính khoảng cách từ điểm A đến đường thẳng BC.
++   Phản hồi đúng: Chính xác! Viết phương trình đường thẳng BC: $3x - 2y - 7 = 0$. Khoảng cách từ A đến BC là $d = \frac{|3.1 - 2.2 - 7|}{\sqrt{3^2 + (-2)^2}} = \frac{8}{\sqrt{13}} = \frac{8\sqrt{13}}{13}$.
+-   Phản hồi sai: Cần viết phương trình đường thẳng BC rồi tính khoảng cách từ điểm đến đường thẳng.
+a) $\frac{6\sqrt{13}}{13}$
+*b) $\frac{8\sqrt{13}}{13}$
+c) $\frac{10\sqrt{13}}{13}$
+d) $\frac{4\sqrt{13}}{13}$
+
+6. Cho vectơ $\vec{u} = (3;-4)$ và vectơ $\vec{v} = (1;2)$. Tích vô hướng $\vec{u} \cdot \vec{v}$ bằng:
+... Gợi ý: Tích vô hướng của hai vectơ $\vec{u}(x_1;y_1)$ và $\vec{v}(x_2;y_2)$ là $x_1x_2 + y_1y_2$.
++   Phản hồi đúng: Chính xác! $\vec{u} \cdot \vec{v} = 3 \cdot 1 + (-4) \cdot 2 = 3 - 8 = -5$.
+-   Phản hồi sai: Cần nhớ công thức tích vô hướng: nhân các tọa độ tương ứng rồi cộng lại.
+a) $5$
+*b) $-5$
+c) $11$
+d) $-11$
+
+7. Phương trình đường thẳng đi qua điểm M(2;3) và vuông góc với đường thẳng $3x + 4y - 5 = 0$ là:
+... Gợi ý: Hai đường thẳng vuông góc có vectơ pháp tuyến vuông góc với nhau.
++   Phản hồi đúng: Chính xác! Đường thẳng cho có vectơ pháp tuyến $(3;4)$, đường thẳng cần tìm có vectơ pháp tuyến $(4;-3)$. Phương trình: $4(x-2) - 3(y-3) = 0$, tức $4x - 3y + 1 = 0$.
+-   Phản hồi sai: Vectơ pháp tuyến của đường thẳng vuông góc có dạng $(b;-a)$ khi vectơ pháp tuyến gốc là $(a;b)$.
+a) $4x - 3y - 1 = 0$
+*b) $4x - 3y + 1 = 0$
+c) $3x + 4y - 18 = 0$
+d) $4x + 3y - 17 = 0$
+
+8. Cho tam giác ABC với A(0;1), B(2;3), C(4;-1). Phương trình đường tròn ngoại tiếp tam giác ABC có dạng:
+... Gợi ý: Tâm đường tròn ngoại tiếp cách đều ba đỉnh của tam giác.
++   Phản hồi đúng: Chính xác! Gọi tâm I(a;b), từ điều kiện $IA = IB = IC$ ta có hệ phương trình và tìm được $I(2;1)$, bán kính $R = 2$. Phương trình: $(x-2)^2 + (y-1)^2 = 4$.
+-   Phản hồi sai: Cần giải hệ phương trình từ điều kiện tâm cách đều ba đỉnh để tìm tọa độ tâm.
+a) $(x-1)^2 + (y-2)^2 = 4$
+*b) $(x-2)^2 + (y-1)^2 = 4$
+c) $(x-2)^2 + (y-1)^2 = 8$
+d) $(x-1)^2 + (y-1)^2 = 4$
+
+9. Khoảng cách từ điểm M(1;-2) đến đường thẳng $d: 5x - 12y + 3 = 0$ là:
+... Gợi ý: Sử dụng công thức khoảng cách từ điểm đến đường thẳng $d = \frac{|ax_0 + by_0 + c|}{\sqrt{a^2 + b^2}}$.
++   Phản hồi đúng: Chính xác! $d = \frac{|5 \cdot 1 - 12 \cdot (-2) + 3|}{\sqrt{5^2 + (-12)^2}} = \frac{|5 + 24 + 3|}{\sqrt{25 + 144}} = \frac{32}{13}$.
+-   Phản hồi sai: Cần thay đúng tọa độ điểm vào công thức và tính toán cẩn thận.
+a) $\frac{30}{13}$
+*b) $\frac{32}{13}$
+c) $\frac{28}{13}$
+d) $\frac{26}{13}$
+
+10. Cho hai vectơ $\vec{a} = (2;3)$ và $\vec{b} = (-1;4)$. Vectơ $2\vec{a} - 3\vec{b}$ có tọa độ là:
+... Gợi ý: Thực hiện phép toán vectơ theo từng tọa độ: $k\vec{u} = (kx;ky)$ và $\vec{u} \pm \vec{v} = (x_1 \pm x_2; y_1 \pm y_2)$.
++   Phản hồi đúng: Chính xác! $2\vec{a} = (4;6)$, $3\vec{b} = (-3;12)$, nên $2\vec{a} - 3\vec{b} = (4-(-3); 6-12) = (7;-6)$.
+-   Phản hồi sai: Cần thực hiện phép nhân vô hướng trước, rồi mới thực hiện phép trừ vectơ.
+a) $(7;6)$
+*b) $(7;-6)$
+c) $(1;-6)$
+d) $(1;6)$
+

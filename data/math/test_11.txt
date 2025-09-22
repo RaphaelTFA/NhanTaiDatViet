@@ -1,0 +1,1271 @@
+1. Chu kỳ của hàm số $y = \sin x$ là:
+... Gợi ý: Hàm số sin có tính chất lặp lại giá trị sau mỗi khoảng cách nhất định.
++   Phản hồi đúng: Chính xác! Hàm số $y = \sin x$ có chu kỳ $2\pi$, nghĩa là $\sin(x + 2\pi) = \sin x$ với mọi $x$.
+-   Phản hồi sai: Cần nhớ rằng hàm số sin và cos có chu kỳ $2\pi$, còn tan và cot có chu kỳ $\pi$.
+a) $\pi$
+*b) $2\pi$
+c) $\frac{\pi}{2}$
+d) $4\pi$
+
+2. Tập giá trị của hàm số $y = \cos x$ là:
+... Gợi ý: Quan sát giá trị lớn nhất và nhỏ nhất mà hàm cosin có thể đạt được.
++   Phản hồi đúng: Đúng rồi! Hàm số cosin luôn có giá trị trong khoảng từ -1 đến 1, tức là tập giá trị là $[-1; 1]$.
+-   Phản hồi sai: Nhớ rằng giá trị của cos x luôn nằm trong đoạn $[-1; 1]$ do tính chất của đường tròn lượng giác.
+a) $\mathbb{R}$
+*b) $[-1; 1]$
+c) $(0; +\infty)$
+d) $[-\pi; \pi]$
+
+3. Tập xác định của hàm số $y = \tan x$ là:
+... Gợi ý: Hàm tang không xác định khi mẫu số bằng 0, tức là khi $\cos x = 0$.
++   Phản hồi đúng: Chính xác! Hàm tang không xác định tại các điểm $x = \frac{\pi}{2} + k\pi$ vì tại đó $\cos x = 0$.
+-   Phản hồi sai: Cần nhớ $\tan x = \frac{\sin x}{\cos x}$, nên hàm số không xác định khi $\cos x = 0$.
+a) $\mathbb{R}$
+*b) $\mathbb{R} \setminus \{\frac{\pi}{2} + k\pi, k \in \mathbb{Z}\}$
+c) $\mathbb{R} \setminus \{k\pi, k \in \mathbb{Z}\}$
+d) $[-1; 1]$
+
+4. Giá trị của $\sin\frac{\pi}{6}$ bằng:
+... Gợi ý: Sử dụng bảng giá trị lượng giác của các góc đặc biệt.
++   Phản hồi đúng: Đúng! $\sin\frac{\pi}{6} = \sin 30° = \frac{1}{2}$ là một giá trị cơ bản cần nhớ.
+-   Phản hồi sai: Cần học thuộc bảng giá trị lượng giác của các góc đặc biệt: $30°, 45°, 60°$.
+*a) $\frac{1}{2}$
+b) $\frac{\sqrt{3}}{2}$
+c) $\frac{\sqrt{2}}{2}$
+d) $1$
+
+5. Giá trị của $\cos\frac{\pi}{3}$ bằng:
+... Gợi ý: Góc $\frac{\pi}{3}$ tương ứng với $60°$ trong hệ đo độ.
++   Phản hồi đúng: Chính xác! $\cos\frac{\pi}{3} = \cos 60° = \frac{1}{2}$.
+-   Phản hồi sai: Nhớ rằng $\cos 60° = \sin 30° = \frac{1}{2}$ và $\sin 60° = \cos 30° = \frac{\sqrt{3}}{2}$.
+a) $\frac{\sqrt{3}}{2}$
+*b) $\frac{1}{2}$
+c) $\frac{\sqrt{2}}{2}$
+d) $0$
+
+6. Giá trị của $\tan\frac{\pi}{4}$ bằng:
+... Gợi ý: Tại góc $45°$, sin và cos có cùng giá trị.
++   Phản hồi đúng: Đúng! $\tan\frac{\pi}{4} = \tan 45° = 1$ vì $\sin 45° = \cos 45° = \frac{\sqrt{2}}{2}$.
+-   Phản hồi sai: Nhớ công thức $\tan x = \frac{\sin x}{\cos x}$ và tại $x = 45°$, ta có $\sin x = \cos x$.
+a) $0$
+*b) $1$
+c) $\sqrt{3}$
+d) $\frac{1}{\sqrt{3}}$
+
+7. Nghiệm của phương trình $\sin x = 1$ là:
+... Gợi ý: Tìm các điểm trên đường tròn lượng giác có tung độ bằng 1.
++   Phản hồi đúng: Chính xác! $\sin x = 1$ khi $x = \frac{\pi}{2} + k2\pi$ với $k \in \mathbb{Z}$.
+-   Phản hồi sai: Nhớ rằng sin x đạt giá trị lớn nhất là 1 tại $x = \frac{\pi}{2} + k2\pi$.
+*a) $x = \frac{\pi}{2} + k2\pi$
+b) $x = \pi + k2\pi$
+c) $x = k\pi$
+d) $x = \frac{\pi}{4} + k\pi$
+
+8. Nghiệm của phương trình $\cos x = 0$ là:
+... Gợi ý: Tìm các điểm trên đường tròn lượng giác có hoành độ bằng 0.
++   Phản hồi đúng: Đúng! $\cos x = 0$ khi $x = \frac{\pi}{2} + k\pi$ với $k \in \mathbb{Z}$.
+-   Phản hồi sai: Cosin bằng 0 tại các điểm $\frac{\pi}{2}, \frac{3\pi}{2}, \frac{5\pi}{2},...$ tức là $\frac{\pi}{2} + k\pi$.
+a) $x = k\pi$
+*b) $x = \frac{\pi}{2} + k\pi$
+c) $x = \frac{\pi}{4} + k\pi$
+d) $x = 2k\pi$
+
+9. Nghiệm của phương trình $\tan x = 1$ là:
+... Gợi ý: Tìm các góc có tang bằng 1, bắt đầu từ góc $45°$.
++   Phản hồi đúng: Chính xác! $\tan x = 1$ khi $x = \frac{\pi}{4} + k\pi$ với $k \in \mathbb{Z}$.
+-   Phản hồi sai: Nhớ rằng $\tan\frac{\pi}{4} = 1$ và hàm tang có chu kỳ $\pi$.
+a) $x = \frac{\pi}{3} + k\pi$
+*b) $x = \frac{\pi}{4} + k\pi$
+c) $x = \frac{\pi}{6} + k\pi$
+d) $x = \frac{\pi}{2} + k\pi$
+
+10. Hàm số $y = \sin x$ là:
+... Gợi ý: Kiểm tra tính chất $f(-x) = -f(x)$ hoặc $f(-x) = f(x)$.
++   Phản hồi đúng: Đúng! Hàm sin là hàm lẻ vì $\sin(-x) = -\sin x$ với mọi $x$.
+-   Phản hồi sai: Cần nhớ: hàm sin và tan là hàm lẻ, hàm cos là hàm chẵn.
+a) Hàm chẵn
+*b) Hàm lẻ
+c) Không chẵn không lẻ
+d) Vừa chẵn vừa lẻ
+
+11. Hàm số $y = \cos x$ là:
+... Gợi ý: Kiểm tra mối quan hệ giữa $f(x)$ và $f(-x)$.
++   Phản hồi đúng: Chính xác! Hàm cos là hàm chẵn vì $\cos(-x) = \cos x$ với mọi $x$.
+-   Phản hồi sai: Nhớ rằng đồ thị hàm cos đối xứng qua trục tung, đó là đặc trưng của hàm chẵn.
+*a) Hàm chẵn
+b) Hàm lẻ
+c) Không chẵn không lẻ
+d) Vừa chẵn vừa lẻ
+
+12. Dấu của $\sin\frac{3\pi}{4}$ là:
+... Gợi ý: Góc $\frac{3\pi}{4}$ nằm ở góc phần tư thứ II trên đường tròn lượng giác.
++   Phản hồi đúng: Đúng! Ở góc phần tư II, sin có giá trị dương vì tung độ dương.
+-   Phản hồi sai: Cần nhớ quy tắc dấu: ở góc phần tư II, chỉ sin dương, cos và tan âm.
+*a) Dương
+b) Âm
+c) Bằng 0
+d) Không xác định
+
+13. Dấu của $\cos\frac{5\pi}{6}$ là:
+... Gợi ý: Góc $\frac{5\pi}{6}$ nằm ở góc phần tư thứ II.
++   Phản hồi đúng: Chính xác! Ở góc phần tư II, cos có giá trị âm vì hoành độ âm.
+-   Phản hồi sai: Nhớ rằng ở góc phần tư II, cos luôn âm do hoành độ của điểm trên đường tròn âm.
+a) Dương
+*b) Âm
+c) Bằng 0
+d) Không xác định
+
+14. Chu kỳ của hàm số $y = \tan x$ là:
+... Gợi ý: Hàm tang có chu kỳ khác với hàm sin và cos.
++   Phản hồi đúng: Đúng! Hàm số $y = \tan x$ có chu kỳ $\pi$, tức là $\tan(x + \pi) = \tan x$.
+-   Phản hồi sai: Cần phân biệt: sin và cos có chu kỳ $2\pi$, còn tan và cot có chu kỳ $\pi$.
+*a) $\pi$
+b) $2\pi$
+c) $\frac{\pi}{2}$
+d) $4\pi$
+
+15. Tập xác định của hàm số $y = \cot  x$ là:
+... Gợi ý: Hàm cotang không xác định khi $\sin x = 0$.
++   Phản hồi đúng: Chính xác! Hàm cotang không xác định tại $x = k\pi$ vì tại đó $\sin x = 0$.
+-   Phản hồi sai: Nhớ $\cot x = \frac{\cos x}{\sin x}$, nên hàm số không xác định khi $\sin x = 0$.
+a) $\mathbb{R}$
+b) $\mathbb{R} \setminus \{\frac{\pi}{2} + k\pi, k \in \mathbb{Z}\}$
+*c) $\mathbb{R} \setminus \{k\pi, k \in \mathbb{Z}\}$
+d) $[-1; 1]$
+
+16. Giá trị của $\sin\frac{\pi}{2}$ bằng:
+... Gợi ý: Góc $\frac{\pi}{2}$ tương ứng với $90°$.
++   Phản hồi đúng: Đúng! $\sin\frac{\pi}{2} = \sin 90° = 1$.
+-   Phản hồi sai: Nhớ rằng tại $90°$, điểm trên đường tròn lượng giác có tung độ bằng 1.
+a) $0$
+*b) $1$
+c) $-1$
+d) $\frac{1}{2}$
+
+17. Nghiệm của phương trình $\cos x = -1$ là:
+... Gợi ý: Tìm điểm trên đường tròn lượng giác có hoành độ bằng -1.
++   Phản hồi đúng: Chính xác! $\cos x = -1$ khi $x = \pi + k2\pi$ với $k \in \mathbb{Z}$.
+-   Phản hồi sai: Cosin đạt giá trị nhỏ nhất -1 tại $x = \pi + k2\pi$.
+*a) $x = \pi + k2\pi$
+b) $x = \frac{\pi}{2} + k2\pi$
+c) $x = k\pi$
+d) $x = 2k\pi$
+
+18. Giá trị của $\cos 0$ bằng:
+... Gợi ý: Tại góc $0°$, điểm trên đường tròn lượng giác có hoành độ như thế nào?
++   Phản hồi đúng: Đúng! $\cos 0 = 1$ vì tại góc $0°$, hoành độ của điểm trên đường tròn bằng 1.
+-   Phản hồi sai: Nhớ rằng tại điểm xuất phát trên đường tròn lượng giác, hoành độ bằng 1.
+a) $0$
+*b) $1$
+c) $-1$
+d) $\frac{1}{2}$
+
+19. Hàm số $y = \tan x$ là:
+... Gợi ý: Kiểm tra tính chất chẵn lẻ bằng cách xét $\tan(-x)$.
++   Phản hồi đúng: Chính xác! Hàm tang là hàm lẻ vì $\tan(-x) = -\tan x$ với mọi $x$ thuộc tập xác định.
+-   Phản hồi sai: Cần nhớ: $\tan(-x) = \frac{\sin(-x)}{\cos(-x)} = \frac{-\sin x}{\cos x} = -\tan x$.
+a) Hàm chẵn
+*b) Hàm lẻ
+c) Không chẵn không lẻ
+d) Vừa chẵn vừa lẻ
+
+20. Nghiệm của phương trình $\sin x = 0$ là:
+... Gợi ý: Tìm các điểm trên đường tròn lượng giác có tung độ bằng 0.
++   Phản hồi đúng: Đúng! $\sin x = 0$ khi $x = k\pi$ với $k \in \mathbb{Z}$.
+-   Phản hồi sai: Sin bằng 0 tại các điểm $0, \pi, 2\pi, 3\pi,...$ tức là $x = k\pi$.
+*a) $x = k\pi$
+b) $x = \frac{\pi}{2} + k\pi$
+c) $x = \frac{\pi}{4} + k\pi$
+d) $x = 2k\pi$
+
+1. Hàm số $y = 2\sin(3x - \frac{\pi}{4}) + 1$ có chu kỳ là bao nhiêu?
+... Gợi ý: Chu kỳ của hàm số $y = a\sin(bx + c) + d$ là $\frac{2\pi}{|b|}$.
++   Phản hồi đúng: Đúng rồi! Với hệ số $b = 3$, chu kỳ của hàm số là $T = \frac{2\pi}{3}$.
+-   Phản hồi sai: Cần nhớ công thức chu kỳ: $T = \frac{2\pi}{|b|}$ với $b$ là hệ số của $x$.
+a) $\frac{\pi}{3}$
+*b) $\frac{2\pi}{3}$
+c) $\frac{3\pi}{2}$
+d) $3\pi$
+
+2. Tập giá trị của hàm số $y = -3\cos x + 2$ là:
+... Gợi ý: Tập giá trị của $\cos x$ là $[-1; 1]$, từ đó suy ra tập giá trị của hàm đã cho.
++   Phản hồi đúng: Chính xác! Vì $-1 \leq \cos x \leq 1$ nên $-3 \leq -3\cos x \leq 3$, do đó $-1 \leq -3\cos x + 2 \leq 5$.
+-   Phản hồi sai: Cần biến đổi từ tập giá trị của $\cos x$ là $[-1; 1]$ để tìm tập giá trị của hàm đã cho.
+a) $[-3; 3]$
+*b) $[-1; 5]$
+c) $[-5; 1]$
+d) $[-2; 2]$
+
+3. Phương trình $\sin x = \frac{\sqrt{3}}{2}$ có nghiệm tổng quát là:
+... Gợi ý: Sử dụng công thức nghiệm của phương trình $\sin x = a$ với $|a| \leq 1$.
++   Phản hồi đúng: Đúng! Với $\sin x = \frac{\sqrt{3}}{2}$, ta có $x = \frac{\pi}{3} + k2\pi$ hoặc $x = \frac{2\pi}{3} + k2\pi$.
+-   Phản hồi sai: Cần nhớ công thức: $\sin x = a$ có nghiệm $x = \arcsin a + k2\pi$ và $x = \pi - \arcsin a + k2\pi$.
+a) $x = \frac{\pi}{6} + k2\pi$ hoặc $x = \frac{5\pi}{6} + k2\pi$
+*b) $x = \frac{\pi}{3} + k2\pi$ hoặc $x = \frac{2\pi}{3} + k2\pi$
+c) $x = \frac{\pi}{4} + k2\pi$ hoặc $x = \frac{3\pi}{4} + k2\pi$
+d) $x = \frac{\pi}{2} + k2\pi$ hoặc $x = \pi + k2\pi$
+
+4. Hàm số nào sau đây là hàm số chẵn?
+... Gợi ý: Hàm số chẵn thỏa mãn $f(-x) = f(x)$.
++   Phản hồi đúng: Đúng! $\cos x$ là hàm chẵn vì $\cos(-x) = \cos x$.
+-   Phản hồi sai: Cần kiểm tra tính chất: $f(-x) = f(x)$ cho hàm chẵn và $f(-x) = -f(x)$ cho hàm lẻ.
+a) $y = \sin x$
+*b) $y = \cos x$
+c) $y = \tan x$
+d) $y = \cot x$
+
+5. Phương trình $\cos 2x = \frac{1}{2}$ có bao nhiêu nghiệm trong khoảng $[0; \pi]$?
+... Gợi ý: Giải phương trình $\cos 2x = \frac{1}{2}$ rồi tìm nghiệm thuộc khoảng đã cho.
++   Phản hồi đúng: Chính xác! $\cos 2x = \frac{1}{2}$ có nghiệm $2x = \pm\frac{\pi}{3} + k2\pi$, tức $x = \pm\frac{\pi}{6} + k\pi$. Trong $[0; \pi]$ có 2 nghiệm: $x = \frac{\pi}{6}$ và $x = \frac{5\pi}{6}$.
+-   Phản hồi sai: Cần giải phương trình cơ bản $\cos u = \frac{1}{2}$ với $u = 2x$, rồi đếm nghiệm trong khoảng.
+a) 1
+*b) 2
+c) 3
+d) 4
+
+6. Tập xác định của hàm số $y = \tan(x - \frac{\pi}{4})$ là:
+... Gợi ý: Hàm tangent không xác định tại các điểm có cosin bằng 0.
++   Phản hồi đúng: Đúng! Hàm tangent không xác định khi $x - \frac{\pi}{4} = \frac{\pi}{2} + k\pi$, tức $x = \frac{3\pi}{4} + k\pi$.
+-   Phản hồi sai: Hàm $\tan u$ không xác định khi $u = \frac{\pi}{2} + k\pi$, với $u = x - \frac{\pi}{4}$.
+a) $\mathbb{R} \setminus \{\frac{\pi}{4} + k\pi, k \in \mathbb{Z}\}$
+b) $\mathbb{R} \setminus \{\frac{\pi}{2} + k\pi, k \in \mathbb{Z}\}$
+*c) $\mathbb{R} \setminus \{\frac{3\pi}{4} + k\pi, k \in \mathbb{Z}\}$
+d) $\mathbb{R} \setminus \{k\pi, k \in \mathbb{Z}\}$
+
+7. Phương trình $2\cos x - 1 = 0$ có nghiệm thuộc khoảng $(0; \pi)$ là:
+... Gợi ý: Đưa về dạng $\cos x = a$ rồi tìm nghiệm.
++   Phản hồi đúng: Chính xác! $\cos x = \frac{1}{2}$ có nghiệm $x = \frac{\pi}{3}$ trong khoảng $(0; \pi)$.
+-   Phản hồi sai: Cần giải $\cos x = \frac{1}{2}$ và kiểm tra nghiệm nào thuộc khoảng $(0; \pi)$.
+a) $\frac{\pi}{6}$
+*b) $\frac{\pi}{3}$
+c) $\frac{\pi}{2}$
+d) $\frac{2\pi}{3}$
+
+8. Hàm số $y = \sin x$ đồng biến trên khoảng nào sau đây?
+... Gợi ý: Xét dấu của đạo hàm $y' = \cos x$ để xác định khoảng đồng biến.
++   Phản hồi đúng: Đúng! Hàm $\sin x$ đồng biến trên $(-\frac{\pi}{2}; \frac{\pi}{2})$ vì $\cos x > 0$ trên khoảng này.
+-   Phản hồi sai: Hàm $\sin x$ đồng biến khi $\cos x > 0$, tức trên các khoảng $(-\frac{\pi}{2} + k2\pi; \frac{\pi}{2} + k2\pi)$.
+*a) $(-\frac{\pi}{2}; \frac{\pi}{2})$
+b) $(\frac{\pi}{2}; \frac{3\pi}{2})$
+c) $(\pi; 2\pi)$
+d) $(0; \pi)$
+
+9. Phương trình $\sin(2x + \frac{\pi}{3}) = 0$ có nghiệm tổng quát là:
+... Gợi ý: Phương trình $\sin u = 0$ có nghiệm $u = k\pi$.
++   Phản hồi đúng: Chính xác! $2x + \frac{\pi}{3} = k\pi$ nên $x = -\frac{\pi}{6} + \frac{k\pi}{2}$.
+-   Phản hồi sai: Cần giải $\sin u = 0$ với $u = 2x + \frac{\pi}{3}$, có nghiệm $u = k\pi$.
+a) $x = -\frac{\pi}{3} + k\pi$
+*b) $x = -\frac{\pi}{6} + \frac{k\pi}{2}$
+c) $x = \frac{\pi}{6} + k\pi$
+d) $x = \frac{\pi}{3} + \frac{k\pi}{2}$
+
+10. Giá trị lớn nhất của hàm số $y = 3\sin x - 2$ là:
+... Gợi ý: Giá trị lớn nhất của $\sin x$ là 1.
++   Phản hồi đúng: Đúng! Vì $\sin x \leq 1$ nên $3\sin x - 2 \leq 3 \cdot 1 - 2 = 1$.
+-   Phản hồi sai: Cần sử dụng $\max(\sin x) = 1$ để tìm giá trị lớn nhất của hàm số.
+a) 3
+*b) 1
+c) 5
+d) -2
+
+11. Phương trình $\tan x = \sqrt{3}$ có nghiệm thuộc khoảng $(0; \pi)$ là:
+... Gợi ý: Tìm góc có tang bằng $\sqrt{3}$.
++   Phản hồi đúng: Chính xác! $\tan x = \sqrt{3}$ có nghiệm $x = \frac{\pi}{3}$ trong khoảng $(0; \pi)$.
+-   Phản hồi sai: Cần nhớ $\tan \frac{\pi}{3} = \sqrt{3}$ và công thức nghiệm $x = \frac{\pi}{3} + k\pi$.
+a) $\frac{\pi}{6}$
+*b) $\frac{\pi}{3}$
+c) $\frac{\pi}{4}$
+d) $\frac{2\pi}{3}$
+
+12. Chu kỳ của hàm số $y = \cos(4x)$ là:
+... Gợi ý: Chu kỳ của $\cos(bx)$ là $\frac{2\pi}{|b|}$.
++   Phản hồi đúng: Đúng! Với $b = 4$, chu kỳ là $T = \frac{2\pi}{4} = \frac{\pi}{2}$.
+-   Phản hồi sai: Công thức chu kỳ của $\cos(bx)$ là $T = \frac{2\pi}{|b|}$.
+a) $\frac{\pi}{4}$
+*b) $\frac{\pi}{2}$
+c) $\pi$
+d) $2\pi$
+
+13. Phương trình $\cos x = -\frac{1}{2}$ có nghiệm thuộc khoảng $[0; 2\pi]$ là:
+... Gợi ý: Tìm các góc có cosin bằng $-\frac{1}{2}$ trong khoảng đã cho.
++   Phản hồi đúng: Chính xác! $\cos x = -\frac{1}{2}$ có nghiệm $x = \frac{2\pi}{3}$ và $x = \frac{4\pi}{3}$ trong $[0; 2\pi]$.
+-   Phản hồi sai: Cần nhớ $\cos \frac{2\pi}{3} = \cos \frac{4\pi}{3} = -\frac{1}{2}$.
+a) $x = \frac{\pi}{3}$ và $x = \frac{5\pi}{3}$
+*b) $x = \frac{2\pi}{3}$ và $x = \frac{4\pi}{3}$
+c) $x = \frac{\pi}{6}$ và $x = \frac{11\pi}{6}$
+d) $x = \frac{5\pi}{6}$ và $x = \frac{7\pi}{6}$
+
+14. Hàm số $y = \cot x$ có tập xác định là:
+... Gợi ý: Hàm cotang không xác định khi $\sin x = 0$.
++   Phản hồi đúng: Đúng! Hàm $\cot x = \frac{\cos x}{\sin x}$ không xác định khi $\sin x = 0$, tức tại $x = k\pi$.
+-   Phản hồi sai: Hàm cotang không xác định khi mẫu số bằng 0, tức $\sin x = 0$.
+a) $\mathbb{R} \setminus \{\frac{\pi}{2} + k\pi, k \in \mathbb{Z}\}$
+*b) $\mathbb{R} \setminus \{k\pi, k \in \mathbb{Z}\}$
+c) $\mathbb{R} \setminus \{\frac{\pi}{4} + k\pi, k \in \mathbb{Z}\}$
+d) $\mathbb{R}$
+
+15. Phương trình $\sin x = m$ có nghiệm khi và chỉ khi:
+... Gợi ý: Xét điều kiện để phương trình $\sin x = m$ có nghiệm.
++   Phản hồi đúng: Đúng! Vì tập giá trị của hàm sin là $[-1; 1]$ nên phương trình có nghiệm khi $|m| \leq 1$.
+-   Phản hồi sai: Cần nhớ tập giá trị của hàm sin là $[-1; 1]$.
+a) $m > 0$
+b) $m \geq 0$
+*c) $|m| \leq 1$
+d) $m \in \mathbb{R}$
+
+16. Giá trị nhỏ nhất của hàm số $y = 4\cos x + 3$ là:
+... Gợi ý: Giá trị nhỏ nhất của $\cos x$ là -1.
++   Phản hồi đúng: Chính xác! Vì $\cos x \geq -1$ nên $4\cos x + 3 \geq 4(-1) + 3 = -1$.
+-   Phản hồi sai: Cần sử dụng $\min(\cos x) = -1$ để tìm giá trị nhỏ nhất.
+a) -4
+*b) -1
+c) 3
+d) 7
+
+17. Phương trình $2\sin x + 1 = 0$ có nghiệm tổng quát là:
+... Gợi ý: Đưa về dạng $\sin x = a$ rồi áp dụng công thức nghiệm.
++   Phản hồi đúng: Đúng! $\sin x = -\frac{1}{2}$ có nghiệm $x = -\frac{\pi}{6} + k2\pi$ hoặc $x = -\frac{5\pi}{6} + k2\pi$.
+-   Phản hồi sai: Cần giải $\sin x = -\frac{1}{2}$ và nhớ $\sin(-\frac{\pi}{6}) = -\frac{1}{2}$.
+*a) $x = -\frac{\pi}{6} + k2\pi$ hoặc $x = -\frac{5\pi}{6} + k2\pi$
+b) $x = \frac{\pi}{6} + k2\pi$ hoặc $x = \frac{5\pi}{6} + k2\pi$
+c) $x = -\frac{\pi}{3} + k2\pi$ hoặc $x = -\frac{2\pi}{3} + k2\pi$
+d) $x = \frac{\pi}{3} + k2\pi$ hoặc $x = \frac{2\pi}{3} + k2\pi$
+
+18. Hàm số $y = \sin(x + \frac{\pi}{2})$ bằng hàm số nào sau đây?
+... Gợi ý: Sử dụng công thức cộng $\sin(a + b) = \sin a \cos b + \cos a \sin b$.
++   Phản hồi đúng: Chính xác! $\sin(x + \frac{\pi}{2}) = \sin x \cos \frac{\pi}{2} + \cos x \sin \frac{\pi}{2} = \cos x$.
+-   Phản hồi sai: Cần áp dụng công thức cộng hoặc nhớ $\sin(x + \frac{\pi}{2}) = \cos x$.
+a) $y = \sin x$
+*b) $y = \cos x$
+c) $y = -\sin x$
+d) $y = -\cos x$
+
+19. Phương trình $\cot x = 1$ có nghiệm tổng quát là:
+... Gợi ý: Tìm góc có cotang bằng 1.
++   Phản hồi đúng: Đúng! $\cot x = 1$ có nghiệm $x = \frac{\pi}{4} + k\pi$ vì $\cot \frac{\pi}{4} = 1$.
+-   Phản hồi sai: Cần nhớ $\cot \frac{\pi}{4} = 1$ và công thức nghiệm của phương trình cotang.
+a) $x = \frac{\pi}{2} + k\pi$
+*b) $x = \frac{\pi}{4} + k\pi$
+c) $x = \frac{\pi}{3} + k\pi$
+d) $x = \frac{\pi}{6} + k\pi$
+
+20. Trong khoảng $(0; 2\pi)$, phương trình $\cos x = 0$ có bao nhiêu nghiệm?
+... Gợi ý: Xác định các điểm có cosin bằng 0 trong khoảng đã cho.
++   Phản hồi đúng: Chính xác! $\cos x = 0$ khi $x = \frac{\pi}{2} + k\pi$. Trong $(0; 2\pi)$ có 2 nghiệm: $x = \frac{\pi}{2}$ và $x = \frac{3\pi}{2}$.
+-   Phản hồi sai: Cần tìm các điểm trên đường tròn lượng giác có cosin bằng 0.
+a) 1
+*b) 2
+c) 3
+d) 4
+
+1. Hàm số $y = \sin x$ có chu kì là:
+... Gợi ý: Chu kì của hàm số lượng giác là khoảng cách nhỏ nhất giữa hai giá trị $x$ mà hàm số lặp lại giá trị.
++   Phản hồi đúng: Chính xác! Hàm số $\sin x$ có chu kì $2\pi$ vì $\sin(x + 2\pi) = \sin x$ với mọi $x \in \mathbb{R}$.
+-   Phản hồi sai: Cần phân biệt chu kì của các hàm lượng giác: $\sin x$, $\cos x$ có chu kì $2\pi$, còn $\tan x$, $\cot x$ có chu kì $\pi$.
+a) $\pi$
+*b) $2\pi$
+c) $\frac{\pi}{2}$
+d) $4\pi$
+
+2. Tập xác định của hàm số $y =  \tan x$ là: 
+... Gợi ý: Hàm số $\tan x = \frac{\sin x}{\cos x}$ không xác định khi mẫu số bằng 0.
++   Phản hồi đúng: Đúng rồi! Hàm $\tan x$ không xác định khi $\cos x = 0$, tức là $x = \frac{\pi}{2} + k\pi$.
+-   Phản hồi sai: Hàm $\tan x$ không xác định tại các điểm mà $\cos x = 0$, không phải $\sin x = 0$.
+a) $\mathbb{R} \setminus \{k\pi, k \in \mathbb{Z}\}$
+*b) $\mathbb{R} \setminus \{\frac{\pi}{2} + k\pi, k \in \mathbb{Z}\}$
+c) $\mathbb{R}$
+d) $\mathbb{R} \setminus \{2k\pi, k \in \mathbb{Z}\}$
+
+3. Phương trình $\sin x = \frac{1}{2}$ có nghiệm là:
+... Gợi ý: Sử dụng công thức nghiệm của phương trình $\sin x = a$ với $|a| \leq 1$.
++   Phản hồi đúng: Chính xác! Với $\sin x = \frac{1}{2}$, ta có $x = \frac{\pi}{6} + k2\pi$ hoặc $x = \frac{5\pi}{6} + k2\pi$.
+-   Phản hồi sai: Cần nhớ công thức: $\sin x = a$ có nghiệm $x = \arcsin a + k2\pi$ hoặc $x = \pi - \arcsin a + k2\pi$.
+a) $x = \frac{\pi}{3} + k2\pi, k \in \mathbb{Z}$
+*b) $x = \frac{\pi}{6} + k2\pi$ hoặc $x = \frac{5\pi}{6} + k2\pi, k \in \mathbb{Z}$
+c) $x = \frac{\pi}{4} + k\pi, k \in \mathbb{Z}$
+d) $x = \frac{\pi}{2} + k2\pi, k \in \mathbb{Z}$
+
+4. Hàm số nào sau đây là hàm chẵn?
+... Gợi ý: Hàm số $f(x)$ là hàm chẵn nếu $f(-x) = f(x)$ với mọi $x$ thuộc tập xác định.
++   Phản hồi đúng: Đúng! Vì $\cos(-x) = \cos x$ nên hàm $y = \cos x$ là hàm chẵn.
+-   Phản hồi sai: Hàm $\sin x$, $\tan x$, $\cot x$ đều là hàm lẻ, chỉ có $\cos x$ là hàm chẵn.
+a) $y = \sin x$
+*b) $y = \cos x$
+c) $y = \tan x$
+d) $y = \cot x$
+
+5. Giá trị của $\sin^2 x + \cos^2 x$ bằng:
+... Gợi ý: Đây là công thức lượng giác cơ bản nhất, được gọi là đẳng thức Pythagoras.
++   Phản hồi đúng: Chính xác! Đây là công thức cơ bản: $\sin^2 x + \cos^2 x = 1$ với mọi $x$.
+-   Phản hồi sai: Đây là công thức cần nhớ thuộc lòng: $\sin^2 x + \cos^2 x = 1$.
+*a) $1$
+b) $0$
+c) $2$
+d) $\frac{1}{2}$
+
+6. Phương trình $\cos x = -1$ có nghiệm là:
+... Gợi ý: Tìm các điểm trên đường tròn lượng giác mà $\cos x = -1$.
++   Phản hồi đúng: Đúng rồi! $\cos x = -1$ chỉ xảy ra tại $x = \pi + k2\pi$.
+-   Phản hồi sai: $\cos x = -1$ chỉ tại một họ nghiệm duy nhất, không phải hai họ như $\sin x = a$.
+a) $x = 0 + k2\pi, k \in \mathbb{Z}$
+*b) $x = \pi + k2\pi, k \in \mathbb{Z}$
+c) $x = \frac{\pi}{2} + k\pi, k \in \mathbb{Z}$
+d) $x = \frac{\pi}{2} + k2\pi, k \in \mathbb{Z}$
+
+7. Tập giá trị của hàm số $y = \sin x$ là:
+... Gợi ý: Quan sát đồ thị hàm $\sin x$ để xác định giá trị nhỏ nhất và lớn nhất.
++   Phản hồi đúng: Chính xác! Hàm $\sin x$ dao động từ -1 đến 1.
+-   Phản hồi sai: Hàm $\sin x$ bị chặn, không thể nhận mọi giá trị thực.
+a) $\mathbb{R}$
+*b) $[-1; 1]$
+c) $[0; 1]$
+d) $[-\pi; \pi]$
+
+8. Phương trình $\tan x = 1$ có nghiệm là:
+... Gợi ý: Tìm các góc mà $\tan x = 1$ trên đường tròn lượng giác.
++   Phản hồi đúng: Đúng! $\tan x = 1$ tại $x = \frac{\pi}{4} + k\pi$ vì hàm $\tan$ có chu kì $\pi$.
+-   Phản hồi sai: Hàm $\tan x$ có chu kì $\pi$, không phải $2\pi$ như $\sin x$ và $\cos x$.
+*a) $x = \frac{\pi}{4} + k\pi, k \in \mathbb{Z}$
+b) $x = \frac{\pi}{4} + k2\pi, k \in \mathbb{Z}$
+c) $x = \frac{\pi}{3} + k\pi, k \in \mathbb{Z}$
+d) $x = \frac{\pi}{6} + k\pi, k \in \mathbb{Z}$
+
+9. Hàm số $y = 2\sin(3x)$ có chu kì là:
+... Gợi ý: Chu kì của hàm $y = A\sin(Bx)$ là $\frac{2\pi}{|B|}$.
++   Phản hồi đúng: Đúng! Chu kì của $y = 2\sin(3x)$ là $\frac{2\pi}{3}$.
+-   Phản hồi sai: Công thức chu kì: $T = \frac{2\pi}{|B|}$ với $y = A\sin(Bx + C)$.
+a) $2\pi$
+*b) $\frac{2\pi}{3}$
+c) $6\pi$
+d) $\frac{\pi}{3}$
+
+10. Điều kiện để phương trình $\sin x = a$ có nghiệm là:
+... Gợi ý: Tập giá trị của hàm $\sin x$ quyết định điều kiện có nghiệm.
++   Phản hồi đúng: Chính xác! Vì $-1 \leq \sin x \leq 1$ nên phương trình có nghiệm khi $|a| \leq 1$.
+-   Phản hồi sai: Phương trình $\sin x = a$ chỉ có nghiệm khi $a$ thuộc tập giá trị của hàm $\sin$.
+a) $a > 0$
+*b) $|a| \leq 1$
+c) $a \geq 0$
+d) $a \neq 0$
+
+11. Nghiệm của phương trình $\cos x =  0$ là:
+... Gợi ý: Tìm các điểm trên đường tròn lượng giác mà hoành độ bằng 0.
++   Phản hồi đúng: Đúng! $\cos x = 0$ tại $x = \frac{\pi}{2} + k\pi$.
+-   Phản hồi sai: $\cos x = 0$ tại các điểm có hoành độ bằng 0 trên đường tròn lượng giác.
+a) $x = k\pi, k \in \mathbb{Z}$
+*b) $x = \frac{\pi}{2} + k\pi, k \in \mathbb{Z}$
+c) $x = k2\pi, k \in \mathbb{Z}$
+d) $x = \frac{\pi}{4} + k\pi, k \in \mathbb{Z}$
+
+12. Hàm số $y = \tan x$ có tính chất:
+... Gợi ý: Xét tính chẵn lẻ bằng cách kiểm tra $f(-x)$ và $f(x)$.
++   Phản hồi đúng: Đúng! Vì $\tan(-x) = -\tan x$ nên hàm $\tan x$ là hàm lẻ.
+-   Phản hồi sai: Kiểm tra: $\tan(-x) = \frac{\sin(-x)}{\cos(-x)} = \frac{-\sin x}{\cos x} = -\tan x$.
+a) Là hàm chẵn
+*b) Là hàm lẻ
+c) Không chẵn, không lẻ
+d) Vừa chẵn vừa lẻ
+
+13. Biên độ của hàm số $y = -3\cos(2x + \frac{\pi}{4})$ là:
+... Gợi ý: Biên độ là giá trị tuyệt đối của hệ số trước hàm lượng giác.
++   Phản hồi đúng: Chính xác! Biên độ là $|-3| = 3$.
+-   Phản hồi sai: Biên độ luôn là số dương, bằng $|A|$ trong hàm $y = A\sin(Bx + C)$.
+a) $-3$
+*b) $3$
+c) $2$
+d) $\frac{\pi}{4}$
+
+14. Phương trình $2\sin^2 x - \sin x - 1 = 0$ có nghiệm là:
+... Gợi ý: Đặt $t = \sin x$ và giải phương trình bậc hai theo $t$.
++   Phản hồi đúng: Đúng! Đặt $t = \sin x$, ta có $2t^2 - t - 1 = 0$, giải được $t = 1$ hoặc $t = -\frac{1}{2}$.
+-   Phản hồi sai: Cần đặt ẩn phụ và giải phương trình bậc hai, rồi giải các phương trình lượng giác cơ bản.
+a) $x = \frac{\pi}{3} + k2\pi, k \in \mathbb{Z}$
+*b) $x = \frac{\pi}{2} + k2\pi$ hoặc $x = \frac{7\pi}{6} + k2\pi$ hoặc $x = \frac{11\pi}{6} + k2\pi, k \in \mathbb{Z}$
+c) $x = \pi + k2\pi, k \in \mathbb{Z}$
+d) $x = \frac{\pi}{6} + k\pi, k \in \mathbb{Z}$
+
+15. Tập xác định của hàm số $y = \cot x$ là:
+... Gợi ý: Hàm $\cot x = \frac{\cos x}{\sin x}$ không xác định khi mẫu số bằng 0.
++   Phản hồi đúng: Chính xác! Hàm $\cot x$ không xác định khi $\sin x = 0$, tức là $x = k\pi$.
+-   Phản hồi sai: Hàm $\cot x$ không xác định tại các điểm mà $\sin x = 0$, không phải $\cos x = 0$.
+*a) $\mathbb{R} \setminus \{k\pi, k \in \mathbb{Z}\}$
+b) $\mathbb{R} \setminus \{\frac{\pi}{2} + k\pi, k \in \mathbb{Z}\}$
+c) $\mathbb{R}$
+d) $\mathbb{R} \setminus \{k2\pi, k \in \mathbb{Z}\}$
+
+16. Nghiệm của phương trình $\sin(2x - \frac{\pi}{3}) = \frac{\sqrt{3}}{2}$ trong khoảng $(0; \pi)$ là:
+... Gợi ý: Giải phương trình $\sin u = \frac{\sqrt{3}}{2}$ với $u = 2x - \frac{\pi}{3}$.
++   Phản hồi đúng: Đúng! Từ $\sin u = \frac{\sqrt{3}}{2}$ ta có $u = \frac{\pi}{3} + k2\pi$ hoặc $u = \frac{2\pi}{3} + k2\pi$.
+-   Phản hồi sai: Cần đặt $u = 2x - \frac{\pi}{3}$ và giải phương trình cơ bản, sau đó tìm $x$ trong khoảng cho trước.
+a) $x = \frac{\pi}{6}$
+b) $x = \frac{\pi}{3}$
+*c) $x = \frac{\pi}{3}$ và $x = \frac{2\pi}{3}$
+d) $x = \frac{\pi}{2}$
+
+17. Hàm số $y = \sin  x$ đồng biến trên khoảng nào sau đây?
+... Gợi ý: Xét dấu của đạo hàm $y' = \cos x$ để xác định khoảng đồng biến.
++   Phản hồi đúng: Chính xác! Hàm $\sin x$ đồng biến khi $\cos x > 0$, tức là trên $(-\frac{\pi}{2}; \frac{\pi}{2})$.
+-   Phản hồi sai: Hàm $\sin x$ đồng biến trên các khoảng dạng $(-\frac{\pi}{2} + k2\pi; \frac{\pi}{2} + k2\pi)$.
+*a) $(-\frac{\pi}{2}; \frac{\pi}{2})$
+b) $(0; \pi)$
+c) $(-\pi; 0)$
+d) $(\frac{\pi}{2}; \frac{3\pi}{2})$
+
+18. Giá trị lớn nhất của hàm số $y = 3\sin x - 4\cos x$ là:
+... Gợi ý: Sử dụng công thức $a\sin x + b\cos x = \sqrt{a^2 + b^2}\sin(x + \varphi)$.
++   Phản hồi đúng: Đúng! Giá trị lớn nhất là $\sqrt{3^2 + (-4)^2} = \sqrt{25} = 5$.
+-   Phản hồi sai: Đối với $a\sin x + b\cos x$, giá trị lớn nhất là $\sqrt{a^2 + b^2}$, nhỏ nhất là $-\sqrt{a^2 + b^2}$.
+a) $7$
+*b) $5$
+c) $3$
+d) $4$
+
+19. Phương trình $\cos 2x = \cos x$ có nghiệm là:
+... Gợi ý: Sử dụng công thức $\cos 2x = 2\cos^2 x - 1$ để đưa về phương trình theo $\cos x$.
++   Phản hồi đúng: Chính xác! Từ $2\cos^2 x - 1 = \cos x$ ta có $\cos x = \frac{1}{2}$ hoặc $\cos x = -1$.
+-   Phản hồi sai: Cần biến đổi $\cos 2x$ thành biểu thức của $\cos x$ rồi giải phương trình bậc hai.
+a) $x = \frac{\pi}{6} + k\pi, k \in \mathbb{Z}$
+*b) $x = \frac{\pi}{3} + k2\pi$ hoặc $x = -\frac{\pi}{3} + k2\pi$ hoặc $x = \pi + k2\pi, k \in \mathbb{Z}$
+c) $x = \frac{\pi}{2} + k2\pi, k \in \mathbb{Z}$
+d) $x = k\pi, k \in \mathbb{Z}$
+
+20. Trong các hàm số sau, hàm số nào có chu kì nhỏ nhất?
+... Gợi ý: So sánh chu kì của các hàm $y = A\sin(Bx)$ với các giá trị $B$ khác nhau.
++   Phản hồi đúng: Đúng! Hàm $y = \sin 4x$ có chu kì $\frac{2\pi}{4} = \frac{\pi}{2}$ là nhỏ nhất.
+-   Phản hồi sai: Chu kì của $y = A\sin(Bx)$ là $\frac{2\pi}{|B|}$. $B$ càng lớn thì chu kì càng nhỏ.
+a) $y = \sin x$
+b) $y = \sin 2x$
+c) $y = \sin 3x$
+*d) $y = \sin 4x$
+
+1. Dãy số nào sau đây là cấp số cộng?
+... Gợi ý: Kiểm tra hiệu giữa hai số hạng liên tiếp có bằng nhau không.
++   Phản hồi đúng: Chính xác! Dãy số $2, 5, 8, 11, 14$ có hiệu giữa hai số hạng liên tiếp luôn bằng $3$, nên đây là cấp số cộng với công sai $d = 3$.
+-   Phản hồi sai: Cần kiểm tra hiệu giữa hai số hạng liên tiếp. Chỉ có dãy số có hiệu không đổi mới là cấp số cộng.
+a) $1, 2, 4, 8, 16$
+*b) $2, 5, 8, 11, 14$
+c) $1, 4, 9, 16, 25$
+d) $3, 6, 12, 24, 48$
+
+2. Dãy số nào sau đây là cấp số nhân?
+... Gợi ý: Kiểm tra tỉ số giữa hai số hạng liên tiếp có bằng nhau không.
++   Phản hồi đúng: Đúng rồi! Dãy số $3, 6, 12, 24, 48$ có tỉ số giữa hai số hạng liên tiếp luôn bằng $2$, nên đây là cấp số nhân với công bội $q = 2$.
+-   Phản hồi sai: Cần kiểm tra tỉ số giữa hai số hạng liên tiếp. Chỉ có dãy số có tỉ số không đổi mới là cấp số nhân.
+a) $1, 3, 5, 7, 9$
+b) $2, 4, 6, 8, 10$
+*c) $3, 6, 12, 24, 48$
+d) $1, 4, 7, 10, 13$
+
+3. Số hạng thứ 6 của cấp số cộng có $u_1 = 3$ và $d = 4$ là:
+... Gợi ý: Sử dụng công thức $u_n = u_1 + (n-1)d$.
++   Phản hồi đúng: Chính xác! Áp dụng công thức $u_6 = u_1 + (6-1)d = 3 + 5 \times 4 = 3 + 20 = 23$.
+-   Phản hồi sai: Nhớ công thức số hạng tổng quát của cấp số cộng: $u_n = u_1 + (n-1)d$.
+a) $19$
+b) $27$
+*c) $23$
+d) $31$
+
+4. Số hạng thứ 5 của cấp số nhân có $u_1 = 2$ và $q = 3$ là:
+... Gợi ý: Sử dụng công thức $u_n = u_1 \times q^{n-1}$.
++   Phản hồi đúng: Đúng! Áp dụng công thức $u_5 = u_1 \times q^{5-1} = 2 \times 3^4 = 2 \times 81 = 162$.
+-   Phản hồi sai: Nhớ công thức số hạng tổng quát của cấp số nhân: $u_n = u_1 \times q^{n-1}$.
+a) $54$
+b) $243$
+*c) $162$
+d) $81$
+
+5. Công sai của cấp số cộng $7, 11, 15, 19, 23$ là:
+... Gợi ý: Tính hiệu giữa hai số hạng liên tiếp bất kỳ.
++   Phản hồi đúng: Chính xác! Công sai $d = 11 - 7 = 4$ (hoặc $d = 15 - 11 = 4$).
+-   Phản hồi sai: Công sai của cấp số cộng bằng hiệu giữa hai số hạng liên tiếp.
+a) $d = 3$
+*b) $d = 4$
+c) $d = 5$
+d) $d = 6$
+
+6. Công bội của cấp số nhân $5, 15, 45, 135$ là:
+... Gợi ý: Tính tỉ số giữa hai số hạng liên tiếp bất kỳ.
++   Phản hồi đúng: Đúng! Công bội $q = \frac{15}{5} = 3$ (hoặc $q = \frac{45}{15} = 3$).
+-   Phản hồi sai: Công bội của cấp số nhân bằng tỉ số giữa hai số hạng liên tiếp.
+a) $q = 2$
+*b) $q = 3$
+c) $q = 4$
+d) $q = 5$
+
+7. Tổng 4 số hạng đầu của cấp số cộng có $u_1 = 5$ và $d = 3$ là:
+... Gợi ý: Sử dụng công thức $S_n = \frac{n[2u_1 + (n-1)d]}{2}$.
++   Phản hồi đúng: Chính xác! $S_4 = \frac{4[2 \times 5 + (4-1) \times 3]}{2} = \frac{4[10 + 9]}{2} = \frac{4 \times 19}{2} = 38$.
+-   Phản hồi sai: Áp dụng công thức tổng n số hạng đầu của cấp số cộng: $S_n = \frac{n[2u_1 + (n-1)d]}{2}$.
+a) $32$
+*b) $38$
+c) $44$
+d) $50$
+
+8. Tổng 3 số hạng đầu của cấp số nhân có $u_1 = 4$ và $q = 2$ là:
+... Gợi ý: Sử dụng công thức $S_n = u_1 \frac{q^n - 1}{q - 1}$ khi $q \neq 1$.
++   Phản hồi đúng: Đúng! $S_3 = 4 \times \frac{2^3 - 1}{2 - 1} = 4 \times \frac{8 - 1}{1} = 4 \times 7 = 28$.
+-   Phản hồi sai: Áp dụng công thức tổng n số hạng đầu của cấp số nhân: $S_n = u_1 \frac{q^n - 1}{q - 1}$.
+a) $24$
+*b) $28$
+c) $32$
+d) $36$
+
+9. Công thức số hạng tổng quát của cấp số cộng là:
+... Gợi ý: Nhớ lại định nghĩa và công thức cơ bản của cấp số cộng.
++   Phản hồi đúng: Chính xác! Công thức số hạng tổng quát của cấp số cộng là $u_n = u_1 + (n-1)d$.
+-   Phản hồi sai: Cần phân biệt công thức của cấp số cộng và cấp số nhân.
+a) $u_n = u_1 + nd$
+*b) $u_n = u_1 + (n-1)d$
+c) $u_n = u_1 \times q^n$
+d) $u_n = u_1 \times q^{n-1}$
+
+10. Công thức số hạng tổng quát của cấp số nhân là:
+... Gợi ý: Nhớ lại định nghĩa và công thức cơ bản của cấp số nhân.
++   Phản hồi đúng: Đúng! Công thức số hạng tổng quát của cấp số nhân là $u_n = u_1 \times q^{n-1}$.
+-   Phản hồi sai: Cần phân biệt công thức của cấp số nhân và cấp số cộng.
+a) $u_n = u_1 + (n-1)d$
+b) $u_n = u_1 \times q^n$
+*c) $u_n = u_1 \times q^{n-1}$
+d) $u_n = u_1 + nd$
+
+11. Số hạng thứ 4 của cấp số cộng có $u_1 = 1$ và $d = 2$ là:
+... Gợi ý: Áp dụng công thức $u_n = u_1 + (n-1)d$ với $n = 4$.
++   Phản hồi đúng: Chính xác! $u_4 = 1 + (4-1) \times 2 = 1 + 3 \times 2 = 1 + 6 = 7$.
+-   Phản hồi sai: Thay đúng giá trị vào công thức $u_n = u_1 + (n-1)d$.
+a) $5$
+*b) $7$
+c) $9$
+d) $11$
+
+12. Số hạng thứ 3 của cấp số nhân có $u_1 = 3$ và $q = 4$ là:
+... Gợi ý: Áp dụng công thức $u_n = u_1 \times q^{n-1}$ với $n = 3$.
++   Phản hồi đúng: Đúng! $u_3 = 3 \times 4^{3-1} = 3 \times 4^2 = 3 \times 16 = 48$.
+-   Phản hồi sai: Thay đúng giá trị vào công thức $u_n = u_1 \times q^{n-1}$.
+a) $36$
+*b) $48$
+c) $64$
+d) $72$
+
+13. Cấp số cộng có tính chất nào sau đây?
+... Gợi ý: Nhớ định nghĩa cơ bản của cấp số cộng.
++   Phản hồi đúng: Chính xác! Cấp số cộng có tính chất hiệu giữa hai số hạng liên tiếp luôn bằng một hằng số.
+-   Phản hồi sai: Cần phân biệt tính chất của cấp số cộng và cấp số nhân.
+*a) Hiệu giữa hai số hạng liên tiếp bằng nhau
+b) Tỉ số giữa hai số hạng liên tiếp bằng nhau
+c) Tổng hai số hạng liên tiếp bằng nhau
+d) Tích hai số hạng liên tiếp bằng nhau
+
+14. Cấp số nhân có tính chất nào sau đây?
+... Gợi ý: Nhớ định nghĩa cơ bản của cấp số nhân.
++   Phản hồi đúng: Đúng! Cấp số nhân có tính chất tỉ số giữa hai số hạng liên tiếp luôn bằng một hằng số.
+-   Phản hồi sai: Cần phân biệt tính chất của cấp số nhân và cấp số cộng.
+a) Hiệu giữa hai số hạng liên tiếp bằng nhau
+*b) Tỉ số giữa hai số hạng liên tiếp bằng nhau
+c) Tổng hai số hạng liên tiếp bằng nhau
+d) Tích hai số hạng liên tiếp bằng nhau
+
+15. Tổng 5 số hạng đầu của cấp số cộng có $u_1 = 2$ và $d = 1$ là:
+... Gợi ý: Sử dụng công thức $S_n = \frac{n[2u_1 + (n-1)d]}{2}$.
++   Phản hồi đúng: Chính xác! $S_5 = \frac{5[2 \times 2 + (5-1) \times 1]}{2} = \frac{5[4 + 4]}{2} = \frac{5 \times 8}{2} = 20$.
+-   Phản hồi sai: Áp dụng đúng công thức tổng của cấp số cộng.
+a) $15$
+*b) $20$
+c) $25$
+d) $30$
+
+16. Tổng 4 số hạng đầu của cấp số nhân có $u_1 = 1$ và $q = 3$ là:
+... Gợi ý: Sử dụng công thức $S_n = u_1 \frac{q^n - 1}{q - 1}$ với $q \neq 1$.
++   Phản hồi đúng: Đúng! $S_4 = 1 \times \frac{3^4 - 1}{3 - 1} = \frac{81 - 1}{2} = \frac{80}{2} = 40$.
+-   Phản hồi sai: Áp dụng đúng công thức tổng của cấp số nhân.
+a) $30$
+*b) $40$
+c) $50$
+d) $60$
+
+17. Công sai của cấp số cộng $-3, 1, 5, 9, 13$ là:
+... Gợi ý: Tính hiệu giữa hai số hạng liên tiếp.
++   Phản hồi đúng: Chính xác! Công sai $d = 1 - (-3) = 1 + 3 = 4$.
+-   Phản hồi sai: Tính cẩn thận hiệu giữa hai số hạng liên tiếp, chú ý dấu âm.
+a) $d = 2$
+b) $d = 3$
+*c) $d = 4$
+d) $d = 5$
+
+18. Công bội của cấp số nhân $\frac{1}{2}, 1, 2, 4, 8$ là:
+... Gợi ý: Tính tỉ số giữa hai số hạng liên tiếp.
++   Phản hồi đúng: Đúng! Công bội $q = \frac{1}{\frac{1}{2}} = 2$.
+-   Phản hồi sai: Tính cẩn thận tỉ số giữa hai số hạng liên tiếp, chú ý phân số.
+a) $q = \frac{1}{2}$
+*b) $q = 2$
+c) $q = 3$
+d) $q = 4$
+
+19. Số hạng thứ 7 của cấp số cộng có $u_1 = -2$ và $d = 3$ là:
+... Gợi ý: Áp dụng công thức $u_n = u_1 + (n-1)d$ với $n = 7$.
++   Phản hồi đúng: Chính xác! $u_7 = -2 + (7-1) \times 3 = -2 + 6 \times 3 = -2 + 18 = 16$.
+-   Phản hồi sai: Thay đúng giá trị vào công thức, chú ý dấu âm của $u_1$.
+a) $13$
+*b) $16$
+c) $19$
+d) $22$
+
+20. Số hạng thứ 4 của cấp số nhân có $u_1 = -1$ và $q = -2$ là:
+... Gợi ý: Áp dụng công thức $u_n = u_1 \times q^{n-1}$ với $n = 4$.
++   Phản hồi đúng: Đúng! $u_4 = (-1) \times (-2)^{4-1} = (-1) \times (-2)^3 = (-1) \times (-8) = 8$.
+-   Phản hồi sai: Thay đúng giá trị vào công thức, chú ý dấu âm của cả $u_1$ và $q$.
+a) $-8$
+*b) $8$
+c) $-16$
+d) $16$
+
+1. Cho dãy số $(u_n)$ với $u_n = 2n + 3$. Dãy số này là loại nào?
+... Gợi ý: Tính hiệu $u_{n+1} - u_n$ để xác định loại dãy số.
++   Phản hồi đúng: Chính xác! Ta có $u_{n+1} - u_n = 2(n+1) + 3 - (2n + 3) = 2$ là hằng số, do đó đây là cấp số cộng với công sai $d = 2$.
+-   Phản hồi sai: Cần kiểm tra hiệu hai số hạng liên tiếp. Nếu hiệu là hằng số thì đó là cấp số cộng.
+a) Cấp số nhân
+*b) Cấp số cộng
+c) Dãy số không đều
+d) Dãy số hằng
+
+2. Cho cấp số cộng $(u_n)$ có $u_1 = 5$ và công sai $d = 3$. Số hạng thứ 8 là:
+... Gợi ý: Sử dụng công thức số hạng tổng quát $u_n = u_1 + (n-1)d$.
++   Phản hồi đúng: Đúng rồi! Áp dụng công thức $u_8 = u_1 + 7d = 5 + 7 \times 3 = 5 + 21 = 26$.
+-   Phản hồi sai: Nhớ công thức $u_n = u_1 + (n-1)d$, không phải $u_1 + nd$.
+a) 23
+*b) 26
+c) 29
+d) 32
+
+3. Cho cấp số nhân $(v_n)$ có $v_1 = 2$ và công bội $q = 3$. Số hạng thứ 5 là:
+... Gợi ý: Sử dụng công thức số hạng tổng quát $v_n = v_1 \times q^{n-1}$.
++   Phản hồi đúng: Chính xác! Ta có $v_5 = v_1 \times q^4 = 2 \times 3^4 = 2 \times 81 = 162$.
+-   Phản hồi sai: Lưu ý công thức là $v_n = v_1 \times q^{n-1}$, số mũ là $n-1$ chứ không phải $n$.
+a) 54
+b) 81
+*c) 162
+d) 243
+
+4. Cho cấp số cộng có $u_3 = 11$ và $u_7 = 23$. Công sai $d$ bằng:
+... Gợi ý: Sử dụng công thức $u_n = u_1 + (n-1)d$ để lập hệ phương trình.
++   Phản hồi đúng: Đúng! Ta có $u_7 - u_3 = 4d$, suy ra $d = \frac{23-11}{4} = 3$.
+-   Phản hồi sai: Chú ý rằng $u_7 = u_3 + 4d$, từ đó tìm được $d$.
+a) 2
+*b) 3
+c) 4
+d) 6
+
+5. Ba số $2, x, 8$ theo thứ tự tạo thành cấp số cộng. Giá trị của $x$ là:
+... Gợi ý: Trong cấp số cộng, số hạng giữa bằng trung bình cộng của hai số hạng kề.
++   Phản hồi đúng: Chính xác! Trong cấp số cộng có $x = \frac{2+8}{2} = 5$.
+-   Phản hồi sai: Nhớ tính chất: trong cấp số cộng, $u_k = \frac{u_{k-1} + u_{k+1}}{2}$.
+a) 4
+*b) 5
+c) 6
+d) 7
+
+6. Tổng 10 số hạng đầu của cấp số cộng có $u_1 = 3$ và $d = 2$ là:
+... Gợi ý: Sử dụng công thức $S_n = \frac{n}{2}[2u_1 + (n-1)d]$.
++   Phản hồi đúng: Đúng! $S_{10} = \frac{10}{2}[2 \times 3 + 9 \times 2] = 5[6 + 18] = 120$.
+-   Phản hồi sai: Áp dụng đúng công thức tổng cấp số cộng và tính cẩn thận.
+a) 100
+b) 110
+*c) 120
+d) 130
+
+7. Cho cấp số nhân có $v_2 = 6$ và $v_4 = 54$. Công bội $q$ bằng:
+... Gợi ý: Sử dụng mối liên hệ $v_4 = v_2 \times q^2$.
++   Phản hồi đúng: Chính xác! Ta có $q^2 = \frac{v_4}{v_2} = \frac{54}{6} = 9$, suy ra $q = 3$ (vì $q > 0$).
+-   Phản hồi sai: Chú ý rằng $v_4 = v_2 \times q^{4-2} = v_2 \times q^2$.
+a) 2
+*b) 3
+c) 6
+d) 9
+
+8. Dãy số nào sau đây không phải là cấp số nhân?
+... Gợi ý: Kiểm tra tỷ số giữa hai số hạng liên tiếp có bằng hằng số không.
++   Phản hồi đúng: Đúng! Dãy $1, 3, 6, 10$ có $\frac{3}{1} = 3$, $\frac{6}{3} = 2$, $\frac{10}{6} = \frac{5}{3}$ không bằng nhau.
+-   Phân hồi sai: Cần kiểm tra tỷ số các số hạng liên tiếp. Nếu tỷ số không bằng nhau thì không phải cấp số nhân.
+*a) $1, 3, 6, 10$
+b) $2, 6, 18, 54$
+c) $5, 10, 20, 40$
+d) $1, -2, 4, -8$
+
+9. Cho cấp số cộng $(u_n)$ có $u_5 = 17$ và $u_{10} = 37$. Số hạng đầu $u_1$ bằng:
+... Gợi ý: Tìm công sai $d$ trước, sau đó sử dụng $u_5 = u_1 + 4d$.
++   Phản hồi đúng: Chính xác! Ta có $d = \frac{u_{10} - u_5}{5} = 4$, suy ra $u_1 = u_5 - 4d = 17 - 16 = 1$.
+-   Phản hồi sai: Cần tìm công sai trước bằng công thức $d = \frac{u_m - u_n}{m-n}$.
+*a) 1
+b) 3
+c) 5
+d) 7
+
+10. Tổng 6 số hạng đầu của cấp số nhân có $v_1 = 2$ và $q = 2$ là:
+... Gợi ý: Sử dụng công thức $S_n = v_1 \times \frac{q^n - 1}{q - 1}$ khi $q \neq 1$.
++   Phản hồi đúng: Đúng! $S_6 = 2 \times \frac{2^6 - 1}{2 - 1} = 2 \times (64 - 1) = 126$.
+-   Phản hồi sai: Nhớ công thức tổng cấp số nhân và tính $q^n$ chính xác.
+a) 120
+*b) 126
+c) 132
+d) 140
+
+11. Cho dãy số có các số hạng đầu: $7, 4, 1, -2, -5, ...$. Đây là loại dãy số nào?
+... Gợi ý: Tính hiệu giữa các số hạng liên tiếp.
++   Phản hồi đúng: Chính xác! Hiệu giữa các số hạng liên tiếp đều bằng $-3$, đây là cấp số cộng với $d = -3$.
+-   Phản hồi sai: Kiểm tra hiệu các số hạng liên tiếp để xác định loại dãy số.
+*a) Cấp số cộng
+b) Cấp số nhân
+c) Dãy số không đều
+d) Dãy số tăng
+
+12. Ba số $x-1$, $x+2$, $2x+1$ theo thứ tự tạo thành cấp số cộng. Giá trị $x$ là:
+... Gợi ý: Sử dụng điều kiện $(x+2) - (x-1) = (2x+1) - (x+2)$.
++   Phản hồi đúng: Chính xác! Ta có $3 = x - 1$, suy ra $x = 4$.
+-   Phản hồi sai: Trong cấp số cộng, hiệu giữa các số hạng liên tiếp phải bằng nhau.
+a) 2
+b) 3
+*c) 4
+d) 5
+
+13. Cho cấp số nhân $(a_n)$ có $a_1 = 1$ và $a_4 = 27$. Số hạng $a_3$ bằng:
+... Gợi ý: Tìm công bội $q$ từ $a_4 = a_1 \times q^3$, sau đó tính $a_3$.
++   Phản hồi đúng: Đúng! Ta có $q^3 = 27$, suy ra $q = 3$ và $a_3 = a_1 \times q^2 = 1 \times 9 = 9$.
+-   Phản hồi sai: Cần tìm công bội trước, sau đó áp dụng công thức số hạng tổng quát.
+a) 3
+b) 6
+*c) 9
+d) 18
+
+14. Trong cấp số cộng $(u_n)$, biết $u_1 + u_2 + u_3 = 15$ và $u_1 = 3$. Công sai $d$ bằng:
+... Gợi ý: Biểu diễn $u_2$ và $u_3$ theo $u_1$ và $d$.
++   Phản hồi đúng: Chính xác! Ta có $3 + (3+d) + (3+2d) = 15$, suy ra $3d = 6$, do đó $d = 2$.
+-   Phản hồi sai: Thay $u_2 = u_1 + d$ và $u_3 = u_1 + 2d$ vào phương trình.
+a) 1
+*b) 2
+c) 3
+d) 4
+
+15. Cho cấp số nhân có số hạng đầu $v_1 = -2$ và công bội $q = -3$. Số hạng $v_4$ là:
+... Gợi ý: Áp dụng công thức $v_n = v_1 \times q^{n-1}$.
++   Phản hồi đúng: Đúng! $v_4 = (-2) \times (-3)^3 = (-2) \times (-27) = 54$.
+-   Phản hồi sai: Chú ý dấu khi tính lũy thừa của số âm.
+a) -54
+b) -18
+c) 18
+*d) 54
+
+16. Số hạng thứ 15 của cấp số cộng có $u_3 = 8$ và $d = 2$ là:
+... Gợi ý: Tìm $u_1$ trước, sau đó tính $u_{15}$.
++   Phản hồi đúng: Chính xác! Ta có $u_1 = u_3 - 2d = 8 - 4 = 4$, suy ra $u_{15} = 4 + 14 \times 2 = 32$.
+-   Phản hồi sai: Cần tìm số hạng đầu trước khi áp dụng công thức số hạng tổng quát.
+a) 28
+b) 30
+*c) 32
+d) 34
+
+17. Ba số $2, x, y$ theo thứ tự tạo thành cấp số nhân có công bội $q = 3$. Giá trị $x + y$ là:
+... Gợi ý: Sử dụng công thức số hạng tổng quát để tìm $x$ và $y$.
++   Phản hồi đúng: Đúng! Ta có $x = 2 \times 3 = 6$ và $y = 2 \times 3^2 = 18$, suy ra $x + y = 24$.
+-   Phản hồi sai: Áp dụng công thức $v_n = v_1 \times q^{n-1}$ để tìm từng số hạng.
+a) 20
+b) 22
+*c) 24
+d) 26
+
+18. Cho cấp số cộng có tổng 8 số hạng đầu bằng 76 và $u_1 = 2$. Công sai $d$ bằng:
+... Gợi ý: Sử dụng công thức $S_n = \frac{n}{2}[2u_1 + (n-1)d]$.
++   Phản hồi đúng: Chính xác! Ta có $76 = 4[4 + 7d]$, suy ra $19 = 4 + 7d$, do đó $d = \frac{15}{7}$.
+-   Phản hồi sai: Thay các giá trị đã biết vào công thức tổng và giải phương trình.
+a) 2
+*b) $\frac{15}{7}$
+c) 3
+d) $\frac{17}{7}$
+
+19. Cấp số nhân nào sau đây có tổng 4 số hạng đầu bằng 40?
+... Gợi ý: Tính tổng cho từng trường hợp bằng công thức $S_n = v_1 \times \frac{q^n - 1}{q - 1}$.
++   Phản hồi đúng: Chính xác! Với $v_1 = 8, q = \frac{1}{2}$: $S_4 = 8 \times \frac{(\frac{1}{2})^4 - 1}{\frac{1}{2} - 1} = 8 \times \frac{-\frac{15}{16}}{-\frac{1}{2}} = 15$.
+-   Phản hồi sai: Cần tính chính xác tổng cho từng trường hợp sử dụng công thức tổng cấp số nhân.
+a) $v_1 = 1, q = 3$
+*b) $v_1 = 5, q = 2$
+c) $v_1 = 8, q = \frac{1}{2}$
+d) $v_1 = 2, q = 4$
+
+20. Trong cấp số cộng $(u_n)$, nếu $u_4 + u_8 = 26$ và $u_6 = 11$, thì $u_2$ bằng:
+... Gợi ý: Sử dụng tính chất $u_4 + u_8 = 2u_6$ để kiểm tra và tìm mối liên hệ.
++   Phản hồi đúng: Chính xác! Ta có $u_4 + u_8 = 2u_6 + 4 = 22 + 4 = 26$ (thỏa mãn). Từ $u_6 = u_2 + 4d$ và $u_4 = u_2 + 2d$, suy ra $d = 2$ và $u_2 = 3$.
+-   Phản hồi sai: Sử dụng tính chất đối xứng của cấp số cộng và mối liên hệ giữa các số hạng.
+a) 1
+b) 2
+*c) 3
+d) 5
+
+1. Một công ty khởi nghiệp có doanh thu tháng đầu là 30 triệu đồng. Do mở rộng thị trường, doanh thu tăng đều 5 triệu đồng mỗi tháng. Hỏi doanh thu của công ty trong tháng thứ 10 là bao nhiêu?
+... Gợi ý: Đây là bài toán về cấp số cộng với $u_1 = 30$ và công sai $d = 5$.
++   Phản hồi đúng: Chính xác! Áp dụng công thức $u_n = u_1 + (n-1)d$ với $u_1 = 30$, $d = 5$, $n = 10$: $u_{10} = 30 + (10-1) \times 5 = 30 + 45 = 75$ triệu đồng.
+-   Phản hồi sai: Cần xác định đây là cấp số cộng và áp dụng đúng công thức số hạng tổng quát $u_n = u_1 + (n-1)d$.
+a) 70 triệu đồng
+*b) 75 triệu đồng
+c) 80 triệu đồng
+d) 85 triệu đồng
+
+2. Một người gửi tiết kiệm 50 triệu đồng với lãi suất 8%/năm, lãi nhập gốc. Số tiền người đó có được sau 4 năm là:
+... Gợi ý: Đây là bài toán cấp số nhân với $u_1 = 50$ triệu và công bội $q = 1,08$.
++   Phản hồi đúng: Đúng rồi! Số tiền sau $n$ năm được tính theo công thức $u_n = u_1 \times q^{n-1}$ với $q = 1 + 0,08 = 1,08$. Sau 4 năm: $u_4 = 50 \times 1,08^3 = 50 \times 1,259712 = 62,9856$ triệu đồng.
+-   Phản hồi sai: Lãi suất kép tạo thành cấp số nhân. Công thức tính là $A = P(1+r)^n$ với $P$ là vốn gốc, $r$ là lãi suất, $n$ là số năm.
+a) 60,5 triệu đồng
+*b) 62,99 triệu đồng
+c) 65,2 triệu đồng
+d) 68,0 triệu đồng
+
+3. Một vi khuẩn ban đầu có 1000 con, cứ sau 1 giờ số lượng tăng gấp đôi. Sau 6 giờ, số lượng vi khuẩn là:
+... Gợi ý: Số lượng vi khuẩn tạo thành cấp số nhân với $u_1 = 1000$ và $q = 2$.
++   Phản hồi đúng: Chính xác! Đây là cấp số nhân với $u_1 = 1000$, $q = 2$. Sau 6 giờ: $u_7 = 1000 \times 2^6 = 1000 \times 64 = 64000$ con.
+-   Phản hồi sai: Tăng gấp đôi mỗi giờ tạo thành cấp số nhân. Cần áp dụng công thức $u_n = u_1 \times q^{n-1}$.
+a) 32000 con
+*b) 64000 con
+c) 128000 con
+d) 48000 con
+
+4. Một vận động viên chạy bộ tuần đầu chạy 10km, mỗi tuần sau chạy thêm 2km so với tuần trước. Tổng quãng đường anh ta chạy trong 8 tuần đầu là:
+... Gợi ý: Đây là tổng của cấp số cộng với $u_1 = 10$, $d = 2$, $n = 8$.
++   Phản hồi đúng: Đúng! Áp dụng công thức tổng cấp số cộng: $S_n = \frac{n(2u_1 + (n-1)d)}{2} = \frac{8(2 \times 10 + 7 \times 2)}{2} = \frac{8 \times 34}{2} = 136$ km.
+-   Phản hồi sai: Cần sử dụng công thức tổng cấp số cộng $S_n = \frac{n(2u_1 + (n-1)d)}{2}$ hoặc $S_n = \frac{n(u_1 + u_n)}{2}$.
+a) 128 km
+*b) 136 km
+c) 144 km
+d) 152 km
+
+5. Dân số một thành phố năm 2020 là 500.000 người và tăng 2% mỗi năm. Dân số thành phố đó vào năm 2025 là:
+... Gợi ý: Tăng trưởng dân số theo tỷ lệ % tạo thành cấp số nhân với $q = 1,02$.
++   Phản hồi đúng: Chính xác! Dân số tạo thành cấp số nhân với $u_1 = 500000$, $q = 1,02$. Năm 2025 (sau 5 năm): $u_6 = 500000 \times 1,02^5 = 500000 \times 1,104081 = 552040$ người.
+-   Phản hồi sai: Tăng trưởng theo tỷ lệ % tạo cấp số nhân. Công thức: dân số sau $n$ năm = dân số ban đầu $\times (1 + \text{tỷ lệ tăng})^n$.
+a) 550000 người
+*b) 552040 người
+c) 555000 người
+d) 560000 người
+
+6. Một học sinh lập kế hoạch đọc sách: tuần đầu đọc 50 trang, mỗi tuần sau đọc nhiều hơn tuần trước 10 trang. Số trang sách học sinh đó đọc ở tuần thứ 6 là:
+... Gợi ý: Số trang đọc mỗi tuần tạo thành cấp số cộng với $u_1 = 50$ và $d = 10$.
++   Phản hồi đúng: Đúng rồi! Áp dụng công thức cấp số cộng: $u_n = u_1 + (n-1)d = 50 + (6-1) \times 10 = 50 + 50 = 100$ trang.
+-   Phản hồi sai: Đây là cấp số cộng với số hạng đầu $u_1 = 50$ và công sai $d = 10$. Sử dụng công thức $u_n = u_1 + (n-1)d$.
+a) 90 trang
+*b) 100 trang
+c) 110 trang
+d) 120 trang
+
+7. Một máy móc có giá trị ban đầu 200 triệu đồng, mỗi năm giảm giá 15% so với năm trước. Giá trị máy móc sau 3 năm là:
+... Gợi ý: Giảm giá theo tỷ lệ % tạo cấp số nhân với $q = 0,85$.
++   Phản hồi đúng: Chính xác! Giá trị tạo cấp số nhân với $u_1 = 200$, $q = 1 - 0,15 = 0,85$. Sau 3 năm: $u_4 = 200 \times 0,85^3 = 200 \times 0,614125 = 122,825$ triệu đồng.
+-   Phản hồi sai: Giảm giá theo tỷ lệ % tạo cấp số nhân. Mỗi năm giá trị còn lại $85\%$ so với năm trước, nên $q = 0,85$.
+a) 120,5 triệu đồng
+*b) 122,83 triệu đồng
+c) 125,2 triệu đồng
+d) 130,0 triệu đồng
+
+8. Một nhân viên có lương tháng đầu là 15 triệu đồng, cứ 6 tháng tăng lương 1 triệu đồng. Tổng lương nhân viên nhận được trong 2 năm đầu là:
+... Gợi ý: Lương tháng thứ 1, 7, 13, 19 tạo thành cấp số cộng, mỗi mức lương duy trì trong 6 tháng.
++   Phản hồi đúng: Đúng! Trong 24 tháng có 4 mức lương: 15 (6 tháng), 16 (6 tháng), 17 (6 tháng), 18 (6 tháng). Tổng = $6 \times (15 + 16 + 17 + 18) = 6 \times 66 = 396$ triệu đồng.
+-   Phản hồi sai: Cần phân tích chu kỳ tăng lương và tính tổng cho từng giai đoạn 6 tháng.
+a) 384 triệu đồng
+*b) 396 triệu đồng
+c) 408 triệu đồng
+d) 420 triệu đồng
+
+9. Cho cấp số cộng $(u_n)$ có $u_3 = 14$ và $u_7 = 26$. Tổng 10 số hạng đầu của cấp số cộng này là:
+... Gợi ý: Từ hai số hạng đã biết, tìm $u_1$ và $d$, sau đó tính $S_{10}$.
++   Phản hồi đúng: Chính xác! Ta có $u_7 - u_3 = 4d = 26 - 14 = 12$, suy ra $d = 3$. Từ $u_3 = u_1 + 2d = 14$ suy ra $u_1 = 8$. Vậy $S_{10} = \frac{10(2 \times 8 + 9 \times 3)}{2} = \frac{10 \times 43}{2} = 215$.
+-   Phản hồi sai: Cần thiết lập hệ phương trình từ hai số hạng đã biết để tìm $u_1$ và $d$.
+a) 200
+b) 210
+*c) 215
+d) 225
+
+10. Một cửa hàng bán kẹo có doanh thu ngày đầu là 2 triệu đồng. Biết rằng doanh thu mỗi ngày tăng 10% so với ngày trước đó. Doanh thu của ngày thứ 5 là:
+... Gợi ý: Doanh thu tạo thành cấp số nhân với $u_1 = 2$ và $q = 1,1$.
++   Phản hồi đúng: Đúng! Doanh thu tạo cấp số nhân với $u_1 = 2$, $q = 1,1$. Ngày thứ 5: $u_5 = 2 \times 1,1^4 = 2 \times 1,4641 = 2,9282$ triệu đồng.
+-   Phản hồi sai: Tăng 10% mỗi ngày có nghĩa là ngày sau gấp 1,1 lần ngày trước, tạo thành cấp số nhân.
+a) 2,84 triệu đồng
+*b) 2,93 triệu đồng
+c) 3,02 triệu đồng
+d) 3,15 triệu đồng
+
+11. Một bình chứa 1000 lít nước. Mỗi ngày lượng nước bay hơi bằng 5% lượng nước còn lại. Sau 4 ngày, lượng nước còn lại trong bình là:
+... Gợi ý: Lượng nước còn lại tạo thành cấp số nhân với $q = 0,95$.
++   Phản hồi đúng: Chính xác! Lượng nước tạo cấp số nhân với $u_1 = 1000$, $q = 1 - 0,05 = 0,95$. Sau 4 ngày: $u_5 = 1000 \times 0,95^4 = 1000 \times 0,8145 = 814,5$ lít.
+-   Phản hồi sai: Bay hơi 5% có nghĩa là còn lại 95%, tạo cấp số nhân với $q = 0,95$.
+a) 800 lít
+*b) 814,5 lít
+c) 825 lít
+d) 835 lít
+
+12. Một người làm việc có kế hoạch tăng năng suất: tháng đầu sản xuất 100 sản phẩm, mỗi tháng sau tăng thêm 8 sản phẩm. Tổng số sản phẩm anh ta làm được trong 6 tháng đầu là:
+... Gợi ý: Số sản phẩm mỗi tháng tạo cấp số cộng với $u_1 = 100$, $d = 8$.
++   Phản hồi đúng: Đúng! Áp dụng công thức tổng cấp số cộng: $S_6 = \frac{6(2 \times 100 + 5 \times 8)}{2} = \frac{6 \times 240}{2} = 720$ sản phẩm.
+-   Phản hồi sai: Cần sử dụng công thức tổng cấp số cộng $S_n = \frac{n(2u_1 + (n-1)d)}{2}$.
+a) 680 sản phẩm
+b) 700 sản phẩm
+*c) 720 sản phẩm
+d) 740 sản phẩm
+
+13. Cho cấp số nhân $(u_n)$ có $u_2 = 6$ và $u_5 = 162$. Số hạng đầu $u_1$ của cấp số nhân này là:
+... Gợi ý: Sử dụng mối quan hệ $u_5 = u_2 \times q^3$ để tìm công bội $q$.
++   Phản hồi đúng: Chính xác! Ta có $\frac{u_5}{u_2} = q^3 = \frac{162}{6} = 27$, suy ra $q = 3$. Từ $u_2 = u_1 \times q = 6$ suy ra $u_1 = \frac{6}{3} = 2$.
+-   Phản hồi sai: Cần sử dụng mối quan hệ giữa các số hạng trong cấp số nhân để tìm công bội trước.
+a) 1
+*b) 2
+c) 3
+d) 4
+
+14. Một xí nghiệp sản xuất năm đầu được 5000 sản phẩm. Kế hoạch mỗi năm sau tăng 20% so với năm trước. Tổng số sản phẩm trong 4 năm đầu là:
+... Gợi ý: Sản lượng tạo cấp số nhân với $u_1 = 5000$, $q = 1,2$. Tính $S_4$.
++   Phản hồi đúng: Đúng! Sản lượng tạo cấp số nhân với $u_1 = 5000$, $q = 1,2$. $S_4 = \frac{5000(1,2^4 - 1)}{1,2 - 1} = \frac{5000 \times 1,0736}{0,2} = 26880$ sản phẩm.
+-   Phản hồi sai: Tăng 20% mỗi năm tạo cấp số nhân. Sử dụng công thức tổng cấp số nhân $S_n = \frac{u_1(q^n - 1)}{q - 1}$.
+a) 25000 sản phẩm
+*b) 26880 sản phẩm
+c) 28000 sản phẩm
+d) 30000 sản phẩm
+
+15. Một thang máy bắt đầu từ tầng trệt, lần thứ nhất lên 3 tầng, mỗi lần sau lên nhiều hơn lần trước 2 tầng. Sau 5 lần, thang máy ở tầng thứ:
+... Gợi ý: Số tầng mỗi lần lên tạo cấp số cộng, tính tổng để biết tầng cuối cùng.
++   Phản hồi đúng: Chính xác! Số tầng mỗi lần: 3, 5, 7, 9, 11 (cấp số cộng với $u_1 = 3$, $d = 2$). Tổng = $\frac{5(3 + 11)}{2} = 35$ tầng.
+-   Phản hồi sai: Cần tính tổng số tầng đã lên trong 5 lần, đây là tổng của cấp số cộng.
+a) 30
+b) 32
+*c) 35
+d) 38
+
+16. Một khu rừng có 10000 cây. Do chính sách trồng rừng, mỗi năm số cây tăng thêm 500 cây. Sau bao nhiêu năm số cây trong rừng đạt 17500 cây?
+... Gợi ý: Số cây tạo cấp số cộng, tìm $n$ sao cho $u_n = 17500$.
++   Phản hồi đúng: Đúng! Ta có $u_n = 10000 + (n-1) \times 500 = 17500$. Giải ra: $(n-1) \times 500 = 7500$, suy ra $n-1 = 15$, vậy $n = 16$ năm.
+-   Phản hồi sai: Thiết lập phương trình từ công thức số hạng tổng quát của cấp số cộng.
+a) 14 năm
+b) 15 năm
+*c) 16 năm
+d) 17 năm
+
+17. Một chất phóng xạ có khối lượng ban đầu 800g, cứ sau 1 năm khối lượng giảm đi 25%. Khối lượng chất phóng xạ còn lại sau 3 năm là:
+... Gợi ý: Khối lượng tạo cấp số nhân với $q = 0,75$.
++   Phản hồi đúng: Chính xác! Khối lượng tạo cấp số nhân với $u_1 = 800$, $q = 1 - 0,25 = 0,75$. Sau 3 năm: $u_4 = 800 \times 0,75^3 = 800 \times 0,421875 = 337,5$g.
+-   Phản hồi sai: Giảm 25% có nghĩa là còn lại 75%, tạo cấp số nhân với công bội $q = 0,75$.
+a) 325g
+*b) 337,5g
+c) 350g
+d) 360g
+
+18. Cho hàm số $f(x) = 2x + 3$. Xét dãy số $(u_n)$ với $u_n = f(n)$. Tổng $S_{10} = u_1 + u_2 + ... + u_{10}$ bằng:
+... Gợi ý: Tính $u_n = 2n + 3$, nhận ra đây là cấp số cộng.
++   Phản hồi đúng: Đúng! Ta có $u_n = 2n + 3$, suy ra $u_1 = 5, u_2 = 7, u_3 = 9, ...$. Đây là cấp số cộng với $u_1 = 5$, $d = 2$. $S_{10} = \frac{10(2 \times 5 + 9 \times 2)}{2} = \frac{10 \times 28}{2} = 140$.
+-   Phản hồi sai: Cần tính một vài số hạng đầu để nhận ra quy luật cấp số cộng.
+a) 130
+*b) 140
+c) 150
+d) 160
+
+19. Một sinh viên gửi tiết kiệm 10 triệu đồng với lãi suất 6%/năm, lãi nhập gốc. Cuối mỗi năm sinh viên rút 1 triệu đồng. Số tiền còn lại sau 2 năm là:
+... Gợi ý: Mỗi năm số tiền nhân với 1,06 rồi trừ đi 1 triệu.
++   Phản hồi đúng: Chính xác! Sau năm 1: $10 \times 1,06 - 1 = 9,6$ triệu. Sau năm 2: $9,6 \times 1,06 - 1 = 9,176$ triệu đồng.
+-   Phản hồi sai: Cần tính từng năm một: số tiền cuối năm = (số tiền đầu năm × 1,06) - 1.
+a) 9,05 triệu đồng
+*b) 9,18 triệu đồng
+c) 9,25 triệu đồng
+d) 9,35 triệu đồng
+
+20. Cho cấp số cộng $(u_n)$ có $u_1 + u_3 + u_5 = 21$ và $u_2 + u_4 + u_6 = 30$. Công sai $d$ của cấp số cộng là:
+... Gợi ý: Biểu diễn các số hạng theo $u_1$ và $d$, lập hệ phương trình.
++   Phản hồi đúng: Đúng! Ta có $u_1 + u_3 + u_5 = u_1 + (u_1 + 2d) + (u_1 + 4d) = 3u_1 + 6d = 21$ và $u_2 + u_4 + u_6 = (u_1 + d) + (u_1 + 3d) + (u_1 + 5d) = 3u_1 + 9d = 30$. Trừ hai phương trình: $3d = 9$, suy ra $d = 3$.
+-   Phản hồi sai: Cần biểu diễn tất cả các số hạng theo $u_1$ và $d$, sau đó lập hệ phương trình.
+a) 2
+*b) 3
+c) 4
+d) 5
+
+1. Số trung bình cộng của mẫu số liệu ghép nhóm được tính theo công thức nào?
+... Gợi ý: Sử dụng công thức cơ bản với giá trị đại diện và tần số của từng nhóm.
++   Phản hồi đúng: Chính xác! Công thức $\overline{x} = \frac{\sum_{i=1}^k x_i n_i}{n}$ với $x_i$ là giá trị đại diện, $n_i$ là tần số nhóm thứ i.
+-   Phản hồi sai: Cần nhớ công thức tính số trung bình cộng cho mẫu số liệu ghép nhóm phải có trọng số tần số.
+a) $\overline{x} = \frac{\sum_{i=1}^k x_i}{k}$
+b) $\overline{x} = \frac{\sum_{i=1}^k n_i}{k}$
+*c) $\overline{x} = \frac{\sum_{i=1}^k x_i n_i}{n}$
+d) $\overline{x} = \frac{\sum_{i=1}^k x_i}{n}$
+
+2. Trong mẫu số liệu ghép nhóm, giá trị đại diện của nhóm $[10; 15)$ là bao nhiêu?
+... Gợi ý: Giá trị đại diện thường được chọn là trung điểm của khoảng.
++   Phản hồi đúng: Đúng rồi! Giá trị đại diện của nhóm $[10; 15)$ là $\frac{10+15}{2} = 12.5$.
+-   Phản hồi sai: Giá trị đại diện của một nhóm là trung điểm của khoảng đó.
+a) $10$
+*b) $12.5$
+c) $15$
+d) $5$
+
+3. Trung vị của mẫu số liệu ghép nhóm là giá trị chia mẫu số liệu thành:
+... Gợi ý: Trung vị là khái niệm về vị trí trung tâm của dãy số liệu.
++   Phản hồi đúng: Chính xác! Trung vị chia mẫu số liệu thành hai phần có số phần tử bằng nhau.
+-   Phản hồi sai: Cần nhớ định nghĩa trung vị là giá trị chia dãy số liệu thành hai nửa bằng nhau.
+a) Ba phần bằng nhau
+*b) Hai phần bằng nhau
+c) Bốn phần bằng nhau
+d) Năm phần bằng nhau
+
+4. Mốt của mẫu số liệu ghép nhóm là:
+... Gợi ý: Mốt liên quan đến tần số xuất hiện của các nhóm.
++   Phản hồi đúng: Đúng! Mốt là giá trị đại diện của nhóm có tần số lớn nhất.
+-   Phản hồi sai: Mốt được xác định dựa trên nhóm có tần số cao nhất trong bảng phân bố.
+a) Giá trị đại diện của nhóm có tần số nhỏ nhất
+*b) Giá trị đại diện của nhóm có tần số lớn nhất
+c) Giá trị trung bình của tất cả các nhóm
+d) Giá trị lớn nhất trong mẫu số liệu
+
+5. Cho bảng số liệu: 
+   |Nhóm|[5;10)|[10;15)|[15;20)|[20;25)|
+   |---|---|---|---|---|
+   |Tần số|4|6|8|2|
+   Tổng tần số của mẫu số liệu này là:
+... Gợi ý: Tổng tần số bằng tổng các tần số của tất cả các nhóm.
++   Phản hồi đúng: Chính xác! Tổng tần số $n = 4 + 6 + 8 + 2 = 20$.
+-   Phản hồi sai: Cần cộng tất cả các tần số của các nhóm để có tổng tần số.
+a) $4$
+b) $8$
+*c) $20$
+d) $25$
+
+6. Với bảng số liệu ở câu 5, giá trị $\frac{n}{2}$ là:
+... Gợi ý: Sử dụng kết quả tổng tần số từ câu trước.
++   Phản hồi đúng: Đúng! Với $n = 20$ thì $\frac{n}{2} = \frac{20}{2} = 10$.
+-   Phản hồi sai: Cần chia tổng tần số cho 2 để tìm vị trí trung vị.
+a) $4$
+b) $8$
+*c) $10$
+d) $20$
+
+7. Với bảng số liệu ở câu 5, nhóm có tần số lớn nhất là:
+... Gợi ý: So sánh các tần số trong bảng để tìm giá trị lớn nhất.
++   Phản hồi đúng: Chính xác! Nhóm $[15;20)$ có tần số $8$ là lớn nhất.
+-   Phản hồi sai: Cần so sánh tất cả các tần số: $4, 6, 8, 2$ để tìm giá trị lớn nhất.
+a) $[5;10)$
+b) $[10;15)$
+*c) $[15;20)$
+d) $[20;25)$
+
+8. Với bảng số liệu ở câu 5, số trung bình cộng của mẫu số liệu là:
+... Gợi ý: Sử dụng công thức $\overline{x} = \frac{\sum x_i n_i}{n}$ với giá trị đại diện của mỗi nhóm.
++   Phản hồi đúng: Đúng! $\overline{x} = \frac{7.5 \times 4 + 12.5 \times 6 + 17.5 \times 8 + 22.5 \times 2}{20} = 14.5$.
+-   Phản hồi sai: Cần tính giá trị đại diện của mỗi nhóm rồi áp dụng công thức trung bình có trọng số.
+a) $12.5$
+b) $13.5$
+*c) $14.5$
+d) $15.5$
+
+9. Tần số tích lũy của nhóm $[15;20)$ trong bảng số liệu ở câu 5 là:
+... Gợi ý: Tần số tích lũy là tổng tần số từ nhóm đầu đến nhóm đó.
++   Phản hồi đúng: Chính xác! Tần số tích lũy = $4 + 6 + 8 = 18$.
+-   Phản hồi sai: Tần số tích lũy bằng tổng tần số từ nhóm đầu tiên đến nhóm đang xét.
+a) $8$
+b) $14$
+*c) $18$
+d) $20$
+
+10. Với bảng số liệu ở câu 5, nhóm chứa trung vị là:
+... Gợi ý: Nhóm chứa trung vị là nhóm đầu tiên có tần số tích lũy $\geq \frac{n}{2}$.
++   Phản hồi đúng: Đúng! Vì $\frac{n}{2} = 10$ và nhóm $[15;20)$ có tần số tích lũy $18 \geq 10$.
+-   Phản hồi sai: Cần tìm nhóm đầu tiên có tần số tích lũy lớn hơn hoặc bằng $\frac{n}{2} = 10$.
+a) $[5;10)$
+b) $[10;15)$
+*c) $[15;20)$
+d) $[20;25)$
+
+11. Trong công thức tính trung vị $M_e = L + \frac{\frac{n}{2} - CF}{f} \times h$, ký hiệu $L$ là:
+... Gợi ý: $L$ là một thông số liên quan đến nhóm chứa trung vị.
++   Phản hồi đúng: Chính xác! $L$ là cận dưới của nhóm chứa trung vị.
+-   Phản hồi sai: Cần nhớ các ký hiệu trong công thức tính trung vị cho mẫu số liệu ghép nhóm.
+*a) Cận dưới của nhóm chứa trung vị
+b) Cận trên của nhóm chứa trung vị
+c) Tần số của nhóm chứa trung vị
+d) Độ dài khoảng nhóm
+
+12. Cho bảng số liệu:
+    |Nhóm|[0;5)|[5;10)|[10;15)|[15;20)|
+    |---|---|---|---|---|
+    |Tần số|3|5|7|5|
+    Giá trị đại diện của nhóm $[10;15)$ là:
+... Gợi ý: Tính trung điểm của khoảng $[10;15)$.
++   Phản hồi đúng: Đúng! Giá trị đại diện = $\frac{10+15}{2} = 12.5$.
+-   Phản hồi sai: Giá trị đại diện của nhóm $[a;b)$ là $\frac{a+b}{2}$.
+a) $10$
+*b) $12.5$
+c) $15$
+d) $25$
+
+13. Với bảng số liệu ở câu 12, tổng tần số là:
+... Gợi ý: Cộng tất cả các tần số trong bảng.
++   Phản hồi đúng: Chính xác! $n = 3 + 5 + 7 + 5 = 20$.
+-   Phản hồi sai: Tổng tần số bằng tổng các tần số của tất cả các nhóm.
+a) $15$
+*b) $20$
+c) $25$
+d) $30$
+
+14. Với bảng số liệu ở câu 12, nhóm có tần số lớn nhất là:
+... Gợi ý: Tìm nhóm có giá trị tần số cao nhất trong bảng.
++   Phản hồi đúng: Đúng! Nhóm $[10;15)$ có tần số $7$ là lớn nhất.
+-   Phản hồi sai: So sánh các tần số $3, 5, 7, 5$ để tìm giá trị lớn nhất.
+a) $[0;5)$
+b) $[5;10)$
+*c) $[10;15)$
+d) $[15;20)$
+
+15. Với bảng số liệu ở câu 12, mốt của mẫu số liệu là:
+... Gợi ý: Mốt là giá trị đại diện của nhóm có tần số lớn nhất.
++   Phản hồi đúng: Chính xác! Mốt = $12.5$ (giá trị đại diện của nhóm $[10;15)$).
+-   Phản hồi sai: Mốt là giá trị đại diện của nhóm có tần số cao nhất.
+a) $7.5$
+b) $10$
+*c) $12.5$
+d) $17.5$
+
+16. Trong công thức tính mốt $M_o = L + \frac{d_1}{d_1 + d_2} \times h$, ký hiệu $h$ là:
+... Gợi ý: $h$ liên quan đến độ rộng của các nhóm.
++   Phản hồi đúng: Đúng! $h$ là độ dài khoảng nhóm (độ rộng của nhóm).
+-   Phản hồi sai: Cần nhớ các ký hiệu trong công thức tính mốt cho mẫu số liệu ghép nhóm.
+a) Tần số của nhóm chứa mốt
+b) Cận dưới của nhóm chứa mốt
+*c) Độ dài khoảng nhóm
+d) Tần số tích lũy
+
+17. Cho mẫu số liệu có $n = 30$, giá trị $\frac{n}{2}$ là:
+... Gợi ý: Chia tổng tần số cho 2.
++   Phản hồi đúng: Chính xác! $\frac{n}{2} = \frac{30}{2} = 15$.
+-   Phản hồi sai: Cần chia tổng tần số cho 2 để tìm vị trí trung vị.
+a) $10$
+*b) $15$
+c) $20$
+d) $30$
+
+18. Cho bảng số liệu:
+    |Nhóm|[20;25)|[25;30)|[30;35)|[35;40)|
+    |---|---|---|---|---|
+    |Tần số|2|4|6|8|
+    Số trung bình cộng của mẫu số liệu này là:
+... Gợi ý: Tính giá trị đại diện của mỗi nhóm rồi áp dụng công thức.
++   Phản hồi đúng: Đúng! $\overline{x} = \frac{22.5 \times 2 + 27.5 \times 4 + 32.5 \times 6 + 37.5 \times 8}{20} = 32.5$.
+-   Phản hồi sai: Cần tính đúng giá trị đại diện và áp dụng công thức trung bình có trọng số.
+a) $30$
+b) $31.5$
+*c) $32.5$
+d) $35$
+
+19. Với bảng số liệu ở câu 18, tần số tích lũy của nhóm $[30;35)$ là:
+... Gợi ý: Cộng tần số từ nhóm đầu đến nhóm $[30;35)$.
++   Phản hồi đúng: Chính xác! Tần số tích lũy = $2 + 4 + 6 = 12$.
+-   Phản hồi sai: Tần số tích lũy là tổng tần số từ nhóm đầu tiên đến nhóm đang xét.
+a) $6$
+b) $10$
+*c) $12$
+d) $20$
+
+20. Với bảng số liệu ở câu 18, nhóm chứa trung vị là:
+... Gợi ý: Tìm nhóm đầu tiên có tần số tích lũy $\geq \frac{n}{2} = 10$.
++   Phản hồi đúng: Đúng! Nhóm $[30;35)$ có tần số tích lũy $12 \geq 10$ là nhóm đầu tiên thỏa mãn.
+-   Phản hồi sai: Cần tìm nhóm đầu tiên có tần số tích lũy $\geq \frac{20}{2} = 10$.
+a) $[20;25)$
+b) $[25;30)$
+*c) $[30;35)$
+d) $[35;40)$

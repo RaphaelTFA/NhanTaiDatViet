@@ -1,0 +1,180 @@
+1. Một cửa hàng thời trang ghi nhận doanh thu (triệu đồng) trong 15 ngày đầu tháng 3 là: 28, 32, 35, 28, 41, 38, 32, 45, 28, 39, 35, 42, 38, 35, 41. Doanh thu 15 ngày cuối tháng 3 là: 35, 42, 38, 45, 35, 48, 41, 35, 52, 45, 38, 49, 42, 48, 45. Tính số trung bình, độ lệch chuẩn và tứ phân vị cho mỗi giai đoạn. Dựa vào tiêu chuẩn doanh thu ổn định trong khoảng $[\bar{x} - 0.5\sigma, \bar{x} + 0.5\sigma]$, xác định tỷ lệ ngày có doanh thu ổn định của mỗi giai đoạn. So sánh hiệu quả kinh doanh và độ ổn định giữa hai nửa tháng, đưa ra nhận xét về xu hướng phát triển.
+... Gợi ý: Tính $\bar{x}$, $\sigma$, $Q_1$, $Q_2$, $Q_3$ cho từng giai đoạn, sau đó áp dụng tiêu chuẩn ổn định để đếm số ngày thỏa mãn điều kiện.
++   Phản hồi đúng: Chính xác! Nửa đầu tháng: $\bar{x_1} = 35.73$, $\sigma_1 = 5.32$, nửa cuối: $\bar{x_2} = 43.2$, $\sigma_2 = 5.68$. Nửa cuối tháng có doanh thu cao hơn và tương đối ổn định hơn, cho thấy xu hướng tăng trưởng tích cực.
+-   Phản hồi sai: Cần tính đầy đủ các số đặc trưng cho cả hai giai đoạn và so sánh cả về trung bình lẫn độ phân tán để đánh giá toàn diện.
+a) Nửa đầu tháng có hiệu quả cao hơn nhưng kém ổn định
+b) Nửa cuối tháng có hiệu quả cao hơn và độ ổn định tương đương
+*c) Nửa cuối tháng có hiệu quả cao hơn và ổn định hơn
+d) Hai nửa tháng có hiệu quả tương đương nhưng nửa đầu ổn định hơn
+
+2. Điểm kiểm tra Toán học của lớp 10A gồm 16 học sinh: 7.5, 8.0, 6.5, 9.0, 7.5, 8.5, 7.0, 8.0, 6.0, 8.5, 7.5, 9.0, 8.0, 7.0, 8.5, 7.5. Điểm lớp 10B gồm 16 học sinh: 6.0, 8.5, 7.0, 9.5, 8.0, 7.5, 6.5, 8.0, 9.0, 7.5, 8.5, 6.5, 8.0, 9.0, 7.5, 8.5. Tính số trung bình, độ lệch chuẩn và các tứ phân vị cho mỗi lớp. Áp dụng thang đánh giá: Giỏi (≥Q₃), Khá (Q₂ đến <Q₃), Trung bình (Q₁ đến <Q₂), Yếu (<Q₁) để phân loại học sinh. So sánh chất lượng học tập và độ đồng đều giữa hai lớp, đề xuất biện pháp cải thiện phù hợp.
+... Gợi ý: Tính đầy đủ $\bar{x}$, $\sigma$, $Q_1$, $Q_2$, $Q_3$ cho cả hai lớp, sau đó phân loại học sinh theo thang đánh giá đã cho.
++   Phản hồi đúng: Đúng rồi! Lớp 10A có điểm trung bình thấp hơn nhưng đồng đều hơn, lớp 10B có điểm cao hơn nhưng phân hóa mạnh hơn. Cần có chiến lược khác nhau cho từng lớp.
+-   Phản hồi sai: Phải phân tích cả điểm trung bình và độ phân tán, đồng thời áp dụng thang phân loại để có cái nhìn toàn diện về chất lượng học tập.
+a) Lớp 10A có chất lượng cao hơn và đồng đều hơn
+*b) Lớp 10B có chất lượng cao hơn nhưng kém đồng đều hơn
+c) Hai lớp có chất lượng tương đương nhưng 10A đồng đều hơn
+d) Lớp 10B có chất lượng và độ đồng đều đều tốt hơn
+
+3. Chiều cao (cm) của 15 nam sinh lớp 10: 165, 170, 168, 172, 165, 175, 170, 168, 163, 172, 170, 175, 168, 170, 172. Chiều cao 15 nữ sinh: 158, 162, 160, 165, 158, 168, 162, 160, 155, 165, 162, 168, 160, 162, 165. Tính các số đặc trưng cơ bản cho mỗi nhóm. Dựa vào tiêu chuẩn chiều cao phát triển tốt khi thuộc khoảng [Q₁, Q₃], xác định tỷ lệ học sinh phát triển tốt trong mỗi nhóm. Phân tích sự khác biệt về chiều cao giữa nam và nữ sinh, giải thích ý nghĩa thống kê của sự khác biệt này.
+... Gợi ý: Tính $\bar{x}$, $\sigma$, $Q_1$, $Q_2$, $Q_3$ cho cả hai nhóm, sau đó đếm số học sinh có chiều cao trong khoảng $[Q_1, Q_3]$.
++   Phản hồi đúng: Chính xác! Nam sinh có chiều cao trung bình cao hơn khoảng 8-10cm và độ biến thiên lớn hơn, phản ánh đặc điểm sinh học tự nhiên của hai giới tính.
+-   Phản hồi sai: Cần so sánh cả giá trị trung bình và độ phân tán, đồng thời tính tỷ lệ học sinh trong khoảng phát triển tốt để đánh giá toàn diện.
+a) Nam sinh cao hơn nhưng ít đồng đều, tỷ lệ phát triển tốt tương đương
+*b) Nam sinh cao hơn và ít đồng đều hơn, tỷ lệ phát triển tốt cao hơn
+c) Nam sinh cao hơn và đồng đều hơn, tỷ lệ phát triển tốt thấp hơn
+d) Hai nhóm có sự khác biệt không đáng kể về chiều cao
+
+4. Thời gian hoàn thành một bài tập (phút) theo phương pháp A của 14 học sinh: 25, 30, 28, 35, 25, 32, 28, 40, 25, 35, 30, 38, 32, 30. Theo phương pháp B: 28, 35, 32, 38, 28, 42, 35, 28, 45, 38, 32, 40, 35, 42. Tính số trung bình, độ lệch chuẩn và hệ số biến thiên cho mỗi phương pháp. Xác định tỷ lệ lần thực hiện có thời gian trong khoảng $[\bar{x} - \sigma, \bar{x} + \sigma]$ cho mỗi phương pháp. Lựa chọn phương pháp tối ưu dựa trên hiệu quả và độ ổn định, giải thích lý do lựa chọn chi tiết.
+... Gợi ý: Tính $\bar{x}$, $\sigma$, hệ số biến thiên $CV = \frac{\sigma}{\bar{x}} \times 100\%$ cho cả hai phương pháp, sau đó so sánh về hiệu quả và ổn định.
++   Phản hồi đúng: Đúng! Phương pháp A có thời gian trung bình ngắn hơn và độ ổn định cao hơn, là lựa chọn tối ưu cho việc học tập hiệu quả.
+-   Phản hồi sai: Cần tính cả thời gian trung bình và hệ số biến thiên để đánh giá đồng thời về hiệu quả (thời gian ngắn) và độ ổn định (CV thấp).
+*a) Phương pháp A tối ưu vì có thời gian ngắn hơn và ổn định hơn
+b) Phương pháp B tối ưu vì có thời gian ngắn hơn và ổn định hơn
+c) Phương pháp A tối ưu vì ổn định hơn dù thời gian dài hơn
+d) Hai phương pháp có hiệu quả tương đương
+
+5. Doanh thu tuần (triệu đồng) của quán cà phê A trong 16 tuần: 3.2, 4.1, 3.8, 4.5, 3.2, 4.8, 4.1, 3.8, 2.9, 4.5, 4.1, 4.8, 3.8, 4.1, 4.5, 3.2. Quán B: 4.2, 5.1, 4.8, 5.5, 4.2, 5.8, 5.1, 4.8, 4.5, 5.5, 5.1, 5.8, 4.8, 5.1, 5.5, 4.2. Tính các số đặc trưng thống kê cho mỗi quán. Dựa vào tiêu chuẩn kinh doanh hiệu quả khi doanh thu ≥ Q₂, xác định tỷ lệ tuần kinh doanh hiệu quả của mỗi quán. So sánh hiệu quả kinh doanh và độ ổn định, đề xuất chiến lược phát triển cho từng quán.
+... Gợi ý: Tính $\bar{x}$, $\sigma$, trung vị cho cả hai quán, sau đó đếm số tuần có doanh thu ≥ trung vị của mỗi quán.
++   Phản hồi đúng: Chính xác! Quán B có hiệu quả kinh doanh cao hơn đáng kể nhưng cả hai quán đều có độ ổn định tương đối tốt. Quán A cần mở rộng thị trường, quán B cần duy trì chất lượng.
+-   Phản hồi sai: Phải so sánh cả doanh thu trung bình và tỷ lệ tuần hiệu quả, đồng thời xem xét độ phân tán để đưa ra chiến lược phù hợp.
+a) Quán A hiệu quả hơn và cần duy trì hiện trạng
+*b) Quán B hiệu quả hơn rõ rệt, quán A cần cải thiện mạnh
+c) Hai quán có hiệu quả tương đương
+d) Quán A ổn định hơn nên hiệu quả hơn
+
+6. Điểm thi Olympic Toán của đội tuyển trường X gồm 15 thành viên: 85, 92, 88, 95, 85, 98, 92, 88, 82, 95, 92, 98, 88, 92, 95. Đội tuyển trường Y: 88, 95, 92, 98, 88, 99, 95, 88, 100, 98, 92, 99, 95, 98, 95. Tính số trung bình, độ lệch chuẩn, mốt và các tứ phân vị cho mỗi đội. Áp dụng tiêu chuẩn xuất sắc (≥95 điểm), giỏi (85-94 điểm), xác định cơ cấu thành tích của mỗi đội. Đánh giá năng lực thi đấu và độ đồng đều của từng đội, đưa ra dự đoán về khả năng chiến thắng.
+... Gợi ý: Tính đầy đủ các số đặc trưng, phân loại thành viên theo tiêu chuẩn điểm số, so sánh cả điểm trung bình và độ phân tán.
++   Phản hồi đúng: Đúng! Đội Y có điểm trung bình cao hơn và tỷ lệ thành viên xuất sắc cao hơn, có khả năng chiến thắng lớn hơn dù độ phân tán tương đương.
+-   Phản hồi sai: Cần phân tích cả điểm trung bình, tỷ lệ thành viên xuất sắc và độ đồng đều để đánh giá toàn diện năng lực thi đấu.
+a) Đội X có năng lực cao hơn do đồng đều hơn
+*b) Đội Y có năng lực cao hơn với nhiều thành viên xuất sắc hơn
+c) Hai đội có năng lực tương đương
+d) Đội X có lợi thế do ổn định hơn
+
+7. Cân nặng (kg) của 14 học sinh nam lớp 10: 58, 65, 62, 68, 58, 72, 65, 62, 55, 68, 65, 72, 62, 65. Học sinh nữ: 48, 55, 52, 58, 48, 62, 55, 52, 45, 58, 55, 62, 52, 55. Tính các số đặc trưng cho mỗi nhóm. Dựa vào tiêu chuẩn cân nặng chuẩn trong khoảng [Q₁-2, Q₃+2], xác định tỷ lệ học sinh có cân nặng chuẩn. So sánh đặc điểm cân nặng giữa hai nhóm và nhận xét về sự phân bố cân nặng theo giới tính trong độ tuổi này.
+... Gợi ý: Tính $Q_1$, $Q_3$ cho từng nhóm, áp dụng khoảng $[Q_1-2, Q_3+2]$ để đếm số học sinh có cân nặng chuẩn.
++   Phản hồi đúng: Chính xác! Nam sinh có cân nặng trung bình cao hơn khoảng 10kg, cả hai nhóm đều có tỷ lệ cân nặng chuẩn cao, phù hợp với đặc điểm phát triển ở tuổi này.
+-   Phản hồi sai: Cần so sánh cả cân nặng trung bình và tỷ lệ học sinh trong khoảng chuẩn để đánh giá đặc điểm phân bố theo giới tính.
+*a) Nam sinh nặng hơn đáng kể, cả hai nhóm đều có tỷ lệ chuẩn cao
+b) Sự khác biệt không đáng kể giữa hai nhóm
+c) Nữ sinh có độ đồng đều cao hơn rõ rệt
+d) Nam sinh có biến thiên cân nặng lớn hơn nhiều
+
+8. Thời gian chạy 1000m (phút) của 16 học sinh theo phương pháp luyện tập cũ: 4.2, 4.8, 4.5, 5.2, 4.2, 5.5, 4.8, 4.5, 3.9, 5.2, 4.8, 5.5, 4.5, 4.8, 5.2, 4.2. Phương pháp mới: 3.8, 4.5, 4.2, 4.8, 3.8, 5.1, 4.5, 4.2, 3.5, 4.8, 4.5, 5.1, 4.2, 4.5, 4.8, 3.8. Tính số trung bình, độ lệch chuẩn và hệ số biến thiên cho mỗi phương pháp. Áp dụng tiêu chuẩn đạt chuẩn khi thời gian ≤ 4.5 phút, xác định tỷ lệ học sinh đạt chuẩn. Đánh giá hiệu quả của phương pháp luyện tập mới và đưa ra khuyến nghị áp dụng.
+... Gợi ý: So sánh thời gian trung bình, độ ổn định và tỷ lệ đạt chuẩn giữa hai phương pháp để đánh giá hiệu quả.
++   Phản hồi đúng: Đúng rồi! Phương pháp mới cho thời gian chạy ngắn hơn và tỷ lệ đạt chuẩn cao hơn, nên được khuyến nghị áp dụng để nâng cao thành tích.
+-   Phản hồi sai: Cần so sánh cả thời gian trung bình và tỷ lệ đạt chuẩn, đồng thời xem xét độ ổn định để đưa ra khuyến nghị toàn diện.
+*a) Phương pháp mới hiệu quả hơn và nên được áp dụng
+b) Phương pháp cũ ổn định hơn nên tốt hơn
+c) Hai phương pháp có hiệu quả tương đương
+d) Cần kết hợp cả hai phương pháp
+
+9. Điểm kiểm tra Lý của lớp 10C (16 học sinh): 6.5, 7.2, 6.8, 8.0, 6.5, 8.5, 7.2, 6.8, 6.0, 8.0, 7.2, 8.5, 6.8, 7.2, 8.0, 6.5. Lớp 10D: 7.0, 8.5, 7.5, 9.0, 7.0, 9.5, 8.5, 7.5, 6.5, 9.0, 8.5, 9.5, 7.5, 8.5, 9.0, 7.0. Tính các số đặc trưng thống kê cho mỗi lớp. Dựa vào quy định điểm khá từ 7.0 trở lên, xác định tỷ lệ học sinh khá-giỏi của mỗi lớp. Phân tích chất lượng học tập và đề xuất biện pháp nâng cao kết quả cho lớp có thành tích thấp hơn.
+... Gợi ý: Tính điểm trung bình, độ lệch chuẩn và tỷ lệ học sinh đạt từ 7.0 điểm trở lên cho cả hai lớp.
++   Phản hồi đúng: Chính xác! Lớp 10D có chất lượng học tập cao hơn rõ rệt. Lớp 10C cần tăng cường ôn tập và có biện pháp hỗ trợ học sinh yếu.
+-   Phản hồi sai: Phải so sánh cả điểm trung bình và tỷ lệ học sinh khá-giỏi để đánh giá chất lượng học tập toàn diện.
+a) Lớp 10C có chất lượng cao hơn và đồng đều hơn
+*b) Lớp 10D có chất lượng cao hơn đáng kể
+c) Hai lớp có chất lượng tương đương
+d) Lớp 10C ổn định hơn nên hiệu quả hơn
+
+10. Doanh thu ngày (triệu đồng) của cửa hàng bách hóa trong tuần đầu tháng 4: 22, 28, 25, 32, 22, 35, 28, 25, 19, 32, 28, 35, 25, 28, 32. Tuần thứ 3 tháng 4: 25, 32, 28, 35, 25, 38, 32, 28, 22, 35, 32, 38, 28, 32, 35. Tính số trung bình, độ lệch chuẩn, mốt và trung vị cho mỗi tuần. Áp dụng tiêu chuẩn kinh doanh tốt khi doanh thu > 28 triệu, xác định tỷ lệ ngày kinh doanh tốt. So sánh xu hướng kinh doanh và đưa ra nhận xét về sự phát triển của cửa hàng.
+... Gợi ý: So sánh doanh thu trung bình và tỷ lệ ngày đạt tiêu chuẩn kinh doanh tốt giữa hai tuần.
++   Phản hồi đúng: Đúng! Tuần thứ 3 có doanh thu trung bình cao hơn và tỷ lệ ngày kinh doanh tốt cao hơn, cho thấy xu hướng phát triển tích cực.
+-   Phản hồi sai: Cần phân tích cả doanh thu trung bình và tỷ lệ ngày đạt tiêu chuẩn để đánh giá xu hướng phát triển.
+a) Tuần đầu có hiệu quả cao hơn và ổn định hơn
+*b) Tuần thứ 3 cho thấy sự cải thiện rõ rệt về hiệu quả
+c) Hai tuần có hiệu quả tương đương
+d) Cửa hàng có xu hướng giảm hiệu quả
+
+11. Thời gian giải bài toán (phút) của nhóm học sinh sử dụng máy tính cầm tay: 12, 18, 15, 22, 12, 25, 18, 15, 10, 22, 18, 25, 15, 18, 22. Nhóm sử dụng phần mềm máy tính: 15, 22, 18, 25, 15, 28, 22, 18, 12, 25, 22, 28, 18, 22, 25. Tính các số đặc trưng cho mỗi nhóm. Dựa vào tiêu chuẩn hiệu quả khi thời gian ≤ 18 phút, xác định tỷ lệ lần giải hiệu quả. Lựa chọn công cụ tối ưu cho việc học toán và giải thích lý do chi tiết.
+... Gợi ý: So sánh thời gian trung bình và tỷ lệ lần giải hiệu quả giữa hai công cụ để lựa chọn tối ưu.
++   Phản hồi đúng: Chính xác! Máy tính cầm tay cho thời gian giải ngắn hơn và tỷ lệ hiệu quả cao hơn, phù hợp hơn cho học sinh.
+-   Phản hồi sai: Cần so sánh cả thời gian trung bình và tỷ lệ đạt tiêu chuẩn hiệu quả để lựa chọn công cụ phù hợp.
+*a) Máy tính cầm tay hiệu quả hơn và nên được ưu tiên
+b) Phần mềm máy tính hiệu quả hơn và nên được ưu tiên
+c) Hai công cụ có hiệu quả tương đương
+d) Nên kết hợp cả hai công cụ
+
+12. Chiều cao (cm) của cây trong vườn thí nghiệm A sau 3 tháng: 145, 152, 148, 155, 145, 158, 152, 148, 142, 155, 152, 158, 148, 152, 155. Vườn B: 148, 155, 152, 158, 148, 161, 155, 152, 145, 158, 155, 161, 152, 155, 158. Tính số trung bình, độ lệch chuẩn và các tứ phân vị cho mỗi vườn. Áp dụng tiêu chuẩn phát triển tốt khi chiều cao ≥ Q₂, xác định tỷ lệ cây phát triển tốt. So sánh hiệu quả canh tác và đề xuất biện pháp cải thiện cho vườn có kết quả thấp hơn.
+... Gợi ý: Tính trung vị cho mỗi vườn, đếm số cây có chiều cao ≥ trung vị, so sánh chiều cao trung bình và độ đồng đều.
++   Phản hồi đúng: Đúng! Vườn B có chiều cao trung bình cao hơn và tỷ lệ cây phát triển tốt cao hơn. Vườn A cần cải thiện điều kiện chăm sóc.
+-   Phản hồi sai: Cần so sánh cả chiều cao trung bình và tỷ lệ cây đạt tiêu chuẩn phát triển tốt để đánh giá hiệu quả canh tác.
+a) Vườn A có hiệu quả cao hơn do đồng đều hơn
+*b) Vườn B có hiệu quả cao hơn và vườn A cần cải thiện
+c) Hai vườn có hiệu quả tương đương
+d) Vườn A ổn định hơn nên tốt hơn
+
+13. Điểm kiểm tra Hóa học của học sinh lớp chuyên: 8.5, 9.2, 8.8, 9.5, 8.5, 9.8, 9.2, 8.8, 8.2, 9.5, 9.2, 9.8, 8.8, 9.2, 9.5. Lớp thường: 7.0, 8.5, 7.5, 9.0, 7.0, 9.5, 8.5, 7.5, 6.5, 9.0, 8.5, 9.5, 7.5, 8.5, 9.0. Tính các số đặc trưng thống kê cho mỗi lớp. Dựa vào tiêu chuẩn xuất sắc (≥9.0), khá (7.0-8.9), xác định cơ cấu học lực của mỗi lớp. Đánh giá sự khác biệt về năng lực học tập và đề xuất biện pháp phù hợp cho từng đối tượng học sinh.
+... Gợi ý: Phân loại học sinh theo tiêu chuẩn điểm số, so sánh tỷ lệ xuất sắc và điểm trung bình giữa hai lớp.
++   Phản hồi đúng: Chính xác! Lớp chuyên có tỷ lệ xuất sắc cao hơn rõ rệt và điểm trung bình cao hơn. Cần có chương trình và phương pháp khác nhau cho từng đối tượng.
+-   Phản hồi sai: Phải phân tích cả điểm trung bình và cơ cấu học lực để thấy được sự khác biệt về năng lực học tập.
+*a) Lớp chuyên có năng lực cao hơn rõ rệt với tỷ lệ xuất sắc cao
+b) Hai lớp có năng lực tương đương
+c) Lớp thường đa dạng hơn nên tốt hơn
+d) Sự khác biệt không đáng kể
+
+14. Thời gian tập thể dục (phút/ngày) của nhóm học sinh nam: 45, 52, 48, 55, 45, 58, 52, 48, 42, 55, 52, 58, 48, 52, 55. Nhóm học sinh nữ: 35, 42, 38, 45, 35, 48, 42, 38, 32, 45, 42, 48, 38, 42, 45. Tính số trung bình, độ lệch chuẩn và trung vị cho mỗi nhóm. Áp dụng khuyến nghị tập luyện ít nhất 45 phút/ngày, xác định tỷ lệ học sinh đạt khuyến nghị. So sánh thói quen tập luyện giữa hai nhóm và đưa ra đề xuất cải thiện sức khỏe cho nhóm có chỉ số thấp hơn.
+... Gợi ý: So sánh thời gian tập trung bình và tỷ lệ học sinh đạt khuyến nghị 45 phút/ngày giữa hai nhóm.
++   Phản hồi đúng: Đúng! Nam sinh có thời gian tập luyện dài hơn và tỷ lệ đạt khuyến nghị cao hơn. Nữ sinh cần được khuyến khích tăng thời gian tập luyện.
+-   Phản hồi sai: Cần so sánh cả thời gian tập trung bình và tỷ lệ đạt khuyến nghị để đánh giá thói quen tập luyện.
+*a) Nam sinh tập luyện nhiều hơn, nữ sinh cần cải thiện
+b) Nữ sinh tập luyện đều đặn hơn nên hiệu quả hơn
+c) Hai nhóm có thói quen tương đương
+d) Sự khác biệt không có ý nghĩa
+
+15. Doanh thu tháng (tỷ đồng) của công ty trong 6 tháng đầu năm: 2.8, 3.5, 3.2, 3.8, 2.8, 4.1, 3.5, 3.2, 2.5, 3.8, 3.5, 4.1, 3.2, 3.5, 3.8. 6 tháng cuối năm: 3.2, 3.8, 3.5, 4.1, 3.2, 4.4, 3.8, 3.5, 2.9, 4.1, 3.8, 4.4, 3.5, 3.8, 4.1. Tính các số đặc trưng cho mỗi giai đoạn. Dựa vào mục tiêu doanh thu ≥ 3.5 tỷ/tháng, xác định tỷ lệ tháng đạt mục tiêu. Đánh giá xu hướng tăng trưởng và đưa ra dự báo cho năm tiếp theo.
+... Gợi ý: So sánh doanh thu trung bình và tỷ lệ tháng đạt mục tiêu giữa hai nửa năm để đánh giá xu hướng tăng trưởng.
++   Phản hồi đúng: Chính xác! Nửa cuối năm có doanh thu cao hơn và tỷ lệ đạt mục tiêu cao hơn, cho thấy xu hướng tăng trưởng tích cực.
+-   Phản hồi sai: Cần phân tích cả doanh thu trung bình và tỷ lệ đạt mục tiêu để đánh giá xu hướng và đưa ra dự báo.
+a) Doanh thu ổn định, không có xu hướng tăng trưởng
+*b) Có xu hướng tăng trưởng tích cực, triển vọng tốt cho năm sau
+c) Doanh thu có xu hướng giảm
+d) Không thể đánh giá xu hướng từ dữ liệu này
+
+16. Số lượng khách hàng mỗi ngày của nhà hàng A: 85, 92, 88, 95, 85, 98, 92, 88, 82, 95, 92, 98, 88, 92, 95. Nhà hàng B: 78, 85, 82, 88, 78, 91, 85, 82, 75, 88, 85, 91, 82, 85, 88. Tính số trung bình, độ lệch chuẩn và mốt cho mỗi nhà hàng. Áp dụng tiêu chuẩn kinh doanh hiệu quả với ≥ 90 khách/ngày, xác định tỷ lệ ngày kinh doanh hiệu quả. So sánh mức độ hút khách và độ ổn định, đề xuất chiến lược cạnh tranh cho nhà hàng có chỉ số thấp hơn.
+... Gợi ý: So sánh số khách trung bình và tỷ lệ ngày đạt tiêu chuẩn 90 khách giữa hai nhà hàng.
++   Phản hồi đúng: Đúng! Nhà hàng A có số khách cao hơn và tỷ lệ ngày hiệu quả cao hơn. Nhà hàng B cần cải thiện chất lượng và marketing.
+-   Phản hồi sai: Cần so sánh cả số khách trung bình và tỷ lệ ngày đạt tiêu chuẩn để đánh giá mức độ hút khách.
+*a) Nhà hàng A hút khách tốt hơn, B cần cải thiện chiến lược
+b) Nhà hàng B ổn định hơn nên hiệu quả hơn
+c) Hai nhà hàng có hiệu quả tương đương
+d) Nhà hàng B có triển vọng tốt hơn
+
+17. Điểm thi đại học môn Toán của thí sinh khu vực thành phố: 7.2, 8.0, 7.6, 8.4, 7.2, 8.8, 8.0, 7.6, 6.8, 8.4, 8.0, 8.8, 7.6, 8.0, 8.4. Khu vực nông thôn: 6.8, 7.5, 7.2, 7.8, 6.8, 8.1, 7.5, 7.2, 6.5, 7.8, 7.5, 8.1, 7.2, 7.5, 7.8. Tính các số đặc trưng cho mỗi khu vực. Dựa vào tiêu chuẩn đỗ đại học với điểm ≥ 7.5, xác định tỷ lệ thí sinh đỗ đại học. Phân tích sự chênh lệch giáo dục giữa hai khu vực và đề xuất biện pháp giảm bất bình đẳng.
+... Gợi ý: So sánh điểm trung bình và tỷ lệ đỗ đại học giữa hai khu vực để thấy được chênh lệch giáo dục.
++   Phản hồi đúng: Chính xác! Thành phố có điểm trung bình cao hơn và tỷ lệ đỗ cao hơn. Cần đầu tư mạnh hơn cho giáo dục nông thôn.
+-   Phản hồi sai: Phải so sánh cả điểm trung bình và tỷ lệ đỗ để thấy được mức độ chênh lệch giáo dục giữa hai khu vực.
+*a) Thành phố có lợi thế rõ rệt, cần đầu tư cho nông thôn
+b) Sự chênh lệch không đáng kể
+c) Nông thôn có số thí sinh ổn định hơn
+d) Cả hai khu vực đều cần cải thiện
+
+18. Thời gian di chuyển đến trường (phút) của học sinh đi xe bus: 35, 42, 38, 45, 35, 48, 42, 38, 32, 45, 42, 48, 38, 42, 45. Học sinh đi xe máy: 25, 32, 28, 35, 25, 38, 32, 28, 22, 35, 32, 38, 28, 32, 35. Tính số trung bình, độ lệch chuẩn và hệ số biến thiên cho mỗi phương tiện. Áp dụng tiêu chuẩn thuận tiện khi thời gian ≤ 35 phút, xác định tỷ lệ lần di chuyển thuận tiện. Lựa chọn phương tiện tối ưu cho học sinh và giải thích các yếu tố cần xem xét.
+... Gợi ý: So sánh thời gian trung bình, độ ổn định và tỷ lệ lần di chuyển thuận tiện giữa hai phương tiện.
++   Phản hồi đúng: Đúng! Xe máy có thời gian ngắn hơn và tỷ lệ thuận tiện cao hơn, nhưng cần xem xét yếu tố an toàn và môi trường.
+-   Phản hồi sai: Cần so sánh cả thời gian trung bình và tỷ lệ thuận tiện, đồng thời xem xét các yếu tố khác ngoài thời gian.
+*a) Xe máy tối ưu về thời gian nhưng cần xem xét an toàn
+b) Xe bus tốt hơn vì ổn định hơn
+c) Hai phương tiện có hiệu quả tương đương
+d) Nên kết hợp cả hai phương tiện
+
+19. Điểm trung bình học kỳ của lớp 10A qua các môn học: 7.8, 8.5, 8.2, 8.8, 7.8, 9.1, 8.5, 8.2, 7.5, 8.8, 8.5, 9.1, 8.2, 8.5, 8.8. Lớp 10B: 7.5, 8.2, 7.8, 8.5, 7.5, 8.8, 8.2, 7.8, 7.2, 8.5, 8.2, 8.8, 7.8, 8.2, 8.5. Tính các số đặc trưng cho mỗi lớp. Dựa vào xếp loại học lực giỏi (≥8.5), khá (7.0-8.4), xác định cơ cấu học lực của mỗi lớp. So sánh chất lượng đào tạo và đề xuất biện pháp nâng cao chất lượng cho lớp có kết quả thấp hơn.
+... Gợi ý: Phân loại học sinh theo xếp loại học lực, so sánh tỷ lệ học sinh giỏi và điểm trung bình giữa hai lớp.
++   Phản hồi đúng: Chính xác! Lớp 10A có chất lượng cao hơn với tỷ lệ học sinh giỏi cao hơn. Lớp 10B cần tăng cường bồi dưỡng học sinh.
+-   Phản hồi sai: Phải phân tích cả điểm trung bình và cơ cấu học lực để so sánh chất lượng đào tạo giữa hai lớp.
+*a) Lớp 10A có chất lượng cao hơn với nhiều học sinh giỏi hơn
+b) Lớp 10B đồng đều hơn nên tốt hơn
+c) Hai lớp có chất lượng tương đương
+d) Lớp 10B có tiềm năng phát triển tốt hơn
+
+20. Số sản phẩm sản xuất mỗi ngày của ca 1: 120, 135, 128, 142, 120, 148, 135, 128, 115, 142, 135, 148, 128, 135, 142. Ca 2: 125, 140, 132, 145, 125, 151, 140, 132, 118, 145, 140, 151, 132, 140, 145. Tính số trung bình, độ lệch chuẩn và các tứ phân vị cho mỗi ca. Áp dụng định mức sản xuất đạt chuẩn ≥ 135 sản phẩm/ngày, xác định tỷ lệ ngày đạt định mức. So sánh hiệu suất lao động giữa hai ca và đề xuất biện pháp nâng cao năng suất cho ca có chỉ số thấp hơn.
+... Gợi ý: So sánh số sản phẩm trung bình và tỷ lệ ngày đạt định mức giữa hai ca làm việc.
++   Phản hồi đúng: Đúng! Ca 2 có hiệu suất cao hơn và tỷ lệ đạt định mức cao hơn. Ca 1 cần cải thiện quy trình và động lực làm việc.
+-   Phản hồi sai: Cần so sánh cả số sản phẩm trung bình và tỷ lệ đạt định mức để đánh giá hiệu suất lao động.
+*a) Ca 2 có hiệu suất cao hơn, ca 1 cần cải thiện
+b) Ca 1 ổn định hơn nên hiệu quả hơn
+c) Hai ca có hiệu suất tương đương
+d) Ca 1 có tiềm năng phát triển tốt hơn
+

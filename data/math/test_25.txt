@@ -1,0 +1,180 @@
+1. Cho tam giác ABC có $\vec{AB} = \vec{a}$ và $\vec{AC} = \vec{b}$. Vector $\vec{BC}$ được biểu diễn như thế nào theo $\vec{a}$ và $\vec{b}$?
+... Gợi ý: Sử dụng quy tắc cộng vector để biểu diễn $\vec{BC}$ qua hai vector đã cho.
++   Phản hồi đúng: Chính xác! Theo quy tắc tam giác, ta có $\vec{AB} + \vec{BC} = \vec{AC}$, suy ra $\vec{BC} = \vec{AC} - \vec{AB} = \vec{b} - \vec{a}$.
+-   Phản hồi sai: Cần áp dụng quy tắc tam giác: $\vec{AB} + \vec{BC} = \vec{AC}$ để tìm mối liên hệ giữa các vector.
+a) $\vec{BC} = \vec{a} + \vec{b}$
+b) $\vec{BC} = \vec{a} - \vec{b}$
+*c) $\vec{BC} = \vec{b} - \vec{a}$
+d) $\vec{BC} = -\vec{a} - \vec{b}$
+
+2. Cho hình bình hành ABCD. Tích vô hướng $\vec{AB} \cdot \vec{AD}$ bằng bao nhiêu khi ABCD là hình vuông cạnh $a$?
+... Gợi ý: Trong hình vuông, các cạnh kề nhau vuông góc với nhau.
++   Phản hồi đúng: Đúng rồi! Trong hình vuông, hai cạnh kề vuông góc nên $\vec{AB} \perp \vec{AD}$, do đó $\vec{AB} \cdot \vec{AD} = 0$.
+-   Phản hồi sai: Nhớ rằng tích vô hướng của hai vector vuông góc luôn bằng 0.
+*a) $0$
+b) $a$
+c) $a^2$
+d) $2a^2$
+
+3. Cho hai vector $\vec{u}$ và $\vec{v}$ thỏa mãn $|\vec{u}| = 3$, $|\vec{v}| = 4$ và góc giữa chúng là $60°$. Tích vô hướng $\vec{u} \cdot \vec{v}$ bằng:
+... Gợi ý: Sử dụng công thức $\vec{u} \cdot \vec{v} = |\vec{u}||\vec{v}|\cos\theta$.
++   Phản hồi đúng: Chính xác! Áp dụng công thức $\vec{u} \cdot \vec{v} = |\vec{u}||\vec{v}|\cos 60° = 3 \cdot 4 \cdot \frac{1}{2} = 6$.
+-   Phản hồi sai: Cần nhớ công thức tích vô hướng và giá trị $\cos 60° = \frac{1}{2}$.
+a) $12$
+*b) $6$
+c) $3$
+d) $0$
+
+4. Trong tam giác ABC vuông tại A, nếu AB = 3 và AC = 4 thì độ dài vector $\vec{BC}$ là:
+... Gợi ý: Sử dụng định lý Pytago trong tam giác vuông.
++   Phản hồi đúng: Đúng! Trong tam giác vuông ABC, theo định lý Pytago: $BC^2 = AB^2 + AC^2 = 9 + 16 = 25$, nên $|\vec{BC}| = 5$.
+-   Phản hồi sai: Nhớ áp dụng định lý Pytago: $BC^2 = AB^2 + AC^2$ trong tam giác vuông.
+a) $7$
+*b) $5$
+c) $12$
+d) $25$
+
+5. Cho hình chữ nhật ABCD có AB = 6 và BC = 8. Độ dài đường chéo AC là:
+... Gợi ý: Trong hình chữ nhật, đường chéo tạo thành tam giác vuông với hai cạnh.
++   Phản hồi đúng: Chính xác! Tam giác ABC vuông tại B, nên $AC^2 = AB^2 + BC^2 = 36 + 64 = 100$, suy ra $AC = 10$.
+-   Phản hồi sai: Áp dụng định lý Pytago cho tam giác ABC vuông tại B.
+a) $14$
+*b) $10$
+c) $8$
+d) $100$
+
+6. Điều kiện cần và đủ để hai vector $\vec{a}$ và $\vec{b}$ vuông góc là:
+... Gợi ý: Hai vector vuông góc khi góc giữa chúng bằng $90°$.
++   Phản hồi đúng: Đúng! Hai vector vuông góc khi và chỉ khi tích vô hướng của chúng bằng 0, vì $\cos 90° = 0$.
+-   Phản hồi sai: Nhớ rằng $\vec{a} \perp \vec{b} \Leftrightarrow \vec{a} \cdot \vec{b} = 0$.
+a) $\vec{a} \cdot \vec{b} = 1$
+*b) $\vec{a} \cdot \vec{b} = 0$
+c) $|\vec{a}| = |\vec{b}|$
+d) $\vec{a} + \vec{b} = \vec{0}$
+
+7. Cho tam giác đều ABC cạnh $a$. Tích vô hướng $\vec{AB} \cdot \vec{AC}$ bằng:
+... Gợi ý: Trong tam giác đều, góc giữa hai cạnh là $60°$.
++   Phản hồi đúng: Chính xác! $\vec{AB} \cdot \vec{AC} = |\vec{AB}||\vec{AC}|\cos 60° = a \cdot a \cdot \frac{1}{2} = \frac{a^2}{2}$.
+-   Phản hồi sai: Nhớ rằng góc BAC trong tam giác đều bằng $60°$ và $\cos 60° = \frac{1}{2}$.
+a) $a^2$
+*b) $\frac{a^2}{2}$
+c) $\frac{a^2}{4}$
+d) $0$
+
+8. Cho $\vec{a} = 2\vec{i} + 3\vec{j}$ và $\vec{b} = 4\vec{i} - \vec{j}$. Vector $\vec{a} + \vec{b}$ có tọa độ là:
+... Gợi ý: Cộng từng thành phần tương ứng của hai vector.
++   Phản hồi đúng: Đúng! $\vec{a} + \vec{b} = (2+4)\vec{i} + (3-1)\vec{j} = 6\vec{i} + 2\vec{j}$.
+-   Phản hồi sai: Nhớ cộng riêng từng thành phần: hoành độ với hoành độ, tung độ với tung độ.
+a) $6\vec{i} - 4\vec{j}$
+*b) $6\vec{i} + 2\vec{j}$
+c) $2\vec{i} + 4\vec{j}$
+d) $8\vec{i} + 2\vec{j}$
+
+9. Nếu $\vec{a} + \vec{b} = \vec{0}$ thì:
+... Gợi ý: Quan hệ giữa hai vector khi tổng của chúng bằng vector không.
++   Phản hồi đúng: Chính xác! Khi $\vec{a} + \vec{b} = \vec{0}$ thì $\vec{b} = -\vec{a}$, nghĩa là hai vector đối nhau.
+-   Phản hồi sai: $\vec{a} + \vec{b} = \vec{0}$ có nghĩa là $\vec{b} = -\vec{a}$, hai vector có cùng độ dài nhưng ngược hướng.
+a) $\vec{a} = \vec{b}$
+*b) $\vec{a} = -\vec{b}$
+c) $\vec{a} \perp \vec{b}$
+d) $|\vec{a}| = 0$
+
+10. Cho hình bình hành ABCD với $\vec{AB} = \vec{u}$ và $\vec{AD} = \vec{v}$. Vector $\vec{AC}$ được biểu diễn như thế nào?
+... Gợi ý: Sử dụng quy tắc hình bình hành để biểu diễn đường chéo.
++   Phản hồi đúng: Đúng! Theo quy tắc hình bình hành, $\vec{AC} = \vec{AB} + \vec{AD} = \vec{u} + \vec{v}$.
+-   Phản hồi sai: Nhớ quy tắc hình bình hành: đường chéo bằng tổng hai cạnh xuất phát từ cùng một đỉnh.
+a) $\vec{AC} = \vec{u} - \vec{v}$
+*b) $\vec{AC} = \vec{u} + \vec{v}$
+c) $\vec{AC} = \vec{v} - \vec{u}$
+d) $\vec{AC} = 2\vec{u}$
+
+11. Cho vector $\vec{a}$ khác vector không. Vector đơn vị cùng hướng với $\vec{a}$ là:
+... Gợi ý: Vector đơn vị có độ dài bằng 1 và cùng hướng với vector đã cho.
++   Phản hồi đúng: Chính xác! Vector đơn vị cùng hướng với $\vec{a}$ là $\frac{\vec{a}}{|\vec{a}|}$ vì có cùng hướng và độ dài bằng 1.
+-   Phản hồi sai: Để tạo vector đơn vị, ta chia vector cho độ dài của nó.
+a) $|\vec{a}|$
+*b) $\frac{\vec{a}}{|\vec{a}|}$
+c) $\vec{a} - |\vec{a}|$
+d) $\frac{|\vec{a}|}{\vec{a}}$
+
+12. Cho hai vector $\vec{p}$ và $\vec{q}$ thỏa mãn $|\vec{p}| = |\vec{q}| = 2$ và $\vec{p} \cdot \vec{q} = 2$. Góc giữa hai vector này là:
+... Gợi ý: Sử dụng công thức $\cos\theta = \frac{\vec{p} \cdot \vec{q}}{|\vec{p}||\vec{q}|}$.
++   Phản hồi đúng: Đúng! $\cos\theta = \frac{2}{2 \cdot 2} = \frac{1}{2}$, nên $\theta = 60°$.
+-   Phản hồi sai: Áp dụng công thức tính góc giữa hai vector thông qua tích vô hướng.
+a) $30°$
+*b) $60°$
+c) $90°$
+d) $120°$
+
+13. Trong tam giác ABC, điểm M là trung điểm của BC. Vector $\vec{AM}$ được biểu diễn theo $\vec{AB}$ và $\vec{AC}$ như thế nào?
+... Gợi ý: Sử dụng tính chất trung điểm để biểu diễn vector.
++   Phản hồi đúng: Chính xác! Vì M là trung điểm BC nên $\vec{AM} = \frac{1}{2}(\vec{AB} + \vec{AC})$.
+-   Phản hồi sai: Nhớ công thức vector trung điểm: $\vec{AM} = \frac{1}{2}(\vec{AB} + \vec{AC})$ khi M là trung điểm BC.
+a) $\vec{AM} = \vec{AB} + \vec{AC}$
+*b) $\vec{AM} = \frac{1}{2}(\vec{AB} + \vec{AC})$
+c) $\vec{AM} = \frac{1}{2}(\vec{AC} - \vec{AB})$
+d) $\vec{AM} = 2(\vec{AB} + \vec{AC})$
+
+14. Cho hình vuông ABCD cạnh $a$. Tích vô hướng $\vec{AC} \cdot \vec{BD}$ bằng:
+... Gợi ý: Xét mối quan hệ giữa hai đường chéo của hình vuông.
++   Phản hồi đúng: Đúng! Trong hình vuông, hai đường chéo vuông góc với nhau nên $\vec{AC} \cdot \vec{BD} = 0$.
+-   Phản hồi sai: Nhớ rằng trong hình vuông, hai đường chéo luôn vuông góc với nhau.
+*a) $0$
+b) $a^2$
+c) $2a^2$
+d) $a^2\sqrt{2}$
+
+15. Cho $|\vec{m}| = 5$ và $|\vec{n}| = 3$. Giá trị lớn nhất của $|\vec{m} + \vec{n}|$ là:
+... Gợi ý: Vector tổng có độ dài lớn nhất khi hai vector cùng hướng.
++   Phản hồi đúng: Chính xác! $|\vec{m} + \vec{n}|$ đạt giá trị lớn nhất khi $\vec{m}$ và $\vec{n}$ cùng hướng, lúc này $|\vec{m} + \vec{n}| = |\vec{m}| + |\vec{n}| = 8$.
+-   Phản hồi sai: Độ dài vector tổng lớn nhất khi hai vector cùng hướng và bằng tổng độ dài.
+a) $2$
+b) $4$
+*c) $8$
+d) $15$
+
+16. Nếu hai vector $\vec{x}$ và $\vec{y}$ thỏa mãn $\vec{x} \cdot \vec{x} = 16$ thì $|\vec{x}|$ bằng:
+... Gợi ý: Sử dụng tính chất $\vec{a} \cdot \vec{a} = |\vec{a}|^2$.
++   Phản hồi đúng: Đúng! Vì $\vec{x} \cdot \vec{x} = |\vec{x}|^2 = 16$ nên $|\vec{x}| = 4$.
+-   Phản hồi sai: Nhớ rằng $\vec{a} \cdot \vec{a} = |\vec{a}|^2$ theo định nghĩa tích vô hướng.
+a) $8$
+*b) $4$
+c) $16$
+d) $256$
+
+17. Cho tam giác ABC có $\vec{AB} \cdot \vec{BC} = 0$. Tam giác ABC có tính chất gì?
+... Gợi ý: Phân tích ý nghĩa của điều kiện tích vô hướng bằng 0.
++   Phản hồi đúng: Chính xác! $\vec{AB} \cdot \vec{BC} = 0$ có nghĩa là $\vec{AB} \perp \vec{BC}$, tức là tam giác ABC vuông tại B.
+-   Phản hồi sai: Tích vô hướng bằng 0 có nghĩa là hai vector vuông góc với nhau.
+a) Tam giác đều
+*b) Tam giác vuông tại B
+c) Tam giác cân tại B
+d) Tam giác vuông tại A
+
+18. Cho $\vec{a} = 3\vec{i} - 4\vec{j}$. Độ dài của vector $\vec{a}$ là:
+... Gợi ý: Sử dụng công thức tính độ dài vector trong hệ tọa độ.
++   Phản hồi đúng: Đúng! $|\vec{a}| = \sqrt{3^2 + (-4)^2} = \sqrt{9 + 16} = \sqrt{25} = 5$.
+-   Phản hồi sai: Nhớ công thức $|\vec{a}| = \sqrt{a_1^2 + a_2^2}$ với $\vec{a} = a_1\vec{i} + a_2\vec{j}$.
+a) $7$
+*b) $5$
+c) $1$
+d) $25$
+
+19. Cho hai vector $\vec{u} = 2\vec{i} + \vec{j}$ và $\vec{v} = \vec{i} - 3\vec{j}$. Tích vô hướng $\vec{u} \cdot \vec{v}$ bằng:
+... Gợi ý: Sử dụng công thức tích vô hướng trong hệ tọa độ.
++   Phản hồi đúng: Chính xác! $\vec{u} \cdot \vec{v} = 2 \cdot 1 + 1 \cdot (-3) = 2 - 3 = -1$.
+-   Phản hồi sai: Nhớ công thức $\vec{u} \cdot \vec{v} = u_1v_1 + u_2v_2$ trong hệ tọa độ.
+a) $5$
+b) $1$
+*c) $-1$
+d) $-5$
+
+20. Cho hình thoi ABCD có cạnh bằng $a$ và góc $\widehat{BAD} = 60°$. Tích vô hướng $\vec{AB} \cdot \vec{AD}$ bằng:
+... Gợi ý: Trong hình thoi, các cạnh kề tạo thành góc cho trước.
++   Phản hồi đúng: Đúng! $\vec{AB} \cdot \vec{AD} = |\vec{AB}||\vec{AD}|\cos 60° = a \cdot a \cdot \frac{1}{2} = \frac{a^2}{2}$.
+-   Phản hồi sai: Áp dụng công thức tích vô hướng với góc giữa hai cạnh của hình thoi.
+a) $a^2$
+*b) $\frac{a^2}{2}$
+c) $\frac{a^2\sqrt{3}}{2}$
+d) $0$
+

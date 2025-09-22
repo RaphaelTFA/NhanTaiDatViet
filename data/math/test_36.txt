@@ -1,0 +1,90 @@
+1. Tính giao điểm của hai đường thẳng $d_1: 2x - y + 3 = 0$ và $d_2: x + 2y - 4 = 0$.
+... Gợi ý: Giải hệ phương trình gồm hai phương trình đường thẳng.
++   Phản hồi đúng: Chính xác! Giải hệ phương trình: từ $d_1$ có $y = 2x + 3$, thế vào $d_2$: $x + 2(2x + 3) - 4 = 0$, suy ra $5x = -2$, do đó $x = -\frac{2}{5}$ và $y = \frac{11}{5}$.
+-   Phản hồi sai: Cần giải hệ phương trình bằng cách thế hoặc cộng đại số để tìm tọa độ giao điểm.
+a) $(-\frac{1}{5}, \frac{13}{5})$
+b) $(\frac{2}{5}, \frac{19}{5})$
+*c) $(-\frac{2}{5}, \frac{11}{5})$
+d) $(\frac{1}{5}, \frac{17}{5})$
+
+2. Cho tam giác $ABC$ với $A(2, 3)$, $B(6, -1)$, $C(-2, 5)$. Tính độ dài đường cao từ $A$ xuống cạnh $BC$.
+... Gợi ý: Sử dụng công thức khoảng cách từ điểm đến đường thẳng.
++   Phản hồi đúng: Chính xác! Phương trình đường thẳng $BC$ là $3x + 4y - 14 = 0$. Khoảng cách từ $A(2,3)$ đến đường thẳng này là $\frac{|3(2) + 4(3) - 14|}{\sqrt{3^2 + 4^2}} = \frac{4}{5}$.
+-   Phản hồi sai: Cần tìm phương trình đường thẳng $BC$ rồi áp dụng công thức khoảng cách từ điểm đến đường thẳng.
+a) $\frac{3}{5}$
+*b) $\frac{4}{5}$
+c) $\frac{6}{5}$
+d) $\frac{8}{5}$
+
+3. Đường thẳng đi qua điểm $M(1, 2)$ và song song với đường thẳng $3x - 2y + 5 = 0$ có phương trình là:
+... Gợi ý: Đường thẳng song song có cùng hệ số góc.
++   Phản hồi đúng: Chính xác! Đường thẳng song song có dạng $3x - 2y + c = 0$. Thay tọa độ $M(1,2)$: $3(1) - 2(2) + c = 0$, suy ra $c = 1$.
+-   Phản hồi sai: Hai đường thẳng song song có cùng hệ số của $x$ và $y$, chỉ khác hệ số tự do.
+a) $3x - 2y + 7 = 0$
+*b) $3x - 2y + 1 = 0$
+c) $3x - 2y - 1 = 0$
+d) $3x - 2y + 3 = 0$
+
+4. Phản xạ điểm $A(6, 0)$ qua đường thẳng $x + y - 10 = 0$ được điểm $A'$ có tọa độ:
+... Gợi ý: Sử dụng công thức phản xạ điểm qua đường thẳng.
++   Phản hồi đúng: Chính xác! Đường thẳng qua $A$ vuông góc với $x + y - 10 = 0$ có phương trình $x - y - 6 = 0$. Giao điểm $H(8, 2)$. Điểm phản xạ $A' = 2H - A = (10, 4)$.
+-   Phản hồi sai: Cần tìm chân đường vuông góc từ điểm đến đường thẳng, sau đó áp dụng công thức phản xạ.
+a) $(8, 6)$
+b) $(12, 2)$
+*c) $(10, 4)$
+d) $(14, 8)$
+
+5. Cho đường tròn $(C): x^2 + y^2 - 4x + 2y - 11 = 0$. Tâm và bán kính của đường tròn là:
+... Gợi ý: Đưa phương trình về dạng chính tắc bằng cách hoàn thành bình phương.
++   Phản hồi đúng: Chính xác! Hoàn thành bình phương: $(x-2)^2 + (y+1)^2 = 16$. Tâm $I(2, -1)$ và bán kính $R = 4$.
+-   Phản hồi sai: Cần hoàn thành bình phương cho cả $x$ và $y$ để đưa về dạng $(x-a)^2 + (y-b)^2 = r^2$.
+a) $I(2, 1)$, $R = 3$
+*b) $I(2, -1)$, $R = 4$
+c) $I(-2, 1)$, $R = 4$
+d) $I(4, -2)$, $R = 5$
+
+6. Cho tam giác $ABC$ với $A(12, 5)$, $B(4, 11)$. Tìm hoành độ giao điểm của đường thẳng $AB'$ với trục $Ox$, trong đó $B'$ là phản xạ của $B$ qua trục $Ox$.
+... Gợi ý: Phản xạ qua trục $Ox$ biến điểm $(x, y)$ thành $(x, -y)$.
++   Phản hồi đúng: Chính xác! Phản xạ $B$ qua trục $Ox$ được $B'(4, -11)$. Đường thẳng $AB'$ có phương trình $y = 2x - 19$. Khi $y = 0$: $x = 9.5$.
+-   Phản hồi sai: Cần tìm tọa độ $B'$ sau phản xạ, lập phương trình đường thẳng $AB'$, rồi tìm giao với trục $Ox$.
+a) $8.5$
+*b) $9.5$
+c) $10.5$
+d) $11.5$
+
+7. Đường thẳng $d: 2x - 3y + 6 = 0$ cắt các trục tọa độ tại hai điểm. Diện tích tam giác tạo bởi đường thẳng này và hai trục tọa độ là:
+... Gợi ý: Tìm giao điểm với hai trục tọa độ, sau đó tính diện tích tam giác vuông.
++   Phản hồi đúng: Chính xác! Giao với trục $Ox$ tại $(-3, 0)$, giao với trục $Oy$ tại $(0, 2)$. Diện tích tam giác là $\frac{1}{2} \times 3 \times 2 = 3$.
+-   Phản hồi sai: Cần tìm giao điểm bằng cách cho $y = 0$ và $x = 0$, sau đó áp dụng công thức diện tích tam giác.
+a) $2$
+*b) $3$
+c) $4$
+d) $6$
+
+8. Cho hai điểm $A(3, 1)$ và $B(7, 5)$. Phương trình đường trung trực của đoạn thẳng $AB$ là:
+... Gợi ý: Đường trung trực đi qua trung điểm và vuông góc với đoạn thẳng.
++   Phản hồi đúng: Chính xác! Trung điểm $M(5, 3)$, hệ số góc $AB$ là $1$, nên hệ số góc trung trực là $-1$. Phương trình: $x + y - 8 = 0$.
+-   Phản hồi sai: Đường trung trực có hệ số góc nghịch đảo âm của hệ số góc đoạn thẳng và đi qua trung điểm.
+a) $x - y + 2 = 0$
+*b) $x + y - 8 = 0$
+c) $x + y - 6 = 0$
+d) $x - y - 2 = 0$
+
+9. Khoảng cách giữa hai đường thẳng song song $d_1: 3x - 4y + 5 = 0$ và $d_2: 3x - 4y - 10 = 0$ là:
+... Gợi ý: Sử dụng công thức khoảng cách giữa hai đường thẳng song song.
++   Phản hồi đúng: Chính xác! Khoảng cách là $\frac{|5 - (-10)|}{\sqrt{3^2 + (-4)^2}} = \frac{15}{5} = 3$.
+-   Phản hồi sai: Đối với hai đường thẳng song song $ax + by + c_1 = 0$ và $ax + by + c_2 = 0$, khoảng cách là $\frac{|c_1 - c_2|}{\sqrt{a^2 + b^2}}$.
+a) $2$
+*b) $3$
+c) $4$
+d) $5$
+
+10. Cho đường tròn $(C): (x-1)^2 + (y+2)^2 = 9$ và điểm $M(4, 2)$. Phương trình tiếp tuyến của đường tròn tại điểm $M$ là:
+... Gợi ý: Kiểm tra xem $M$ có thuộc đường tròn không, sau đó viết phương trình tiếp tuyến.
++   Phản hồi đúng: Chính xác! $M(4, 2)$ thuộc đường tròn. Vector $\overrightarrow{IM} = (3, 4)$. Tiếp tuyến vuông góc với bán kính: $3x + 4y - 20 = 0$.
+-   Phản hồi sai: Tiếp tuyến tại một điểm trên đường tròn vuông góc với bán kính tại điểm đó.
+a) $3x - 4y - 4 = 0$
+*b) $3x + 4y - 20 = 0$
+c) $4x - 3y - 10 = 0$
+d) $4x + 3y - 22 = 0$
+

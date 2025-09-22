@@ -1,0 +1,9 @@
+1. Cho $R(-2; -1)$ và $S(4; 5)$. Khoảng cách $RS$ bằng:
+... Gợi ý: Sử dụng công thức khoảng cách giữa hai điểm $d = \sqrt{(x_2-x_1)^2 + (y_2-y_1)^2}$.
++   Phản hồi đúng: Chính xác! Áp dụng công thức: $RS = \sqrt{(4-(-2))^2 + (5-(-1))^2} = \sqrt{6^2 + 6^2} = \sqrt{72} = 6\sqrt{2}$.
+-   Phản hồi sai: Cần chú ý đến dấu của tọa độ khi tính hiệu và nhớ rút gọn căn thức: $\sqrt{72} = \sqrt{36 \times 2} = 6\sqrt{2}$.
+a) $4\sqrt{2}$
+*b) $6\sqrt{2}$
+c) $8\sqrt{2}$
+d) $\sqrt{72}$
+

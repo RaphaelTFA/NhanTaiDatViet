@@ -1,0 +1,180 @@
+1. Cho tam giác ABC có $\vec{AB} = (3; 4)$ và $\vec{AC} = (6; 8)$. Điểm M nằm trên cạnh BC sao cho $\vec{BM} = k\vec{BC}$ với $k = \frac{2}{3}$. Tọa độ của vector $\vec{AM}$ là:
+... Gợi ý: Sử dụng công thức $\vec{AM} = \vec{AB} + \vec{BM}$ và biểu diễn $\vec{BM}$ theo $\vec{BC}$.
++   Phản hồi đúng: Chính xác! Ta có $\vec{BC} = \vec{AC} - \vec{AB} = (3; 4)$, $\vec{BM} = \frac{2}{3}(3; 4) = (2; \frac{8}{3})$, suy ra $\vec{AM} = (3; 4) + (2; \frac{8}{3}) = (5; \frac{20}{3})$.
+-   Phản hồi sai: Cần nhớ công thức $\vec{BM} = k\vec{BC}$ và $\vec{AM} = \vec{AB} + \vec{BM}$. Đừng quên tính $\vec{BC} = \vec{AC} - \vec{AB}$.
+a) $(4; 6)$
+b) $(5; 8)$
+*c) $(5; \frac{20}{3})$
+d) $(6; 10)$
+
+2. Một máy bay xuất phát từ sân bay O, bay theo hướng Đông 120km đến điểm A, sau đó bay theo hướng Bắc 160km đến điểm B. Khoảng cách từ B về sân bay O là:
+... Gợi ý: Thiết lập hệ tọa độ với O làm gốc, trục Ox hướng Đông, trục Oy hướng Bắc.
++   Phản hồi đúng: Đúng rồi! Tọa độ của B là (120; 160), khoảng cách OB = $\sqrt{120^2 + 160^2} = \sqrt{14400 + 25600} = \sqrt{40000} = 200$ km.
+-   Phản hồi sai: Đây là bài toán tính độ dài vector. Sử dụng công thức $|\vec{OB}| = \sqrt{x^2 + y^2}$ với tọa độ B(120; 160).
+a) 180 km
+*b) 200 km
+c) 220 km
+d) 240 km
+
+3. Cho hai vector $\vec{a} = (2; -3)$ và $\vec{b} = (-1; 4)$. Giá trị của tích vô hướng $\vec{a} \cdot (2\vec{a} - 3\vec{b})$ là:
+... Gợi ý: Tính $2\vec{a} - 3\vec{b}$ trước, sau đó áp dụng công thức tích vô hướng.
++   Phản hồi đúng: Chính xác! $2\vec{a} - 3\vec{b} = (4; -6) - (-3; 12) = (7; -18)$. Vậy $\vec{a} \cdot (2\vec{a} - 3\vec{b}) = 2 \cdot 7 + (-3) \cdot (-18) = 14 + 54 = 68$.
+-   Phản hồi sai: Cần tính từng bước: tìm $2\vec{a} - 3\vec{b}$, sau đó tính tích vô hướng $\vec{a} \cdot (2\vec{a} - 3\vec{b})$.
+a) 56
+b) 62
+*c) 68
+d) 74
+
+4. Trong hệ tọa độ Oxy, cho ba điểm A(1; 2), B(4; 6), C(7; 2). Để tứ giác ABCD là hình bình hành, tọa độ điểm D phải là:
+... Gợi ý: Trong hình bình hành ABCD, ta có $\vec{AB} = \vec{DC}$.
++   Phản hồi đúng: Đúng! Từ $\vec{AB} = \vec{DC}$ suy ra $\vec{AD} = \vec{BC}$. Ta có $\vec{BC} = (3; -4)$, nên D = A + $\vec{BC}$ = (1; 2) + (3; -4) = (4; -2).
+-   Phản hồi sai: Sử dụng điều kiện $\vec{AB} = \vec{DC}$ hoặc $\vec{AD} = \vec{BC}$ để tìm tọa độ điểm D.
+a) (2; -2)
+b) (3; -1)
+*c) (4; -2)
+d) (5; -3)
+
+5. Cho tam giác ABC có A(0; 0), B(6; 0), C(3; 9). Độ dài đường cao từ đỉnh A xuống cạnh BC là:
+... Gợi ý: Sử dụng công thức tính khoảng cách từ điểm đến đường thẳng hoặc công thức diện tích tam giác.
++   Phản hồi đúng: Chính xác! Diện tích tam giác ABC = $\frac{1}{2}|x_B \cdot y_C - x_C \cdot y_B| = \frac{1}{2}|6 \cdot 9 - 3 \cdot 0| = 27$. Độ dài BC = $\sqrt{9 + 81} = 3\sqrt{10}$. Đường cao = $\frac{2 \cdot 27}{3\sqrt{10}} = \frac{18}{\sqrt{10}} = \frac{18\sqrt{10}}{10}$.
+-   Phản hồi sai: Có thể tính diện tích tam giác bằng công thức tọa độ, sau đó dùng công thức: đường cao = $\frac{2S}{cạnh_{đáy}}$.
+a) $\frac{16\sqrt{10}}{10}$
+*b) $\frac{18\sqrt{10}}{10}$
+c) $\frac{20\sqrt{10}}{10}$
+d) $\frac{22\sqrt{10}}{10}$
+
+6. Một vật chịu tác dụng của hai lực $\vec{F_1} = (40; 30)$ N và $\vec{F_2} = (-20; 50)$ N. Độ lớn của hợp lực tác dụng lên vật là:
+... Gợi ý: Hợp lực bằng tổng vector của các lực thành phần.
++   Phản hồi đúng: Đúng! Hợp lực $\vec{F} = \vec{F_1} + \vec{F_2} = (20; 80)$ N. Độ lớn hợp lực = $\sqrt{20^2 + 80^2} = \sqrt{400 + 6400} = \sqrt{6800} = 20\sqrt{17}$ N.
+-   Phản hồi sai: Tính tổng vector $\vec{F} = \vec{F_1} + \vec{F_2}$, sau đó tính độ dài của vector tổng.
+a) $15\sqrt{17}$ N
+*b) $20\sqrt{17}$ N
+c) $25\sqrt{17}$ N
+d) $30\sqrt{17}$ N
+
+7. Cho hình vuông ABCD có A(1; 1), B(4; 1). Nếu C nằm phía trên trục Ox, tọa độ của điểm C là:
+... Gợi ý: Trong hình vuông, các cạnh vuông góc và có độ dài bằng nhau.
++   Phản hồi đúng: Chính xác! $\vec{AB} = (3; 0)$, $\vec{BC}$ vuông góc với $\vec{AB}$ và có độ dài bằng nhau, nên $\vec{BC} = (0; 3)$. Vậy C = B + $\vec{BC}$ = (4; 1) + (0; 3) = (4; 4).
+-   Phản hồi sai: Sử dụng tính chất hình vuông: $\vec{BC} \perp \vec{AB}$ và $|\vec{BC}| = |\vec{AB}|$.
+a) (4; 3)
+*b) (4; 4)
+c) (5; 4)
+d) (7; 1)
+
+8. Vector $\vec{u} = (3; 4)$ tạo với trục Ox một góc có cosin bằng:
+... Gợi ý: Sử dụng công thức $\cos\alpha = \frac{\vec{u} \cdot \vec{i}}{|\vec{u}||\vec{i}|}$ với $\vec{i} = (1; 0)$.
++   Phản hồi đúng: Đúng! $\cos\alpha = \frac{3 \cdot 1 + 4 \cdot 0}{\sqrt{3^2 + 4^2} \cdot 1} = \frac{3}{5}$.
+-   Phản hồi sai: Góc tạo bởi vector với trục Ox có $\cos\alpha = \frac{x_{\vec{u}}}{|\vec{u}|}$.
+a) $\frac{2}{5}$
+*b) $\frac{3}{5}$
+c) $\frac{4}{5}$
+d) $\frac{5}{5}$
+
+9. Cho tam giác ABC có trọng tâm G(2; 3). Biết A(1; 1), B(4; 2), tọa độ của điểm C là:
+... Gợi ý: Trọng tâm tam giác có tọa độ là trung bình cộng tọa độ ba đỉnh.
++   Phản hồi đúng: Chính xác! Từ công thức trọng tâm: $G = \frac{A + B + C}{3}$, suy ra $3G = A + B + C$, nên $C = 3G - A - B = (6; 9) - (1; 1) - (4; 2) = (1; 6)$.
+-   Phản hồi sai: Sử dụng công thức tọa độ trọng tâm: $x_G = \frac{x_A + x_B + x_C}{3}$, $y_G = \frac{y_A + y_B + y_C}{3}$.
+a) (0; 5)
+*b) (1; 6)
+c) (2; 7)
+d) (3; 8)
+
+10. Một ca nô đi từ A đến B. Vận tốc ca nô so với nước là $\vec{v_1} = (12; 5)$ km/h, vận tốc dòng nước là $\vec{v_2} = (-3; 4)$ km/h. Tốc độ thực tế của ca nô so với bờ là:
+... Gợi ý: Vận tốc thực tế bằng tổng vector vận tốc ca nô và vận tốc dòng nước.
++   Phản hồi đúng: Đúng! Vận tốc thực tế $\vec{v} = \vec{v_1} + \vec{v_2} = (9; 9)$ km/h. Tốc độ = $\sqrt{9^2 + 9^2} = 9\sqrt{2}$ km/h.
+-   Phản hồi sai: Vận tốc thực tế = vận tốc ca nô + vận tốc dòng nước. Tốc độ là độ lớn của vector vận tốc.
+a) $8\sqrt{2}$ km/h
+*b) $9\sqrt{2}$ km/h
+c) $10\sqrt{2}$ km/h
+d) $11\sqrt{2}$ km/h
+
+11. Cho vector $\vec{a} = (1; 2)$ và $\vec{b} = (3; -1)$. Vector $\vec{c}$ vuông góc với $\vec{a}$ và thỏa mãn $\vec{c} \cdot \vec{b} = 10$. Tọa độ của $\vec{c}$ là:
+... Gợi ý: Đặt $\vec{c} = (x; y)$, sử dụng điều kiện vuông góc và tích vô hướng.
++   Phản hồi đúng: Chính xác! Đặt $\vec{c} = (x; y)$. Từ $\vec{c} \perp \vec{a}$: $x + 2y = 0$, suy ra $x = -2y$. Từ $\vec{c} \cdot \vec{b} = 10$: $3x - y = 10$. Thay vào: $-6y - y = 10$, suy ra $y = -\frac{10}{7}$, $x = \frac{20}{7}$.
+-   Phản hồi sai: Sử dụng điều kiện $\vec{c} \cdot \vec{a} = 0$ và $\vec{c} \cdot \vec{b} = 10$ để lập hệ phương trình.
+a) $(\frac{18}{7}; -\frac{9}{7})$
+*b) $(\frac{20}{7}; -\frac{10}{7})$
+c) $(\frac{22}{7}; -\frac{11}{7})$
+d) $(\frac{24}{7}; -\frac{12}{7})$
+
+12. Trong hệ tọa độ Oxy, đường thẳng đi qua điểm M(2; 3) và có vector chỉ phương $\vec{u} = (1; -2)$ có phương trình là:
+... Gợi ý: Phương trình tham số đường thẳng: $(x; y) = (x_0; y_0) + t(a; b)$.
++   Phản hồi đúng: Đúng! Phương trình tham số: $x = 2 + t$, $y = 3 - 2t$. Khử t: $t = x - 2$, thay vào: $y = 3 - 2(x - 2) = 7 - 2x$, hay $2x + y - 7 = 0$.
+-   Phản hồi sai: Viết phương trình tham số rồi khử tham số, hoặc dùng công thức: nếu vector chỉ phương là $(a; b)$ thì vector pháp tuyến là $(b; -a)$.
+a) $2x + y - 5 = 0$
+b) $2x + y - 6 = 0$
+*c) $2x + y - 7 = 0$
+d) $2x + y - 8 = 0$
+
+13. Cho hai điểm A(1; 2), B(4; 6). Điểm M trên trục Ox sao cho $|\vec{MA}| + |\vec{MB}|$ nhỏ nhất có tọa độ:
+... Gợi ý: Sử dụng phương pháp đối xứng qua trục Ox hoặc tính trực tiếp.
++   Phản hồi đúng: Chính xác! Lấy đối xứng A qua Ox được A'(1; -2). M cần tìm là giao điểm của A'B với Ox. Phương trình A'B: $y = 2x - 4$. Với y = 0: $x = 2$. Vậy M(2; 0).
+-   Phản hồi sai: Đây là bài toán tìm điểm M trên trục để tổng khoảng cách nhỏ nhất. Sử dụng phương pháp phản xạ qua trục.
+a) (1; 0)
+*b) (2; 0)
+c) (3; 0)
+d) (4; 0)
+
+14. Cho hình thoi ABCD có A(0; 0), B(3; 4), D(5; 0). Tọa độ của đỉnh C là:
+... Gợi ý: Trong hình thoi, $\vec{AC} = \vec{AB} + \vec{AD}$.
++   Phản hồi đúng: Đúng! $\vec{AB} = (3; 4)$, $\vec{AD} = (5; 0)$. Do tính chất hình thoi: $\vec{AC} = \vec{AB} + \vec{AD} = (8; 4)$. Vậy C = A + $\vec{AC}$ = (8; 4).
+-   Phản hồi sai: Trong hình thoi ABCD, đường chéo AC là tổng của hai vector cạnh: $\vec{AC} = \vec{AB} + \vec{AD}$.
+a) (7; 4)
+*b) (8; 4)
+c) (9; 4)
+d) (10; 4)
+
+15. Vector đơn vị cùng hướng với vector $\vec{v} = (6; -8)$ có tọa độ là:
+... Gợi ý: Vector đơn vị cùng hướng với $\vec{v}$ là $\frac{\vec{v}}{|\vec{v}|}$.
++   Phản hồi đúng: Chính xác! $|\vec{v}| = \sqrt{6^2 + (-8)^2} = 10$. Vector đơn vị = $\frac{(6; -8)}{10} = (\frac{3}{5}; -\frac{4}{5})$.
+-   Phản hồi sai: Chia vector cho độ dài của nó để được vector đơn vị cùng hướng.
+a) $(\frac{2}{5}; -\frac{3}{5})$
+b) $(\frac{3}{5}; -\frac{3}{5})$
+*c) $(\frac{3}{5}; -\frac{4}{5})$
+d) $(\frac{4}{5}; -\frac{4}{5})$
+
+16. Cho tam giác ABC có A(1; 1), B(4; 2), C(2; 5). Độ dài đường trung tuyến từ A đến cạnh BC là:
+... Gợi ý: Trung điểm của BC có tọa độ là trung bình cộng tọa độ của B và C.
++   Phản hồi đúng: Đúng! Trung điểm M của BC có tọa độ: $M(\frac{4+2}{2}; \frac{2+5}{2}) = (3; \frac{7}{2})$. Độ dài AM = $\sqrt{(3-1)^2 + (\frac{7}{2}-1)^2} = \sqrt{4 + \frac{25}{4}} = \sqrt{\frac{41}{4}} = \frac{\sqrt{41}}{2}$.
+-   Phản hồi sai: Tìm tọa độ trung điểm M của BC, sau đó tính độ dài AM.
+a) $\frac{\sqrt{37}}{2}$
+b) $\frac{\sqrt{39}}{2}$
+*c) $\frac{\sqrt{41}}{2}$
+d) $\frac{\sqrt{43}}{2}$
+
+17. Một thiết bị định vị GPS xác định được khoảng cách đến ba trạm phát sóng A(0; 0), B(8; 0), C(4; 6) lần lượt là 5km, 5km, 3km. Tọa độ của thiết bị là:
+... Gợi ý: Lập hệ phương trình từ các điều kiện khoảng cách.
++   Phản hồi đúng: Chính xác! Gọi M(x; y) là vị trí thiết bị. Ta có: $x^2 + y^2 = 25$, $(x-8)^2 + y^2 = 25$, $(x-4)^2 + (y-6)^2 = 9$. Từ hai phương trình đầu: $x = 4$. Thay vào phương trình thứ ba: $(y-6)^2 = 9 - 0 = 9$, suy ra $y = 3$ hoặc $y = 9$. Kiểm tra với phương trình đầu: $y = 3$.
+-   Phản hồi sai: Lập hệ phương trình từ điều kiện khoảng cách đến ba điểm đã cho.
+a) (3; 3)
+*b) (4; 3)
+c) (5; 3)
+d) (4; 4)
+
+18. Cho vector $\vec{a} = (2; 1)$ và $\vec{b} = (1; 3)$. Giá trị của k để vector $\vec{u} = k\vec{a} + \vec{b}$ có độ dài nhỏ nhất là:
+... Gợi ý: Tính $|\vec{u}|^2$ theo k và tìm giá trị k để biểu thức đạt minimum.
++   Phản hồi đúng: Chính xác! $\vec{u} = (2k+1; k+3)$. $|\vec{u}|^2 = (2k+1)^2 + (k+3)^2 = 5k^2 + 10k + 10$. Đây là hàm bậc hai với hệ số a = 5 > 0, đạt minimum tại $k = -\frac{10}{10} = -1$.
+-   Phản hồi sai: Viết $|\vec{u}|^2$ theo k, sau đó tìm minimum của hàm bậc hai này.
+a) $-\frac{3}{2}$
+*b) $-1$
+c) $-\frac{1}{2}$
+d) $0$
+
+19. Trong hệ tọa độ Oxy, cho điểm A(2; 1) và đường thẳng d có phương trình $x + 2y - 5 = 0$. Tọa độ hình chiếu vuông góc của A lên đường thẳng d là:
+... Gợi ý: Hình chiếu H của A lên d thỏa mãn $\vec{AH}$ vuông góc với vector chỉ phương của d.
++   Phản hồi đúng: Đúng! Vector pháp tuyến của d là $\vec{n} = (1; 2)$. Đường thẳng qua A vuông góc với d có phương trình: $x - 2 = t$, $y - 1 = 2t$. Thay vào phương trình d: $(2+t) + 2(1+2t) - 5 = 0$, suy ra $t = -\frac{1}{5}$. Vậy H$(\frac{9}{5}; \frac{3}{5})$.
+-   Phản hồi sai: Viết phương trình đường thẳng qua A vuông góc với d, sau đó tìm giao điểm.
+a) $(\frac{8}{5}; \frac{2}{5})$
+*b) $(\frac{9}{5}; \frac{3}{5})$
+c) $(\frac{10}{5}; \frac{4}{5})$
+d) $(\frac{11}{5}; \frac{5}{5})$
+
+20. Một máy bay thực hiện hành trình gồm ba chặng: chặng 1 bay 200km theo hướng Đông Bắc (45° so với hướng Đông), chặng 2 bay 150km theo hướng Tây, chặng 3 bay 100km theo hướng Nam. Khoảng cách từ điểm cuối về điểm xuất phát là:
+... Gợi ý: Thiết lập hệ tọa độ với gốc là điểm xuất phát, biểu diễn từng chặng bay bằng vector.
++   Phản hồi đúng: Chính xác! Chặng 1: $\vec{v_1} = (200\cos 45°; 200\sin 45°) = (100\sqrt{2}; 100\sqrt{2})$. Chặng 2: $\vec{v_2} = (-150; 0)$. Chặng 3: $\vec{v_3} = (0; -100)$. Tổng: $\vec{v} = (100\sqrt{2} - 150; 100\sqrt{2} - 100)$. Khoảng cách = $\sqrt{(100\sqrt{2} - 150)^2 + (100\sqrt{2} - 100)^2} = 50\sqrt{10}$ km.
+-   Phản hồi sai: Biểu diễn từng chặng bay bằng vector trong hệ tọa độ, sau đó tính vector tổng và độ dài của nó.
+a) $45\sqrt{10}$ km
+*b) $50\sqrt{10}$ km
+c) $55\sqrt{10}$ km
+d) $60\sqrt{10}$ km
+
