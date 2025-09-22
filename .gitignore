@@ -1,6 +1,6 @@
 __pycache__/
 config.py
-data/
+data/math/
 english/
 technology/
 split_data/
