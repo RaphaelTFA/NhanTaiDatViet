@@ -1,12 +1,10 @@
 __pycache__/
 config.py
+data/
 english/
 technology/
-response.txt
-full_response.txt
-prompt.txt
+split_data/
+llm_return/
 sample/
 main.py
-split_data/
 test.py
-data/
