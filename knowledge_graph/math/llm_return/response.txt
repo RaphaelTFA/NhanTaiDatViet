@@ -1,179 +1,179 @@
-1. Một cửa hàng bán hai loại bánh: bánh ngọt (x cái) và bánh mặn (y cái). Mỗi bánh ngọt cần 3 phút làm và 2 phút nướng, mỗi bánh mặn cần 2 phút làm và 4 phút nướng. Cửa hàng có tối đa 180 phút làm và 240 phút nướng mỗi ngày. Lợi nhuận bánh ngọt là $15000$ đồng/cái, bánh mặn là $20000$ đồng/cái. Hệ bất phương trình nào biểu diễn điều kiện sản xuất?
-... Gợi ý: Xác định thời gian làm và nướng cho từng loại bánh, sau đó lập bất phương trình cho từng ràng buộc thời gian.
-+   Phản hồi đúng: Chính xác! Thời gian làm: $3x + 2y \leq 180$, thời gian nướng: $2x + 4y \leq 240$, và điều kiện $x \geq 0, y \geq 0$.
--   Phản hồi sai: Cần phân biệt rõ thời gian làm và thời gian nướng cho từng loại bánh, sau đó thiết lập bất phương trình tương ứng.
-a) $2x + 3y \leq 180; 4x + 2y \leq 240; x \geq 0, y \geq 0$
-b) $3x + 2y \leq 240; 2x + 4y \leq 180; x \geq 0, y \geq 0$
-*c) $3x + 2y \leq 180; 2x + 4y \leq 240; x \geq 0, y \geq 0$
-d) $3x + 4y \leq 180; 2x + 2y \leq 240; x \geq 0, y \geq 0$
+1. Công ty XYZ theo dõi doanh thu hàng ngày (triệu đồng) trong 2 tháng: Tháng 1: 28, 32, 28, 35, 40, 32, 28, 45, 38, 32, 42, 35, 28, 40, 38. Tháng 2: 35, 38, 42, 35, 45, 48, 35, 52, 40, 35, 50, 42, 35, 48, 45. Dựa vào tiêu chuẩn: Tốt (≥ $\bar{x} + 0.5s$), Khá ($\bar{x}$ đến < $\bar{x} + 0.5s$), Trung bình ($\bar{x} - 0.5s$ đến < $\bar{x}$), Yếu (< $\bar{x} - 0.5s$). So sánh hiệu quả kinh doanh và độ ổn định của 2 tháng, đưa ra khuyến nghị cho tháng tiếp theo.
+... Gợi ý: Tính số trung bình, độ lệch chuẩn cho mỗi tháng, sau đó áp dụng tiêu chuẩn phân loại để so sánh.
++   Phản hồi đúng: Tháng 1: $\bar{x_1} = 34.7$, $s_1 = 5.64$. Tháng 2: $\bar{x_2} = 42.3$, $s_2 = 6.12$. Tháng 2 có doanh thu cao hơn nhưng kém ổn định hơn. Nên duy trì xu hướng tăng trưởng của tháng 2 nhưng cải thiện tính ổn định.
+-   Phản hồi sai: Cần tính đầy đủ các số đặc trưng và áp dụng đúng tiêu chuẩn phân loại để có thể so sánh khách quan.
+a) Tháng 1 có doanh thu cao hơn và ổn định hơn
+*b) Tháng 2 có doanh thu cao hơn nhưng kém ổn định hơn
+c) Cả hai tháng có doanh thu và độ ổn định tương đương
+d) Tháng 1 có doanh thu thấp hơn nhưng ổn định hơn
 
-2. Cho bất phương trình $2x - 3y + 6 > 0$. Điểm nào sau đây thuộc miền nghiệm của bất phương trình?
-... Gợi ý: Thay tọa độ từng điểm vào bất phương trình và kiểm tra bất đẳng thức có đúng không.
-+   Phản hồi đúng: Đúng rồi! Thay $x = 3, y = 0$ vào bất phương trình: $2(3) - 3(0) + 6 = 12 > 0$ (đúng).
--   Phản hồi sai: Cần thay tọa độ điểm vào bất phương trình $2x - 3y + 6 > 0$ và kiểm tra kết quả.
-a) $(-2, 1)$
-b) $(0, -3)$
-*c) $(3, 0)$
-d) $(-1, -2)$
+2. Điểm kiểm tra Toán của lớp 10A: 7.5, 8.0, 6.5, 7.5, 9.0, 8.5, 7.5, 9.5, 8.0, 7.0, 8.5, 7.5, 6.0, 8.0, 7.0. Lớp 10B: 8.5, 9.0, 8.0, 8.5, 9.5, 9.0, 8.5, 9.5, 9.0, 8.0, 9.5, 8.5, 7.5, 9.0, 8.0. Phân loại theo thang: Giỏi (≥ $Q_3$), Khá ($Q_2$ đến < $Q_3$), Trung bình ($Q_1$ đến < $Q_2$), Yếu (< $Q_1$). So sánh chất lượng học tập và đề xuất biện pháp.
+... Gợi ý: Tính các tứ phân vị cho mỗi lớp, phân loại học sinh theo thang đánh giá, sau đó so sánh tỷ lệ từng loại.
++   Phản hồi đúng: Lớp 10A có phân bố rộng hơn với nhiều học sinh yếu-trung bình. Lớp 10B tập trung ở mức khá-giỏi. Cần tăng cường bồi dưỡng cho lớp 10A.
+-   Phản hồi sai: Phải tính đúng các tứ phân vị và áp dụng thang phân loại để có kết luận chính xác về chất lượng từng lớp.
+a) Lớp 10A có chất lượng tốt hơn và đồng đều hơn
+b) Cả hai lớp có chất lượng và độ đồng đều tương đương
+*c) Lớp 10B có chất lượng tốt hơn và đồng đều hơn
+d) Lớp 10A có chất lượng kém hơn nhưng đồng đều hơn
 
-3. Một nhà máy sản xuất hai loại sản phẩm A (x đơn vị) và B (y đơn vị). Sản phẩm A cần $2$ kg nguyên liệu và $1$ giờ lao động, sản phẩm B cần $1$ kg nguyên liệu và $3$ giờ lao động. Nhà máy có tối đa $100$ kg nguyên liệu và $150$ giờ lao động mỗi ngày. Trong miền nghiệm của hệ bất phương trình tương ứng, đỉnh nào cho lợi nhuận $f(x,y) = 30x + 40y$ lớn nhất?
-... Gợi ý: Tìm các đỉnh của miền nghiệm bằng cách giải hệ phương trình từ các đường biên, sau đó tính giá trị hàm mục tiêu tại mỗi đỉnh.
-+   Phản hồi đúng: Chính xác! Các đỉnh là $(0,0)$, $(50,0)$, $(30,40)$, $(0,50)$. Tại $(30,40)$: $f = 30(30) + 40(40) = 2500$ là lớn nhất.
--   Phản hồi sai: Cần tìm tất cả các đỉnh của miền nghiệm và tính giá trị hàm mục tiêu tại từng đỉnh để so sánh.
-a) $(0, 0)$
-b) $(50, 0)$
-*c) $(30, 40)$
-d) $(0, 50)$
+3. Cân nặng học sinh nam lớp 10 (kg): 55, 58, 52, 55, 62, 60, 55, 65, 58, 50, 60, 55, 48, 58, 52. Học sinh nữ: 45, 48, 42, 45, 52, 50, 45, 55, 48, 40, 50, 45, 38, 48, 42. Theo tiêu chuẩn BMI, phân loại: Bình thường ($Q_1$ đến $Q_3$), Thấp (< $Q_1$), Cao (> $Q_3$). Đánh giá tình trạng cân nặng và đưa ra nhận xét về sức khỏe từng nhóm.
+... Gợi ý: Tính tứ phân vị cho từng nhóm, xác định phân bố cân nặng, so sánh độ biến thiên giữa hai nhóm.
++   Phản hồi đúng: Nam có cân nặng trung bình cao hơn và biến thiên lớn hơn nữ. Cả hai nhóm đều có phân bố tương đối cân đối quanh mức trung bình.
+-   Phản hồi sai: Cần tính toán các tứ phân vị và so sánh độ phân tán để đánh giá chính xác tình trạng cân nặng của từng nhóm.
+*a) Nam có cân nặng cao hơn và biến thiên lớn hơn nữ
+b) Nữ có cân nặng cao hơn và biến thiên lớn hơn nam
+c) Cả hai nhóm có cân nặng và độ biến thiên tương đương
+d) Nam có cân nặng thấp hơn nhưng biến thiên lớn hơn nữ
 
-4. Để biểu diễn miền nghiệm của bất phương trình $x - 2y + 4 \leq 0$, ta cần vẽ đường thẳng $x - 2y + 4 = 0$ và tô phần nào?
-... Gợi ý: Vẽ đường thẳng biên, sau đó chọn một điểm thử để xác định miền nghiệm.
-+   Phản hồi đúng: Đúng! Miền nghiệm là nửa mặt phẳng chứa gốc tọa độ vì thay $(0,0)$ vào: $0 - 2(0) + 4 = 4 > 0$ không thỏa bất phương trình.
--   Phản hồi sai: Cần thử điểm $(0,0)$ hoặc điểm khác không thuộc đường thẳng biên để xác định đúng miền nghiệm.
-a) Nửa mặt phẳng chứa điểm $(0, 0)$
-*b) Nửa mặt phẳng không chứa điểm $(0, 0)$
-c) Toàn bộ mặt phẳng trừ đường thẳng
-d) Chỉ đường thẳng $x - 2y + 4 = 0$
+4. Thời gian hoàn thành bài tập (phút) của phương pháp A: 25, 28, 22, 25, 32, 30, 25, 35, 28, 20, 30, 25, 18, 28, 22. Phương pháp B: 24, 26, 24, 26, 28, 26, 24, 30, 26, 24, 28, 26, 22, 26, 24. Tính hệ số biến thiên CV cho mỗi phương pháp và xác định tỷ lệ lần trong khoảng [$\bar{x} - s$, $\bar{x} + s$]. Lựa chọn phương pháp tối ưu.
+... Gợi ý: Tính trung bình, độ lệch chuẩn và hệ số biến thiên. So sánh độ ổn định thông qua CV và phạm vi biến thiên.
++   Phản hồi đúng: Phương pháp B có CV thấp hơn (khoảng 6% so với 16% của A), cho thấy độ ổn định cao hơn. Nên chọn phương pháp B.
+-   Phản hồi sai: Phải tính chính xác CV và so sánh để đánh giá độ ổn định. Phương pháp có CV thấp hơn sẽ ổn định hơn.
+a) Chọn phương pháp A vì có thời gian trung bình thấp hơn
+*b) Chọn phương pháp B vì có độ ổn định cao hơn
+c) Cả hai phương pháp có hiệu quả tương đương
+d) Chọn phương pháp A vì có độ biến thiên lớn hơn
 
-5. Một công ty vận tải có hai loại xe: xe nhỏ chở được $3$ tấn với chi phí $200000$ đồng/chuyến, xe lớn chở được $5$ tấn với chi phí $300000$ đồng/chuyến. Cần vận chuyển ít nhất $60$ tấn hàng với tối đa $20$ chuyến xe. Nếu dùng $x$ chuyến xe nhỏ và $y$ chuyến xe lớn, bất phương trình nào biểu diễn ràng buộc về khối lượng hàng?
-... Gợi ý: Tính tổng khối lượng hàng vận chuyển được và so sánh với yêu cầu tối thiểu.
-+   Phản hồi đúng: Chính xác! Xe nhỏ chở $3x$ tấn, xe lớn chở $5y$ tấn, tổng cộng ít nhất $60$ tấn nên $3x + 5y \geq 60$.
--   Phản hồi sai: Cần tính đúng khối lượng mỗi loại xe vận chuyển và thiết lập bất phương trình phù hợp với yêu cầu.
-a) $3x + 5y \leq 60$
-*b) $3x + 5y \geq 60$
-c) $5x + 3y \geq 60$
-d) $3x + 5y = 60$
+5. Lợi nhuận quán cà phê chi nhánh 1 (triệu đồng/ngày): 3.2, 3.5, 2.8, 3.2, 4.0, 3.8, 3.2, 4.5, 3.5, 2.5, 3.8, 3.2, 2.2, 3.5, 2.8. Chi nhánh 2: 3.8, 4.0, 3.5, 3.8, 4.5, 4.2, 3.8, 4.8, 4.0, 3.2, 4.2, 3.8, 3.0, 4.0, 3.5. Theo tiêu chuẩn: Xuất sắc (≥ $\bar{x} + s$), Tốt ($\bar{x}$ đến < $\bar{x} + s$), Khá ($\bar{x} - s$ đến < $\bar{x}$), Cần cải thiện (< $\bar{x} - s$). Đánh giá hiệu quả và đưa ra khuyến nghị quản lý.
+... Gợi ý: Tính số trung bình và độ lệch chuẩn cho mỗi chi nhánh, áp dụng tiêu chuẩn để phân loại các ngày kinh doanh.
++   Phản hồi đúng: Chi nhánh 2 có lợi nhuận trung bình cao hơn và ổn định hơn. Nên học hỏi mô hình quản lý của chi nhánh 2 để áp dụng cho chi nhánh 1.
+-   Phản hồi sai: Cần so sánh cả trung bình và độ ổn định để đưa ra đánh giá toàn diện về hiệu quả kinh doanh của từng chi nhánh.
+a) Chi nhánh 1 hiệu quả hơn và ổn định hơn
+*b) Chi nhánh 2 hiệu quả hơn và ổn định hơn
+c) Chi nhánh 1 hiệu quả hơn nhưng kém ổn định hơn
+d) Cả hai chi nhánh có hiệu quả tương đương
 
-6. Miền nghiệm của hệ bất phương trình $\begin{cases} x + y \leq 4 \\ x - y \geq 0 \\ x \geq 0 \end{cases}$ có diện tích bằng bao nhiêu?
-... Gợi ý: Tìm các đỉnh của miền nghiệm bằng cách giải các hệ phương trình từ đường biên, sau đó tính diện tích tam giác.
-+   Phản hồi đúng: Chính xác! Các đỉnh là $(0,0)$, $(2,2)$, $(4,0)$. Diện tích tam giác = $\frac{1}{2} \times 4 \times 2 = 4$.
--   Phản hồi sai: Cần xác định chính xác các đỉnh của miền nghiệm và áp dụng công thức tính diện tích tam giác.
-a) $2$
-*b) $4$
-c) $6$
-d) $8$
+6. Điểm thi THPT môn Văn của trường A: 6.8, 7.2, 6.0, 6.8, 8.0, 7.5, 6.8, 8.5, 7.2, 5.5, 7.5, 6.8, 5.0, 7.2, 6.0. Trường B: 7.0, 7.5, 7.0, 7.5, 8.0, 7.5, 7.0, 8.5, 7.5, 6.5, 8.0, 7.5, 6.0, 7.5, 7.0. Phân loại: Xuất sắc (≥ 8.5), Giỏi (7.0-8.4), Khá (5.5-6.9), Trung bình (< 5.5). Dựa vào $Q_1$, $Q_2$, $Q_3$ để đánh giá chất lượng giáo dục và đề xuất cải tiến.
+... Gợi ý: Tính các tứ phân vị, xác định phân bố điểm số, so sánh tỷ lệ học sinh đạt từng mức để đánh giá chất lượng.
++   Phản hồi đúng: Trường B có chất lượng giáo dục tốt hơn với phân bố điểm tập trung ở mức giỏi-khá. Trường A cần cải thiện phương pháp giảng dạy.
+-   Phản hồi sai: Phải phân tích phân bố điểm qua các tứ phân vị và tỷ lệ từng mức để có đánh giá chính xác về chất lượng giáo dục.
+a) Trường A có chất lượng tốt hơn trường B
+*b) Trường B có chất lượng tốt hơn trường A
+c) Cả hai trường có chất lượng tương đương
+d) Không thể so sánh được chất lượng hai trường
 
-7. Một bệnh viện cần pha chế dung dịch từ hai loại vitamin: vitamin A ($x$ ml) chứa $20$ đơn vị protein và $10$ đơn vị glucose, vitamin B ($y$ ml) chứa $15$ đơn vị protein và $25$ đơn vị glucose. Bệnh nhân cần ít nhất $300$ đơn vị protein và $400$ đơn vị glucose. Chi phí vitamin A là $5000$ đồng/ml, vitamin B là $4000$ đồng/ml. Để chi phí thấp nhất, cần dùng bao nhiêu ml mỗi loại vitamin?
-... Gợi ý: Lập hệ bất phương trình từ điều kiện dinh dưỡng, tìm miền nghiệm và cực tiểu hóa hàm chi phí.
-+   Phản hồi đúng: Đúng! Giải hệ $20x + 15y \geq 300$ và $10x + 25y \geq 400$ với điều kiện $x,y \geq 0$. Tại đỉnh $(5,16)$: chi phí = $5000(5) + 4000(16) = 89000$ đồng là nhỏ nhất.
--   Phản hồi sai: Cần lập đúng hệ bất phương trình từ yêu cầu dinh dưỡng và tìm điểm cực tiểu của hàm chi phí.
-a) $x = 10, y = 12$
-*b) $x = 5, y = 16$
-c) $x = 8, y = 10$
-d) $x = 15, y = 8$
+7. Số lượng khách hàng quán trà sữa tuần 1 (người/ngày): 85, 92, 78, 85, 105, 98, 85, 115, 92, 72, 98, 85, 65, 92, 78. Tuần 2: 95, 102, 88, 95, 118, 110, 95, 125, 102, 82, 110, 95, 75, 102, 88. Theo mục tiêu: Đạt (≥ $\bar{x}$), Gần đạt ($\bar{x} - 0.5s$ đến < $\bar{x}$), Chưa đạt (< $\bar{x} - 0.5s$). So sánh xu hướng kinh doanh và đánh giá mức độ ổn định.
+... Gợi ý: Tính trung bình và độ lệch chuẩn cho mỗi tuần, phân loại các ngày theo tiêu chuẩn, so sánh xu hướng phát triển.
++   Phản hồi đúng: Tuần 2 có số lượng khách tăng trưởng tốt nhưng độ biến thiên cũng cao hơn. Xu hướng tích cực nhưng cần ổn định hóa dịch vụ.
+-   Phản hồi sai: Cần phân tích cả mức trung bình và độ phân tán để đánh giá toàn diện xu hướng kinh doanh và mức độ ổn định.
+a) Tuần 1 có xu hướng tốt hơn và ổn định hơn
+*b) Tuần 2 có xu hướng tốt hơn nhưng kém ổn định hơn
+c) Cả hai tuần có xu hướng và độ ổn định tương đương
+d) Tuần 2 có xu hướng kém hơn nhưng ổn định hơn
 
-8. Cho hệ bất phương trình $\begin{cases} 2x + y \leq 6 \\ x + 2y \leq 6 \\ x \geq 0, y \geq 0 \end{cases}$. Giá trị lớn nhất của biểu thức $f(x,y) = 3x + 2y$ trên miền nghiệm là bao nhiêu?
-... Gợi ý: Tìm các đỉnh của miền nghiệm và tính giá trị của hàm mục tiêu tại từng đỉnh.
-+   Phản hồi đúng: Chính xác! Các đỉnh là $(0,0)$, $(3,0)$, $(2,2)$, $(0,3)$. Giá trị lớn nhất: $f(3,0) = 3(3) + 2(0) = 9$.
--   Phản hồi sai: Cần tìm tất cả đỉnh của miền nghiệm và so sánh giá trị hàm mục tiêu tại các đỉnh này.
-a) $6$
-b) $8$
-*c) $9$
-d) $10$
+8. Chiều cao học sinh nam lớp 10 (cm): 165, 168, 162, 165, 172, 170, 165, 175, 168, 160, 170, 165, 158, 168, 162. Học sinh nữ: 155, 158, 152, 155, 162, 160, 155, 165, 158, 150, 160, 155, 148, 158, 152. Phân nhóm theo $Q_1$, $Q_2$, $Q_3$: Cao (> $Q_3$), Trung bình ($Q_1$ đến $Q_3$), Thấp (< $Q_1$). Phân tích sự phát triển thể chất và đưa ra nhận xét.
+... Gợi ý: Tính các tứ phân vị cho từng nhóm, xác định phân bố chiều cao, so sánh sự khác biệt giữa nam và nữ.
++   Phản hồi đúng: Nam có chiều cao trung bình cao hơn nữ khoảng 10cm, cả hai nhóm đều có phân bố tương đối đều. Thể hiện sự phát triển bình thường theo giới tính.
+-   Phản hồi sai: Cần tính toán các tứ phân vị và so sánh để có nhận xét chính xác về sự phát triển thể chất của từng nhóm học sinh.
+*a) Nam cao hơn nữ với phân bố tương đối đều ở cả hai nhóm
+b) Nữ cao hơn nam với phân bố không đều
+c) Cả hai nhóm có chiều cao và phân bố tương đương
+d) Nam thấp hơn nữ nhưng phân bố đều hơn
 
-9. Bất phương trình $3x - 4y - 12 \geq 0$ có đường thẳng biên đi qua hai điểm nào?
-... Gợi ý: Cho $x = 0$ để tìm giao với trục $Oy$, cho $y = 0$ để tìm giao với trục $Ox$.
-+   Phản hồi đúng: Đúng! Khi $x = 0$: $-4y - 12 = 0 \Rightarrow y = -3$. Khi $y = 0$: $3x - 12 = 0 \Rightarrow x = 4$.
--   Phản hồi sai: Cần thay $x = 0$ và $y = 0$ vào phương trình đường thẳng biên để tìm các điểm đặc biệt.
-a) $(0, 3)$ và $(4, 0)$
-*b) $(0, -3)$ và $(4, 0)$
-c) $(0, -3)$ và $(-4, 0)$
-d) $(0, 4)$ và $(3, 0)$
+9. Thời gian giải bài toán bằng máy tính (giây): 45, 52, 38, 45, 65, 58, 45, 72, 52, 32, 58, 45, 28, 52, 38. Thời gian giải bằng tay: 85, 95, 78, 85, 110, 102, 85, 125, 95, 72, 102, 85, 65, 95, 78. Tính CV và xác định hiệu quả. Dựa vào khoảng [$\bar{x} - s$, $\bar{x} + s$] để đánh giá độ tin cậy của mỗi phương pháp.
+... Gợi ý: So sánh thời gian trung bình, độ lệch chuẩn và hệ số biến thiên để đánh giá hiệu quả và độ tin cậy.
++   Phản hồi đúng: Máy tính nhanh hơn đáng kể (khoảng 45s so với 88s) và có CV thấp hơn, cho thấy cả hiệu quả và độ tin cậy đều cao hơn.
+-   Phản hồi sai: Phải so sánh cả tốc độ trung bình và độ ổn định (CV) để đánh giá toàn diện hiệu quả của từng phương pháp.
+*a) Máy tính hiệu quả hơn và tin cậy hơn
+b) Giải bằng tay hiệu quả hơn và tin cậy hơn
+c) Cả hai phương pháp có hiệu quả tương đương
+d) Máy tính nhanh hơn nhưng kém tin cậy hơn
 
-10. Một nông trại nuôi gà ($x$ con) và vịt ($y$ con). Mỗi con gà cần $0.2$ kg thức ăn/ngày và mang lại lợi nhuận $15000$ đồng, mỗi con vịt cần $0.3$ kg thức ăn/ngày và mang lại lợi nhuận $20000$ đồng. Nông trại có tối đa $150$ kg thức ăn/ngày và không gian nuôi tối đa $600$ con. Điều kiện nào sau đây đúng?
-... Gợi ý: Thiết lập bất phương trình cho ràng buộc thức ăn và ràng buộc không gian.
-+   Phản hồi đúng: Chính xác! Ràng buộc thức ăn: $0.2x + 0.3y \leq 150$, ràng buộc không gian: $x + y \leq 600$.
--   Phản hồi sai: Cần phân biệt rõ hai loại ràng buộc: lượng thức ăn cần thiết và tổng số con nuôi.
-a) $0.3x + 0.2y \leq 150; x + y \leq 600$
-*b) $0.2x + 0.3y \leq 150; x + y \leq 600$
-c) $0.2x + 0.3y \geq 150; x + y \geq 600$
-d) $0.2x + 0.3y \leq 600; x + y \leq 150$
+10. Doanh thu cửa hàng sách tháng 3 (triệu đồng): 18, 22, 15, 18, 28, 25, 18, 32, 22, 12, 25, 18, 10, 22, 15. Tháng 4: 22, 26, 20, 22, 32, 28, 22, 35, 26, 18, 28, 22, 15, 26, 20. Phân loại theo: Tốt (≥ $Q_3$), Khá ($Q_2$ đến < $Q_3$), Trung bình ($Q_1$ đến < $Q_2$), Yếu (< $Q_1$). Đánh giá tăng trưởng và đưa ra dự báo xu hướng.
+... Gợi ý: Tính các tứ phân vị cho mỗi tháng, so sánh sự thay đổi về phân bố doanh thu để đánh giá xu hướng tăng trưởng.
++   Phản hồi đúng: Tháng 4 có doanh thu trung bình cao hơn và phân bố tích cực hơn. Xu hướng tăng trưởng tốt, dự báo tiếp tục cải thiện trong các tháng tiếp theo.
+-   Phản hồi sai: Cần so sánh các tứ phân vị và phân bố để đánh giá chính xác xu hướng tăng trưởng và đưa ra dự báo có căn cứ.
+a) Tháng 3 có xu hướng tốt hơn tháng 4
+*b) Tháng 4 có xu hướng tăng trưởng tích cực hơn tháng 3
+c) Cả hai tháng có xu hướng tương đương
+d) Không thể đánh giá xu hướng từ dữ liệu này
 
-11. Trong mặt phẳng tọa độ, miền nghiệm của bất phương trình $y - 2x + 1 > 0$ nằm ở phía nào so với đường thẳng $y = 2x - 1$?
-... Gợi ý: Viết lại bất phương trình dưới dạng $y > 2x - 1$ và xác định vị trí tương đối.
-+   Phản hồi đúng: Đúng! Bất phương trình tương đương $y > 2x - 1$, miền nghiệm nằm phía trên đường thẳng $y = 2x - 1$.
--   Phản hồi sai: Cần chuyển bất phương trình về dạng $y$ theo $x$ để dễ xác định vị trí miền nghiệm.
-a) Phía dưới đường thẳng
-*b) Phía trên đường thẳng
-c) Cả hai phía của đường thẳng
-d) Chính đường thẳng đó
+11. Điểm kiểm tra Hóa học lớp A: 5.5, 6.0, 4.8, 5.5, 7.0, 6.5, 5.5, 7.8, 6.0, 4.2, 6.5, 5.5, 3.8, 6.0, 4.8. Lớp B: 6.2, 6.8, 6.0, 6.2, 7.5, 7.0, 6.2, 8.2, 6.8, 5.5, 7.0, 6.2, 5.0, 6.8, 6.0. Dựa vào trung bình và độ lệch chuẩn, phân loại: Giỏi (≥ $\bar{x} + 0.5s$), Khá ($\bar{x}$ đến < $\bar{x} + 0.5s$), TB ($\bar{x} - 0.5s$ đến < $\bar{x}$), Yếu (< $\bar{x} - 0.5s$). So sánh hiệu quả giảng dạy.
+... Gợi ý: Tính trung bình và độ lệch chuẩn cho mỗi lớp, áp dụng tiêu chuẩn phân loại để đánh giá chất lượng học tập.
++   Phản hồi đúng: Lớp B có điểm trung bình cao hơn và tỷ lệ học sinh giỏi-khá nhiều hơn, cho thấy hiệu quả giảng dạy tốt hơn lớp A.
+-   Phản hồi sai: Phải tính toán chính xác và áp dụng tiêu chuẩn phân loại để so sánh khách quan hiệu quả giảng dạy giữa hai lớp.
+a) Lớp A có hiệu quả giảng dạy tốt hơn
+*b) Lớp B có hiệu quả giảng dạy tốt hơn
+c) Cả hai lớp có hiệu quả giảng dạy tương đương
+d) Không thể so sánh hiệu quả giảng dạy
 
-12. Một cửa hàng đầu tư vào hai loại hàng hóa: loại A với vốn $x$ triệu đồng (lãi $8\%$/tháng) và loại B với vốn $y$ triệu đồng (lãi $12\%$/tháng). Tổng vốn không quá $500$ triệu, loại B không quá $60\%$ tổng vốn, loại A ít nhất $150$ triệu. Để lợi nhuận cao nhất trong tháng, phân bổ vốn như thế nào?
-... Gợi ý: Lập hệ bất phương trình từ các ràng buộc vốn và tìm cực đại của hàm lợi nhuận.
-+   Phản hồi đúng: Chính xác! Hệ: $x + y \leq 500$, $y \leq 0.6(x+y)$, $x \geq 150$. Lợi nhuận max tại đỉnh $(200, 300)$ với $f = 0.08(200) + 0.12(300) = 52$ triệu.
--   Phản hồi sai: Cần chú ý ràng buộc tỷ lệ phần trăm và tìm đỉnh tối ưu của miền nghiệm.
-a) $x = 150, y = 300$
-*b) $x = 200, y = 300$
-c) $x = 250, y = 250$
-d) $x = 300, y = 200$
+12. Số bước chân hàng ngày của nhóm tập thể dục: 8500, 9200, 7800, 8500, 10500, 9800, 8500, 11500, 9200, 7200, 9800, 8500, 6500, 9200, 7800. Nhóm ít vận động: 5500, 6200, 4800, 5500, 7000, 6500, 5500, 7800, 6200, 4200, 6500, 5500, 3800, 6200, 4800. Theo WHO: Tích cực (≥ 8000), Trung bình (6000-7999), Thấp (< 6000). Đánh giá mức độ vận động và đưa ra khuyến nghị sức khỏe.
+... Gợi ý: Tính các số đặc trưng, phân loại theo tiêu chuẩn WHO, so sánh tỷ lệ từng mức giữa hai nhóm để đánh giá.
++   Phản hồi đúng: Nhóm tập thể dục có mức vận động cao hơn rõ rệt với đa số đạt mức tích cực. Nhóm ít vận động cần tăng cường hoạt động thể chất.
+-   Phản hồi sai: Cần áp dụng tiêu chuẩn WHO để phân loại và so sánh tỷ lệ từng mức giữa hai nhóm một cách chính xác.
+*a) Nhóm tập thể dục có mức vận động cao hơn rõ rệt
+b) Nhóm ít vận động có mức vận động cao hơn
+c) Cả hai nhóm có mức vận động tương đương
+d) Không thể đánh giá được mức độ vận động
 
-13. Hệ bất phương trình nào sau đây có miền nghiệm là một tam giác?
-... Gợi ý: Miền nghiệm là tam giác khi có đúng 3 đường thẳng biên cắt nhau tạo thành tam giác.
-+   Phản hồi đúng: Đúng! Hệ $x + y \leq 4$, $x \geq 0$, $y \geq 0$ tạo tam giác với các đỉnh $(0,0)$, $(4,0)$, $(0,4)$.
--   Phản hồi sai: Cần xác định số đường thẳng biên và cách chúng cắt nhau để tạo thành hình dạng miền nghiệm.
-*a) $\begin{cases} x + y \leq 4 \\ x \geq 0 \\ y \geq 0 \end{cases}$
-b) $\begin{cases} x + y \leq 4 \\ x + y \geq 2 \\ x \geq 0 \\ y \geq 0 \end{cases}$
-c) $\begin{cases} x \geq 0 \\ y \geq 0 \end{cases}$
-d) $\begin{cases} x + y \geq 4 \\ x \geq 0 \\ y \geq 0 \end{cases}$
+13. Thời gian di chuyển đến trường bằng xe buýt (phút): 32, 38, 28, 32, 45, 42, 32, 52, 38, 25, 42, 32, 22, 38, 28. Bằng xe máy: 18, 22, 15, 18, 28, 25, 18, 32, 22, 12, 25, 18, 10, 22, 15. Tính CV và xác định tỷ lệ lần trong khoảng [$\bar{x} - s$, $\bar{x} + s$]. Lựa chọn phương tiện tối ưu dựa trên thời gian và độ ổn định.
+... Gợi ý: So sánh thời gian trung bình, độ lệch chuẩn và hệ số biến thiên để đánh giá hiệu quả và độ ổn định của từng phương tiện.
++   Phản hồi đúng: Xe máy nhanh hơn đáng kể và có CV thấp hơn, cho thấy cả hiệu quả lẫn độ ổn định đều vượt trội so với xe buýt.
+-   Phản hồi sai: Phải so sánh cả tốc độ trung bình và độ ổn định thông qua CV để có lựa chọn phương tiện hợp lý nhất.
+a) Chọn xe buýt vì ổn định hơn
+*b) Chọn xe máy vì nhanh hơn và ổn định hơn
+c) Cả hai phương tiện có hiệu quả tương đương
+d) Chọn xe buýt vì nhanh hơn
 
-14. Cho điểm $M(2, -1)$. Điểm $M$ thuộc miền nghiệm của bất phương trình nào?
-... Gợi ý: Thay tọa độ điểm $M$ vào từng bất phương trình và kiểm tra.
-+   Phản hồi đúng: Chính xác! Thay $(2, -1)$ vào $x - 2y - 3 > 0$: $2 - 2(-1) - 3 = 1 > 0$ (đúng).
--   Phản hồi sai: Cần thay cẩn thận tọa độ điểm vào từng bất phương trình và tính toán chính xác.
-a) $2x + y - 1 \geq 0$
-b) $x + 3y + 5 < 0$
-*c) $x - 2y - 3 > 0$
-d) $-x + y + 4 \leq 0$
+14. Lượng nước tiêu thụ hàng ngày gia đình A (lít): 180, 195, 165, 180, 220, 205, 180, 245, 195, 155, 205, 180, 140, 195, 165. Gia đình B: 160, 175, 145, 160, 200, 185, 160, 225, 175, 135, 185, 160, 120, 175, 145. Phân loại: Cao (> $Q_3$), Bình thường ($Q_1$ đến $Q_3$), Thấp (< $Q_1$). So sánh mức tiêu thụ và đánh giá tính hợp lý trong sử dụng nước.
+... Gợi ý: Tính các tứ phân vị cho mỗi gia đình, phân loại mức tiêu thụ, so sánh để đánh giá tính hợp lý.
++   Phản hồi đúng: Gia đình A tiêu thụ nhiều nước hơn và có độ biến thiên lớn hơn. Cần kiểm tra và tiết kiệm nước ở gia đình A.
+-   Phản hồi sai: Cần tính toán các tứ phân vị và so sánh mức tiêu thụ để đánh giá tính hợp lý trong việc sử dụng nước của từng gia đình.
+*a) Gia đình A tiêu thụ nhiều hơn và cần tiết kiệm
+b) Gia đình B tiêu thụ nhiều hơn và cần tiết kiệm
+c) Cả hai gia đình có mức tiêu thụ hợp lý
+d) Gia đình A tiêu thụ ít hơn gia đình B
 
-15. Một công ty sản xuất hai sản phẩm X ($x$ đơn vị) và Y ($y$ đơn vị) với chi phí sản xuất tương ứng $100000$ đồng và $150000$ đồng. Tổng chi phí không quá $3000000$ đồng. Sản phẩm X cần $2$ giờ, Y cần $3$ giờ, tổng thời gian không quá $60$ giờ. Lợi nhuận X là $50000$ đồng, Y là $80000$ đồng. Phương án sản xuất tối ưu là?
-... Gợi ý: Lập hệ bất phương trình từ ràng buộc chi phí và thời gian, sau đó tìm cực đại lợi nhuận.
-+   Phản hồi đúng: Đúng! Hệ: $100x + 150y \leq 3000$, $2x + 3y \leq 60$, $x,y \geq 0$. Tại đỉnh $(15, 10)$: lợi nhuận = $50(15) + 80(10) = 1550$ nghìn đồng.
--   Phản hồi sai: Cần lập đúng hệ ràng buộc từ chi phí và thời gian, sau đó tìm điểm tối ưu.
-a) $x = 20, y = 5$
-*b) $x = 15, y = 10$
-c) $x = 10, y = 15$
-d) $x = 30, y = 0$
+15. Tốc độ đánh máy của phương pháp cũ (từ/phút): 45, 52, 38, 45, 65, 58, 45, 72, 52, 32, 58, 45, 28, 52, 38. Phương pháp mới: 55, 62, 48, 55, 75, 68, 55, 82, 62, 42, 68, 55, 38, 62, 48. Dựa vào CV và khoảng [$\bar{x} - 0.5s$, $\bar{x} + 0.5s$] để đánh giá hiệu quả cải tiến và độ ổn định.
+... Gợi ý: So sánh tốc độ trung bình, độ lệch chuẩn và CV để đánh giá mức độ cải thiện và tính ổn định của phương pháp mới.
++   Phản hồi đúng: Phương pháp mới có tốc độ cao hơn khoảng 20% và độ ổn định tương đương, chứng tỏ việc cải tiến có hiệu quả tích cực.
+-   Phản hồi sai: Cần so sánh đầy đủ tốc độ trung bình và độ ổn định để đánh giá chính xác hiệu quả của việc cải tiến phương pháp.
+a) Phương pháp cũ hiệu quả hơn
+*b) Phương pháp mới hiệu quả hơn và ổn định tương đương
+c) Cả hai phương pháp có hiệu quả như nhau
+d) Phương pháp mới nhanh hơn nhưng kém ổn định
 
-16. Miền nghiệm của bất phương trình $-x + 2y \leq 4$ được biểu diễn bởi nửa mặt phẳng có tính chất gì?
-... Gợi ý: Viết lại bất phương trình dưới dạng $y \leq \frac{x+4}{2}$ để xác định vị trí miền nghiệm.
-+   Phản hồi đúng: Chính xác! Bất phương trình tương đương $y \leq \frac{x+4}{2}$, miền nghiệm nằm phía dưới (và trên) đường thẳng $y = \frac{x+4}{2}$.
--   Phản hồi sai: Cần chuyển về dạng $y$ theo $x$ để dễ xác định vị trí của miền nghiệm so với đường thẳng biên.
-*a) Nằm phía dưới và trên đường thẳng $-x + 2y = 4$
-b) Nằm phía trên đường thẳng $-x + 2y = 4$
-c) Nằm phía dưới đường thẳng $-x + 2y = 4$ (không bao gồm đường thẳng)
-d) Chỉ là đường thẳng $-x + 2y = 4$
+16. Điểm thi THPT môn Anh văn trường X: 6.0, 6.8, 5.2, 6.0, 7.5, 7.0, 6.0, 8.2, 6.8, 4.8, 7.0, 6.0, 4.2, 6.8, 5.2. Trường Y: 6.5, 7.2, 6.0, 6.5, 8.0, 7.5, 6.5, 8.5, 7.2, 5.5, 7.5, 6.5, 5.0, 7.2, 6.0. Phân loại: Xuất sắc (≥ 8.0), Giỏi (6.5-7.9), Khá (5.0-6.4), TB (< 5.0). Đánh giá chất lượng giáo dục ngoại ngữ và đề xuất cải thiện.
+... Gợi ý: Tính các số đặc trưng, phân loại theo thang điểm, so sánh tỷ lệ từng mức để đánh giá chất lượng giáo dục.
++   Phản hồi đúng: Trường Y có chất lượng giáo dục ngoại ngữ tốt hơn với tỷ lệ học sinh giỏi-xuất sắc cao hơn. Trường X cần cải tiến phương pháp giảng dạy.
+-   Phản hồi sai: Phải phân loại theo đúng thang điểm và so sánh tỷ lệ từng mức để có đánh giá chính xác về chất lượng giáo dục ngoại ngữ.
+a) Trường X có chất lượng tốt hơn
+*b) Trường Y có chất lượng tốt hơn
+c) Cả hai trường có chất lượng tương đương
+d) Không thể so sánh chất lượng hai trường
 
-17. Để sản xuất hai loại kẹo A và B, một nhà máy cần đường và bơ. Kẹo A cần $3$ kg đường và $1$ kg bơ cho $1$ kg sản phẩm. Kẹo B cần $2$ kg đường và $2$ kg bơ cho $1$ kg sản phẩm. Nhà máy có $240$ kg đường và $160$ kg bơ. Nếu sản xuất $x$ kg kẹo A và $y$ kg kẹo B, ràng buộc nguyên liệu nào đúng?
-... Gợi ý: Tính tổng lượng đường và bơ cần thiết, so sánh với lượng có sẵn.
-+   Phản hồi đúng: Chính xác! Tổng đường cần: $3x + 2y \leq 240$, tổng bơ cần: $x + 2y \leq 160$.
--   Phản hồi sai: Cần tính đúng lượng nguyên liệu mỗi loại kẹo cần và thiết lập bất phương trình phù hợp.
-a) $2x + 3y \leq 240; 2x + y \leq 160$
-*b) $3x + 2y \leq 240; x + 2y \leq 160$
-c) $3x + 2y \leq 160; x + 2y \leq 240$
-d) $3x + y \leq 240; 2x + 2y \leq 160$
+17. Số lần tập gym trong tuần của nhóm A: 3, 4, 2, 3, 5, 4, 3, 6, 4, 1, 4, 3, 0, 4, 2. Nhóm B: 4, 5, 3, 4, 6, 5, 4, 7, 5, 2, 5, 4, 1, 5, 3. Theo khuyến nghị: Đủ (≥ 4 lần), Gần đủ (2-3 lần), Thiếu (< 2 lần). Dựa vào $Q_1$, $Q_2$, $Q_3$ để đánh giá thói quen tập luyện và đưa ra khuyến nghị.
+... Gợi ý: Tính các tứ phân vị, phân loại theo tiêu chuẩn tập luyện, so sánh tỷ lệ để đánh giá thói quen của từng nhóm.
++   Phản hồi đúng: Nhóm B có thói quen tập luyện tốt hơn với tần suất cao hơn và ổn định hơn. Nhóm A cần tăng cường động lực tập luyện.
+-   Phản hồi sai: Cần tính các tứ phân vị và áp dụng tiêu chuẩn để so sánh chính xác thói quen tập luyện của từng nhóm.
+a) Nhóm A có thói quen tập luyện tốt hơn
+*b) Nhóm B có thói quen tập luyện tốt hơn
+c) Cả hai nhóm có thói quen tập luyện như nhau
+d) Không thể đánh giá thói quen tập luyện
 
-18. Trong hệ tọa độ $Oxy$, miền nghiệm của hệ bất phương trình $\begin{cases} x + 2y \geq 4 \\ x - y \leq 2 \\ y \geq 0 \end{cases}$ có bao nhiêu đỉnh?
-... Gợi ý: Tìm giao điểm của các đường thẳng biên và kiểm tra điểm nào thuộc miền nghiệm.
-+   Phản hồi đúng: Đúng! Các đỉnh là: $(4,0)$ (giao $x + 2y = 4$ và $y = 0$), $(2,0)$ (giao $x - y = 2$ và $y = 0$), $(8/3, 2/3)$ (giao $x + 2y = 4$ và $x - y = 2$). Tổng cộng 3 đỉnh.
--   Phản hồi sai: Cần tìm tất cả giao điểm của các đường biên và kiểm tra xem điểm nào thuộc miền nghiệm.
-a) $2$
-*b) $3$
-c) $4$
-d) Vô số
+18. Doanh thu hàng ngày tiệm bánh tuần 1 (triệu đồng): 12, 15, 9, 12, 18, 16, 12, 22, 15, 8, 16, 12, 6, 15, 9. Tuần 2: 14, 17, 11, 14, 20, 18, 14, 24, 17, 10, 18, 14, 8, 17, 11. Phân loại theo: Tốt (≥ $\bar{x} + 0.5s$), Khá ($\bar{x}$ đến < $\bar{x} + 0.5s$), TB ($\bar{x} - 0.5s$ đến < $\bar{x}$), Yếu (< $\bar{x} - 0.5s$). Đánh giá xu hướng kinh doanh.
+... Gợi ý: Tính trung bình và độ lệch chuẩn cho mỗi tuần, áp dụng tiêu chuẩn phân loại để so sánh xu hướng phát triển.
++   Phản hồi đúng: Tuần 2 có doanh thu tăng trưởng tích cực với mức trung bình cao hơn. Xu hướng kinh doanh đang cải thiện đáng kể.
+-   Phản hồi sai: Cần tính toán các số đặc trưng và áp dụng tiêu chuẩn để đánh giá chính xác xu hướng tăng trưởng giữa hai tuần.
+a) Tuần 1 có xu hướng tốt hơn
+*b) Tuần 2 có xu hướng tăng trưởng tích cực hơn
+c) Cả hai tuần có xu hướng tương đương
+d) Xu hướng kinh doanh đang giảm
 
-19. Một nhà đầu tư muốn mua cổ phiếu của hai công ty: công ty X với giá $50000$ đồng/cổ phiếu (lãi dự kiến $10\%$/năm) và công ty Y với giá $80000$ đồng/cổ phiếu (lãi dự kiến $15\%$/năm). Tổng vốn đầu tư là $10$ triệu đồng. Để giảm rủi ro, số cổ phiếu công ty Y không quá gấp đôi số cổ phiếu công ty X. Mua bao nhiêu cổ phiếu mỗi loại để lãi cao nhất?
-... Gợi ý: Đặt $x, y$ là số cổ phiếu từng loại, lập hệ bất phương trình và tìm cực đại lợi nhuận.
-+   Phản hồi đúng: Chính xác! Hệ: $50x + 80y \leq 10000$, $y \leq 2x$, $x,y \geq 0$. Tại đỉnh $(80, 60)$: lãi = $0.1 \times 50 \times 80 + 0.15 \times 80 \times 60 = 1120$ nghìn đồng.
--   Phản hồi sai: Cần chú ý ràng buộc tỷ lệ số cổ phiếu và tính đúng lợi nhuận từ lãi dự kiến.
-a) $x = 100, y = 50$
-*b) $x = 80, y = 60$
-c) $x = 60, y = 80$
-d) $x = 125, y = 0$
+19. Thời gian hoàn thành bài kiểm tra online (phút): 35, 42, 28, 35, 52, 48, 35, 58, 42, 22, 48, 35, 18, 42, 28. Bài kiểm tra giấy: 45, 52, 38, 45, 62, 58, 45, 68, 52, 32, 58, 45, 28, 52, 38. Tính CV cho mỗi hình thức và xác định tỷ lệ trong khoảng [$\bar{x} - s$, $\bar{x} + s$]. Lựa chọn hình thức tối ưu.
+... Gợi ý: So sánh thời gian trung bình, độ ổn định qua CV và tỷ lệ trong khoảng chuẩn để đánh giá hiệu quả từng hình thức.
++   Phản hồi đúng: Kiểm tra online nhanh hơn khoảng 10 phút và có CV thấp hơn, cho thấy cả hiệu quả lẫn độ ổn định đều tốt hơn.
+-   Phản hồi sai: Phải so sánh cả tốc độ và độ ổn định để có lựa chọn hình thức kiểm tra phù hợp nhất với yêu cầu giáo dục.
+*a) Chọn kiểm tra online vì nhanh hơn và ổn định hơn
+b) Chọn kiểm tra giấy vì ổn định hơn
+c) Cả hai hình thức có hiệu quả tương đương
+d) Chọn kiểm tra giấy vì nhanh hơn
 
-20. Cho hệ bất phương trình $\begin{cases} 3x + 4y \leq 24 \\ 2x + y \leq 14 \\ x \geq 0, y \geq 0 \end{cases}$. Giá trị nhỏ nhất của biểu thức $g(x,y) = 2x + 3y$ trên miền nghiệm đạt được tại điểm nào?
-... Gợi ý: Tìm các đỉnh của miền nghiệm và tính giá trị hàm mục tiêu tại từng đỉnh, sau đó so sánh.
-+   Phản hồi đúng: Chính xác! Các đỉnh: $(0,0)$, $(7,0)$, $(4,3)$, $(0,6)$. Giá trị nhỏ nhất: $g(0,0) = 0$.
--   Phản hồi sai: Cần tính giá trị hàm mục tiêu tại tất cả các đỉnh của miền nghiệm để tìm giá trị nhỏ nhất.
-*a) $(0, 0)$
-b) $(7, 0)$
-c) $(4, 3)$
-d) $(0, 6)$
+20. Cân nặng nhóm tuổi 15 (kg): 48, 52, 45, 48, 58, 55, 48, 62, 52, 42, 55, 48, 38, 52, 45. Nhóm tuổi 16: 52, 56, 49, 52, 62, 59, 52, 66, 56, 46, 59, 52, 42, 56, 49. Theo BMI chuẩn: Bình thường ($Q_1$ đến $Q_3$), Thấp (< $Q_1$), Cao (> $Q_3$). Đánh giá sự phát triển thể chất theo độ tuổi và đưa ra nhận xét về dinh dưỡng.
+... Gợi ý: Tính các tứ phân vị cho từng nhóm tuổi, so sánh sự thay đổi cân nặng và phân bố để đánh giá phát triển thể chất.
++   Phản hồi đúng: Nhóm 16 tuổi có cân nặng trung bình cao hơn khoảng 4kg, cho thấy sự phát triển thể chất bình thường theo độ tuổi. Dinh dưỡng cần đảm bảo cân đối.
+-   Phản hồi sai: Cần so sánh các tứ phân vị và mức trung bình để đánh giá chính xác sự phát triển thể chất giữa các nhóm tuổi.
+*a) Nhóm 16 tuổi phát triển bình thường với cân nặng cao hơn
+b) Nhóm 15 tuổi có cân nặng cao hơn nhóm 16 tuổi
+c) Cả hai nhóm có cân nặng tương đương
+d) Sự phát triển thể chất không theo độ tuổi
