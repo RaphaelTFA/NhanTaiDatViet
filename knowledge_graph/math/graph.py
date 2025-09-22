@@ -14,7 +14,6 @@ from config import TEST_MODE, GEN_PROMPT, NEO4J_URI, NEO4J_USER, NEO4J_PASSWORD,
 from neo4j import GraphDatabase
 from handler.task import generate_test
 from knowledge_graph.math.eval.eval import evaluate_difficulty, evaluate_concept, evaluate_elo
-from knowledge_graph.math.postprocess import postprocess_question
 from dotenv import load_dotenv
 
 load_dotenv()

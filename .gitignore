@@ -8,3 +8,4 @@ prompt.txt
 sample/
 main.py
 split_data/
+generator.py

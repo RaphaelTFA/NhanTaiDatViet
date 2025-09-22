@@ -14,7 +14,7 @@ app = FastAPI()
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
-    allow_credentials=True,
+    allow_credentials=False,
     allow_methods=["*"],
     allow_headers=["*"],
 )
@@ -61,5 +61,6 @@ async def generate_math(
             f.write(result + "\n\n")
     if not TEST_MODE:
         qtifile = math_transfer()
-        math_import_qti(qtifile = qtifile, course_id = str(course), name = name, score = sum / cnt, grade = str(clauto))
+        if os.path.exists(qtifile):
+            math_import_qti(qtifile=qtifile, course_id=str(course), name=name, score=sum / cnt, grade=str(clauto))
     return FileResponse(txt_filename, media_type='text/plain', filename="response.txt")
