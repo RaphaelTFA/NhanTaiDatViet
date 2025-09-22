@@ -1,0 +1,180 @@
+1. Tính giá trị của $P_5$ (hoán vị của 5 phần tử):
+... Gợi ý: Sử dụng công thức hoán vị $P_n = n!$
++   Phản hồi đúng: Chính xác! $P_5 = 5! = 5 \times 4 \times 3 \times 2 \times 1 = 120$
+-   Phản hồi sai: Nhớ rằng hoán vị của n phần tử là $P_n = n!$, không phải $P_n = n$
+a) 25
+b) 60
+*c) 120
+d) 720
+
+2. Giá trị của $4!$ bằng:
+... Gợi ý: Giai thừa là tích của tất cả các số nguyên dương từ 1 đến n
++   Phản hồi đúng: Đúng! $4! = 4 \times 3 \times 2 \times 1 = 24$
+-   Phản hồi sai: Giai thừa $n!$ là tích của tất cả số nguyên dương từ 1 đến n
+a) 12
+*b) 24
+c) 16
+d) 64
+
+3. Công thức tính số tổ hợp chập k của n phần tử là:
+... Gợi ý: Tổ hợp không quan tâm đến thứ tự sắp xếp
++   Phản hồi đúng: Chính xác! Công thức tổ hợp $C_n^k = \frac{n!}{k!(n-k)!}$
+-   Phản hồi sai: Tổ hợp khác với chỉnh hợp ở chỗ không quan tâm thứ tự
+a) $\frac{n!}{k!}$
+b) $\frac{n!}{(n-k)!}$
+*c) $\frac{n!}{k!(n-k)!}$
+d) $n! \times k!$
+
+4. Tính $A_6^3$ (chỉnh hợp chập 3 của 6 phần tử):
+... Gợi ý: Sử dụng công thức $A_n^k = \frac{n!}{(n-k)!}$
++   Phản hồi đúng: Đúng! $A_6^3 = \frac{6!}{(6-3)!} = \frac{6!}{3!} = \frac{720}{6} = 120$
+-   Phản hồi sai: Chỉnh hợp $A_n^k = \frac{n!}{(n-k)!}$, không phải chia cho $k!$
+a) 60
+*b) 120
+c) 240
+d) 720
+
+5. Theo quy ước, giá trị của $0!$ bằng:
+... Gợi ý: Đây là một quy ước quan trọng trong toán học
++   Phản hồi đúng: Chính xác! Theo quy ước $0! = 1$ để các công thức toán học nhất quán
+-   Phản hồi sai: Đây là quy ước toán học, $0! = 1$ không phải $0$
+a) 0
+*b) 1
+c) 2
+d) Không xác định
+
+6. Khi có 3 cách chọn áo và 4 cách chọn quần, số cách chọn một bộ đồ là:
+... Gợi ý: Sử dụng quy tắc nhân khi các hành động độc lập
++   Phản hồi đúng: Đúng! Quy tắc nhân: $3 \times 4 = 12$ cách
+-   Phản hồi sai: Khi chọn cả áo và quần, ta dùng quy tắc nhân, không phải cộng
+a) 7
+*b) 12
+c) 24
+d) 64
+
+7. Tính $C_5^2$ (tổ hợp chập 2 của 5 phần tử):
+... Gợi ý: Áp dụng công thức $C_n^k = \frac{n!}{k!(n-k)!}$
++   Phản hồi đúng: Chính xác! $C_5^2 = \frac{5!}{2!(5-2)!} = \frac{120}{2 \times 6} = 10$
+-   Phản hồi sai: Nhớ chia cho cả $k!$ và $(n-k)!$ trong công thức tổ hợp
+a) 5
+*b) 10
+c) 20
+d) 25
+
+8. Khác biệt chính giữa hoán vị và tổ hợp là:
+... Gợi ý: Xem xét việc thứ tự có quan trọng hay không
++   Phản hồi đúng: Đúng! Hoán vị quan tâm thứ tự, tổ hợp không quan tâm thứ tự
+-   Phản hồi sai: Điểm khác biệt cốt lõi là việc có xét thứ tự hay không
+a) Số lượng phần tử
+b) Công thức tính toán
+*c) Thứ tự sắp xếp
+d) Phương pháp đếm
+
+9. Công thức tính chỉnh hợp chập k của n phần tử là:
+... Gợi ý: Chỉnh hợp quan tâm đến thứ tự sắp xếp
++   Phản hồi đúng: Chính xác! $A_n^k = \frac{n!}{(n-k)!}$ vì có xét đến thứ tự
+-   Phản hồi sai: Chỉnh hợp khác tổ hợp ở chỗ không chia thêm cho $k!$
+*a) $\frac{n!}{(n-k)!}$
+b) $\frac{n!}{k!(n-k)!}$
+c) $\frac{n!}{k!}$
+d) $n! - k!$
+
+10. Số cách sắp xếp 3 người ngồi thành hàng ngang là:
+... Gợi ý: Đây là bài toán hoán vị vì thứ tự quan trọng
++    Phản hồi đúng: Đúng! $P_3 = 3! = 3 \times 2 \times 1 = 6$ cách
+-    Phản hồi sai: Sắp xếp thành hàng có xét thứ tự nên dùng hoán vị
+a) 3
+*b) 6
+c) 9
+d) 12
+
+11. Giá trị của $C_7^7$ bằng:
+... Gợi ý: Chọn tất cả từ tất cả chỉ có một cách
++    Phản hồi đúng: Chính xác! $C_7^7 = \frac{7!}{7! \times 0!} = 1$
+-    Phản hồi sai: Chọn tất cả phần tử từ n phần tử luôn có đúng 1 cách
+*a) 1
+b) 7
+c) 49
+d) 5040
+
+12. Nếu có 4 việc làm theo thứ tự, mỗi việc có 2 cách thực hiện, tổng số cách là:
+... Gợi ý: Các việc làm liên tiếp nên dùng quy tắc nhân
++    Phản hồi đúng: Đúng! Quy tắc nhân: $2^4 = 16$ cách
+-    Phản hồi sai: Khi các việc làm liên tiếp, ta nhân số cách của từng việc
+a) 8
+b) 12
+*c) 16
+d) 24
+
+13. Tính $A_4^4$ (chỉnh hợp chập 4 của 4 phần tử):
+... Gợi ý: Chỉnh hợp tất cả phần tử chính là hoán vị
++    Phản hồi đúng: Chính xác! $A_4^4 = \frac{4!}{0!} = 4! = 24$
+-    Phản hồi sai: Khi $k = n$ thì $A_n^n = n!$
+a) 12
+*b) 24
+c) 64
+d) 256
+
+14. So sánh $C_6^2$ và $C_6^4$:
+... Gợi ý: Sử dụng tính chất $C_n^k = C_n^{n-k}$
++    Phản hồi đúng: Đúng! $C_6^2 = C_6^4 = 15$ theo tính chất đối xứng
+-    Phản hồi sai: Áp dụng tính chất $C_n^k = C_n^{n-k}$
+a) $C_6^2 > C_6^4$
+*b) $C_6^2 = C_6^4$
+c) $C_6^2 < C_6^4$
+d) Không so sánh được
+
+15. Tổ hợp được sử dụng khi:
+... Gợi ý: Xét xem thứ tự có quan trọng trong bài toán không
++    Phản hồi đúng: Chính xác! Tổ hợp dùng khi thứ tự không quan trọng
+-    Phản hồi sai: Tổ hợp và chỉnh hợp khác nhau ở việc có xét thứ tự hay không
+a) Thứ tự quan trọng
+*b) Thứ tự không quan trọng
+c) Có lặp lại phần tử
+d) Không có giới hạn
+
+16. Tính $3! + 2!$:
+... Gợi ý: Tính từng giai thừa rồi cộng lại
++    Phản hồi đúng: Đúng! $3! + 2! = 6 + 2 = 8$
+-    Phản hồi sai: Tính riêng từng giai thừa trước khi cộng
+a) 5
+*b) 8
+c) 10
+d) 120
+
+17. Với mọi $n \geq 0$, giá trị $C_n^0$ bằng:
+... Gợi ý: Không chọn phần tử nào chỉ có một cách
++    Phản hồi đúng: Chính xác! $C_n^0 = 1$ vì chỉ có một cách không chọn gì
+-    Phản hồi sai: Không chọn phần tử nào từ n phần tử luôn có đúng 1 cách
+a) 0
+*b) 1
+c) n
+d) Không xác định
+
+18. Trong những bài toán nào sau đây cần quan tâm đến thứ tự:
+... Gợi ý: Xét xem việc đổi chỗ có tạo ra kết quả khác không
++    Phản hồi đúng: Đúng! Mật khẩu và xếp hạng đều phụ thuộc vào thứ tự
+-    Phản hồi sai: Khi thứ tự thay đổi mà kết quả khác nhau thì cần quan tâm thứ tự
+a) Chọn nhóm bạn
+b) Chọn món ăn
+*c) Tạo mật khẩu
+d) Chọn màu sắc
+
+19. Tính $C_8^1$ (tổ hợp chập 1 của 8 phần tử):
+... Gợi ý: Chọn 1 phần tử từ n phần tử có bao nhiêu cách?
++    Phản hồi đúng: Chính xác! $C_8^1 = 8$ vì có 8 cách chọn 1 phần tử
+-    Phản hồi sai: $C_n^1 = n$ luôn đúng với mọi $n \geq 1$
+a) 1
+*b) 8
+c) 28
+d) 56
+
+20. Giai thừa của một số nguyên dương n được định nghĩa là:
+... Gợi ý: Giai thừa là tích của dãy số liên tiếp
++    Phản hồi đúng: Đúng! $n! = 1 \times 2 \times 3 \times ... \times n$
+-    Phản hồi sai: Giai thừa là tích của tất cả số nguyên dương từ 1 đến n
+a) Tổng từ 1 đến n
+b) Lũy thừa bậc n
+*c) Tích từ 1 đến n
+d) Hiệu từ n về 1
+

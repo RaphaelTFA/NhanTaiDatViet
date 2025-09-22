@@ -384,7 +384,7 @@ def math_test(topic: str = "", grade: int = 11, difficulty: str = "Vận dụng"
     reform(file_dir=tmp_prompt_path, format_path=format_path, question_path=question_path)
     with open(tmp_prompt_path, "r", encoding="utf-8") as f:
         response_text = f.read()
-    response_text = response_text.replace("    Gợi ý", "... Gợi ý")
+    response_text = response_text.replace("\tGợi ý", "... Gợi ý")
     # evaluate_difficulty(difficulty_path, make_tempfile_with(response_text), grade, topic, difficulty)
     # evaluate_concept(concept_path, make_tempfile_with(response_text), grade, topic)
     score = evaluate_elo(make_tempfile_with(response_text), grade, topic)
