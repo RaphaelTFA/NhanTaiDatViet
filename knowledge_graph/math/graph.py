@@ -332,10 +332,8 @@ def reform(file_dir : str, format_path, question_path):
 **** Role: Bạn là một nhân vật có khả năng điều chỉnh đề bài rất tốt. ****
 **** Task: Tôi có một file đề Toán khá là tốt có độ khó vừa phải, tuy nhiên về mặt điều chỉnh format, đề trên còn gặp rất nhiều vấn đề khi tôi muốn chuyển chúng từ file txt sang file qti (text2qti). Vì vậy, tôi muốn bạn hỗ trợ tôi điều này.
 **** Lưu ý: **** Không thêm bất kì một yếu tố nào ngoài lề vào prompt mới, kể cả bình luận và tiêu đề, và cả những đánh dấu của tôi
-**** Kiểu câu hỏi: ****
+**** Kiểu câu hỏi cần thiết lập chính xác: ****
 {question_text}
-**** Hình thức yêu cầu (Format): ****
-{format_text}
 **** Prompt cần chỉnh sửa: ****
 -------
 {prompt}
