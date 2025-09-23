@@ -354,6 +354,15 @@ def recalc(file_dir: str, topic: str = "", grade: int = 11):
 **** Task: Tôi có một file đề Toán khá là tốt có độ khó vừa phải, tuy nhiên đối với phần kết quả, có một số bài tính sai khá tai hại, hãy tính lại chúng giúp tôi.
 **** Khối kiến thúc: **** {grade}
 **** Chủ đề kiến thức: **** {topic}
+**** Lưu ý dạng mcp chọn đáp án (nếu không phải thì bỏ qua): **** Đáp án không được phép trùng lặp, đối với đáp án đúng đã được đánh dấu '*' thì phải thay đổi đáp án khác nhưng trùng đáp án này. 
+*   Ví dụ: ```
+    a) 0.44 
+    *b) 0.44 
+    ``` thì phải sửa thành ```
+    a) 0.45
+    *b) 0.44
+    ```  vì đáp án không được trùng nhau.
+**** Lưu ý dạng trả lời ngắn (nếu không phải thì bỏ qua): Câu trả lời phải là dạng số, được tính toán lại cẩn thận, không được phép có lỗi, và sai số bắt buộc phải khoảng 3% và khác 0
 **** Câu hỏi cần chỉnh sửa: ****
 -------
 {prompt}
