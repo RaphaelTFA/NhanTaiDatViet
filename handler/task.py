@@ -67,4 +67,5 @@ def import_qti(qtifile, course_id="2120114", name="Quiz", score=0, grade=10):
         "show_correct_answers": False,
         "published": True
     })
-    print(f"Quiz '{newquiz.title}' configured & published!")
+    quiz_url = f"{API_URL}/courses/{course_id}/quizzes/{newquiz.id}"
+    return quiz_url

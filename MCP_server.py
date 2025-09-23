@@ -62,5 +62,7 @@ async def generate_math(
     if not TEST_MODE:
         qtifile = math_transfer()
         if os.path.exists(qtifile):
-            math_import_qti(qtifile=qtifile, course_id=str(course), name=name, score=sum / cnt, grade=str(clauto))
+            quiz_url = math_import_qti(qtifile=qtifile, course_id=str(course), name=name, score=sum / cnt, grade=str(clauto))
+            return {"link_to_quiz": quiz_url}
+        return {"error": "Failed to upload QTI file, please try again later"}
     return FileResponse(txt_filename, media_type='text/plain', filename="response.txt")
