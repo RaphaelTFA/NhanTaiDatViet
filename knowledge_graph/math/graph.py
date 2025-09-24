@@ -332,8 +332,10 @@ def reform(file_dir : str, format_path, question_path):
 **** Role: Bạn là một nhân vật có khả năng điều chỉnh đề bài rất tốt. ****
 **** Task: Tôi có một file đề Toán khá là tốt có độ khó vừa phải, tuy nhiên về mặt điều chỉnh format, đề trên còn gặp rất nhiều vấn đề khi tôi muốn chuyển chúng từ file txt sang file qti (text2qti). Vì vậy, tôi muốn bạn hỗ trợ tôi điều này.
 **** Lưu ý: **** Không thêm bất kì một yếu tố nào ngoài lề vào prompt mới, kể cả bình luận và tiêu đề, và cả những đánh dấu của tôi
-**** Kiểu câu hỏi cần thiết lập chính xác: ****
+**** Kiểu câu hỏi: ****
 {question_text}
+**** Hình thức yêu cầu (Format): ****
+{format_text}
 **** Prompt cần chỉnh sửa: ****
 -------
 {prompt}
@@ -351,11 +353,9 @@ def recalc(file_dir: str, topic: str = "", grade: int = 11):
         prompt = f.read()
     recalc = f"""
 **** Role: Bạn là một nhân vật có khả năng điều chỉnh đề bài rất tốt. ****
-**** Task: Tôi có một file đề Toán khá là tốt có độ khó vừa phải, tuy nhiên đối với phần kết quả, có một số bài tính sai tai hại, lời giải chưa hợp lý. Nhiệm vụ của bạn là chỉnh sửa lại phần lời giải, gợi ý và đáp án sao cho chính xác nhất.
+**** Task: Tôi có một file đề Toán khá là tốt có độ khó vừa phải, tuy nhiên đối với phần kết quả, có một số bài tính sai khá tai hại, hãy tính lại chúng giúp tôi.
 **** Khối kiến thúc: **** {grade}
 **** Chủ đề kiến thức: **** {topic}
-**** Lưu ý dạng mcp chọn đáp án (nếu không phải thì bỏ qua): **** Đáp án không được phép trùng lặp, đối với đáp án đúng đã được đánh dấu '*' thì buộc phải thay đổi đáp án khác trùng với nó.
-**** Lưu ý dạng trả lời ngắn (nếu không phải thì bỏ qua): Câu trả lời phải là dạng số, được tính toán lại cẩn thận, không được phép có lỗi, và sai số bắt buộc phải khoảng 3% và khác 0
 **** Câu hỏi cần chỉnh sửa: ****
 -------
 {prompt}

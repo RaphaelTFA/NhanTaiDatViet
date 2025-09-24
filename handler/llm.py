@@ -14,7 +14,7 @@ default_messages = [
             {"role": "user", "content": "Hello!"}
         ]
 
-async def call_llm(messages=default_messages, model = MODEL):
+def call_llm(messages=default_messages, model = MODEL):
     time.sleep(2)
     try:
         completion = client.chat.completions.create(

@@ -1,4 +1,4 @@
-from handler.llm import await call_llm
+from handler.llm import call_llm
 from config import MODEL, CANVAS_URL, CANVAS_API
 from canvasapi import Canvas
 from time import sleep
@@ -11,14 +11,14 @@ def generate_test(file_dir=""):
     sample_prompt = [
             {"role": "user", "content": text_content},
         ]
-    response = await call_llm(messages=sample_prompt, model = MODEL)
+    response = call_llm(messages=sample_prompt, model = MODEL)
     return response 
 
 def generate_test_2(prompt):
     sample_prompt = [
             {"role": "user", "content": prompt},
         ]
-    response = await call_llm(messages=sample_prompt, model = MODEL)
+    response = call_llm(messages=sample_prompt, model = MODEL)
     return response 
 
 API_URL = CANVAS_URL
