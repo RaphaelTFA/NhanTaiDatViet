@@ -1,10 +1,10 @@
 __pycache__/
 config.py
+main.py
+llm_history.txt
 data/
 english/
 technology/
 split_data/
 llm_return/
 sample/
-main.py
-test.py
