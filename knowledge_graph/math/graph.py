@@ -321,12 +321,14 @@ Yêu cầu:
 - Câu hỏi súc tích, rõ nghĩa.
 - Gợi ý & phản hồi ngắn gọn, tinh tế.
 - Đáp án không được trùng với câu hỏi.
-- Kết quả trả ra phải đúng chuẩn {format_text}.
+- Kết quả trả ra phải đúng chuẩn:
+{format_text}.
+- Định dạng câu hỏi yêu cầu:
+{question_text}
 - Không giải thích, không bình luận, chỉ in kết quả.
+- Lưu ý: Phần gợi ý, phản hồi đúng, phản hồi sai bắt buộc phải nằm trên cùng một dòng
 Dữ liệu đầu vào:
--------
 {prompt}
--------
 """
     with open(file_dir, "w", encoding="utf-8") as f:
         f.write(reform_prompt)
@@ -344,7 +346,7 @@ def recalc(file_dir: str, topic: str = "", grade: int = 11):
 **** Khối kiến thúc: **** {grade}
 **** Chủ đề kiến thức: **** {topic}
 **** Lưu ý: **** Câu hỏi phải giống nhau, đáp án BẮT BUỘC phải CHÍNH XÁC, câu trả lời không được phép trùng nhau, phần lời giải phải đầy đủ và chi tiết, không được phép thiếu bước, không được phép sai sót.
-**** Format: **** Bắt buộc phải giống với format ban đầu. Đừng comment bất kì điều gì, hãy trả ra cho tôi văn bản chuẩn định dạng để tôi sẵn sàng chuyển thành file qti
+**** Format: **** Bắt buộc phải giống với format ban đầu. Đừng comment bất kì điều gì, hãy trả ra cho tôi văn bản chuẩn định dạng để tôi sẵn sàng chuyển thành file qti. Và không được tùy ý xuống dòng trong phần phản hồi, gợi ý.
 **** Câu hỏi cần chỉnh sửa: ****
 {prompt}
 """ 
@@ -368,7 +370,7 @@ def math_test(topic: str = "", grade: int = 11, difficulty: str = "Vận dụng"
     with open(tmp_prompt_path, "w", encoding="utf-8") as f:
         f.write(response_text)
     recalc(file_dir=tmp_prompt_path, grade=grade, topic=topic)
-    # reform(file_dir=tmp_prompt_path, format_path=format_path, question_path=question_path)
+    reform(file_dir=tmp_prompt_path, format_path=format_path, question_path=question_path)
     with open(tmp_prompt_path, "r", encoding="utf-8") as f:
         response_text = f.read()
     response_text = response_text.replace("\tGợi ý", "... Gợi ý")
