@@ -9,9 +9,11 @@ NEO4J_USER = "neo4j"
 NEO4J_PASSWORD = ""
 
 #Canvas config
-CANVAS_URL = "https://canvas.example.com"
-CANVAS_API = "your_canvas_api_key"
+CANVAS_URL = "https://canvas.example.edu"
+CANVAS_API = ""
 
 # Open-router LLM
-MODEL = "anthropic/claude-sonnet-4"
-LLM_API_KEY = "your_llm_api_key"
+MODEL_PROMPTING = "something/model1"
+MODEL_CALCULATE = "something/model2"
+MODEL_REPHRASE = "something/model3"
+LLM_API_KEY = ""
