@@ -2,13 +2,13 @@
 ** Định dạng câu hỏi: (Bắt buộc phải như cấu trúc dưới, không được phép thay đổi cấu trúc)**
 ```
 1.  [Nội dung câu hỏi]
-... Gợi ý: [Nội dung gợi ý]
-+   Phản hồi đúng: [Giải thích chi tiết và phân tích từng bước dựa trên kiến thức Toán]
--   Phản hồi sai: [Giải thích lỗi sai thường gặp của học sinh]
-a)  [Lựa chọn A]
-b)  [Lựa chọn B, bắt buộc phải khác toàn bộ các lựa chọn a]
-*c) [Lựa chọn C, bắt buộc phải khác toàn bộ các lựa chọn a và b]
-d)  [Lựa chọn D, bắt buộc phải khác toàn bộ các lựa chọn a, b và c]
+... Gợi ý: [Nội dung gợi ý, chỉ trong 1 dòng, chỉ trong 1 dòng tại đây]
++   Phản hồi đúng: [Giải thích chi tiết và phân tích từng bước dựa trên kiến thức Toán, chỉ trong 1 dòng, chỉ trong 1 dòng tại đây]
+-   Phản hồi sai: [Giải thích lỗi sai thường gặp của học sinh, chỉ trong 1 dòng, chỉ trong 1 dòng tại đây]
+a)  [Lựa chọn A, chỉ trong 1 dòng, chỉ trong 1 dòng tại đây, phải trong khoảng 1e9]
+b)  [Lựa chọn B, bắt buộc phải khác toàn bộ các lựa chọn a, chỉ trong 1 dòng, chỉ trong 1 dòng tại đây, phải trong khoảng 1e9]
+*c) [Lựa chọn C, bắt buộc phải khác toàn bộ các lựa chọn a và b, chỉ trong 1 dòng, chỉ trong 1 dòng tại đây, phải trong khoảng 1e9]
+d)  [Lựa chọn D, bắt buộc phải khác toàn bộ các lựa chọn a, b và c, chỉ trong 1 dòng, chỉ trong 1 dòng tại đây, phải trong khoảng 1e9]
 ```
 Ví dụ: ```
 1. Nguyên hàm của hàm số $f(x) = e^x$ là:

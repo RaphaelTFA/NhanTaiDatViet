@@ -2,10 +2,10 @@
 ** Định dạng câu hỏi: (Bắt buộc phải như cấu trúc dưới)**
 ```
 1.  [Nội dung câu hỏi]
-... Gợi ý: [Nội dung gợi ý]
-+   Phản hồi đúng: [Giải thích chi tiết và phân tích từng bước dựa trên kiến thức Toán]
--   Phản hồi sai: [Giải thích lỗi sai thường gặp của học sinh]
-= [Đáp án]+-[Sai số, thường bằng 3% đáp án, nếu đáp án bằng 0 thì bắt buộc phải là 0.01]
+... Gợi ý: [Nội dung gợi ý, chỉ trong 1 dòng tại đây]
++   Phản hồi đúng: [Giải thích chi tiết và phân tích từng bước dựa trên kiến thức Toán, chỉ trong 1 dòng, chỉ trong 1 dòng tại đây]
+-   Phản hồi sai: [Giải thích lỗi sai thường gặp của học sinh, chỉ trong 1 dòng, chỉ trong 1 dòng tại đây]
+= [Đáp án, phải trong khoảng 1e9]+-[Sai số, thường bằng 3% đáp án, nếu đáp án bằng 0 thì bắt buộc phải là 0.01]
 ```
 Ví dụ: ```
 1. Cho hàm số $f(x) = \frac{x^2 + 1}{x^2 - 2x + 2}$ trên đoạn $[0; 2]$. Một kỹ sư cần tính thể tích nước trong bể chứa có tiết diện ngang thay đổi theo công thức này (đơn vị: $m^2$) dọc theo chiều dài 2m. Biết công thức tính thể tích là $V = \pi \int_0^2 f(x)dx$ (do quay quanh trục Ox), tìm thể tích nước trong bể.
