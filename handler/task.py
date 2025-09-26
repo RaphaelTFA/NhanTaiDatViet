@@ -1,25 +1,35 @@
 from handler.llm import call_llm
-from config import MODEL, CANVAS_URL, CANVAS_API
+from config import MODEL_PROMPTING as m_prompting, MODEL_CALCULATE as m_calculate, MODEL_REPHRASE as m_rephrase, CANVAS_URL, CANVAS_API
 from canvasapi import Canvas
 from time import sleep
 import os
 import requests
 
-def generate_test(file_dir=""):
+#---------- LLM request ----------#
+
+model_pack = {
+    "prompting": m_prompting,
+    "calculate": m_calculate,
+    "rephrase": m_rephrase
+}
+
+def generate_test(file_dir="", model = "prompting"):
     with open(file_dir, "r", encoding="utf-8") as f:
         text_content = f.read()
     sample_prompt = [
             {"role": "user", "content": text_content},
         ]
-    response = call_llm(messages=sample_prompt, model = MODEL)
-    return response 
+    response = call_llm(messages=sample_prompt, model = model_pack[model])
+    return response
 
-def generate_test_2(prompt):
+def generate_test_2(prompt, model = "prompting"):
     sample_prompt = [
             {"role": "user", "content": prompt},
         ]
-    response = call_llm(messages=sample_prompt, model = MODEL)
+    response = call_llm(messages=sample_prompt, model = model_pack[model])
     return response 
+
+#---------- CANVAS QTI push ----------#
 
 API_URL = CANVAS_URL
 API_KEY = CANVAS_API
