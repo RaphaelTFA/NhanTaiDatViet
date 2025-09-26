@@ -107,11 +107,6 @@ def safe_write_file(path: Path | str, content: str):
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(content, encoding="utf-8")
 
-def safe_create_if_missing(path: Path, placeholder: str = "<PLACEHOLDER>"):
-    """Nếu file chưa có thì tạo mới với nội dung mặc định"""
-    if not path.exists():
-        safe_write_file(path, placeholder)
-
 def make_tempfile_with(content: str) -> str:
     tmp = tempfile.NamedTemporaryFile(mode="w", delete=False, encoding="utf-8", suffix=".txt")
     tmp.write(content)
@@ -145,14 +140,6 @@ def add_topic(session, grade: int, idx: int, topic: str) -> str:
 
 # ================== Content generation =====================
 
-def write_or_generate(file_path: Path, template_text: str, generate: bool = True) -> str:
-    safe_create_if_missing(file_path, template_text)
-    if GEN_PROMPT and generate and not TEST_MODE:
-        logger.info("Invoking generate_test for %s", file_path)
-        response = generate_test(str(file_path))
-        safe_write_file(file_path, response)
-    return str(file_path)
-
 def add_concept(session, grade: int, idx: int, topic: str, topic_list: Dict[int, List[str]] = DEFAULT_TOPIC):
     file_dir = FILE_ROOT / str(grade) / str(idx)
     file_path = file_dir / "concept.txt"
@@ -176,7 +163,7 @@ Nhiệm vụ: Tóm tắt định nghĩa, định lý, công thức, dạng bài 
     )
 
     if not TEST_MODE and GEN_PROMPT:
-        prompt = generate_test(str(file_path))
+        prompt = generate_test(file_dir=str(file_path), model="prompting")
         safe_write_file(file_path, prompt)
 
 
@@ -187,7 +174,7 @@ def add_format(session, grade: int, idx: int) -> str:
 
     base_format_path = FILE_ROOT / "format" / "format.txt"
     base_format = base_format_path.read_text(encoding="utf-8") if base_format_path.exists() else "<FORMAT PLACEHOLDER>"
-    safe_create_if_missing(file_path, base_format)
+    safe_write_file(file_path, base_format)
 
     session.run(
         "MERGE (f:Format {id:$id, name:$name, text:$text})",
@@ -205,7 +192,7 @@ def add_questions(session, grade: int, idx: int, fid: str):
         file_path = file_dir / f"question_{qn}.txt"
         template_path = FILE_ROOT / "format" / ("multiple_choice.txt" if qn == 1 else "short_answer.txt")
         template = template_path.read_text(encoding="utf-8") if template_path.exists() else f"<QUESTION TEMPLATE {question}>"
-        safe_create_if_missing(file_path, template)
+        safe_write_file(file_path, template)
 
         qid = f"grade_{grade}_{idx}_question_{question.replace(' ', '_')}"
         session.run(
@@ -242,7 +229,7 @@ Chủ đề: {DEFAULT_TOPIC[grade][idx-1]}, lớp {grade}.
             {"tid": tid, "did": did},
         )
         if not TEST_MODE and GEN_PROMPT:
-            prompt = generate_test(str(file_path))
+            prompt = generate_test(file_dir=str(file_path), model = "prompting")
             safe_write_file(file_path, prompt)
             
 # ================== KG Builder ===============================
@@ -329,21 +316,21 @@ def reform(file_dir : str, format_path, question_path):
     with open(question_path, "r", encoding="utf-8") as f:
         question_text = f.read()
     reform_prompt = f"""
-**** Role: Bạn là một nhân vật có khả năng điều chỉnh đề bài rất tốt. ****
-**** Task: Tôi có một file đề Toán khá là tốt có độ khó vừa phải, tuy nhiên về mặt điều chỉnh format, đề trên còn gặp rất nhiều vấn đề khi tôi muốn chuyển chúng từ file txt sang file qti (text2qti). Vì vậy, tôi muốn bạn hỗ trợ tôi điều này.
-**** Lưu ý: **** Không thêm bất kì một yếu tố nào ngoài lề vào prompt mới, kể cả bình luận và tiêu đề, và cả những đánh dấu của tôi
-**** Kiểu câu hỏi: ****
-{question_text}
-**** Hình thức yêu cầu (Format): ****
-{format_text}
-**** Prompt cần chỉnh sửa: ****
+Nhiệm vụ: Điều chỉnh format đề Toán từ file txt sang chuẩn text2qti để tôi sẵn sàng xuất sang QTI. 
+Yêu cầu:
+- Câu hỏi súc tích, rõ nghĩa.
+- Gợi ý & phản hồi ngắn gọn, tinh tế.
+- Đáp án không được trùng với câu hỏi.
+- Kết quả trả ra phải đúng chuẩn {format_text}.
+- Không giải thích, không bình luận, chỉ in kết quả.
+Dữ liệu đầu vào:
 -------
 {prompt}
 -------
-""" 
+"""
     with open(file_dir, "w", encoding="utf-8") as f:
         f.write(reform_prompt)
-    response = generate_test(file_dir)
+    response = generate_test(file_dir=file_dir, model="rephrase")
     with open(file_dir, "w", encoding="utf-8") as f:
         f.write(response)
 
@@ -353,17 +340,17 @@ def recalc(file_dir: str, topic: str = "", grade: int = 11):
         prompt = f.read()
     recalc = f"""
 **** Role: Bạn là một nhân vật có khả năng điều chỉnh đề bài rất tốt. ****
-**** Task: Tôi có một file đề Toán khá là tốt có độ khó vừa phải, tuy nhiên đối với phần kết quả, có một số bài tính sai khá tai hại, hãy tính lại chúng giúp tôi.
+**** Task: Tôi có một file đề Toán khá là tốt có độ khó vừa phải, tuy nhiên đối với phần kết quả, có một số bài tính sai khá tai hại, hãy tính và sửa lại chúng giúp tôi
 **** Khối kiến thúc: **** {grade}
 **** Chủ đề kiến thức: **** {topic}
+**** Lưu ý: **** Câu hỏi phải giống nhau, đáp án BẮT BUỘC phải CHÍNH XÁC, câu trả lời không được phép trùng nhau, phần lời giải phải đầy đủ và chi tiết, không được phép thiếu bước, không được phép sai sót.
+**** Format: **** Bắt buộc phải giống với format ban đầu. Đừng comment bất kì điều gì, hãy trả ra cho tôi văn bản chuẩn định dạng để tôi sẵn sàng chuyển thành file qti
 **** Câu hỏi cần chỉnh sửa: ****
--------
 {prompt}
--------
 """ 
     with open(file_dir, "w", encoding="utf-8") as f:
         f.write(recalc)
-    prompt = generate_test(file_dir)
+    prompt = generate_test(file_dir=file_dir, model="calculate")
     with open(file_dir, "w", encoding="utf-8") as f:
         f.write(prompt)
 
@@ -377,11 +364,11 @@ def math_test(topic: str = "", grade: int = 11, difficulty: str = "Vận dụng"
         logger.info("TEST_MODE active: return prompt only.")
         return prompt, 0
     tmp_prompt_path = make_tempfile_with(prompt)
-    response_text = generate_test(tmp_prompt_path)
+    response_text = generate_test(file_dir=tmp_prompt_path, model="prompting")
     with open(tmp_prompt_path, "w", encoding="utf-8") as f:
         f.write(response_text)
     recalc(file_dir=tmp_prompt_path, grade=grade, topic=topic)
-    reform(file_dir=tmp_prompt_path, format_path=format_path, question_path=question_path)
+    # reform(file_dir=tmp_prompt_path, format_path=format_path, question_path=question_path)
     with open(tmp_prompt_path, "r", encoding="utf-8") as f:
         response_text = f.read()
     response_text = response_text.replace("\tGợi ý", "... Gợi ý")
